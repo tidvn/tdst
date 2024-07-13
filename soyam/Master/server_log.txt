@@ -1492,3 +1492,15 @@ Resurrection is always available via the Florid Postern.
 [00:42:41]: Could not find anim [transform] in bank [wilson]
 [00:42:43]: Serializing user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000009
 [00:45:22]: Failed to assign item skin ids due to ownership check failure.
+[00:46:27]: Validating portal[1] <-> 2248507758[1] (active)	
+[00:46:37]: Activating portal[1] to 2248507758	
+[00:46:37]: Serializing user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000009
+[00:46:37]: [Shard] Migration request: (KU_Zkth_xJj) to Caves(2248507758)
+[00:46:37]: [Shard] Begin migration #1 for (KU_Zkth_xJj)
+[00:46:37]: [Shard] #1 [SHDMASTER](1) -> Caves(2248507758)
+[00:46:37]: [Shard] #1 <- session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000009
+[00:46:37]: [Shard] Writing save location file for (KU_Zkth_xJj)
+[00:46:37]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:46:37]: [Steam] SendUserDisconnect for '76561198305551267'
+[00:46:37]: [Shard] (KU_Zkth_xJj) disconnected from [SHDMASTER](1)
+[00:46:47]: [Shard] Completed migration #1 for player (KU_Zkth_xJj)

@@ -1136,3 +1136,16 @@
 [00:42:36]: Truncating to snapshot #8...
 [00:42:36]:  - session/01EF7F7A1CFE0E43/0000000002
 [00:42:36]:    1 file(s) removed
+[00:46:37]: [Shard] #1 -> session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000009
+[00:46:37]: [Shard] Received migration #1 data for (KU_Zkth_xJj)
+[00:46:40]: [P2P] Session request for '76561198305551267'
+[00:46:45]: [P2P] Create session: 216.191.142.224|1 '76561198305551267'
+[00:46:45]: [P2P] Received from 216.191.142.224|1 '76561198305551267'
+[00:46:45]: [P2P] Sent to 216.191.142.224|1 '76561198305551267'
+[00:46:46]: New incoming connection 216.191.142.224|1 <8098992683880685813>
+[00:46:46]: Client connected from 216.191.142.224|1 <8098992683880685813>
+[00:46:46]: ValidateGameSessionToken GUID<8098992683880685813>
+[00:46:46]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[00:46:47]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[00:46:47]: [Steam] Authenticated client '76561198305551267'
+[00:46:47]: [Shard] Completed incoming migration #1 for (KU_Zkth_xJj)
