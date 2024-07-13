@@ -1523,3 +1523,14 @@ Resurrection is always available via the Florid Postern.
 [00:48:50]: Resuming user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000009
 [00:48:50]: Player will spawn close to portal #1	
 [00:48:50]: Spawning player at: [Load] (-198.27, 0.00, 93.02)	
+[00:49:27]: Activating portal[1] to 2248507758	
+[00:49:28]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000009
+[00:49:28]: [Shard] Migration request: (KU_GNdCoYNE) to Caves(2248507758)
+[00:49:28]: [Shard] Begin migration #3 for (KU_GNdCoYNE)
+[00:49:28]: [Shard] #3 [SHDMASTER](1) -> Caves(2248507758)
+[00:49:28]: [Shard] #3 <- session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000009
+[00:49:28]: [Shard] Writing save location file for (KU_GNdCoYNE)
+[00:49:28]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:49:28]: [Steam] SendUserDisconnect for '76561199104252985'
+[00:49:28]: [Shard] (KU_GNdCoYNE) disconnected from [SHDMASTER](1)
+[00:49:37]: [Shard] Completed migration #3 for player (KU_GNdCoYNE)

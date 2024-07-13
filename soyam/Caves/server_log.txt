@@ -1158,3 +1158,19 @@
 [00:48:28]: [Shard] #2 <- session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000009
 [00:48:28]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [00:48:28]: [Steam] SendUserDisconnect for '76561198305551267'
+[00:49:28]: [Shard] #3 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000009
+[00:49:28]: [Shard] Received migration #3 data for (KU_GNdCoYNE)
+[00:49:30]: [P2P] Session request for '76561199104252985'
+[00:49:35]: [P2P] Create session: 216.191.142.225|1 '76561199104252985'
+[00:49:35]: [P2P] Received from 216.191.142.225|1 '76561199104252985'
+[00:49:35]: [P2P] Sent to 216.191.142.225|1 '76561199104252985'
+[00:49:36]: New incoming connection 216.191.142.225|1 <5003042437159742036>
+[00:49:36]: Client connected from 216.191.142.225|1 <5003042437159742036>
+[00:49:36]: ValidateGameSessionToken GUID<5003042437159742036>
+[00:49:36]: Client authenticated: (KU_GNdCoYNE) Carrot
+[00:49:36]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[00:49:37]: [Steam] Authenticated client '76561199104252985'
+[00:49:37]: [Shard] Completed incoming migration #3 for (KU_GNdCoYNE)
+[00:49:45]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000009
+[00:49:45]: Player will spawn close to portal #1	
+[00:49:45]: Spawning player at: [Load] (534.12, 0.00, 270.95)	
