@@ -1575,3 +1575,23 @@ Resurrection is always available via the Florid Postern.
 [00:53:20]: [Steam] SendUserDisconnect for '76561199104252985'
 [00:53:20]: [Shard] (KU_GNdCoYNE) disconnected from [SHDMASTER](1)
 [00:53:29]: [Shard] Completed migration #5 for player (KU_GNdCoYNE)
+[00:53:57]: [Shard] Begin migration #6 for (KU_GNdCoYNE)
+[00:53:57]: [Shard] #6 Caves(2248507758) -> [SHDMASTER](1)
+[00:53:58]: [Shard] #6 -> session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000010
+[00:53:58]: [Shard] Received migration #6 data for (KU_GNdCoYNE)
+[00:53:58]: [Shard] Writing save location file for (KU_GNdCoYNE)
+[00:53:58]: [Shard] (KU_GNdCoYNE) disconnected from Caves(2248507758)
+[00:53:59]: [P2P] Received from 216.191.175.243|1 '76561199104252985'
+[00:53:59]: [P2P] Sent to 216.191.175.243|1 '76561199104252985'
+[00:54:00]: New incoming connection 216.191.175.243|1 <4169505666067144211>
+[00:54:00]: Client connected from 216.191.175.243|1 <4169505666067144211>
+[00:54:00]: ValidateGameSessionToken GUID<4169505666067144211>
+[00:54:00]: Client authenticated: (KU_GNdCoYNE) Carrot
+[00:54:01]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[00:54:01]: [Steam] Authenticated client '76561199104252985'
+[00:54:01]: [Shard] Completed incoming migration #6 for (KU_GNdCoYNE)
+[00:54:01]: [Shard] Completed migration #6 for player (KU_GNdCoYNE)
+[00:54:11]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute() @(391.80, 441.70)
+[00:54:13]: Resuming user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000010
+[00:54:13]: Player will spawn close to portal #8	
+[00:54:13]: Spawning player at: [Load] (-142.14, 0.00, -144.34)	
