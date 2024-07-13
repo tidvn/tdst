@@ -1340,3 +1340,27 @@ Resurrection is always available via the Florid Postern.
 [00:15:08]: Failed to assign item skin ids due to ownership check failure.
 [00:16:48]: Failed to assign item skin ids due to ownership check failure.
 [00:16:57]: Failed to assign item skin ids due to ownership check failure.
+[00:17:54]: Could not find anim [death] in bank [ghost]
+[00:17:54]: Serializing user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000005
+[00:18:01]: [Steam] SendUserDisconnect for '76561198838660724'
+[00:18:01]: Connection lost to 216.191.175.238|1 <6862647191061616407>
+[00:18:01]: [Shard] (KU_LI3oE5Tc) disconnected from [SHDMASTER](1)
+[00:18:01]: Serializing user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000005
+[00:18:24]: [P2P] Received from 216.191.175.238|1 '76561198838660724'
+[00:18:24]: [P2P] Sent to 216.191.175.238|1 '76561198838660724'
+[00:18:24]: New incoming connection 216.191.175.238|1 <822203952447813476>
+[00:18:24]: Client connected from 216.191.175.238|1 <822203952447813476>
+[00:18:24]: ValidateGameSessionToken GUID<822203952447813476>
+[00:18:25]: Client authenticated: (KU_LI3oE5Tc) Bitter
+[00:18:25]: [Steam] Authenticated host '76561198838660724'
+[00:18:25]: There is no active event to validate against.
+[00:18:25]: [Shard] Read save location file for (KU_LI3oE5Tc)
+[00:18:34]: Available disk space for save files: 24378 MB
+[00:18:34]: Serializing user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000005
+[00:18:34]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000005
+[00:18:34]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000005
+[00:18:34]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000005
+[00:18:34]: Serializing world: session/2CE9191ADB245DC6/0000000005
+[00:18:43]: Resuming user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000005
+[00:18:43]: Could not find anim [idle_loop] in bank [ghost]
+[00:18:43]: Spawning player at: [Load] (-8.98, 0.00, 245.20)	
