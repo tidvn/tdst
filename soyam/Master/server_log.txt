@@ -1534,3 +1534,31 @@ Resurrection is always available via the Florid Postern.
 [00:49:28]: [Steam] SendUserDisconnect for '76561199104252985'
 [00:49:28]: [Shard] (KU_GNdCoYNE) disconnected from [SHDMASTER](1)
 [00:49:37]: [Shard] Completed migration #3 for player (KU_GNdCoYNE)
+[00:50:01]: [Shard] Begin migration #4 for (KU_GNdCoYNE)
+[00:50:01]: [Shard] #4 Caves(2248507758) -> [SHDMASTER](1)
+[00:50:01]: [Shard] #4 -> session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000009
+[00:50:01]: [Shard] Received migration #4 data for (KU_GNdCoYNE)
+[00:50:01]: [Shard] Writing save location file for (KU_GNdCoYNE)
+[00:50:02]: [P2P] Received from 216.191.175.243|1 '76561199104252985'
+[00:50:02]: [P2P] Sent to 216.191.175.243|1 '76561199104252985'
+[00:50:03]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_spawn("campfire")) @(345.98, 441.34)
+[00:50:03]: New incoming connection 216.191.175.243|1 <4655963184742678978>
+[00:50:03]: Client connected from 216.191.175.243|1 <4655963184742678978>
+[00:50:03]: ValidateGameSessionToken GUID<4655963184742678978>
+[00:50:04]: Client authenticated: (KU_GNdCoYNE) Carrot
+[00:50:04]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[00:50:04]: [Steam] Authenticated client '76561199104252985'
+[00:50:04]: [Shard] Completed incoming migration #4 for (KU_GNdCoYNE)
+[00:50:04]: [Shard] Completed migration #4 for player (KU_GNdCoYNE)
+[00:50:10]: [Shard] (KU_GNdCoYNE) disconnected from Caves(2248507758)
+[00:50:16]: Resuming user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000009
+[00:50:16]: Player will spawn close to portal #1	
+[00:50:16]: Spawning player at: [Load] (-198.59, 0.00, 95.34)	
+[00:50:36]: Available disk space for save files: 24656 MB
+[00:50:37]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000009
+[00:50:37]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000009
+[00:50:37]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000009
+[00:50:37]: Serializing user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000009
+[00:50:37]: Serializing user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000009
+[00:50:37]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000009
+[00:50:37]: Serializing world: session/2CE9191ADB245DC6/0000000009

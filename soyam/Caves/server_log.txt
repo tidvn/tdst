@@ -1174,3 +1174,15 @@
 [00:49:45]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000009
 [00:49:45]: Player will spawn close to portal #1	
 [00:49:45]: Spawning player at: [Load] (534.12, 0.00, 270.95)	
+[00:50:00]: Activating portal[1] to 1	
+[00:50:01]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000009
+[00:50:01]: [Shard] Migration request: (KU_GNdCoYNE) to [SHDMASTER](1)
+[00:50:01]: [Shard] #4 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000009
+[00:50:01]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:50:01]: Ignored request to resume during migration
+[00:50:10]: [Steam] SendUserDisconnect for '76561199104252985'
+[00:50:37]: Available disk space for save files: 24656 MB
+[00:50:37]: Serializing world: session/01EF7F7A1CFE0E43/0000000009
+[00:50:37]: Truncating to snapshot #9...
+[00:50:37]:  - session/01EF7F7A1CFE0E43/0000000003
+[00:50:37]:    1 file(s) removed
