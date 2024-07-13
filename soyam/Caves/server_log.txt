@@ -1152,3 +1152,9 @@
 [00:46:58]: Resuming user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000009
 [00:46:58]: Player will spawn close to portal #1	
 [00:46:58]: Spawning player at: [Load] (533.97, 0.00, 272.49)	
+[00:48:27]: Activating portal[1] to 1	
+[00:48:28]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000009
+[00:48:28]: [Shard] Migration request: (KU_Zkth_xJj) to [SHDMASTER](1)
+[00:48:28]: [Shard] #2 <- session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000009
+[00:48:28]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:48:28]: [Steam] SendUserDisconnect for '76561198305551267'

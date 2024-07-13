@@ -1504,3 +1504,22 @@ Resurrection is always available via the Florid Postern.
 [00:46:37]: [Steam] SendUserDisconnect for '76561198305551267'
 [00:46:37]: [Shard] (KU_Zkth_xJj) disconnected from [SHDMASTER](1)
 [00:46:47]: [Shard] Completed migration #1 for player (KU_Zkth_xJj)
+[00:48:28]: [Shard] Begin migration #2 for (KU_Zkth_xJj)
+[00:48:28]: [Shard] #2 Caves(2248507758) -> [SHDMASTER](1)
+[00:48:28]: [Shard] #2 -> session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000009
+[00:48:28]: [Shard] Received migration #2 data for (KU_Zkth_xJj)
+[00:48:28]: [Shard] Writing save location file for (KU_Zkth_xJj)
+[00:48:28]: [Shard] (KU_Zkth_xJj) disconnected from Caves(2248507758)
+[00:48:31]: [P2P] Received from 216.191.175.239|1 '76561198305551267'
+[00:48:31]: [P2P] Sent to 216.191.175.239|1 '76561198305551267'
+[00:48:32]: New incoming connection 216.191.175.239|1 <3613617351684739360>
+[00:48:32]: Client connected from 216.191.175.239|1 <3613617351684739360>
+[00:48:32]: ValidateGameSessionToken GUID<3613617351684739360>
+[00:48:32]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[00:48:33]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[00:48:33]: [Steam] Authenticated client '76561198305551267'
+[00:48:33]: [Shard] Completed incoming migration #2 for (KU_Zkth_xJj)
+[00:48:33]: [Shard] Completed migration #2 for player (KU_Zkth_xJj)
+[00:48:50]: Resuming user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000009
+[00:48:50]: Player will spawn close to portal #1	
+[00:48:50]: Spawning player at: [Load] (-198.27, 0.00, 93.02)	
