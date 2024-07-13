@@ -1408,3 +1408,15 @@ Resurrection is always available via the Florid Postern.
 [00:29:53]: giving 	133388 - bandage	
 [00:30:06]: [200] Account Communication Success (6)
 [00:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[00:32:16]: [P2P] Session request for '76561199104252985'
+[00:32:21]: [P2P] Create session: 216.191.175.243|1 '76561199104252985'
+[00:32:21]: [P2P] Received from 216.191.175.243|1 '76561199104252985'
+[00:32:21]: [P2P] Sent to 216.191.175.243|1 '76561199104252985'
+[00:32:21]: New incoming connection 216.191.175.243|1 <1537206573769986509>
+[00:32:21]: Client connected from 216.191.175.243|1 <1537206573769986509>
+[00:32:21]: ValidateGameSessionToken GUID<1537206573769986509>
+[00:32:22]: Client authenticated: (KU_GNdCoYNE) Carrot
+[00:32:22]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[00:32:22]: [Steam] Authenticated client '76561199104252985'
+[00:32:23]: There is no active event to validate against.
+[00:32:23]: [Shard] Read save location file for (KU_GNdCoYNE)
