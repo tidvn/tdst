@@ -1601,3 +1601,12 @@ Resurrection is always available via the Florid Postern.
 [00:55:23]: [(KU_LI3oE5Tc) Bitter] ReceiveRemoteExecute(c_sethunger(100)) @(-135.78, 203.87)
 [00:55:24]: Failed to assign item skin ids due to ownership check failure.
 [00:55:34]: Failed to assign item skin ids due to ownership check failure.
+[00:56:58]: Failed to assign item skin ids due to ownership check failure.
+[00:57:06]: Failed to assign item skin ids due to ownership check failure.
+[00:57:20]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("bandage",5)) @(54.16, 160.79)
+[00:57:20]: giving 	159314 - bandage	
+[00:57:20]: giving 	159316 - bandage	
+[00:57:20]: giving 	159318 - bandage	
+[00:57:20]: giving 	159320 - bandage	
+[00:57:20]: giving 	159322 - bandage	
+[00:57:44]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
