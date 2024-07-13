@@ -1186,3 +1186,17 @@
 [00:50:37]: Truncating to snapshot #9...
 [00:50:37]:  - session/01EF7F7A1CFE0E43/0000000003
 [00:50:37]:    1 file(s) removed
+[00:53:20]: [Shard] #5 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000010
+[00:53:20]: [Shard] Received migration #5 data for (KU_GNdCoYNE)
+[00:53:27]: [P2P] Received from 216.191.142.225|1 '76561199104252985'
+[00:53:27]: [P2P] Sent to 216.191.142.225|1 '76561199104252985'
+[00:53:28]: New incoming connection 216.191.142.225|1 <561365169098786830>
+[00:53:28]: Client connected from 216.191.142.225|1 <561365169098786830>
+[00:53:28]: ValidateGameSessionToken GUID<561365169098786830>
+[00:53:28]: Client authenticated: (KU_GNdCoYNE) Carrot
+[00:53:28]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[00:53:29]: [Steam] Authenticated client '76561199104252985'
+[00:53:29]: [Shard] Completed incoming migration #5 for (KU_GNdCoYNE)
+[00:53:37]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000010
+[00:53:37]: Player will spawn close to portal #8	
+[00:53:37]: Spawning player at: [Load] (1.91, 0.00, 561.21)	
