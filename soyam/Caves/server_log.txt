@@ -1206,3 +1206,10 @@
 [00:53:57]: [Shard] #6 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000010
 [00:53:58]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [00:53:58]: [Steam] SendUserDisconnect for '76561199104252985'
+[00:58:30]: [P2P] Session timed out for '76561198305551267'
+[00:58:30]: [P2P] Remove session: 216.191.142.224|1 '76561198305551267'
+[00:58:37]: Available disk space for save files: 24649 MB
+[00:58:37]: Serializing world: session/01EF7F7A1CFE0E43/0000000010
+[00:58:37]: Truncating to snapshot #10...
+[00:58:37]:  - session/01EF7F7A1CFE0E43/0000000004
+[00:58:37]:    1 file(s) removed
