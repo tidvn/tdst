@@ -48,7 +48,7 @@ return {
       LOOT_PUMP_SCALE=1,
       LOOT_PUMP_SOUND=true,
       LOOT_PUMP_SPEED=3,
-      LOOT_PUMP_TWOZN=true,
+      LOOT_PUMP_TWOZN=false,
       LOOT_PUMP_WALLS=false 
     },
     enabled=true 
