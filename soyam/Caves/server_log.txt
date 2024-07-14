@@ -3157,3 +3157,309 @@
 [02:20:56]: [Shard] #24 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000068
 [02:20:56]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [02:20:57]: [Steam] SendUserDisconnect for '76561199104252985'
+[02:25:11]: Available disk space for save files: 24559 MB
+[02:25:12]: Serializing world: session/01EF7F7A1CFE0E43/0000000068
+[02:25:12]: Truncating to snapshot #68...
+[02:25:12]:  - session/01EF7F7A1CFE0E43/0000000061
+[02:25:12]:  - session/01EF7F7A1CFE0E43/0000000062
+[02:25:12]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000010
+[02:25:12]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000062
+[02:25:12]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000061
+[02:25:12]:    5 file(s) removed
+[02:30:05]: [200] Account Communication Success (6)
+[02:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[02:30:58]: [P2P] Session timed out for '76561199104252985'
+[02:30:58]: [P2P] Remove session: 9.126.134.111|1 '76561199104252985'
+[02:31:05]: [Shard] #25 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000069
+[02:31:05]: [Shard] Received migration #25 data for (KU_GNdCoYNE)
+[02:31:12]: [P2P] Create session: 9.126.134.113|1 '76561199104252985'
+[02:31:12]: [P2P] Received from 9.126.134.113|1 '76561199104252985'
+[02:31:12]: [P2P] Sent to 9.126.134.113|1 '76561199104252985'
+[02:31:13]: New incoming connection 9.126.134.113|1 <7064744759585167103>
+[02:31:13]: Client connected from 9.126.134.113|1 <7064744759585167103>
+[02:31:13]: ValidateGameSessionToken GUID<7064744759585167103>
+[02:31:14]: Client authenticated: (KU_GNdCoYNE) Carrot
+[02:31:14]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[02:31:14]: [Steam] Authenticated client '76561199104252985'
+[02:31:14]: [Shard] Completed incoming migration #25 for (KU_GNdCoYNE)
+[02:31:23]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000069
+[02:31:23]: Player will spawn close to portal #1	
+[02:31:23]: Spawning player at: [Load] (531.66, 0.00, 274.00)	
+[02:33:12]: Available disk space for save files: 24557 MB
+[02:33:12]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000069
+[02:33:12]: Serializing world: session/01EF7F7A1CFE0E43/0000000069
+[02:35:02]: Available disk space for save files: 24549 MB
+[02:35:02]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000070
+[02:35:02]: Serializing world: session/01EF7F7A1CFE0E43/0000000070
+[02:41:14]: Available disk space for save files: 24542 MB
+[02:41:14]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000071
+[02:41:14]: Serializing world: session/01EF7F7A1CFE0E43/0000000071
+[02:42:12]: Available disk space for save files: 24534 MB
+[02:42:12]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000072
+[02:42:12]: Serializing world: session/01EF7F7A1CFE0E43/0000000072
+[02:42:42]: Activating portal[1] to 1	
+[02:42:42]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000073
+[02:42:42]: [Shard] Migration request: (KU_GNdCoYNE) to [SHDMASTER](1)
+[02:42:42]: [Shard] #26 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000073
+[02:42:42]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:42:42]: [Steam] SendUserDisconnect for '76561199104252985'
+[02:49:15]: Available disk space for save files: 24526 MB
+[02:49:16]: Serializing world: session/01EF7F7A1CFE0E43/0000000073
+[02:49:16]: Truncating to snapshot #73...
+[02:49:16]:  - session/01EF7F7A1CFE0E43/0000000065
+[02:49:16]:  - session/01EF7F7A1CFE0E43/0000000063
+[02:49:16]:  - session/01EF7F7A1CFE0E43/0000000067
+[02:49:16]:  - session/01EF7F7A1CFE0E43/0000000066
+[02:49:16]:  - session/01EF7F7A1CFE0E43/0000000064
+[02:49:16]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000063
+[02:49:16]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000067
+[02:49:16]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000066
+[02:49:16]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000065
+[02:49:16]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000064
+[02:49:16]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000063
+[02:49:16]:    11 file(s) removed
+[02:52:43]: [P2P] Session timed out for '76561199104252985'
+[02:52:43]: [P2P] Remove session: 9.126.134.113|1 '76561199104252985'
+[02:57:16]: Available disk space for save files: 24534 MB
+[02:57:16]: Serializing world: session/01EF7F7A1CFE0E43/0000000074
+[02:57:16]: Truncating to snapshot #74...
+[02:57:16]:  - session/01EF7F7A1CFE0E43/0000000068
+[02:57:16]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000068
+[02:57:16]:    2 file(s) removed
+[03:00:05]: [200] Account Communication Success (6)
+[03:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:05:17]: Available disk space for save files: 24529 MB
+[03:05:18]: Serializing world: session/01EF7F7A1CFE0E43/0000000075
+[03:05:18]: Truncating to snapshot #75...
+[03:05:18]:  - session/01EF7F7A1CFE0E43/0000000069
+[03:05:18]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000069
+[03:05:18]:    2 file(s) removed
+[03:13:18]: Available disk space for save files: 24524 MB
+[03:13:18]: Serializing world: session/01EF7F7A1CFE0E43/0000000076
+[03:13:18]: Truncating to snapshot #76...
+[03:13:18]:  - session/01EF7F7A1CFE0E43/0000000070
+[03:13:18]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000070
+[03:13:18]:    2 file(s) removed
+[03:14:42]: [Shard] #27 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000077
+[03:14:42]: [Shard] Received migration #27 data for (KU_RR3k3C2b)
+[03:14:51]: [P2P] Create session: 9.126.134.114|1 '76561199349123785'
+[03:14:51]: [P2P] Received from 9.126.134.114|1 '76561199349123785'
+[03:14:51]: [P2P] Sent to 9.126.134.114|1 '76561199349123785'
+[03:14:52]: New incoming connection 9.126.134.114|1 <1956387119100608312>
+[03:14:52]: Client connected from 9.126.134.114|1 <1956387119100608312>
+[03:14:52]: ValidateGameSessionToken GUID<1956387119100608312>
+[03:14:53]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[03:14:53]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[03:14:53]: [Steam] Authenticated client '76561199349123785'
+[03:14:53]: [Shard] Completed incoming migration #27 for (KU_RR3k3C2b)
+[03:15:02]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000077
+[03:15:02]: Player will spawn close to portal #1	
+[03:15:02]: Spawning player at: [Load] (532.26, 0.00, 273.93)	
+[03:15:44]: Could not find anim [transform_weregoose_pre] in bank [FROMNUM]
+[03:15:44]: Could not find anim [transform_weregoose_pre] in bank [FROMNUM]
+[03:21:19]: Available disk space for save files: 24519 MB
+[03:21:19]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000077
+[03:21:19]: Serializing world: session/01EF7F7A1CFE0E43/0000000077
+[03:21:50]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:21:50]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:21:50]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:21:51]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:21:51]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:22:39]: KU_RR3k3C2b	running text command:	dance	true	
+[03:22:43]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[03:22:43]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[03:23:49]: Could not find anim [weremoose_transform] in bank [weremoose]
+[03:23:58]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:23:58]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:23:58]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:23:58]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:23:58]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:23:58]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:06]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:06]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:06]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:06]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:06]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:14]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:14]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:14]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:14]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:14]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:14]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:22]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:22]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:23]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:32]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:32]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:32]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:24:39]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:39]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:55]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:24:55]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:03]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:04]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:04]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:04]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:08]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:08]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:08]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:08]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:08]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:08]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:16]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:16]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:16]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:17]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:21]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:21]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:21]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:21]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:22]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:22]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:26]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:27]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:27]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:27]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:27]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:35]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:37]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:25:45]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:45]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:45]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:50]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:50]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:50]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:51]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:51]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:25:57]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:01]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:09]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:09]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:17]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:17]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:17]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:17]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:17]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:24]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:26]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:33]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:34]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:34]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:42]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:43]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:43]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:43]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:47]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:26:48]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:00]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:27:05]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:16]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:24]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:27:24]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:27:24]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:24]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:24]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:31]: A timer with the name 	rammed	 already exists on 	103866 - minotaur	!	
+[03:27:32]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:32]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:32]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:32]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:40]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:51]: A timer with the name 	endstun	 already exists on 	103866 - minotaur	!	
+[03:27:59]: KU_RR3k3C2b	running text command:	dance	true	
+[03:28:15]: Could not find anim [charge_bash] in bank [wilson]
+[03:29:19]: Available disk space for save files: 24512 MB
+[03:29:19]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000078
+[03:29:20]: Serializing world: session/01EF7F7A1CFE0E43/0000000078
+[03:30:05]: [200] Account Communication Success (6)
+[03:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:30:06]: Activating portal[10] to 1	
+[03:30:07]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000079
+[03:30:07]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[03:30:07]: [Shard] #28 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000079
+[03:30:07]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:30:07]: [Steam] SendUserDisconnect for '76561199349123785'
+[03:37:20]: Available disk space for save files: 24504 MB
+[03:37:20]: Serializing world: session/01EF7F7A1CFE0E43/0000000079
+[03:37:20]: Truncating to snapshot #79...
+[03:37:20]:  - session/01EF7F7A1CFE0E43/0000000072
+[03:37:20]:  - session/01EF7F7A1CFE0E43/0000000073
+[03:37:20]:  - session/01EF7F7A1CFE0E43/0000000071
+[03:37:20]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000072
+[03:37:20]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000071
+[03:37:20]:    5 file(s) removed
+[03:40:08]: [P2P] Session timed out for '76561199349123785'
+[03:40:08]: [P2P] Remove session: 9.126.134.114|1 '76561199349123785'
+[03:45:20]: Available disk space for save files: 24505 MB
+[03:45:21]: Serializing world: session/01EF7F7A1CFE0E43/0000000080
+[03:45:21]: Truncating to snapshot #80...
+[03:45:21]:  - session/01EF7F7A1CFE0E43/0000000074
+[03:45:21]:    1 file(s) removed
+[03:53:21]: Available disk space for save files: 24500 MB
+[03:53:21]: Serializing world: session/01EF7F7A1CFE0E43/0000000081
+[03:53:21]: Truncating to snapshot #81...
+[03:53:21]:  - session/01EF7F7A1CFE0E43/0000000075
+[03:53:21]:    1 file(s) removed
+[04:00:05]: [200] Account Communication Success (6)
+[04:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:01:22]: Available disk space for save files: 24496 MB
+[04:01:22]: Serializing world: session/01EF7F7A1CFE0E43/0000000082
+[04:01:22]: Truncating to snapshot #82...
+[04:01:22]:  - session/01EF7F7A1CFE0E43/0000000076
+[04:01:22]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000059
+[04:01:22]:    2 file(s) removed
+[04:09:22]: Available disk space for save files: 24491 MB
+[04:09:23]: Serializing world: session/01EF7F7A1CFE0E43/0000000083
+[04:09:23]: Truncating to snapshot #83...
+[04:09:23]:  - session/01EF7F7A1CFE0E43/0000000077
+[04:09:23]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000077
+[04:09:23]:    2 file(s) removed
+[04:17:23]: Available disk space for save files: 24486 MB
+[04:17:23]: Serializing world: session/01EF7F7A1CFE0E43/0000000084
+[04:17:23]: Truncating to snapshot #84...
+[04:17:23]:  - session/01EF7F7A1CFE0E43/0000000078
+[04:17:23]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000078
+[04:17:23]:    2 file(s) removed
+[04:23:56]: [Shard] #29 -> session/01EF7F7A1CFE0E43/A7IN2RRJAV5N/0000000085
+[04:23:56]: [Shard] Received migration #29 data for (KU_LnRtDNot)
+[04:24:03]: [P2P] Session request for '76561199016250763'
+[04:24:05]: [P2P] Create session: 9.126.134.115|1 '76561199016250763'
+[04:24:05]: [P2P] Received from 9.126.134.115|1 '76561199016250763'
+[04:24:05]: [P2P] Sent to 9.126.134.115|1 '76561199016250763'
+[04:24:08]: New incoming connection 9.126.134.115|1 <7427575072651045557>
+[04:24:08]: Client connected from 9.126.134.115|1 <7427575072651045557>
+[04:24:08]: ValidateGameSessionToken GUID<7427575072651045557>
+[04:24:08]: Client authenticated: (KU_LnRtDNot) feng
+[04:24:09]: [Steam] SendUserConnectAndAuthenticate for '76561199016250763'
+[04:24:09]: [Steam] Authenticated client '76561199016250763'
+[04:24:09]: [Shard] Completed incoming migration #29 for (KU_LnRtDNot)
+[04:24:32]: Resuming user: session/01EF7F7A1CFE0E43/A7IN2RRJAV5N/0000000085
+[04:24:32]: Player will spawn close to portal #2	
+[04:24:32]: Spawning player at: [Load] (-333.63, 0.00, 410.08)	
+[04:25:23]: Available disk space for save files: 24481 MB
+[04:25:24]: Serializing user: session/01EF7F7A1CFE0E43/A7IN2RRJAV5N/0000000085
+[04:25:24]: Serializing world: session/01EF7F7A1CFE0E43/0000000085
+[04:28:37]: [Steam] SendUserDisconnect for '76561199016250763'
+[04:28:37]: Connection lost to 9.126.134.115|1 <7427575072651045557>
+[04:28:37]: Serializing user: session/01EF7F7A1CFE0E43/A7IN2RRJAV5N/0000000086
+[04:28:47]: [P2P] Connection failed for '76561199016250763'
+[04:30:05]: [200] Account Communication Success (6)
+[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:33:24]: Available disk space for save files: 24474 MB
+[04:33:24]: Serializing world: session/01EF7F7A1CFE0E43/0000000086
+[04:33:24]: Truncating to snapshot #86...
+[04:33:24]:  - session/01EF7F7A1CFE0E43/0000000080
+[04:33:24]:  - session/01EF7F7A1CFE0E43/0000000079
+[04:33:24]:    2 file(s) removed
+[04:38:37]: [P2P] Session timed out for '76561199016250763'
+[04:38:37]: [P2P] Remove session: 9.126.134.115|1 '76561199016250763'
+[04:40:42]: Sim paused
+[05:00:05]: [200] Account Communication Success (6)
+[05:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
