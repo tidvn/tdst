@@ -4093,3 +4093,31 @@ Resurrection is always available via the Florid Postern.
 [09:29:03]: [P2P] Remove session: 246.32.138.187|1 '76561198305551267'
 [09:29:30]: Could not find anim build FROMNUM
 [09:29:37]: Could not find anim build FROMNUM
+[09:29:47]: [Shard] Begin migration #8 for (KU_Zkth_xJj)
+[09:29:47]: [Shard] #8 Caves(2248507758) -> [SHDMASTER](1)
+[09:29:47]: [Shard] #8 -> session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000049
+[09:29:47]: [Shard] Received migration #8 data for (KU_Zkth_xJj)
+[09:29:47]: [Shard] Writing save location file for (KU_Zkth_xJj)
+[09:29:47]: [Shard] (KU_Zkth_xJj) disconnected from Caves(2248507758)
+[09:29:54]: [P2P] Create session: 246.32.138.189|1 '76561198305551267'
+[09:29:54]: [P2P] Received from 246.32.138.189|1 '76561198305551267'
+[09:29:54]: [P2P] Sent to 246.32.138.189|1 '76561198305551267'
+[09:29:55]: New incoming connection 246.32.138.189|1 <1608718301616255749>
+[09:29:55]: Client connected from 246.32.138.189|1 <1608718301616255749>
+[09:29:55]: ValidateGameSessionToken GUID<1608718301616255749>
+[09:29:56]: Could not find anim build FROMNUM
+[09:29:56]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[09:29:56]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[09:29:56]: [Steam] Authenticated client '76561198305551267'
+[09:29:56]: [Shard] Completed incoming migration #8 for (KU_Zkth_xJj)
+[09:29:56]: [Shard] Completed migration #8 for player (KU_Zkth_xJj)
+[09:30:02]: Could not find anim build FROMNUM
+[09:30:04]: [200] Account Communication Success (6)
+[09:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:13]: Resuming user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000000049
+[09:30:13]: Could not find anim [idle_loop] in bank [ghost]
+[09:30:13]: Player will spawn close to portal #10	
+[09:30:13]: Spawning player at: [Load] (-550.36, 0.00, 315.00)	
+[09:30:14]: Validating portal[10] <-> 2248507758[10] (active)	
+[09:30:21]: Could not find anim build FROMNUM
+[09:30:27]: Could not find anim build FROMNUM
