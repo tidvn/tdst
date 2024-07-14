@@ -1839,3 +1839,84 @@
 [09:18:38]: OVERRIDE: setting	portalresurection	to	always	
 [09:18:38]: OVERRIDE: setting	spawnmode	to	fixed	
 [09:18:38]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[09:18:43]: Reconstructing topology	
+[09:18:43]: 	...Sorting points	
+[09:18:43]: 	...Sorting edges	
+[09:18:43]: 	...Connecting nodes	
+[09:18:43]: 	...Validating connections	
+[09:18:43]: 	...Housekeeping	
+[09:18:43]: 	...Done!	
+[09:18:43]: Restoring user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000047	
+[09:18:43]: Could not find anim [idle_loop] in bank [ghost]
+[09:18:43]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000048
+[09:18:43]: 1 uploads added to server. From server_temp
+[09:18:43]: World 1 is now connected	
+[09:18:43]: Telling Client our new session identifier: 01EF7F7A1CFE0E43
+[09:18:43]: Check for write access: TRUE
+[09:18:43]: Check for read access: TRUE
+[09:18:43]: Available disk space for save files: 24593 MB
+[09:18:43]: ModIndex: Load sequence finished successfully.	
+[09:18:43]: Reset() returning
+[09:18:43]: Invalid RPC sender: expected player, got userid	
+[09:18:43]: Invalid RPC sender: expected player, got userid	
+[09:18:43]: Invalid RPC sender: expected player, got userid	
+[09:18:43]: Received resync request from client with no player
+[09:18:43]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[09:18:43]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[09:18:43]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
+[09:18:43]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[09:18:43]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying resettime = none from master shard.	
+[09:18:43]: [SyncWorldSettings] applying krampus = often from master shard.	
+[09:18:43]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[09:18:43]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[09:18:43]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying darkness = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[09:18:43]: component hauntable already exists on entity 103527 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[09:18:43]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying hunger = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
+[09:18:43]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[09:18:43]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[09:18:43]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
+[09:18:43]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[09:18:43]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying resettime = none from master shard.	
+[09:18:43]: [SyncWorldSettings] applying krampus = often from master shard.	
+[09:18:43]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[09:18:43]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[09:18:43]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying darkness = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[09:18:43]: component hauntable already exists on entity 103527 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[09:18:43]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying hunger = default from master shard.	
+[09:18:43]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
+[09:18:43]: Validating portal[6] <-> 1[6] (active)	
+[09:18:43]: Validating portal[3] <-> 1[3] (active)	
+[09:18:43]: Validating portal[5] <-> 1[5] (active)	
+[09:18:43]: Validating portal[7] <-> 1[7] (active)	
+[09:18:43]: Validating portal[2] <-> 1[2] (active)	
+[09:18:43]: Validating portal[9] <-> 1[9] (active)	
+[09:18:43]: Validating portal[1] <-> 1[1] (active)	
+[09:18:44]: Validating portal[10] <-> 1[10] (active)	
+[09:18:44]: Validating portal[4] <-> 1[4] (active)	
+[09:18:44]: Validating portal[8] <-> 1[8] (active)	
+[09:18:54]: Restarting player migration on master server
+[09:18:54]: [Shard] Migration request: (KU_Zkth_xJj) to [SHDMASTER](1)
+[09:18:54]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[09:18:54]: [Steam] SendUserDisconnect for '76561198305551267'
+[09:19:03]: [Shard] Received forward request #7 for (KU_Zkth_xJj)
+[09:19:07]: New incoming connection 246.28.38.204|1 <799204119689233329>
+[09:19:07]: Client connected from 246.28.38.204|1 <799204119689233329>
+[09:19:07]: ValidateGameSessionToken GUID<799204119689233329>
+[09:19:07]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[09:19:07]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[09:19:07]: [Steam] Authenticated client '76561198305551267'
+[09:19:07]: [Shard] Completed incoming migration #7 for (KU_Zkth_xJj)
+[09:19:18]: Resuming user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000048
+[09:19:18]: Could not find anim [idle_loop] in bank [ghost]
+[09:19:18]: Spawning player at: [Load] (-210.46, -0.00, 509.93)	

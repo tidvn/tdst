@@ -3957,3 +3957,85 @@ Resurrection is always available via the Florid Postern.
 [09:18:33]: Could not find anim build FROMNUM
 [09:18:33]: Could not find anim build FROMNUM
 [09:18:33]: Could not find anim build FROMNUM
+[09:18:43]: [Shard] Secondary Caves(2248507758) ready!
+[09:18:43]: World 2248507758 is now connected	
+[09:18:43]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[09:18:43]: Validating portal[3] <-> 2248507758[3] (disabled)	
+[09:18:43]: Validating portal[6] <-> 2248507758[6] (active)	
+[09:18:43]: Validating portal[1] <-> 2248507758[1] (active)	
+[09:18:43]: Validating portal[8] <-> 2248507758[8] (active)	
+[09:18:43]: Validating portal[7] <-> 2248507758[7] (disabled)	
+[09:18:43]: Validating portal[10] <-> 2248507758[10] (disabled)	
+[09:18:43]: Validating portal[9] <-> 2248507758[9] (disabled)	
+[09:18:43]: Validating portal[2] <-> 2248507758[2] (active)	
+[09:18:43]: Validating portal[5] <-> 2248507758[5] (disabled)	
+[09:18:43]: Validating portal[4] <-> 2248507758[4] (disabled)	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option krampus = often to secondary shards.	
+[09:18:43]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[09:18:43]: Restarting player migration on master server
+[09:18:43]: [Shard] Read save location file for (KU_GNdCoYNE)
+[09:18:43]: Resuming user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000048
+[09:18:44]: Spawning player at: [Load] (-136.81, 0.00, 203.93)	
+[09:18:54]: [Shard] Begin migration #6 for (KU_Zkth_xJj)
+[09:18:54]: [Shard] #6 Caves(2248507758) -> [SHDMASTER](1)
+[09:18:54]: [Shard] Received migration #6 data for (KU_Zkth_xJj)
+[09:18:54]: [Shard] (KU_Zkth_xJj) disconnected from Caves(2248507758)
+[09:18:57]: Restarting player migration on master server
+[09:18:57]: [Shard] Read save location file for (KU_pa5CjQ8L)
+[09:18:57]: Resuming user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000048
+[09:18:57]: Spawning player at: [Load] (-132.79, 0.00, 215.85)	
+[09:19:01]: [P2P] Create session: 246.32.138.187|1 '76561198305551267'
+[09:19:01]: [P2P] Received from 246.32.138.187|1 '76561198305551267'
+[09:19:01]: [P2P] Sent to 246.32.138.187|1 '76561198305551267'
+[09:19:02]: New incoming connection 246.32.138.187|1 <4253663846912212259>
+[09:19:02]: Client connected from 246.32.138.187|1 <4253663846912212259>
+[09:19:02]: ValidateGameSessionToken GUID<4253663846912212259>
+[09:19:03]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[09:19:03]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[09:19:03]: [Steam] Authenticated client '76561198305551267'
+[09:19:03]: [Shard] Read save location file for (KU_Zkth_xJj)
+[09:19:03]: [Shard] Forwarding player to Caves(2248507758)
+[09:19:03]: [Shard] Begin migration #7 for (KU_Zkth_xJj)
+[09:19:03]: [Shard] #7 [SHDMASTER](1) -> Caves(2248507758)
+[09:19:03]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[09:19:03]: [Steam] SendUserDisconnect for '76561198305551267'
+[09:19:03]: [Shard] (KU_Zkth_xJj) disconnected from [SHDMASTER](1)
+[09:19:04]: Could not find anim build FROMNUM
+[09:19:06]: Restarting player migration on master server
+[09:19:06]: [Shard] Read save location file for (KU_521dUXRS)
+[09:19:06]: Resuming user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000000048
+[09:19:06]: Spawning player at: [Load] (-131.05, 0.00, 219.65)	
+[09:19:07]: [Shard] Completed migration #7 for player (KU_Zkth_xJj)
+[09:19:14]: Could not find anim build FROMNUM
+[09:19:18]: Could not find anim build FROMNUM
+[09:19:28]: Could not find anim build FROMNUM
+[09:19:31]: Could not find anim build FROMNUM
+[09:19:35]: Could not find anim build FROMNUM
+[09:19:37]: Could not find anim build FROMNUM
