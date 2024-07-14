@@ -1169,3 +1169,154 @@
 [06:51:27]: Truncating to snapshot #29...
 [06:51:27]:  - session/01EF7F7A1CFE0E43/0000000023
 [06:51:27]:    1 file(s) removed
+[06:59:28]: Available disk space for save files: 24596 MB
+[06:59:28]: Serializing world: session/01EF7F7A1CFE0E43/0000000030
+[06:59:28]: Truncating to snapshot #30...
+[06:59:28]:  - session/01EF7F7A1CFE0E43/0000000024
+[06:59:28]:    1 file(s) removed
+[07:00:04]: [200] Account Communication Success (6)
+[07:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:07:28]: Available disk space for save files: 24591 MB
+[07:07:29]: Serializing world: session/01EF7F7A1CFE0E43/0000000031
+[07:07:29]: Truncating to snapshot #31...
+[07:07:29]:  - session/01EF7F7A1CFE0E43/0000000025
+[07:07:29]:    1 file(s) removed
+[07:15:29]: Available disk space for save files: 24586 MB
+[07:15:29]: Serializing world: session/01EF7F7A1CFE0E43/0000000032
+[07:15:29]: Truncating to snapshot #32...
+[07:15:29]:  - session/01EF7F7A1CFE0E43/0000000026
+[07:15:29]:    1 file(s) removed
+[07:23:29]: Available disk space for save files: 24582 MB
+[07:23:30]: Serializing world: session/01EF7F7A1CFE0E43/0000000033
+[07:23:30]: Truncating to snapshot #33...
+[07:23:30]:  - session/01EF7F7A1CFE0E43/0000000027
+[07:23:30]:    1 file(s) removed
+[07:30:04]: [200] Account Communication Success (6)
+[07:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:31:30]: Available disk space for save files: 24577 MB
+[07:31:30]: Serializing world: session/01EF7F7A1CFE0E43/0000000034
+[07:31:30]: Truncating to snapshot #34...
+[07:31:30]:  - session/01EF7F7A1CFE0E43/0000000028
+[07:31:30]:    1 file(s) removed
+[07:39:32]: Available disk space for save files: 24572 MB
+[07:39:32]: Serializing world: session/01EF7F7A1CFE0E43/0000000035
+[07:39:32]: Truncating to snapshot #35...
+[07:39:32]:  - session/01EF7F7A1CFE0E43/0000000029
+[07:39:32]:    1 file(s) removed
+[07:43:44]: [Shard] #1 -> session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000036
+[07:43:44]: [Shard] Received migration #1 data for (KU_Zkth_xJj)
+[07:43:50]: [P2P] Session request for '76561198305551267'
+[07:43:51]: [P2P] Create session: 246.28.38.202|1 '76561198305551267'
+[07:43:51]: [P2P] Received from 246.28.38.202|1 '76561198305551267'
+[07:43:51]: [P2P] Sent to 246.28.38.202|1 '76561198305551267'
+[07:43:53]: New incoming connection 246.28.38.202|1 <9216921773863293604>
+[07:43:53]: Client connected from 246.28.38.202|1 <9216921773863293604>
+[07:43:53]: ValidateGameSessionToken GUID<9216921773863293604>
+[07:43:53]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[07:43:53]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[07:43:54]: [Steam] Authenticated client '76561198305551267'
+[07:43:54]: [Shard] Completed incoming migration #1 for (KU_Zkth_xJj)
+[07:44:07]: Resuming user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000036
+[07:44:07]: Player will spawn close to portal #8	
+[07:44:07]: Spawning player at: [Load] (6.78, 0.00, 560.88)	
+[07:46:52]: Failed to assign item skin ids due to ownership check failure.
+[07:46:54]: Failed to assign item skin ids due to ownership check failure.
+[07:46:56]: Failed to assign item skin ids due to ownership check failure.
+[07:46:57]: Failed to assign item skin ids due to ownership check failure.
+[07:46:58]: Failed to assign item skin ids due to ownership check failure.
+[07:47:35]: Available disk space for save files: 24568 MB
+[07:47:35]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000036
+[07:47:35]: Serializing world: session/01EF7F7A1CFE0E43/0000000036
+[07:54:20]: Activating portal[8] to 1	
+[07:54:20]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000037
+[07:54:20]: [Shard] Migration request: (KU_Zkth_xJj) to [SHDMASTER](1)
+[07:54:20]: [Shard] #2 <- session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000037
+[07:54:20]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:54:20]: [Steam] SendUserDisconnect for '76561198305551267'
+[07:55:36]: Available disk space for save files: 24560 MB
+[07:55:37]: Serializing world: session/01EF7F7A1CFE0E43/0000000037
+[07:55:37]: Truncating to snapshot #37...
+[07:55:37]:  - session/01EF7F7A1CFE0E43/0000000031
+[07:55:37]:  - session/01EF7F7A1CFE0E43/0000000030
+[07:55:37]:    2 file(s) removed
+[08:00:04]: [200] Account Communication Success (6)
+[08:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:03:37]: Available disk space for save files: 24558 MB
+[08:03:37]: Serializing world: session/01EF7F7A1CFE0E43/0000000038
+[08:03:37]: Truncating to snapshot #38...
+[08:03:37]:  - session/01EF7F7A1CFE0E43/0000000032
+[08:03:37]:    1 file(s) removed
+[08:04:22]: [P2P] Session timed out for '76561198305551267'
+[08:04:22]: [P2P] Remove session: 246.28.38.202|1 '76561198305551267'
+[08:11:37]: Available disk space for save files: 24554 MB
+[08:11:38]: Serializing world: session/01EF7F7A1CFE0E43/0000000039
+[08:11:38]: Truncating to snapshot #39...
+[08:11:38]:  - session/01EF7F7A1CFE0E43/0000000033
+[08:11:38]:    1 file(s) removed
+[08:16:42]: [Shard] #3 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000040
+[08:16:42]: [Shard] Received migration #3 data for (KU_RR3k3C2b)
+[08:16:45]: [P2P] Session request for '76561199349123785'
+[08:16:50]: [P2P] Create session: 246.28.38.203|1 '76561199349123785'
+[08:16:50]: [P2P] Received from 246.28.38.203|1 '76561199349123785'
+[08:16:50]: [P2P] Sent to 246.28.38.203|1 '76561199349123785'
+[08:16:51]: New incoming connection 246.28.38.203|1 <3893137942363556473>
+[08:16:51]: Client connected from 246.28.38.203|1 <3893137942363556473>
+[08:16:51]: ValidateGameSessionToken GUID<3893137942363556473>
+[08:16:52]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[08:16:52]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[08:16:52]: [Steam] Authenticated client '76561199349123785'
+[08:16:52]: [Shard] Completed incoming migration #3 for (KU_RR3k3C2b)
+[08:17:01]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000040
+[08:17:01]: Player will spawn close to portal #2	
+[08:17:01]: Spawning player at: [Load] (-334.80, 0.00, 411.33)	
+[08:19:38]: Available disk space for save files: 24549 MB
+[08:19:38]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000040
+[08:19:38]: Serializing world: session/01EF7F7A1CFE0E43/0000000040
+[08:21:38]: Activating portal[2] to 1	
+[08:21:38]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000041
+[08:21:38]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[08:21:38]: [Shard] #4 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000041
+[08:21:38]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[08:21:38]: [Steam] SendUserDisconnect for '76561199349123785'
+[08:27:40]: Available disk space for save files: 24541 MB
+[08:27:40]: Serializing world: session/01EF7F7A1CFE0E43/0000000041
+[08:27:40]: Truncating to snapshot #41...
+[08:27:40]:  - session/01EF7F7A1CFE0E43/0000000035
+[08:27:40]:  - session/01EF7F7A1CFE0E43/0000000034
+[08:27:40]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000009
+[08:27:40]:    3 file(s) removed
+[08:30:04]: [200] Account Communication Success (6)
+[08:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:31:39]: [P2P] Session timed out for '76561199349123785'
+[08:31:39]: [P2P] Remove session: 246.28.38.203|1 '76561199349123785'
+[08:35:40]: Available disk space for save files: 24540 MB
+[08:35:41]: Serializing world: session/01EF7F7A1CFE0E43/0000000042
+[08:35:41]: Truncating to snapshot #42...
+[08:35:41]:  - session/01EF7F7A1CFE0E43/0000000036
+[08:35:41]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000036
+[08:35:41]:    2 file(s) removed
+[08:43:41]: Available disk space for save files: 24535 MB
+[08:43:41]: Serializing world: session/01EF7F7A1CFE0E43/0000000043
+[08:43:41]: Truncating to snapshot #43...
+[08:43:41]:  - session/01EF7F7A1CFE0E43/0000000037
+[08:43:41]:    1 file(s) removed
+[08:49:48]: [Shard] #5 -> session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000044
+[08:49:48]: [Shard] Received migration #5 data for (KU_Zkth_xJj)
+[08:49:58]: [P2P] Create session: 246.28.38.204|1 '76561198305551267'
+[08:49:58]: [P2P] Received from 246.28.38.204|1 '76561198305551267'
+[08:49:58]: [P2P] Sent to 246.28.38.204|1 '76561198305551267'
+[08:49:59]: New incoming connection 246.28.38.204|1 <7436061130146116514>
+[08:49:59]: Client connected from 246.28.38.204|1 <7436061130146116514>
+[08:49:59]: ValidateGameSessionToken GUID<7436061130146116514>
+[08:50:00]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[08:50:00]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[08:50:00]: [Steam] Authenticated client '76561198305551267'
+[08:50:00]: [Shard] Completed incoming migration #5 for (KU_Zkth_xJj)
+[08:50:13]: Resuming user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000044
+[08:50:13]: Player will spawn close to portal #1	
+[08:50:13]: Spawning player at: [Load] (533.83, 0.00, 270.22)	
+[08:51:42]: Available disk space for save files: 24531 MB
+[08:51:42]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000044
+[08:51:43]: Serializing world: session/01EF7F7A1CFE0E43/0000000044
+[08:53:02]: Failed to assign item skin ids due to ownership check failure.
+[08:55:45]: Failed to assign item skin ids due to ownership check failure.
