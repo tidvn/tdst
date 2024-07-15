@@ -2967,3 +2967,251 @@
 [17:56:26]: Truncating to snapshot #183...
 [17:56:26]:  - session/01EF7F7A1CFE0E43/0000000177
 [17:56:26]:    1 file(s) removed
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:01:39]: Available disk space for save files: 24509 MB
+[18:01:39]: Serializing world: session/01EF7F7A1CFE0E43/0000000184
+[18:01:39]: Truncating to snapshot #184...
+[18:01:39]:  - session/01EF7F7A1CFE0E43/0000000178
+[18:01:39]:    1 file(s) removed
+[18:04:38]: Available disk space for save files: 24504 MB
+[18:04:38]: Serializing world: session/01EF7F7A1CFE0E43/0000000185
+[18:04:38]: Truncating to snapshot #185...
+[18:04:38]:  - session/01EF7F7A1CFE0E43/0000000179
+[18:04:38]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000176
+[18:04:38]:    2 file(s) removed
+[18:12:39]: Available disk space for save files: 24499 MB
+[18:12:39]: Serializing world: session/01EF7F7A1CFE0E43/0000000186
+[18:12:39]: Truncating to snapshot #186...
+[18:12:39]:  - session/01EF7F7A1CFE0E43/0000000180
+[18:12:39]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000180
+[18:12:39]:    2 file(s) removed
+[18:20:42]: Available disk space for save files: 24494 MB
+[18:20:42]: Serializing world: session/01EF7F7A1CFE0E43/0000000187
+[18:20:42]: Truncating to snapshot #187...
+[18:20:42]:  - session/01EF7F7A1CFE0E43/0000000181
+[18:20:42]:    1 file(s) removed
+[18:28:45]: Available disk space for save files: 24489 MB
+[18:28:45]: Serializing world: session/01EF7F7A1CFE0E43/0000000188
+[18:28:45]: Truncating to snapshot #188...
+[18:28:45]:  - session/01EF7F7A1CFE0E43/0000000182
+[18:28:45]:    1 file(s) removed
+[18:29:21]: [Shard] #26 -> session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000189
+[18:29:21]: [Shard] Received migration #26 data for (KU_pa5CjQ8L)
+[18:29:25]: [P2P] Session request for '76561198857303760'
+[18:29:30]: [P2P] Create session: 20.36.55.39|1 '76561198857303760'
+[18:29:30]: [P2P] Received from 20.36.55.39|1 '76561198857303760'
+[18:29:30]: [P2P] Sent to 20.36.55.39|1 '76561198857303760'
+[18:29:32]: New incoming connection 20.36.55.39|1 <6346232849623089206>
+[18:29:32]: Client connected from 20.36.55.39|1 <6346232849623089206>
+[18:29:32]: ValidateGameSessionToken GUID<6346232849623089206>
+[18:29:32]: Client authenticated: (KU_pa5CjQ8L) tranphonglq
+[18:29:32]: [Steam] SendUserConnectAndAuthenticate for '76561198857303760'
+[18:29:33]: [Steam] Authenticated client '76561198857303760'
+[18:29:33]: [Shard] Completed incoming migration #26 for (KU_pa5CjQ8L)
+[18:30:03]: Resuming user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000189
+[18:30:03]: Player will spawn close to portal #1	
+[18:30:03]: Spawning player at: [Load] (529.18, 0.00, 271.63)	
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:33:12]: [Shard] #27 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000189
+[18:33:12]: [Shard] Received migration #27 data for (KU_RR3k3C2b)
+[18:33:31]: [P2P] Connection failed for '76561199349123785'
+[18:33:50]: Could not find anim [death_wanda] in bank [ghost]
+[18:33:50]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000189
+[18:33:56]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_spawn("campfire")) @(-312.13, -113.23)
+[18:33:59]: Could not find anim [idle_loop] in bank [ghost]
+[18:34:01]: [Shard] Migration by user ('KU_RR3k3C2b') failed (178). 
+[18:34:01]: [Shard] Received forward request #28 for (KU_RR3k3C2b)
+[18:34:02]: Could not find anim [transform] in bank [wilson]
+[18:34:03]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000189
+[18:34:05]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-313.72, -114.41)
+[18:34:16]: [P2P] Connection failed for '76561199349123785'
+[18:34:23]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-308.46, -121.13)
+[18:34:49]: [Shard] Migration by user ('KU_RR3k3C2b') failed (178). 
+[18:34:49]: [Shard] Received forward request #29 for (KU_RR3k3C2b)
+[18:34:57]: [P2P] Create session: 20.36.55.40|1 '76561199349123785'
+[18:34:57]: [P2P] Received from 20.36.55.40|1 '76561199349123785'
+[18:34:57]: [P2P] Sent to 20.36.55.40|1 '76561199349123785'
+[18:34:58]: New incoming connection 20.36.55.40|1 <5977693967457355298>
+[18:34:58]: Client connected from 20.36.55.40|1 <5977693967457355298>
+[18:34:58]: ValidateGameSessionToken GUID<5977693967457355298>
+[18:34:58]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[18:34:59]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[18:34:59]: [Steam] Authenticated client '76561199349123785'
+[18:35:00]: There is no active event to validate against.
+[18:35:00]: [Shard] Completed incoming migration #29 for (KU_RR3k3C2b)
+[18:35:18]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000189
+[18:35:18]: Player will spawn close to portal #1	
+[18:35:18]: Spawning player at: [Load] (532.07, 0.00, 273.97)	
+[18:36:45]: Available disk space for save files: 24483 MB
+[18:36:45]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000189
+[18:36:45]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000189
+[18:36:46]: Serializing world: session/01EF7F7A1CFE0E43/0000000189
+[18:37:48]: Could not find anim [weremoose_transform] in bank [weremoose]
+[18:39:29]: Could not find anim [death_wanda] in bank [ghost]
+[18:39:29]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:39:40]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_spawn("campfire")) @(-234.14, -140.19)
+[18:39:41]: Could not find anim [idle_loop] in bank [ghost]
+[18:39:43]: Could not find anim [transform] in bank [wilson]
+[18:39:45]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:39:45]: Could not find anim [weremoose_transform] in bank [weremoose]
+[18:39:59]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-242.12, -133.62)
+[18:42:16]: Could not find anim [death_wanda] in bank [ghost]
+[18:42:16]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:42:22]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_spawn("campfire")) @(-226.79, -133.63)
+[18:42:25]: Could not find anim [idle_loop] in bank [ghost]
+[18:42:28]: Could not find anim [transform] in bank [wilson]
+[18:42:29]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:43:14]: Could not find anim [charge_pst] in bank [wilson]
+[18:43:18]: Could not find anim [weremoose_transform] in bank [weremoose]
+[18:44:03]: Could not find anim [death_wanda] in bank [ghost]
+[18:44:03]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:44:08]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_spawn("campfire")) @(-240.89, -118.14)
+[18:44:09]: Could not find anim [idle_loop] in bank [ghost]
+[18:44:12]: Could not find anim [transform] in bank [wilson]
+[18:44:13]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:44:19]: Could not find anim [death_wanda] in bank [ghost]
+[18:44:19]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:44:21]: Could not find anim [idle_loop] in bank [ghost]
+[18:44:24]: Could not find anim [transform] in bank [wilson]
+[18:44:25]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:44:30]: Could not find anim [death_wanda] in bank [ghost]
+[18:44:30]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:44:39]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_godmode()) @(-243.43, -122.27)
+[18:44:39]: Reviving tranphonglq from ghost.	
+[18:44:39]: Could not find anim [idle_loop] in bank [ghost]
+[18:44:42]: Could not find anim [transform] in bank [wilson]
+[18:44:43]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:44:46]: Available disk space for save files: 24475 MB
+[18:44:46]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000190
+[18:44:46]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000190
+[18:44:46]: Serializing world: session/01EF7F7A1CFE0E43/0000000190
+[18:44:49]: Could not find anim [death_wanda] in bank [ghost]
+[18:44:49]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:44:52]: Could not find anim [idle_loop] in bank [ghost]
+[18:44:55]: Could not find anim [transform] in bank [wilson]
+[18:44:56]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_godmode()) @(-241.42, -118.38)
+[18:44:56]: God mode: false	
+[18:44:56]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:45:01]: Could not find anim [death_wanda] in bank [ghost]
+[18:45:01]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:45:03]: Could not find anim [idle_loop] in bank [ghost]
+[18:45:06]: Could not find anim [transform] in bank [wilson]
+[18:45:06]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_godmode()) @(-243.56, -120.84)
+[18:45:06]: God mode: false	
+[18:45:07]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:45:09]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_godmode()) @(-243.83, -121.55)
+[18:45:09]: God mode: true	
+[18:45:11]: Could not find anim [death_wanda] in bank [ghost]
+[18:45:11]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:45:20]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_supergodmode()) @(-238.44, -121.91)
+[18:45:20]: Reviving tranphonglq from ghost.	
+[18:45:20]: Could not find anim [idle_loop] in bank [ghost]
+[18:45:23]: Could not find anim [transform] in bank [wilson]
+[18:45:24]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:45:29]: Could not find anim [death_wanda] in bank [ghost]
+[18:45:29]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:45:32]: Could not find anim [idle_loop] in bank [ghost]
+[18:45:35]: Could not find anim [transform] in bank [wilson]
+[18:45:36]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_godmode()) @(-241.77, -117.89)
+[18:45:36]: God mode: false	
+[18:45:36]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:45:38]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_godmode()) @(-243.32, -116.36)
+[18:45:38]: God mode: true	
+[18:46:18]: KU_RR3k3C2b	running text command:	dance	true	
+[18:49:02]: Could not find anim [weremoose_transform] in bank [weremoose]
+[18:49:10]: Could not find anim [death] in bank [ghost]
+[18:49:10]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000191
+[18:50:44]: Activating portal[1] to 1	
+[18:50:45]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000191
+[18:50:45]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[18:50:45]: [Shard] #30 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000191
+[18:50:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[18:50:45]: [Steam] SendUserDisconnect for '76561199349123785'
+[18:52:51]: Available disk space for save files: 24467 MB
+[18:52:51]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000191
+[18:52:51]: Serializing world: session/01EF7F7A1CFE0E43/0000000191
+[18:53:19]: [Shard] #31 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000192
+[18:53:19]: [Shard] Received migration #31 data for (KU_RR3k3C2b)
+[18:53:27]: [P2P] Received from 20.36.55.40|1 '76561199349123785'
+[18:53:27]: [P2P] Sent to 20.36.55.40|1 '76561199349123785'
+[18:53:29]: New incoming connection 20.36.55.40|1 <8069338257541991582>
+[18:53:29]: Client connected from 20.36.55.40|1 <8069338257541991582>
+[18:53:29]: ValidateGameSessionToken GUID<8069338257541991582>
+[18:53:29]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[18:53:29]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[18:53:30]: [Steam] Authenticated client '76561199349123785'
+[18:53:30]: [Shard] Completed incoming migration #31 for (KU_RR3k3C2b)
+[18:53:38]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000192
+[18:53:38]: Player will spawn close to portal #1	
+[18:53:38]: Spawning player at: [Load] (531.91, 0.00, 273.99)	
+[18:54:59]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_spawn("lightbulb",10)) @(-221.80, -99.16)
+[18:55:32]: Activating portal[1] to 1	
+[18:55:32]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000192
+[18:55:32]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[18:55:32]: [Shard] #32 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000192
+[18:55:32]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[18:55:32]: [Steam] SendUserDisconnect for '76561199349123785'
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:00:58]: Available disk space for save files: 24458 MB
+[19:00:58]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000192
+[19:00:58]: Serializing world: session/01EF7F7A1CFE0E43/0000000192
+[19:01:08]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_spawn("lightbulb",10)) @(-266.24, -131.40)
+[19:03:57]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_gonext("ancient_altar")) @(-477.24, -31.05)
+[19:03:57]: Finding a 	ancient_altar	
+[19:03:57]: Found 108910 (1/2)	
+[19:05:26]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_gonext("toadstool")) @(-478.74, -177.31)
+[19:05:26]: Finding a 	toadstool	
+[19:05:26]: Could not find any objects matching 'toadstool'.	
+[19:05:34]: [P2P] Session timed out for '76561199349123785'
+[19:05:34]: [P2P] Remove session: 20.36.55.40|1 '76561199349123785'
+[19:06:50]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_gonext("pond")) @(-476.96, -175.84)
+[19:06:50]: Finding a 	pond	
+[19:06:50]: Found 100865 (1/3)	
+[19:06:54]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_gonext("pond")) @(-426.38, 446.81)
+[19:06:54]: Finding a 	pond	
+[19:06:54]: Found 100866 (2/3)	
+[19:06:56]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_gonext("pond")) @(-211.00, 429.12)
+[19:06:56]: Finding a 	pond	
+[19:06:56]: Found 100867 (3/3)	
+[19:07:39]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_godmode()) @(-333.62, 411.42)
+[19:07:39]: God mode: false	
+[19:08:01]: Activating portal[2] to 1	
+[19:08:01]: Serializing user: session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000193
+[19:08:02]: [Shard] Migration request: (KU_pa5CjQ8L) to [SHDMASTER](1)
+[19:08:02]: [Shard] #33 <- session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000193
+[19:08:02]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[19:08:02]: [Steam] SendUserDisconnect for '76561198857303760'
+[19:08:58]: Available disk space for save files: 24450 MB
+[19:08:59]: Serializing world: session/01EF7F7A1CFE0E43/0000000193
+[19:08:59]: Truncating to snapshot #193...
+[19:08:59]:  - session/01EF7F7A1CFE0E43/0000000186
+[19:08:59]:  - session/01EF7F7A1CFE0E43/0000000185
+[19:08:59]:  - session/01EF7F7A1CFE0E43/0000000184
+[19:08:59]:  - session/01EF7F7A1CFE0E43/0000000187
+[19:08:59]:  - session/01EF7F7A1CFE0E43/0000000183
+[19:08:59]:    5 file(s) removed
+[19:17:01]: Available disk space for save files: 24458 MB
+[19:17:02]: Serializing world: session/01EF7F7A1CFE0E43/0000000194
+[19:17:02]: Truncating to snapshot #194...
+[19:17:02]:  - session/01EF7F7A1CFE0E43/0000000188
+[19:17:02]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000181
+[19:17:02]:    2 file(s) removed
+[19:18:06]: [P2P] Session timed out for '76561198857303760'
+[19:18:06]: [P2P] Remove session: 20.36.55.39|1 '76561198857303760'
+[19:25:02]: Available disk space for save files: 24453 MB
+[19:25:02]: Serializing world: session/01EF7F7A1CFE0E43/0000000195
+[19:25:02]: Truncating to snapshot #195...
+[19:25:02]:  - session/01EF7F7A1CFE0E43/0000000189
+[19:25:02]:  - session/01EF7F7A1CFE0E43/A7ME856BB8GL/0000000189
+[19:25:02]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000189
+[19:25:02]:    3 file(s) removed
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:40]: Sim paused
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
