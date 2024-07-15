@@ -1447,3 +1447,176 @@
 [11:34:56]: Sim paused
 [11:36:57]: [P2P] Session timed out for '76561199349123785'
 [11:36:57]: [P2P] Remove session: 20.36.55.33|1 '76561199349123785'
+[12:00:05]: [200] Account Communication Success (6)
+[12:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:30:06]: [200] Account Communication Success (6)
+[12:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:00:06]: [200] Account Communication Success (6)
+[13:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:30:06]: [200] Account Communication Success (6)
+[13:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:39:59]: Sim unpaused
+[13:42:20]: Available disk space for save files: 24512 MB
+[13:42:20]: Serializing world: session/01EF7F7A1CFE0E43/0000000150
+[13:42:20]: Truncating to snapshot #150...
+[13:42:20]:  - session/01EF7F7A1CFE0E43/0000000144
+[13:42:20]:    1 file(s) removed
+[13:50:20]: Available disk space for save files: 24508 MB
+[13:50:21]: Serializing world: session/01EF7F7A1CFE0E43/0000000151
+[13:50:21]: Truncating to snapshot #151...
+[13:50:21]:  - session/01EF7F7A1CFE0E43/0000000145
+[13:50:21]:    1 file(s) removed
+[13:58:21]: Available disk space for save files: 24503 MB
+[13:58:21]: Serializing world: session/01EF7F7A1CFE0E43/0000000152
+[13:58:21]: Truncating to snapshot #152...
+[13:58:21]:  - session/01EF7F7A1CFE0E43/0000000146
+[13:58:21]:    1 file(s) removed
+[14:00:06]: [200] Account Communication Success (6)
+[14:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:01:40]: [Shard] #9 -> session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000153
+[14:01:40]: [Shard] Received migration #9 data for (KU_521dUXRS)
+[14:01:43]: [P2P] Session request for '76561198865123068'
+[14:01:49]: [P2P] Create session: 20.36.55.34|1 '76561198865123068'
+[14:01:49]: [P2P] Received from 20.36.55.34|1 '76561198865123068'
+[14:01:49]: [P2P] Sent to 20.36.55.34|1 '76561198865123068'
+[14:01:51]: New incoming connection 20.36.55.34|1 <258492821914264241>
+[14:01:51]: Client connected from 20.36.55.34|1 <258492821914264241>
+[14:01:51]: ValidateGameSessionToken GUID<258492821914264241>
+[14:01:51]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[14:01:52]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[14:01:52]: [Steam] Authenticated client '76561198865123068'
+[14:01:52]: [Shard] Completed incoming migration #9 for (KU_521dUXRS)
+[14:03:21]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000153
+[14:03:21]: Player will spawn close to portal #1	
+[14:03:21]: Spawning player at: [Load] (529.34, 0.00, 272.39)	
+[14:06:22]: Available disk space for save files: 24498 MB
+[14:06:22]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000153
+[14:06:22]: Serializing world: session/01EF7F7A1CFE0E43/0000000153
+[14:13:30]: [Steam] SendUserDisconnect for '76561198865123068'
+[14:13:30]: Connection lost to 20.36.55.34|1 <258492821914264241>
+[14:13:31]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000154
+[14:14:22]: Available disk space for save files: 24490 MB
+[14:14:23]: Serializing world: session/01EF7F7A1CFE0E43/0000000154
+[14:14:23]: Truncating to snapshot #154...
+[14:14:23]:  - session/01EF7F7A1CFE0E43/0000000148
+[14:14:23]:  - session/01EF7F7A1CFE0E43/0000000147
+[14:14:23]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000148
+[14:14:23]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000142
+[14:14:23]:    4 file(s) removed
+[14:14:26]: [Shard] Received forward request #10 for (KU_521dUXRS)
+[14:14:28]: [P2P] Received from 20.36.55.34|1 '76561198865123068'
+[14:14:28]: [P2P] Sent to 20.36.55.34|1 '76561198865123068'
+[14:15:29]: [Shard] Migration by user ('KU_521dUXRS') failed (178). 
+[14:15:29]: [Shard] Received forward request #11 for (KU_521dUXRS)
+[14:15:32]: [P2P] Received from 20.36.55.34|1 '76561198865123068'
+[14:15:32]: [P2P] Sent to 20.36.55.34|1 '76561198865123068'
+[14:15:33]: New incoming connection 20.36.55.34|1 <2102068307275665673>
+[14:15:33]: Client connected from 20.36.55.34|1 <2102068307275665673>
+[14:15:33]: ValidateGameSessionToken GUID<2102068307275665673>
+[14:15:35]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[14:15:37]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[14:15:37]: [Steam] Authenticated client '76561198865123068'
+[14:15:40]: There is no active event to validate against.
+[14:15:40]: [Shard] Completed incoming migration #11 for (KU_521dUXRS)
+[14:16:49]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000154
+[14:16:50]: Spawning player at: [Load] (384.71, 0.00, 415.84)	
+[14:17:58]: Could not find anim [death] in bank [ghost]
+[14:17:58]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000155
+[14:18:04]: [Steam] SendUserDisconnect for '76561198865123068'
+[14:18:04]: Connection lost to 20.36.55.34|1 <2102068307275665673>
+[14:18:04]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000155
+[14:18:35]: [P2P] Connection failed for '76561198865123068'
+[14:20:55]: [Shard] Received forward request #12 for (KU_521dUXRS)
+[14:21:06]: [P2P] Received from 20.36.55.34|1 '76561198865123068'
+[14:21:06]: [P2P] Sent to 20.36.55.34|1 '76561198865123068'
+[14:21:07]: New incoming connection 20.36.55.34|1 <3397191479106498181>
+[14:21:07]: Client connected from 20.36.55.34|1 <3397191479106498181>
+[14:21:07]: ValidateGameSessionToken GUID<3397191479106498181>
+[14:21:08]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[14:21:10]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[14:21:10]: [Steam] Authenticated client '76561198865123068'
+[14:21:11]: There is no active event to validate against.
+[14:21:11]: [Shard] Completed incoming migration #12 for (KU_521dUXRS)
+[14:22:23]: Available disk space for save files: 24488 MB
+[14:22:23]: Serializing world: session/01EF7F7A1CFE0E43/0000000155
+[14:22:23]: Truncating to snapshot #155...
+[14:22:23]:  - session/01EF7F7A1CFE0E43/0000000149
+[14:22:23]:    1 file(s) removed
+[14:22:38]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000155
+[14:22:38]: Could not find anim [idle_loop] in bank [ghost]
+[14:22:38]: Spawning player at: [Load] (360.75, 0.00, 413.57)	
+[14:23:49]: [Steam] SendUserDisconnect for '76561198865123068'
+[14:23:49]: Connection lost to 20.36.55.34|1 <3397191479106498181>
+[14:23:50]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000156
+[14:24:02]: [P2P] Connection failed for '76561198865123068'
+[14:30:06]: [200] Account Communication Success (6)
+[14:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:30:24]: Available disk space for save files: 24484 MB
+[14:30:24]: Serializing world: session/01EF7F7A1CFE0E43/0000000156
+[14:30:24]: Truncating to snapshot #156...
+[14:30:24]:  - session/01EF7F7A1CFE0E43/0000000150
+[14:30:24]:    1 file(s) removed
+[14:31:55]: [Shard] Received forward request #13 for (KU_521dUXRS)
+[14:32:31]: [P2P] Received from 20.36.55.34|1 '76561198865123068'
+[14:32:31]: [P2P] Sent to 20.36.55.34|1 '76561198865123068'
+[14:32:52]: [Shard] Migration by user ('KU_521dUXRS') failed (178). 
+[14:32:52]: [Shard] Received forward request #14 for (KU_521dUXRS)
+[14:32:55]: [P2P] Received from 20.36.55.34|1 '76561198865123068'
+[14:32:55]: [P2P] Sent to 20.36.55.34|1 '76561198865123068'
+[14:32:57]: New incoming connection 20.36.55.34|1 <959351140839560299>
+[14:32:57]: Client connected from 20.36.55.34|1 <959351140839560299>
+[14:32:57]: ValidateGameSessionToken GUID<959351140839560299>
+[14:32:57]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[14:32:59]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[14:32:59]: [Steam] Authenticated client '76561198865123068'
+[14:33:01]: There is no active event to validate against.
+[14:33:01]: [Shard] Completed incoming migration #14 for (KU_521dUXRS)
+[14:36:08]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000156
+[14:36:08]: Could not find anim [idle_loop] in bank [ghost]
+[14:36:08]: Spawning player at: [Load] (374.18, 0.00, 397.77)	
+[14:38:24]: Available disk space for save files: 24479 MB
+[14:38:24]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000157
+[14:38:24]: Serializing world: session/01EF7F7A1CFE0E43/0000000157
+[14:38:46]: Activating portal[1] to 1	
+[14:38:47]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000158
+[14:38:47]: [Shard] Migration request: (KU_521dUXRS) to [SHDMASTER](1)
+[14:38:47]: [Shard] #15 <- session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000158
+[14:38:47]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[14:38:47]: Invalid RPC sender: expected player, got userid	
+[14:38:48]: Ignored request to resume during migration
+[14:38:49]: [Steam] SendUserDisconnect for '76561198865123068'
+[14:41:04]: [Shard] #16 -> session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000158
+[14:41:04]: [Shard] Received migration #16 data for (KU_521dUXRS)
+[14:41:12]: [P2P] Received from 20.36.55.34|1 '76561198865123068'
+[14:41:12]: [P2P] Sent to 20.36.55.34|1 '76561198865123068'
+[14:41:17]: New incoming connection 20.36.55.34|1 <8419560915336455026>
+[14:41:17]: Client connected from 20.36.55.34|1 <8419560915336455026>
+[14:41:17]: ValidateGameSessionToken GUID<8419560915336455026>
+[14:41:18]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[14:41:19]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[14:41:19]: [Steam] Authenticated client '76561198865123068'
+[14:41:19]: [Shard] Completed incoming migration #16 for (KU_521dUXRS)
+[14:42:01]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000158
+[14:42:01]: Player will spawn close to portal #1	
+[14:42:01]: Spawning player at: [Load] (531.92, 0.00, 269.01)	
+[14:46:25]: Available disk space for save files: 24471 MB
+[14:46:25]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000158
+[14:46:25]: Serializing world: session/01EF7F7A1CFE0E43/0000000158
+[14:47:45]: Activating portal[1] to 1	
+[14:47:46]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000159
+[14:47:46]: [Shard] Migration request: (KU_521dUXRS) to [SHDMASTER](1)
+[14:47:46]: [Shard] #17 <- session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000159
+[14:47:46]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[14:47:46]: Ignored request to resume during migration
+[14:47:47]: [Steam] SendUserDisconnect for '76561198865123068'
+[14:54:25]: Available disk space for save files: 24463 MB
+[14:54:26]: Serializing world: session/01EF7F7A1CFE0E43/0000000159
+[14:54:26]: Truncating to snapshot #159...
+[14:54:26]:  - session/01EF7F7A1CFE0E43/0000000151
+[14:54:26]:  - session/01EF7F7A1CFE0E43/0000000153
+[14:54:26]:  - session/01EF7F7A1CFE0E43/0000000152
+[14:54:26]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000153
+[14:54:26]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000064
+[14:54:26]:    5 file(s) removed
+[14:57:48]: [P2P] Session timed out for '76561198865123068'
+[14:57:48]: [P2P] Remove session: 20.36.55.34|1 '76561198865123068'
