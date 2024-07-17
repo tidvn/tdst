@@ -2649,3 +2649,184 @@ Resurrection is always available via the Florid Postern.
 [11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [11:30:05]: [200] Account Communication Success (6)
 [11:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:00:05]: [200] Account Communication Success (6)
+[12:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:30:05]: [200] Account Communication Success (6)
+[12:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:00:05]: [200] Account Communication Success (6)
+[13:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:30:05]: [200] Account Communication Success (6)
+[13:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:38:50]: [P2P] Session request for '76561198857303760'
+[13:39:05]: [P2P] Connection failed for '76561198857303760'
+[13:41:14]: [P2P] Create session: 79.251.217.91|1 '76561199349123785'
+[13:41:14]: [P2P] Received from 79.251.217.91|1 '76561199349123785'
+[13:41:14]: [P2P] Sent to 79.251.217.91|1 '76561199349123785'
+[13:41:19]: New incoming connection 79.251.217.91|1 <250592721434485828>
+[13:41:19]: Client connected from 79.251.217.91|1 <250592721434485828>
+[13:41:19]: ValidateGameSessionToken GUID<250592721434485828>
+[13:41:19]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[13:41:22]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[13:41:22]: [Steam] Authenticated client '76561199349123785'
+[13:41:23]: There is no active event to validate against.
+[13:41:23]: [Shard] Read save location file for (KU_RR3k3C2b)
+[13:41:36]: [P2P] Create session: 79.251.217.92|1 '76561198857303760'
+[13:41:36]: [P2P] Received from 79.251.217.92|1 '76561198857303760'
+[13:41:36]: [P2P] Sent to 79.251.217.92|1 '76561198857303760'
+[13:41:41]: New incoming connection 79.251.217.92|1 <1589835131116823626>
+[13:41:41]: Client connected from 79.251.217.92|1 <1589835131116823626>
+[13:41:41]: ValidateGameSessionToken GUID<1589835131116823626>
+[13:41:41]: Client authenticated: (KU_pa5CjQ8L) tranphonglq
+[13:41:44]: [Steam] SendUserConnectAndAuthenticate for '76561198857303760'
+[13:41:44]: [Steam] Authenticated client '76561198857303760'
+[13:41:45]: There is no active event to validate against.
+[13:41:45]: [Shard] Read save location file for (KU_pa5CjQ8L)
+[13:42:04]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000305
+[13:42:04]: Spawning player at: [Load] (-135.42, 0.00, 211.70)	
+[13:42:04]: Sim unpaused
+[13:42:05]: New time stamps for everyone at	1721220151	
+[13:42:05]: New time stamps for everyone at	1721220151	
+[13:44:16]: [Steam] SendUserDisconnect for '76561199349123785'
+[13:44:16]: Connection lost to 79.251.217.91|1 <250592721434485828>
+[13:44:16]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[13:44:16]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000306
+[13:44:16]: Sim paused
+[13:44:26]: Resuming user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000283
+[13:44:26]: Spawning player at: [Load] (-122.41, 0.00, 204.89)	
+[13:44:26]: Sim unpaused
+[13:44:45]: [P2P] Received from 79.251.217.91|1 '76561199349123785'
+[13:44:45]: [P2P] Sent to 79.251.217.91|1 '76561199349123785'
+[13:44:47]: New incoming connection 79.251.217.91|1 <1407789618152037300>
+[13:44:47]: Client connected from 79.251.217.91|1 <1407789618152037300>
+[13:44:47]: ValidateGameSessionToken GUID<1407789618152037300>
+[13:44:48]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[13:44:48]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[13:44:48]: [Steam] Authenticated client '76561199349123785'
+[13:44:49]: There is no active event to validate against.
+[13:44:49]: [Shard] Read save location file for (KU_RR3k3C2b)
+[13:45:26]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000306
+[13:45:26]: Spawning player at: [Load] (-135.42, 0.00, 211.70)	
+[13:45:33]: [Steam] SendUserDisconnect for '76561198857303760'
+[13:45:33]: Connection lost to 79.251.217.92|1 <1589835131116823626>
+[13:45:33]: [Shard] (KU_pa5CjQ8L) disconnected from [SHDMASTER](1)
+[13:45:34]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000306
+[13:45:44]: Available disk space for save files: 24330 MB
+[13:45:44]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000306
+[13:45:45]: Serializing world: session/2CE9191ADB245DC6/0000000306
+[13:46:02]: [P2P] Received from 79.251.217.92|1 '76561198857303760'
+[13:46:02]: [P2P] Sent to 79.251.217.92|1 '76561198857303760'
+[13:46:09]: New incoming connection 79.251.217.92|1 <2938614114873826311>
+[13:46:09]: Client connected from 79.251.217.92|1 <2938614114873826311>
+[13:46:09]: ValidateGameSessionToken GUID<2938614114873826311>
+[13:46:09]: Client authenticated: (KU_pa5CjQ8L) tranphonglq
+[13:46:10]: [Steam] SendUserConnectAndAuthenticate for '76561198857303760'
+[13:46:10]: [Steam] Authenticated client '76561198857303760'
+[13:46:12]: There is no active event to validate against.
+[13:46:12]: [Shard] Read save location file for (KU_pa5CjQ8L)
+[13:46:41]: [Steam] SendUserDisconnect for '76561199349123785'
+[13:46:41]: Connection lost to 79.251.217.91|1 <1407789618152037300>
+[13:46:41]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[13:46:41]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000307
+[13:46:41]: Sim paused
+[13:48:14]: Resuming user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000306
+[13:48:14]: Spawning player at: [Load] (-122.41, 0.00, 204.89)	
+[13:48:14]: Sim unpaused
+[13:49:50]: Server Autopaused	
+[13:49:50]: Server Unpaused	
+[13:49:54]: Server Autopaused	
+[13:49:54]: Server Unpaused	
+[13:50:05]: Server Autopaused	
+[13:50:07]: Server Unpaused	
+[13:50:12]: Server Autopaused	
+[13:50:12]: Server Unpaused	
+[13:50:21]: [Steam] SendUserDisconnect for '76561198857303760'
+[13:50:21]: Connection lost to 79.251.217.92|1 <2938614114873826311>
+[13:50:21]: [Shard] (KU_pa5CjQ8L) disconnected from [SHDMASTER](1)
+[13:50:22]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000307
+[13:50:22]: Sim paused
+[13:52:42]: [P2P] Connection failed for '76561198857303760'
+[13:56:40]: [P2P] Session timed out for '76561199349123785'
+[13:56:40]: [P2P] Remove session: 79.251.217.91|1 '76561199349123785'
+[14:00:05]: [200] Account Communication Success (6)
+[14:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:00:21]: [P2P] Session timed out for '76561198857303760'
+[14:00:21]: [P2P] Remove session: 79.251.217.92|1 '76561198857303760'
+[14:14:16]: [P2P] Create session: 79.251.217.93|1 '76561198857303760'
+[14:14:16]: [P2P] Received from 79.251.217.93|1 '76561198857303760'
+[14:14:16]: [P2P] Sent to 79.251.217.93|1 '76561198857303760'
+[14:14:31]: [P2P] Received from 79.251.217.93|1 '76561198857303760'
+[14:14:31]: [P2P] Sent to 79.251.217.93|1 '76561198857303760'
+[14:14:31]: New incoming connection 79.251.217.93|1 <2277167919841773810>
+[14:14:31]: Client connected from 79.251.217.93|1 <2277167919841773810>
+[14:14:31]: ValidateGameSessionToken GUID<2277167919841773810>
+[14:14:32]: Client authenticated: (KU_pa5CjQ8L) tranphonglq
+[14:14:35]: [Steam] SendUserConnectAndAuthenticate for '76561198857303760'
+[14:14:35]: [Steam] Authenticated client '76561198857303760'
+[14:14:36]: There is no active event to validate against.
+[14:14:36]: [Shard] Read save location file for (KU_pa5CjQ8L)
+[14:15:43]: Resuming user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000307
+[14:15:43]: Spawning player at: [Load] (-122.41, 0.00, 204.89)	
+[14:15:43]: Sim unpaused
+[14:15:47]: New time stamps for everyone at	1721222173	
+[14:15:47]: New time stamps for everyone at	1721222173	
+[14:15:58]: Server Autopaused	
+[14:15:58]: Server Unpaused	
+[14:16:00]: Server Autopaused	
+[14:16:01]: Server Unpaused	
+[14:16:02]: Server Autopaused	
+[14:16:02]: Server Unpaused	
+[14:16:05]: Server Autopaused	
+[14:16:06]: Server Unpaused	
+[14:16:08]: Server Autopaused	
+[14:16:09]: Server Unpaused	
+[14:16:15]: Server Autopaused	
+[14:16:16]: Server Unpaused	
+[14:16:18]: Server Autopaused	
+[14:16:18]: Server Unpaused	
+[14:16:20]: Server Autopaused	
+[14:16:21]: Server Unpaused	
+[14:16:25]: Server Autopaused	
+[14:16:26]: Server Unpaused	
+[14:16:32]: Server Autopaused	
+[14:16:32]: Server Unpaused	
+[14:16:33]: Server Autopaused	
+[14:16:35]: Server Unpaused	
+[14:16:48]: Server Autopaused	
+[14:16:50]: Server Unpaused	
+[14:17:04]: Server Autopaused	
+[14:17:06]: Server Unpaused	
+[14:17:10]: Server Autopaused	
+[14:17:11]: Server Unpaused	
+[14:17:26]: Server Autopaused	
+[14:17:27]: Server Unpaused	
+[14:17:44]: [Steam] SendUserDisconnect for '76561198857303760'
+[14:17:44]: Connection lost to 79.251.217.93|1 <2277167919841773810>
+[14:17:44]: [Shard] (KU_pa5CjQ8L) disconnected from [SHDMASTER](1)
+[14:17:44]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000307
+[14:17:44]: Sim paused
+[14:17:55]: [P2P] Connection failed for '76561198857303760'
+[14:23:50]: [P2P] Received from 79.251.217.93|1 '76561198857303760'
+[14:23:50]: [P2P] Sent to 79.251.217.93|1 '76561198857303760'
+[14:23:51]: New incoming connection 79.251.217.93|1 <3907004717323895709>
+[14:23:51]: Client connected from 79.251.217.93|1 <3907004717323895709>
+[14:23:51]: ValidateGameSessionToken GUID<3907004717323895709>
+[14:23:51]: Client authenticated: (KU_pa5CjQ8L) tranphonglq
+[14:23:52]: [Steam] SendUserConnectAndAuthenticate for '76561198857303760'
+[14:23:52]: [Steam] Authenticated client '76561198857303760'
+[14:23:53]: There is no active event to validate against.
+[14:23:53]: [Shard] Read save location file for (KU_pa5CjQ8L)
+[14:25:32]: Resuming user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000307
+[14:25:32]: Spawning player at: [Load] (-136.81, 0.00, 230.08)	
+[14:25:32]: Sim unpaused
+[14:26:03]: Server Autopaused	
+[14:26:04]: Server Unpaused	
+[14:26:14]: [Steam] SendUserDisconnect for '76561198857303760'
+[14:26:14]: Connection lost to 79.251.217.93|1 <3907004717323895709>
+[14:26:14]: [Shard] (KU_pa5CjQ8L) disconnected from [SHDMASTER](1)
+[14:26:15]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000307
+[14:26:15]: Sim paused
+[14:26:32]: [P2P] Connection failed for '76561198857303760'
+[14:30:05]: [200] Account Communication Success (6)
+[14:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:36:14]: [P2P] Session timed out for '76561198857303760'
+[14:36:14]: [P2P] Remove session: 79.251.217.93|1 '76561198857303760'
