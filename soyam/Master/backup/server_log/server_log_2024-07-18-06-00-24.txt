@@ -1,0 +1,3279 @@
+[00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 620148
+[00:00:00]: Current time: Wed Jul 17 21:09:38 2024
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: ip-172-31-23-55
+[00:00:00]: Release(Kernel) Version: 6.5.0-1016-aws
+[00:00:00]: Kernel Build Timestamp: #16~22.04.1-Ubuntu SMP Wed Mar 13 18:54:49 UTC 2024
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 620148 LINUX
+[00:00:00]: Build Date: 2563
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 646873 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (127025556547136)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:3.38
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (127025434056256)
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
+[00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: Running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: [Workshop] Item query page 0, size: 15, total size: 15
+[00:00:01]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
+[00:00:01]: [Workshop] Item query sent
+[00:00:01]: [Workshop] ItemQuery got this many results: 15, matching: 15
+[00:00:01]: [Workshop] ModQuery got 15 results
+[00:00:01]: [Workshop] ModQuery already have IDs: {3.0,1111658995} {89,1185229307} {2.16,1207269058} {1.08,1530801499} {1.1.5,1595631294} {1.5,2078243581} {1.10,2208128427} {1.1,2281925291} {1.3.6,2324689937} {1.8,356930882} {1.4.5,362175979} {1.7.5,378160973} {full 4,466732225} {1.6.8.1,569043634} {0.58,666155465}
+[00:00:01]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:01]: [Workshop] ItemQuery finished downloading everything
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: modoverrides.lua enabling workshop-1530801499	
+[00:00:01]: modoverrides.lua enabling workshop-666155465	
+[00:00:01]: modoverrides.lua enabling workshop-569043634	
+[00:00:01]: modoverrides.lua enabling workshop-2281925291	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-356930882	
+[00:00:01]: modoverrides.lua enabling workshop-466732225	
+[00:00:01]: modoverrides.lua enabling workshop-1207269058	
+[00:00:01]: modoverrides.lua enabling workshop-1111658995	
+[00:00:01]: modoverrides.lua enabling workshop-2324689937	
+[00:00:01]: modoverrides.lua enabling workshop-362175979	
+[00:00:01]: modoverrides.lua enabling workshop-2208128427	
+[00:00:01]: modoverrides.lua enabling workshop-1185229307	
+[00:00:01]: modoverrides.lua enabling workshop-1595631294	
+[00:00:01]: modoverrides.lua enabling workshop-2078243581	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-356930882_CLIENT	
+[00:00:01]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.8	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2281925291_CLIENT	
+[00:00:01]: Loading mod: workshop-2281925291 (Finder Redux) Version:1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:00:01]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:01]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:01]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2078243581_CLIENT	
+[00:00:01]: Loading mod: workshop-2078243581 (Display Attack Range) Version:1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1530801499_CLIENT	
+[00:00:01]: Loading mod: workshop-1530801499 (Fast Travel (GUI)) Version:1.08	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-569043634_CLIENT	
+[00:00:01]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:01]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1111658995_CLIENT	
+[00:00:01]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:01]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:01]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:89	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2324689937_CLIENT	
+[00:00:01]: Loading mod: workshop-2324689937 (More equip slots) Version:1.3.6	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2208128427_CLIENT	
+[00:00:01]: Loading mod: workshop-2208128427 (Loot Pump) Version:1.10	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1530801499	
+[00:00:01]: Overriding mod workshop-1530801499's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-1530801499's option SanityCost with value 1	
+[00:00:01]: Overriding mod workshop-1530801499's option HungerCost with value 2	
+[00:00:01]: Overriding mod workshop-1530801499's option ArrowsignEnable with value false	
+[00:00:01]: Overriding mod workshop-1530801499's option CountdownEnable with value false	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:01]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:01]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option skeleton with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option SpawnProtection with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2281925291	
+[00:00:01]: Overriding mod workshop-2281925291's option TINT with value 1	
+[00:00:01]: Overriding mod workshop-2281925291's option INGREDIENT with value true	
+[00:00:01]: Overriding mod workshop-2281925291's option ACTIVEITEM with value true	
+[00:00:01]: Overriding mod workshop-2281925291's option Client and server options with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses3 with value 10000000	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2324689937	
+[00:00:01]: Overriding mod workshop-2324689937's option config_render with value true	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_amulet with value true	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_heavy with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option Тype/slot mapping with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_dress with value extrabody2	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_costume with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_armor with value extrabody1	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_dress with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_backpack with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option Compatibility with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_armor with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option config_mannequin with value true	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_amulet with value extrabody3	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_backpack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2208128427	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_EQUIP with value false	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_SOUND with value true	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_SPEED with value 3	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_WALLS with value false	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_TWOZN with value false	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_SCALE with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:01]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:01]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:01]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:01]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:01]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:01]: Overriding mod workshop-1595631294's option SaltBox with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option BundleItems with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option Digornot with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2078243581	
+[00:00:01]: Overriding mod workshop-2078243581's option Type with value hit	
+[00:00:01]: Overriding mod workshop-2078243581's option Blue with value 0	
+[00:00:01]: Overriding mod workshop-2078243581's option Green with value 0	
+[00:00:01]: Overriding mod workshop-2078243581's option Display with value target	
+[00:00:01]: Overriding mod workshop-2078243581's option Projectile with value true	
+[00:00:01]: Overriding mod workshop-2078243581's option Red with value 1	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:01]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:01]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:01]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:01]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modmain.lua	
+[00:00:01]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:01]: ShowMe version:	0.58	
+[00:00:01]: show_food_units	-1	-1	-1	
+[00:00:01]: show_uses	-1	-1	-1	
+[00:00:01]: Detected language for ShowMe: 	auto		
+[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-2208128427 (Loot Pump)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2208128427 (Loot Pump)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2208128427 (Loot Pump)	Loading modmain.lua	
+[00:00:01]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	loot_pump	
+[00:00:01]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:01]: Mod: workshop-2078243581 (Display Attack Range)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2078243581 (Display Attack Range)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2078243581 (Display Attack Range)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-2324689937 (More equip slots)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2324689937 (More equip slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2324689937 (More equip slots)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:01]: Mod: workshop-2281925291 (Finder Redux)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2281925291 (Finder Redux)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2281925291 (Finder Redux)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-2281925291/main.lua	
+[00:00:01]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering Server mod namespace "workshop-1207269058"
+[00:00:02]: Registering Server mod namespace "workshop-1111658995"
+[00:00:02]: Registering Server mod namespace "showme"
+[00:00:02]: Registering Server mod namespace "finder_redux"
+[00:00:02]: Registering Server mod namespace "fasttravel"
+[00:00:02]: Registering Server mod namespace "workshop-378160973"
+[00:00:02]: Registering Server mod namespace "showmeshint"
+[00:00:02]: Registering Client mod namespace "workshop-1111658995"
+[00:00:02]: Registering Client mod namespace "workshop-1185229307"
+[00:00:02]: Registering Client mod namespace "finder_redux"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: ConsoleScreenSettings could not load consolescreen	
+[00:00:02]: bloom_enabled	true	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:03]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
+[00:00:03]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
+[00:00:03]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (127025422509632)
+[00:00:04]: FilesExistAsyncThread started (24531 files)...
+[00:00:04]: 	Load FE: done	
+[00:00:04]: Check for write access: TRUE
+[00:00:04]: Check for read access: TRUE
+[00:00:04]: Available disk space for save files: 24362 MB
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:04]: [200] Account Communication Success (6)
+[00:00:04]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Master/save/cached_userid
+[00:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[00:00:04]: Starting Dedicated Server Game	
+[00:00:04]: Network tick rate: U=15(2), D=0
+[00:00:04]: About to start a server with the following settings:
+[00:00:04]:   Dedicated: true
+[00:00:04]:   Online: true
+[00:00:04]:   Passworded: true
+[00:00:04]:   ServerPort: 10999
+[00:00:04]:   SteamAuthPort: 8766
+[00:00:04]:   SteamMasterServerPort: 27016
+[00:00:04]:   ClanID: false
+[00:00:04]:   ClanOnly: false
+[00:00:04]:   ClanAdmin: false
+[00:00:04]:   LanOnly: false
+[00:00:04]:   FriendsOnly: false
+[00:00:04]:   EnableAutosaver: true
+[00:00:04]:   EncodeUserPath: true
+[00:00:04]:   PVP: false
+[00:00:04]:   MaxPlayers: 10
+[00:00:04]:   GameMode: survival
+[00:00:04]:   OverridenDNS: 
+[00:00:04]:   PauseWhenEmpty: true
+[00:00:04]:   IdleTimeout: 1800s
+[00:00:04]:   VoteEnabled: true
+[00:00:04]:   InternetBroadcasting: true
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1530801499	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
+[00:00:04]: Online Server Started on port: 10999
+[00:00:04]: SUCCESS: Loaded modoverrides.lua	
+[00:00:04]: Found a level data override file with these contents:	
+[00:00:04]: 	K: 	desc	 V: 	A never-ending Don't Starve sandbox.
+Resurrection is always available via the Florid Postern.	
+[00:00:04]: 	K: 	hideminimap	 V: 	false	
+[00:00:04]: 	K: 	id	 V: 	ENDLESS	
+[00:00:04]: 	K: 	location	 V: 	forest	
+[00:00:04]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:04]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:04]: 	K: 	name	 V: 	Endless	
+[00:00:04]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:04]: 	K: 	override_level_string	 V: 	false	
+[00:00:04]: 	K: 	overrides	 V: 	table: 0xd36c580	
+[00:00:04]: 		K: 	alternatehunt	 V: 	default	
+[00:00:04]: 		K: 	angrybees	 V: 	default	
+[00:00:04]: 		K: 	antliontribute	 V: 	default	
+[00:00:04]: 		K: 	autumn	 V: 	default	
+[00:00:04]: 		K: 	bananabush_portalrate	 V: 	default	
+[00:00:04]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:04]: 		K: 	bats_setting	 V: 	default	
+[00:00:04]: 		K: 	bearger	 V: 	default	
+[00:00:04]: 		K: 	beefalo	 V: 	default	
+[00:00:04]: 		K: 	beefaloheat	 V: 	rare	
+[00:00:04]: 		K: 	beequeen	 V: 	often	
+[00:00:04]: 		K: 	bees	 V: 	default	
+[00:00:04]: 		K: 	bees_setting	 V: 	default	
+[00:00:04]: 		K: 	berrybush	 V: 	uncommon	
+[00:00:04]: 		K: 	birds	 V: 	default	
+[00:00:04]: 		K: 	boons	 V: 	default	
+[00:00:04]: 		K: 	branching	 V: 	default	
+[00:00:04]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:04]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:04]: 		K: 	butterfly	 V: 	default	
+[00:00:04]: 		K: 	buzzard	 V: 	default	
+[00:00:04]: 		K: 	cactus	 V: 	default	
+[00:00:04]: 		K: 	cactus_regrowth	 V: 	default	
+[00:00:04]: 		K: 	carrot	 V: 	default	
+[00:00:04]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:04]: 		K: 	catcoon	 V: 	default	
+[00:00:04]: 		K: 	catcoons	 V: 	default	
+[00:00:04]: 		K: 	chess	 V: 	default	
+[00:00:04]: 		K: 	cookiecutters	 V: 	default	
+[00:00:04]: 		K: 	crabking	 V: 	often	
+[00:00:04]: 		K: 	crow_carnival	 V: 	default	
+[00:00:04]: 		K: 	darkness	 V: 	default	
+[00:00:04]: 		K: 	day	 V: 	default	
+[00:00:04]: 		K: 	daywalker2	 V: 	often	
+[00:00:04]: 		K: 	deciduousmonster	 V: 	often	
+[00:00:04]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:04]: 		K: 	deerclops	 V: 	often	
+[00:00:04]: 		K: 	dragonfly	 V: 	often	
+[00:00:04]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:04]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:04]: 		K: 	extrastartingitems	 V: 	15	
+[00:00:04]: 		K: 	eyeofterror	 V: 	often	
+[00:00:04]: 		K: 	fishschools	 V: 	default	
+[00:00:04]: 		K: 	flint	 V: 	default	
+[00:00:04]: 		K: 	flowers	 V: 	default	
+[00:00:04]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:04]: 		K: 	frograin	 V: 	often	
+[00:00:04]: 		K: 	frogs	 V: 	default	
+[00:00:04]: 		K: 	fruitfly	 V: 	often	
+[00:00:04]: 		K: 	ghostenabled	 V: 	always	
+[00:00:04]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:04]: 		K: 	gnarwail	 V: 	default	
+[00:00:04]: 		K: 	goosemoose	 V: 	often	
+[00:00:04]: 		K: 	grass	 V: 	uncommon	
+[00:00:04]: 		K: 	grassgekkos	 V: 	default	
+[00:00:04]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:04]: 		K: 	has_ocean	 V: 	true	
+[00:00:04]: 		K: 	healthpenalty	 V: 	always	
+[00:00:04]: 		K: 	hound_mounds	 V: 	default	
+[00:00:04]: 		K: 	houndmound	 V: 	default	
+[00:00:04]: 		K: 	hounds	 V: 	default	
+[00:00:04]: 		K: 	hunger	 V: 	default	
+[00:00:04]: 		K: 	hunt	 V: 	default	
+[00:00:04]: 		K: 	junkyard	 V: 	default	
+[00:00:04]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:04]: 		K: 	klaus	 V: 	often	
+[00:00:04]: 		K: 	krampus	 V: 	often	
+[00:00:04]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:04]: 		K: 	lessdamagetaken	 V: 	none	
+[00:00:04]: 		K: 	liefs	 V: 	often	
+[00:00:04]: 		K: 	lightcrab_portalrate	 V: 	default	
+[00:00:04]: 		K: 	lightning	 V: 	default	
+[00:00:04]: 		K: 	lightninggoat	 V: 	default	
+[00:00:04]: 		K: 	loop	 V: 	default	
+[00:00:04]: 		K: 	lunarhail_frequency	 V: 	default	
+[00:00:04]: 		K: 	lureplants	 V: 	default	
+[00:00:04]: 		K: 	malbatross	 V: 	often	
+[00:00:04]: 		K: 	marshbush	 V: 	default	
+[00:00:04]: 		K: 	merm	 V: 	default	
+[00:00:04]: 		K: 	merms	 V: 	default	
+[00:00:04]: 		K: 	meteorshowers	 V: 	default	
+[00:00:04]: 		K: 	meteorspawner	 V: 	default	
+[00:00:04]: 		K: 	moles	 V: 	default	
+[00:00:04]: 		K: 	moles_setting	 V: 	default	
+[00:00:04]: 		K: 	monkeytail_portalrate	 V: 	default	
+[00:00:04]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:04]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:04]: 		K: 	moon_carrot	 V: 	default	
+[00:00:04]: 		K: 	moon_fissure	 V: 	default	
+[00:00:04]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:04]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:04]: 		K: 	moon_rock	 V: 	default	
+[00:00:04]: 		K: 	moon_sapling	 V: 	default	
+[00:00:04]: 		K: 	moon_spider	 V: 	default	
+[00:00:04]: 		K: 	moon_spiders	 V: 	default	
+[00:00:04]: 		K: 	moon_starfish	 V: 	default	
+[00:00:04]: 		K: 	moon_tree	 V: 	default	
+[00:00:04]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:04]: 		K: 	mosquitos	 V: 	default	
+[00:00:04]: 		K: 	mushroom	 V: 	default	
+[00:00:04]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:04]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:04]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:04]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:04]: 		K: 	ocean_otterdens	 V: 	default	
+[00:00:04]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:04]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:04]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:04]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:04]: 		K: 	otters_setting	 V: 	default	
+[00:00:04]: 		K: 	palmcone_seed_portalrate	 V: 	default	
+[00:00:04]: 		K: 	palmconetree	 V: 	default	
+[00:00:04]: 		K: 	palmconetree_regrowth	 V: 	default	
+[00:00:04]: 		K: 	penguins	 V: 	default	
+[00:00:04]: 		K: 	penguins_moon	 V: 	default	
+[00:00:04]: 		K: 	perd	 V: 	default	
+[00:00:04]: 		K: 	petrification	 V: 	default	
+[00:00:04]: 		K: 	pigs	 V: 	default	
+[00:00:04]: 		K: 	pigs_setting	 V: 	default	
+[00:00:04]: 		K: 	pirateraids	 V: 	default	
+[00:00:04]: 		K: 	ponds	 V: 	default	
+[00:00:04]: 		K: 	portal_spawnrate	 V: 	default	
+[00:00:04]: 		K: 	portalresurection	 V: 	always	
+[00:00:04]: 		K: 	powder_monkey_portalrate	 V: 	default	
+[00:00:04]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:04]: 		K: 	rabbits	 V: 	default	
+[00:00:04]: 		K: 	rabbits_setting	 V: 	default	
+[00:00:04]: 		K: 	reeds	 V: 	default	
+[00:00:04]: 		K: 	reeds_regrowth	 V: 	default	
+[00:00:04]: 		K: 	regrowth	 V: 	default	
+[00:00:04]: 		K: 	resettime	 V: 	none	
+[00:00:04]: 		K: 	rifts_enabled	 V: 	default	
+[00:00:04]: 		K: 	rifts_frequency	 V: 	default	
+[00:00:04]: 		K: 	roads	 V: 	default	
+[00:00:04]: 		K: 	rock	 V: 	default	
+[00:00:04]: 		K: 	rock_ice	 V: 	default	
+[00:00:04]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:04]: 		K: 	sapling	 V: 	uncommon	
+[00:00:04]: 		K: 	season_start	 V: 	default	
+[00:00:04]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:04]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:04]: 		K: 	sharkboi	 V: 	often	
+[00:00:04]: 		K: 	sharks	 V: 	default	
+[00:00:04]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:04]: 		K: 	spawnprotection	 V: 	default	
+[00:00:04]: 		K: 	specialevent	 V: 	default	
+[00:00:04]: 		K: 	spider_warriors	 V: 	default	
+[00:00:04]: 		K: 	spiderqueen	 V: 	often	
+[00:00:04]: 		K: 	spiders	 V: 	default	
+[00:00:04]: 		K: 	spiders_setting	 V: 	default	
+[00:00:04]: 		K: 	spring	 V: 	default	
+[00:00:04]: 		K: 	squid	 V: 	default	
+[00:00:04]: 		K: 	stageplays	 V: 	default	
+[00:00:04]: 		K: 	start_location	 V: 	default	
+[00:00:04]: 		K: 	summer	 V: 	default	
+[00:00:04]: 		K: 	summerhounds	 V: 	default	
+[00:00:04]: 		K: 	tallbirds	 V: 	default	
+[00:00:04]: 		K: 	task_set	 V: 	default	
+[00:00:04]: 		K: 	temperaturedamage	 V: 	default	
+[00:00:04]: 		K: 	tentacles	 V: 	default	
+[00:00:04]: 		K: 	terrariumchest	 V: 	default	
+[00:00:04]: 		K: 	touchstone	 V: 	default	
+[00:00:04]: 		K: 	trees	 V: 	default	
+[00:00:04]: 		K: 	tumbleweed	 V: 	default	
+[00:00:04]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:04]: 		K: 	walrus	 V: 	default	
+[00:00:04]: 		K: 	walrus_setting	 V: 	default	
+[00:00:04]: 		K: 	wasps	 V: 	default	
+[00:00:04]: 		K: 	weather	 V: 	default	
+[00:00:04]: 		K: 	wildfires	 V: 	default	
+[00:00:04]: 		K: 	winter	 V: 	default	
+[00:00:04]: 		K: 	winterhounds	 V: 	default	
+[00:00:04]: 		K: 	winters_feast	 V: 	default	
+[00:00:04]: 		K: 	wobsters	 V: 	default	
+[00:00:04]: 		K: 	world_size	 V: 	huge	
+[00:00:04]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:04]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_dragonfly	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:04]: 	K: 	playstyle	 V: 	endless	
+[00:00:04]: 	K: 	random_set_pieces	 V: 	table: 0xd36c370	
+[00:00:04]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:04]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:04]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:04]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:04]: 		K: 	5	 V: 	Chessy_1	
+[00:00:04]: 		K: 	6	 V: 	Chessy_2	
+[00:00:04]: 		K: 	7	 V: 	Chessy_3	
+[00:00:04]: 		K: 	8	 V: 	Chessy_4	
+[00:00:04]: 		K: 	9	 V: 	Chessy_5	
+[00:00:04]: 		K: 	10	 V: 	Chessy_6	
+[00:00:04]: 		K: 	11	 V: 	Maxwell1	
+[00:00:04]: 		K: 	12	 V: 	Maxwell2	
+[00:00:04]: 		K: 	13	 V: 	Maxwell3	
+[00:00:04]: 		K: 	14	 V: 	Maxwell4	
+[00:00:04]: 		K: 	15	 V: 	Maxwell6	
+[00:00:04]: 		K: 	16	 V: 	Maxwell7	
+[00:00:04]: 		K: 	17	 V: 	Warzone_1	
+[00:00:04]: 		K: 	18	 V: 	Warzone_2	
+[00:00:04]: 		K: 	19	 V: 	Warzone_3	
+[00:00:04]: 	K: 	required_prefabs	 V: 	table: 0xd36c160	
+[00:00:04]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:04]: 	K: 	required_setpieces	 V: 	table: 0xd36bf50	
+[00:00:04]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:04]: 		K: 	2	 V: 	Maxwell5	
+[00:00:04]: 	K: 	settings_desc	 V: 	A never-ending Don't Starve sandbox.
+Resurrection is always available via the Florid Postern.	
+[00:00:04]: 	K: 	settings_id	 V: 	ENDLESS	
+[00:00:04]: 	K: 	settings_name	 V: 	Endless	
+[00:00:04]: 	K: 	substitutes	 V: 	table: 0xd36cdc0	
+[00:00:04]: 	K: 	version	 V: 	4	
+[00:00:04]: 	K: 	worldgen_desc	 V: 	A never-ending Don't Starve sandbox.
+Resurrection is always available via the Florid Postern.	
+[00:00:04]: 	K: 	worldgen_id	 V: 	ENDLESS	
+[00:00:04]: 	K: 	worldgen_name	 V: 	Endless	
+[00:00:04]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:04]: Overwriting savedata with level data file.	
+[00:00:04]: Not applying world gen overrides.	
+[00:00:04]: Collecting garbage...
+[00:00:04]: lua_gc took 0.08 seconds
+[00:00:04]: ~ShardLuaProxy()
+[00:00:04]: ~cEventLeaderboardProxy()
+[00:00:04]: ~ItemServerLuaProxy()
+[00:00:04]: ~InventoryLuaProxy()
+[00:00:04]: ~NetworkLuaProxy()
+[00:00:04]: ~SimLuaProxy()
+[00:00:04]: lua_close took 0.12 seconds
+[00:00:04]: ReleaseAll
+[00:00:04]: ReleaseAll Finished
+[00:00:04]: cGame::StartPlaying
+[00:00:04]: AppVersion::GetArchitecture() x64
+[00:00:04]: LOADING LUA
+[00:00:04]: DoLuaFile scripts/main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]:   taskgrouplist:	default	Together	
+[00:00:05]:   taskgrouplist:	classic	Classic	
+[00:00:05]:   taskgrouplist:	cave_default	Underground	
+[00:00:05]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:05]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:05]: Running main.lua
+	
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: modoverrides.lua enabling workshop-1530801499	
+[00:00:05]: modoverrides.lua enabling workshop-666155465	
+[00:00:05]: modoverrides.lua enabling workshop-569043634	
+[00:00:05]: modoverrides.lua enabling workshop-2281925291	
+[00:00:05]: modoverrides.lua enabling workshop-378160973	
+[00:00:05]: modoverrides.lua enabling workshop-356930882	
+[00:00:05]: modoverrides.lua enabling workshop-466732225	
+[00:00:05]: modoverrides.lua enabling workshop-1207269058	
+[00:00:05]: modoverrides.lua enabling workshop-1111658995	
+[00:00:05]: modoverrides.lua enabling workshop-2324689937	
+[00:00:05]: modoverrides.lua enabling workshop-362175979	
+[00:00:05]: modoverrides.lua enabling workshop-2208128427	
+[00:00:05]: modoverrides.lua enabling workshop-1185229307	
+[00:00:05]: modoverrides.lua enabling workshop-1595631294	
+[00:00:05]: modoverrides.lua enabling workshop-2078243581	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-356930882	
+[00:00:05]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.8	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
+[00:00:05]: Loading mod: workshop-2281925291 (Finder Redux) Version:1.1	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:05]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:05]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:05]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
+[00:00:05]: Loading mod: workshop-2078243581 (Display Attack Range) Version:1.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1530801499	
+[00:00:05]: Loading mod: workshop-1530801499 (Fast Travel (GUI)) Version:1.08	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:05]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:05]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:05]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:05]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:05]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:89	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:05]: Loading mod: workshop-2324689937 (More equip slots) Version:1.3.6	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
+[00:00:05]: Loading mod: workshop-2208128427 (Loot Pump) Version:1.10	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1530801499	
+[00:00:05]: Overriding mod workshop-1530801499's option Ownership with value false	
+[00:00:05]: Overriding mod workshop-1530801499's option SanityCost with value 1	
+[00:00:05]: Overriding mod workshop-1530801499's option HungerCost with value 2	
+[00:00:05]: Overriding mod workshop-1530801499's option ArrowsignEnable with value false	
+[00:00:05]: Overriding mod workshop-1530801499's option CountdownEnable with value false	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:05]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:05]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:05]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:05]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:05]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:05]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option skeleton with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option SpawnProtection with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2281925291	
+[00:00:05]: Overriding mod workshop-2281925291's option TINT with value 1	
+[00:00:05]: Overriding mod workshop-2281925291's option INGREDIENT with value true	
+[00:00:05]: Overriding mod workshop-2281925291's option ACTIVEITEM with value true	
+[00:00:05]: Overriding mod workshop-2281925291's option Client and server options with value 0	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:05]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:05]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:05]: Overriding mod workshop-356930882's option uses3 with value 10000000	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2324689937	
+[00:00:05]: Overriding mod workshop-2324689937's option config_render with value true	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_amulet with value true	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_heavy with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option Тype/slot mapping with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_dress with value extrabody2	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_costume with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_armor with value extrabody1	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_dress with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_backpack with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option Compatibility with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_armor with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option config_mannequin with value true	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_amulet with value extrabody3	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_backpack with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:05]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2208128427	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_EQUIP with value false	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_SOUND with value true	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_SPEED with value 3	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_WALLS with value false	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_TWOZN with value false	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_SCALE with value 1	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:05]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:05]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:05]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:05]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:05]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:05]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:05]: Overriding mod workshop-1595631294's option SaltBox with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option BundleItems with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option Digornot with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2078243581	
+[00:00:05]: Overriding mod workshop-2078243581's option Type with value hit	
+[00:00:05]: Overriding mod workshop-2078243581's option Blue with value 0	
+[00:00:05]: Overriding mod workshop-2078243581's option Green with value 0	
+[00:00:05]: Overriding mod workshop-2078243581's option Display with value target	
+[00:00:05]: Overriding mod workshop-2078243581's option Projectile with value true	
+[00:00:05]: Overriding mod workshop-2078243581's option Red with value 1	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:05]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:05]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:05]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modmain.lua	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:05]: ShowMe version:	0.58	
+[00:00:05]: show_food_units	-1	-1	-1	
+[00:00:05]: show_uses	-1	-1	-1	
+[00:00:05]: Detected language for ShowMe: 	auto		
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-2208128427 (Loot Pump)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2208128427 (Loot Pump)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2208128427 (Loot Pump)	Loading modmain.lua	
+[00:00:05]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	loot_pump	
+[00:00:05]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:05]: Mod: workshop-2078243581 (Display Attack Range)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2078243581 (Display Attack Range)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2078243581 (Display Attack Range)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-2324689937 (More equip slots)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2324689937 (More equip slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2324689937 (More equip slots)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:05]: Mod: workshop-2281925291 (Finder Redux)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2281925291 (Finder Redux)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2281925291 (Finder Redux)	Loading modmain.lua	
+[00:00:05]: modimport: ../mods/workshop-2281925291/main.lua	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering Server mod namespace "workshop-1207269058"
+[00:00:05]: Registering Server mod namespace "workshop-1111658995"
+[00:00:05]: Registering Server mod namespace "showme"
+[00:00:05]: Registering Server mod namespace "finder_redux"
+[00:00:05]: Registering Server mod namespace "fasttravel"
+[00:00:05]: Registering Server mod namespace "workshop-378160973"
+[00:00:05]: Registering Server mod namespace "showmeshint"
+[00:00:05]: Registering Client mod namespace "workshop-1111658995"
+[00:00:05]: Registering Client mod namespace "workshop-1185229307"
+[00:00:05]: Registering Client mod namespace "finder_redux"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: ConsoleScreenSettings could not load consolescreen	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Loading world: session/2CE9191ADB245DC6/0000000307	
+[00:00:05]: Save file is at version 5.151	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:05]: 	Unload FE	
+[00:00:05]: 	Unload FE done	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:06]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
+[00:00:06]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
+[00:00:06]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:06]: 	LOAD BE	
+[00:00:13]: 	LOAD BE: done	
+[00:00:13]: Begin Session: 2CE9191ADB245DC6
+[00:00:13]: saving to server_temp/server_save	
+[00:00:13]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:13]: OVERRIDE: setting	deerclops	to	often	
+[00:00:13]: OVERRIDE: setting	extrastartingitems	to	15	
+[00:00:13]: OVERRIDE: setting	eyeofterror	to	often	
+[00:00:13]: OVERRIDE: setting	krampus	to	often	
+[00:00:13]: OVERRIDE: setting	beequeen	to	often	
+[00:00:13]: OVERRIDE: setting	spiderqueen	to	often	
+[00:00:13]: OVERRIDE: setting	goosemoose	to	often	
+[00:00:13]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:00:13]: OVERRIDE: setting	crabking	to	often	
+[00:00:13]: OVERRIDE: setting	frograin	to	often	
+[00:00:13]: OVERRIDE: setting	dragonfly	to	often	
+[00:00:13]: OVERRIDE: setting	deciduousmonster	to	often	
+[00:00:13]: OVERRIDE: setting	malbatross	to	often	
+[00:00:13]: OVERRIDE: setting	liefs	to	often	
+[00:00:13]: OVERRIDE: setting	sharkboi	to	often	
+[00:00:13]: OVERRIDE: setting	daywalker2	to	often	
+[00:00:13]: OVERRIDE: setting	klaus	to	often	
+[00:00:13]: OVERRIDE: setting	beefaloheat	to	rare	
+[00:00:13]: OVERRIDE: setting	fruitfly	to	often	
+[00:00:13]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-2208128427/minimap/loot_pump.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:13]: Loading 19 new character(s)	
+[00:00:14]: Total 19 character(s) loaded	
+[00:00:14]: Loading Nav Grid	
+[00:00:14]: World generated on build 620148 with save version: 5.151, using seed: 58299910	
+[00:00:14]: setting 	summerlength	15	
+[00:00:14]: setting 	cavemoonphase	threequarter	
+[00:00:14]: setting 	iscavefullmoon	false	
+[00:00:14]: setting 	isnightmaredawn	false	
+[00:00:14]: setting 	elapseddaysinseason	7	
+[00:00:14]: setting 	isfullmoon	false	
+[00:00:14]: setting 	moisture	4733.9165039062	
+[00:00:14]: setting 	springlength	20	
+[00:00:14]: setting 	islunarhailing	false	
+[00:00:14]: setting 	isnightmarewild	false	
+[00:00:14]: setting 	nightmaretimeinphase	0	
+[00:00:14]: setting 	precipitationrate	0	
+[00:00:14]: setting 	iswet	false	
+[00:00:14]: setting 	isnewmoon	false	
+[00:00:14]: setting 	israining	false	
+[00:00:14]: setting 	iswinter	false	
+[00:00:14]: setting 	isnightmarewarn	false	
+[00:00:14]: setting 	precipitation	none	
+[00:00:14]: setting 	iscavewaxingmoon	true	
+[00:00:14]: setting 	isacidraining	false	
+[00:00:14]: setting 	moonphase	threequarter	
+[00:00:14]: setting 	remainingdaysinseason	13	
+[00:00:14]: setting 	temperature	38.04617621268	
+[00:00:14]: setting 	wetness	0	
+[00:00:14]: setting 	cycles	287	
+[00:00:14]: setting 	moistureceil	8898.2822265625	
+[00:00:14]: setting 	isday	false	
+[00:00:14]: setting 	winterlength	15	
+[00:00:14]: setting 	season	autumn	
+[00:00:14]: setting 	iswaxingmoon	true	
+[00:00:14]: setting 	isalterawake	false	
+[00:00:14]: setting 	isnightmarecalm	false	
+[00:00:14]: setting 	isnight	false	
+[00:00:14]: setting 	isdusk	true	
+[00:00:14]: setting 	isspring	false	
+[00:00:14]: setting 	isautumn	true	
+[00:00:14]: setting 	iscaveday	false	
+[00:00:14]: setting 	lunarhaillevel	0	
+[00:00:14]: setting 	pop	0.4957255311174	
+[00:00:14]: setting 	snowlevel	0	
+[00:00:14]: setting 	issnowcovered	false	
+[00:00:14]: setting 	autumnlength	20	
+[00:00:14]: setting 	phase	dusk	
+[00:00:14]: setting 	nightmaretime	0	
+[00:00:14]: setting 	issnowing	false	
+[00:00:14]: setting 	iscavedusk	true	
+[00:00:14]: setting 	nightmarephase	none	
+[00:00:14]: setting 	timeinphase	0.49402228461372	
+[00:00:14]: setting 	seasonprogress	0.35	
+[00:00:14]: setting 	iscavenight	false	
+[00:00:14]: setting 	iscavenewmoon	false	
+[00:00:14]: setting 	issummer	false	
+[00:00:14]: setting 	cavephase	dusk	
+[00:00:14]: setting 	time	0.68525835673014	
+[00:00:15]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:15]: OVERRIDE: setting	resettime	to	none	
+[00:00:15]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:15]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:15]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:15]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:25]: Reconstructing topology	
+[00:00:25]: 	...Sorting points	
+[00:00:25]: 	...Sorting edges	
+[00:00:25]: 	...Connecting nodes	
+[00:00:25]: 	...Validating connections	
+[00:00:25]: 	...Housekeeping	
+[00:00:25]: 	...Done!	
+[00:00:25]: 1 uploads added to server. From server_temp
+[00:00:25]: About to start a shard with these settings:
+[00:00:25]:   ShardName: [SHDMASTER]
+[00:00:25]:   ShardID: 1
+[00:00:25]:   ShardRole: MASTER
+[00:00:25]:   MasterHost: (null)
+[00:00:25]:   MasterBind: 127.0.0.1
+[00:00:25]:   MasterPort: 10888
+[00:00:25]: [Shard] Starting master server
+[00:00:25]: [Shard] Shard server started on port: 10888
+[00:00:25]: Telling Client our new session identifier: 2CE9191ADB245DC6
+[00:00:25]: Check for write access: TRUE
+[00:00:25]: Check for read access: TRUE
+[00:00:25]: Available disk space for save files: 24362 MB
+[00:00:25]: ModIndex: Load sequence finished successfully.	
+[00:00:26]: Reset() returning
+[00:00:27]: Validating portal[7] <-> 2248507758[7] (inactive)	
+[00:00:27]: Validating portal[5] <-> 2248507758[5] (inactive)	
+[00:00:27]: Validating portal[3] <-> 2248507758[3] (inactive)	
+[00:00:27]: Validating portal[10] <-> 2248507758[10] (inactive)	
+[00:00:27]: Validating portal[2] <-> 2248507758[2] (inactive)	
+[00:00:27]: Validating portal[9] <-> 2248507758[9] (inactive)	
+[00:00:27]: Validating portal[4] <-> 2248507758[4] (inactive)	
+[00:00:27]: Validating portal[1] <-> 2248507758[1] (inactive)	
+[00:00:27]: Validating portal[8] <-> 2248507758[8] (inactive)	
+[00:00:27]: Validating portal[6] <-> 2248507758[6] (inactive)	
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Could not find anim build FROMNUM
+[00:00:27]: Server registered via geo DNS in ap-southeast-1
+[00:00:27]: Sim paused
+[00:00:27]: [Shard] Secondary shard Caves(2248507758) connected: [LAN] 127.0.0.1
+[00:00:27]: [Shard] Secondary Caves(2248507758) ready!
+[00:00:27]: World 2248507758 is now connected	
+[00:00:27]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:27]: Validating portal[7] <-> 2248507758[7] (disabled)	
+[00:00:27]: Validating portal[5] <-> 2248507758[5] (active)	
+[00:00:27]: Validating portal[3] <-> 2248507758[3] (active)	
+[00:00:27]: Validating portal[10] <-> 2248507758[10] (active)	
+[00:00:27]: Validating portal[2] <-> 2248507758[2] (active)	
+[00:00:27]: Validating portal[9] <-> 2248507758[9] (disabled)	
+[00:00:27]: Validating portal[4] <-> 2248507758[4] (disabled)	
+[00:00:27]: Validating portal[1] <-> 2248507758[1] (active)	
+[00:00:27]: Validating portal[8] <-> 2248507758[8] (active)	
+[00:00:27]: Validating portal[6] <-> 2248507758[6] (active)	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option krampus = often to secondary shards.	
+[00:00:27]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:30:04]: [200] Account Communication Success (6)
+[00:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[00:57:22]: [P2P] Session request for '76561198857303760'
+[00:57:27]: [P2P] Create session: 3.130.52.175|1 '76561198857303760'
+[00:57:27]: [P2P] Received from 3.130.52.175|1 '76561198857303760'
+[00:57:27]: [P2P] Sent to 3.130.52.175|1 '76561198857303760'
+[00:57:27]: New incoming connection 3.130.52.175|1 <6934475847327647686>
+[00:57:27]: Client connected from 3.130.52.175|1 <6934475847327647686>
+[00:57:27]: ValidateGameSessionToken GUID<6934475847327647686>
+[00:57:28]: Client authenticated: (KU_pa5CjQ8L) tranphonglq
+[00:57:28]: [Steam] SendUserConnectAndAuthenticate for '76561198857303760'
+[00:57:28]: [Steam] Authenticated client '76561198857303760'
+[00:57:29]: There is no active event to validate against.
+[00:57:29]: [Shard] Read save location file for (KU_pa5CjQ8L)
+[00:58:32]: Resuming user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000307
+[00:58:32]: Spawning player at: [Load] (-136.81, 0.00, 230.08)	
+[00:58:32]: Sim unpaused
+[00:58:39]: Server Autopaused	
+[00:58:39]: Server Unpaused	
+[00:58:44]: Server Autopaused	
+[00:59:05]: Server Unpaused	
+[00:59:42]: Server Autopaused	
+[00:59:48]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("lightbulb",10)) @(-106.40, 196.79)
+[00:59:48]: giving 	131584 - lightbulb	
+[00:59:48]: giving 	131586 - lightbulb	
+[00:59:48]: giving 	131588 - lightbulb	
+[00:59:48]: giving 	131590 - lightbulb	
+[00:59:48]: giving 	131592 - lightbulb	
+[00:59:48]: giving 	131594 - lightbulb	
+[00:59:48]: giving 	131596 - lightbulb	
+[00:59:48]: giving 	131598 - lightbulb	
+[00:59:48]: giving 	131600 - lightbulb	
+[00:59:48]: giving 	131602 - lightbulb	
+[00:59:48]: Server Unpaused	
+[00:59:57]: Could not find anim build FROMNUM
+[01:00:04]: [200] Account Communication Success (6)
+[01:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[01:00:58]: Server Autopaused	
+[01:01:33]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("dug_sapling",20)) @(-130.26, 228.58)
+[01:01:33]: giving 	131671 - dug_sapling	
+[01:01:33]: giving 	131673 - dug_sapling	
+[01:01:33]: giving 	131675 - dug_sapling	
+[01:01:33]: giving 	131677 - dug_sapling	
+[01:01:33]: giving 	131679 - dug_sapling	
+[01:01:33]: giving 	131681 - dug_sapling	
+[01:01:33]: giving 	131683 - dug_sapling	
+[01:01:33]: giving 	131685 - dug_sapling	
+[01:01:33]: giving 	131687 - dug_sapling	
+[01:01:33]: giving 	131689 - dug_sapling	
+[01:01:33]: giving 	131691 - dug_sapling	
+[01:01:33]: giving 	131693 - dug_sapling	
+[01:01:33]: giving 	131695 - dug_sapling	
+[01:01:33]: giving 	131697 - dug_sapling	
+[01:01:33]: giving 	131699 - dug_sapling	
+[01:01:33]: giving 	131701 - dug_sapling	
+[01:01:33]: giving 	131703 - dug_sapling	
+[01:01:33]: giving 	131705 - dug_sapling	
+[01:01:33]: giving 	131707 - dug_sapling	
+[01:01:33]: giving 	131709 - dug_sapling	
+[01:01:33]: Server Unpaused	
+[01:02:06]: Available disk space for save files: 24362 MB
+[01:02:07]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000308
+[01:02:07]: Serializing world: session/2CE9191ADB245DC6/0000000308
+[01:02:52]: Could not find anim build FROMNUM
+[01:03:20]: Server Autopaused	
+[01:03:22]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("dug_sapling",1)) @(-129.22, 229.39)
+[01:03:22]: giving 	131816 - dug_sapling	
+[01:03:22]: Server Unpaused	
+[01:03:39]: Server Autopaused	
+[01:03:44]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("dug_sapling_moon",1)) @(-128.91, 223.02)
+[01:03:44]: giving 	131831 - dug_sapling_moon	
+[01:03:44]: Server Unpaused	
+[01:04:03]: Could not find anim build FROMNUM
+[01:05:32]: Server Autopaused	
+[01:05:33]: Server Unpaused	
+[01:06:12]: Could not find anim build FROMNUM
+[01:06:13]: Could not find anim build FROMNUM
+[01:06:14]: Could not find anim build FROMNUM
+[01:06:14]: Could not find anim build FROMNUM
+[01:06:15]: Could not find anim build FROMNUM
+[01:06:16]: Could not find anim build FROMNUM
+[01:06:16]: Could not find anim build FROMNUM
+[01:06:17]: Could not find anim build FROMNUM
+[01:06:17]: Could not find anim build FROMNUM
+[01:06:18]: Could not find anim build FROMNUM
+[01:06:19]: Could not find anim build FROMNUM
+[01:06:19]: Could not find anim build FROMNUM
+[01:06:20]: Could not find anim build FROMNUM
+[01:06:20]: Could not find anim build FROMNUM
+[01:06:21]: Could not find anim build FROMNUM
+[01:06:22]: Could not find anim build FROMNUM
+[01:06:22]: Could not find anim build FROMNUM
+[01:06:23]: Could not find anim build FROMNUM
+[01:06:23]: Could not find anim build FROMNUM
+[01:06:24]: Could not find anim build FROMNUM
+[01:06:25]: Could not find anim build FROMNUM
+[01:06:25]: Could not find anim build FROMNUM
+[01:06:26]: Could not find anim build FROMNUM
+[01:06:26]: Could not find anim build FROMNUM
+[01:06:27]: Could not find anim build FROMNUM
+[01:06:28]: Could not find anim build FROMNUM
+[01:06:28]: Could not find anim build FROMNUM
+[01:06:29]: Could not find anim build FROMNUM
+[01:06:29]: Could not find anim build FROMNUM
+[01:06:30]: Could not find anim build FROMNUM
+[01:06:31]: Could not find anim build FROMNUM
+[01:06:31]: Could not find anim build FROMNUM
+[01:06:32]: Could not find anim build FROMNUM
+[01:06:32]: Could not find anim build FROMNUM
+[01:06:33]: Could not find anim build FROMNUM
+[01:06:34]: Could not find anim build FROMNUM
+[01:06:34]: Could not find anim build FROMNUM
+[01:06:35]: Could not find anim build FROMNUM
+[01:06:35]: Could not find anim build FROMNUM
+[01:06:36]: Could not find anim build FROMNUM
+[01:06:37]: Could not find anim build FROMNUM
+[01:06:37]: Could not find anim build FROMNUM
+[01:06:38]: Could not find anim build FROMNUM
+[01:06:38]: Could not find anim build FROMNUM
+[01:06:39]: Could not find anim build FROMNUM
+[01:06:40]: Could not find anim build FROMNUM
+[01:06:40]: Could not find anim build FROMNUM
+[01:06:41]: Could not find anim build FROMNUM
+[01:06:41]: Could not find anim build FROMNUM
+[01:06:42]: Could not find anim build FROMNUM
+[01:06:43]: Could not find anim build FROMNUM
+[01:06:43]: Could not find anim build FROMNUM
+[01:06:44]: Could not find anim build FROMNUM
+[01:06:44]: Could not find anim build FROMNUM
+[01:06:45]: Could not find anim build FROMNUM
+[01:06:46]: Could not find anim build FROMNUM
+[01:06:46]: Could not find anim build FROMNUM
+[01:06:47]: Could not find anim build FROMNUM
+[01:06:47]: Could not find anim build FROMNUM
+[01:06:48]: Could not find anim build FROMNUM
+[01:06:49]: Could not find anim build FROMNUM
+[01:06:49]: Could not find anim build FROMNUM
+[01:06:50]: Could not find anim build FROMNUM
+[01:06:50]: Could not find anim build FROMNUM
+[01:06:51]: Could not find anim build FROMNUM
+[01:06:52]: Could not find anim build FROMNUM
+[01:06:52]: Could not find anim build FROMNUM
+[01:06:53]: Could not find anim build FROMNUM
+[01:06:53]: Could not find anim build FROMNUM
+[01:06:54]: Could not find anim build FROMNUM
+[01:06:55]: Could not find anim build FROMNUM
+[01:06:55]: Could not find anim build FROMNUM
+[01:06:56]: Could not find anim build FROMNUM
+[01:06:56]: Could not find anim build FROMNUM
+[01:06:57]: Could not find anim build FROMNUM
+[01:06:57]: Could not find anim build FROMNUM
+[01:06:57]: Could not find anim build FROMNUM
+[01:06:58]: Could not find anim build FROMNUM
+[01:06:59]: Could not find anim build FROMNUM
+[01:06:59]: Could not find anim build FROMNUM
+[01:07:00]: Could not find anim build FROMNUM
+[01:07:00]: Could not find anim build FROMNUM
+[01:07:36]: Server Autopaused	
+[01:07:47]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("dug_monkeytail")) @(-134.65, 216.97)
+[01:07:47]: giving 	132343 - dug_monkeytail	
+[01:07:47]: Server Unpaused	
+[01:07:48]: Server Autopaused	
+[01:07:51]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("dug_monkeytail",10)) @(-134.65, 216.97)
+[01:07:51]: giving 	132345 - dug_monkeytail	
+[01:07:51]: giving 	132347 - dug_monkeytail	
+[01:07:51]: giving 	132349 - dug_monkeytail	
+[01:07:51]: giving 	132351 - dug_monkeytail	
+[01:07:51]: giving 	132353 - dug_monkeytail	
+[01:07:51]: giving 	132355 - dug_monkeytail	
+[01:07:51]: giving 	132357 - dug_monkeytail	
+[01:07:51]: giving 	132359 - dug_monkeytail	
+[01:07:51]: giving 	132361 - dug_monkeytail	
+[01:07:51]: giving 	132363 - dug_monkeytail	
+[01:07:51]: Server Unpaused	
+[01:08:08]: Server Autopaused	
+[01:08:10]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("dug_monkeytail",20)) @(-134.76, 218.37)
+[01:08:10]: giving 	132399 - dug_monkeytail	
+[01:08:10]: giving 	132401 - dug_monkeytail	
+[01:08:10]: giving 	132403 - dug_monkeytail	
+[01:08:10]: giving 	132405 - dug_monkeytail	
+[01:08:10]: giving 	132407 - dug_monkeytail	
+[01:08:10]: giving 	132409 - dug_monkeytail	
+[01:08:10]: giving 	132411 - dug_monkeytail	
+[01:08:10]: giving 	132413 - dug_monkeytail	
+[01:08:10]: giving 	132415 - dug_monkeytail	
+[01:08:10]: giving 	132417 - dug_monkeytail	
+[01:08:10]: giving 	132419 - dug_monkeytail	
+[01:08:10]: giving 	132421 - dug_monkeytail	
+[01:08:10]: giving 	132423 - dug_monkeytail	
+[01:08:10]: giving 	132425 - dug_monkeytail	
+[01:08:10]: giving 	132427 - dug_monkeytail	
+[01:08:10]: giving 	132429 - dug_monkeytail	
+[01:08:10]: giving 	132431 - dug_monkeytail	
+[01:08:10]: giving 	132433 - dug_monkeytail	
+[01:08:10]: giving 	132435 - dug_monkeytail	
+[01:08:10]: giving 	132437 - dug_monkeytail	
+[01:08:10]: Server Unpaused	
+[01:08:49]: Could not find anim build FROMNUM
+[01:08:54]: Could not find anim build FROMNUM
+[01:09:09]: Could not find anim build FROMNUM
+[01:10:05]: Could not find anim build FROMNUM
+[01:10:31]: Available disk space for save files: 24357 MB
+[01:10:31]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000309
+[01:10:32]: Serializing world: session/2CE9191ADB245DC6/0000000309
+[01:11:23]: Could not find anim build FROMNUM
+[01:11:23]: Could not find anim build FROMNUM
+[01:11:25]: Server Autopaused	
+[01:11:26]: Server Unpaused	
+[01:12:20]: Server Autopaused	
+[01:12:26]: Server Unpaused	
+[01:13:28]: Could not find anim build FROMNUM
+[01:14:14]: Server Autopaused	
+[01:14:15]: Server Unpaused	
+[01:15:26]: Server Autopaused	
+[01:15:27]: Server Unpaused	
+[01:15:29]: Server Autopaused	
+[01:15:31]: Server Unpaused	
+[01:15:46]: Server Autopaused	
+[01:15:46]: Server Unpaused	
+[01:16:46]: Could not find anim build FROMNUM
+[01:16:50]: Could not find anim build FROMNUM
+[01:17:02]: Could not find anim build FROMNUM
+[01:17:03]: Could not find anim build FROMNUM
+[01:17:03]: Could not find anim build FROMNUM
+[01:17:04]: Could not find anim build FROMNUM
+[01:17:05]: Could not find anim build FROMNUM
+[01:17:05]: Could not find anim build FROMNUM
+[01:17:06]: Could not find anim build FROMNUM
+[01:17:06]: Could not find anim build FROMNUM
+[01:17:14]: Could not find anim build FROMNUM
+[01:17:28]: Server Autopaused	
+[01:17:29]: Server Unpaused	
+[01:17:53]: Server Autopaused	
+[01:18:04]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-132.81, 234.12)
+[01:18:04]: Server Unpaused	
+[01:18:39]: Server Autopaused	
+[01:18:40]: Server Unpaused	
+[01:18:55]: Available disk space for save files: 24352 MB
+[01:18:55]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000310
+[01:18:56]: Serializing world: session/2CE9191ADB245DC6/0000000310
+[01:21:19]: Could not find anim build FROMNUM
+[01:21:19]: Could not find anim build FROMNUM
+[01:21:20]: Could not find anim build FROMNUM
+[01:21:21]: Could not find anim build FROMNUM
+[01:21:21]: Could not find anim build FROMNUM
+[01:21:21]: Could not find anim build FROMNUM
+[01:21:22]: Could not find anim build FROMNUM
+[01:21:22]: Could not find anim build FROMNUM
+[01:21:23]: Could not find anim build FROMNUM
+[01:21:23]: Could not find anim build FROMNUM
+[01:21:24]: Could not find anim build FROMNUM
+[01:21:24]: Could not find anim build FROMNUM
+[01:21:25]: Could not find anim build FROMNUM
+[01:21:25]: Could not find anim build FROMNUM
+[01:21:25]: Could not find anim build FROMNUM
+[01:21:26]: Could not find anim build FROMNUM
+[01:21:27]: Could not find anim build FROMNUM
+[01:21:27]: Could not find anim build FROMNUM
+[01:21:27]: Could not find anim build FROMNUM
+[01:21:28]: Could not find anim build FROMNUM
+[01:21:28]: Could not find anim build FROMNUM
+[01:21:29]: Could not find anim build FROMNUM
+[01:21:29]: Could not find anim build FROMNUM
+[01:21:30]: Could not find anim build FROMNUM
+[01:21:31]: Could not find anim build FROMNUM
+[01:21:31]: Could not find anim build FROMNUM
+[01:21:32]: Could not find anim build FROMNUM
+[01:21:32]: Could not find anim build FROMNUM
+[01:21:32]: Could not find anim build FROMNUM
+[01:21:33]: Could not find anim build FROMNUM
+[01:21:33]: Could not find anim build FROMNUM
+[01:21:33]: Could not find anim build FROMNUM
+[01:21:34]: Could not find anim build FROMNUM
+[01:21:34]: Could not find anim build FROMNUM
+[01:21:35]: Could not find anim build FROMNUM
+[01:21:36]: Could not find anim build FROMNUM
+[01:21:36]: Could not find anim build FROMNUM
+[01:21:36]: Could not find anim build FROMNUM
+[01:21:37]: Could not find anim build FROMNUM
+[01:21:37]: Could not find anim build FROMNUM
+[01:21:37]: Could not find anim build FROMNUM
+[01:21:37]: Could not find anim build FROMNUM
+[01:21:38]: Could not find anim build FROMNUM
+[01:21:38]: Could not find anim build FROMNUM
+[01:21:38]: Could not find anim build FROMNUM
+[01:21:38]: Could not find anim build FROMNUM
+[01:21:39]: Could not find anim build FROMNUM
+[01:21:39]: Could not find anim build FROMNUM
+[01:21:40]: Could not find anim build FROMNUM
+[01:21:40]: Could not find anim build FROMNUM
+[01:21:41]: Could not find anim build FROMNUM
+[01:21:41]: Could not find anim build FROMNUM
+[01:21:42]: Could not find anim build FROMNUM
+[01:21:42]: Could not find anim build FROMNUM
+[01:21:42]: Could not find anim build FROMNUM
+[01:21:43]: Could not find anim build FROMNUM
+[01:21:43]: Could not find anim build FROMNUM
+[01:21:44]: Could not find anim build FROMNUM
+[01:21:44]: Could not find anim build FROMNUM
+[01:21:44]: Could not find anim build FROMNUM
+[01:21:45]: Could not find anim build FROMNUM
+[01:21:45]: Could not find anim build FROMNUM
+[01:21:46]: Could not find anim build FROMNUM
+[01:21:46]: Could not find anim build FROMNUM
+[01:21:46]: Could not find anim build FROMNUM
+[01:21:46]: Could not find anim build FROMNUM
+[01:21:47]: Could not find anim build FROMNUM
+[01:21:47]: Could not find anim build FROMNUM
+[01:21:48]: Could not find anim build FROMNUM
+[01:21:49]: Could not find anim build FROMNUM
+[01:21:49]: Could not find anim build FROMNUM
+[01:21:49]: Could not find anim build FROMNUM
+[01:21:50]: Could not find anim build FROMNUM
+[01:21:50]: Could not find anim build FROMNUM
+[01:21:50]: Could not find anim build FROMNUM
+[01:21:51]: Could not find anim build FROMNUM
+[01:21:51]: Could not find anim build FROMNUM
+[01:21:51]: Could not find anim build FROMNUM
+[01:21:53]: Could not find anim build FROMNUM
+[01:22:06]: Could not find anim build FROMNUM
+[01:22:24]: Could not find anim build FROMNUM
+[01:22:44]: Server Autopaused	
+[01:23:16]: Server Unpaused	
+[01:23:24]: Server Autopaused	
+[01:23:26]: Server Unpaused	
+[01:23:32]: Server Autopaused	
+[01:23:37]: Server Unpaused	
+[01:25:58]: Server Autopaused	
+[01:25:58]: Server Unpaused	
+[01:26:59]: Could not find anim build FROMNUM
+[01:27:00]: Could not find anim build FROMNUM
+[01:27:13]: Could not find anim build FROMNUM
+[01:27:24]: Could not find anim build FROMNUM
+[01:27:27]: Could not find anim build FROMNUM
+[01:27:32]: Could not find anim build FROMNUM
+[01:27:35]: Available disk space for save files: 24347 MB
+[01:27:35]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000311
+[01:27:36]: Serializing world: session/2CE9191ADB245DC6/0000000311
+[01:27:49]: Could not find anim build FROMNUM
+[01:27:53]: Could not find anim build FROMNUM
+[01:27:55]: Could not find anim build FROMNUM
+[01:27:55]: Could not find anim build FROMNUM
+[01:27:57]: Could not find anim build FROMNUM
+[01:28:04]: Could not find anim build FROMNUM
+[01:28:07]: Could not find anim build FROMNUM
+[01:28:10]: Could not find anim build FROMNUM
+[01:28:21]: Could not find anim build FROMNUM
+[01:28:24]: Server Autopaused	
+[01:28:26]: Server Unpaused	
+[01:28:33]: Could not find anim build FROMNUM
+[01:28:36]: Could not find anim build FROMNUM
+[01:28:46]: Could not find anim build FROMNUM
+[01:29:33]: Could not find anim build FROMNUM
+[01:29:36]: Could not find anim build FROMNUM
+[01:29:38]: Could not find anim build FROMNUM
+[01:29:39]: Could not find anim build FROMNUM
+[01:29:40]: Could not find anim build FROMNUM
+[01:30:04]: [200] Account Communication Success (6)
+[01:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[01:30:57]: Could not find anim build FROMNUM
+[01:30:57]: Could not find anim build FROMNUM
+[01:30:58]: Could not find anim build FROMNUM
+[01:30:58]: Could not find anim build FROMNUM
+[01:30:58]: Could not find anim build FROMNUM
+[01:30:59]: Could not find anim build FROMNUM
+[01:31:00]: Could not find anim build FROMNUM
+[01:31:00]: Could not find anim build FROMNUM
+[01:31:01]: Could not find anim build FROMNUM
+[01:31:01]: Could not find anim build FROMNUM
+[01:31:02]: Could not find anim build FROMNUM
+[01:31:03]: Could not find anim build FROMNUM
+[01:31:07]: Could not find anim build FROMNUM
+[01:31:13]: Could not find anim build FROMNUM
+[01:31:20]: Could not find anim build FROMNUM
+[01:31:42]: Could not find anim build FROMNUM
+[01:31:56]: Could not find anim build FROMNUM
+[01:32:22]: Could not find anim build FROMNUM
+[01:32:36]: Could not find anim build FROMNUM
+[01:33:43]: Could not find anim build FROMNUM
+[01:33:44]: Could not find anim build FROMNUM
+[01:33:45]: Could not find anim build FROMNUM
+[01:33:45]: Could not find anim build FROMNUM
+[01:33:46]: Could not find anim build FROMNUM
+[01:35:05]: [P2P] Session request for '76561199104252985'
+[01:35:09]: [P2P] Create session: 3.130.52.176|1 '76561199104252985'
+[01:35:09]: [P2P] Received from 3.130.52.176|1 '76561199104252985'
+[01:35:09]: [P2P] Sent to 3.130.52.176|1 '76561199104252985'
+[01:35:10]: New incoming connection 3.130.52.176|1 <6744226006296172085>
+[01:35:10]: Client connected from 3.130.52.176|1 <6744226006296172085>
+[01:35:10]: ValidateGameSessionToken GUID<6744226006296172085>
+[01:35:10]: Client authenticated: (KU_GNdCoYNE) Carrot
+[01:35:10]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[01:35:11]: [Steam] Authenticated client '76561199104252985'
+[01:35:11]: There is no active event to validate against.
+[01:35:11]: [Shard] Read save location file for (KU_GNdCoYNE)
+[01:35:38]: Available disk space for save files: 24342 MB
+[01:35:38]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000312
+[01:35:39]: Serializing world: session/2CE9191ADB245DC6/0000000312
+[01:36:03]: Resuming user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000191
+[01:36:03]: Spawning player at: [Load] (-158.83, 0.00, 200.39)	
+[01:36:10]: Could not find anim build FROMNUM
+[01:36:11]: Could not find anim build FROMNUM
+[01:36:15]: Could not find anim build FROMNUM
+[01:36:19]: Could not find anim build FROMNUM
+[01:36:25]: Could not find anim build FROMNUM
+[01:36:27]: Could not find anim build FROMNUM
+[01:36:31]: Could not find anim build FROMNUM
+[01:36:44]: Could not find anim build FROMNUM
+[01:36:58]: Could not find anim build FROMNUM
+[01:37:04]: Could not find anim build FROMNUM
+[01:37:15]: Could not find anim build FROMNUM
+[01:37:23]: Could not find anim build FROMNUM
+[01:37:25]: Could not find anim build FROMNUM
+[01:37:29]: Could not find anim build FROMNUM
+[01:37:36]: Could not find anim build FROMNUM
+[01:37:49]: Could not find anim build FROMNUM
+[01:37:55]: Could not find anim build FROMNUM
+[01:38:08]: Could not find anim build FROMNUM
+[01:38:36]: Could not find anim build FROMNUM
+[01:38:40]: Could not find anim build FROMNUM
+[01:38:41]: Could not find anim build FROMNUM
+[01:38:43]: Could not find anim build FROMNUM
+[01:38:48]: Could not find anim build FROMNUM
+[01:40:39]: Could not find anim build FROMNUM
+[01:41:13]: Could not find anim build FROMNUM
+[01:41:51]: Could not find anim build FROMNUM
+[01:41:57]: Could not find anim build FROMNUM
+[01:42:25]: Could not find anim build FROMNUM
+[01:42:53]: Could not find anim build FROMNUM
+[01:43:00]: Could not find anim build FROMNUM
+[01:43:01]: Could not find anim build FROMNUM
+[01:43:30]: Could not find anim build FROMNUM
+[01:43:35]: Could not find anim build FROMNUM
+[01:43:38]: Could not find anim build FROMNUM
+[01:43:39]: Available disk space for save files: 24337 MB
+[01:43:39]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000313
+[01:43:39]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000313
+[01:43:40]: Serializing world: session/2CE9191ADB245DC6/0000000313
+[01:43:40]: Could not find anim build FROMNUM
+[01:43:45]: Could not find anim build FROMNUM
+[01:43:49]: Could not find anim build FROMNUM
+[01:43:52]: Could not find anim build FROMNUM
+[01:43:58]: Could not find anim build FROMNUM
+[01:43:58]: Could not find anim build FROMNUM
+[01:43:59]: Could not find anim build FROMNUM
+[01:43:59]: Could not find anim build FROMNUM
+[01:44:00]: Could not find anim build FROMNUM
+[01:44:00]: Could not find anim build FROMNUM
+[01:44:01]: Could not find anim build FROMNUM
+[01:44:01]: Could not find anim build FROMNUM
+[01:44:01]: Could not find anim build FROMNUM
+[01:44:01]: Could not find anim build FROMNUM
+[01:44:02]: Could not find anim build FROMNUM
+[01:44:02]: Could not find anim build FROMNUM
+[01:44:02]: Could not find anim build FROMNUM
+[01:44:03]: Could not find anim build FROMNUM
+[01:44:03]: Could not find anim build FROMNUM
+[01:44:03]: Could not find anim build FROMNUM
+[01:44:04]: Could not find anim build FROMNUM
+[01:44:04]: Could not find anim build FROMNUM
+[01:44:04]: Could not find anim build FROMNUM
+[01:44:05]: Could not find anim build FROMNUM
+[01:44:05]: Could not find anim build FROMNUM
+[01:44:05]: Could not find anim build FROMNUM
+[01:44:05]: Could not find anim build FROMNUM
+[01:44:06]: Could not find anim build FROMNUM
+[01:44:06]: Could not find anim build FROMNUM
+[01:44:06]: Could not find anim build FROMNUM
+[01:44:06]: Could not find anim build FROMNUM
+[01:44:07]: Could not find anim build FROMNUM
+[01:44:07]: Could not find anim build FROMNUM
+[01:44:07]: Could not find anim build FROMNUM
+[01:44:07]: Could not find anim build FROMNUM
+[01:44:07]: Could not find anim build FROMNUM
+[01:44:08]: Could not find anim build FROMNUM
+[01:44:08]: Could not find anim build FROMNUM
+[01:44:08]: Could not find anim build FROMNUM
+[01:44:09]: Could not find anim build FROMNUM
+[01:44:09]: Could not find anim build FROMNUM
+[01:44:09]: Could not find anim build FROMNUM
+[01:44:10]: Could not find anim build FROMNUM
+[01:44:10]: Could not find anim build FROMNUM
+[01:44:10]: Could not find anim build FROMNUM
+[01:44:10]: Could not find anim build FROMNUM
+[01:44:11]: Could not find anim build FROMNUM
+[01:44:11]: Could not find anim build FROMNUM
+[01:44:11]: Could not find anim build FROMNUM
+[01:44:12]: Could not find anim build FROMNUM
+[01:44:12]: Could not find anim build FROMNUM
+[01:44:12]: Could not find anim build FROMNUM
+[01:44:13]: Could not find anim build FROMNUM
+[01:44:13]: Could not find anim build FROMNUM
+[01:44:13]: Could not find anim build FROMNUM
+[01:44:14]: Could not find anim build FROMNUM
+[01:44:14]: Could not find anim build FROMNUM
+[01:44:14]: Could not find anim build FROMNUM
+[01:44:14]: Could not find anim build FROMNUM
+[01:44:15]: Could not find anim build FROMNUM
+[01:44:15]: Could not find anim build FROMNUM
+[01:44:15]: Could not find anim build FROMNUM
+[01:44:16]: Could not find anim build FROMNUM
+[01:44:16]: Could not find anim build FROMNUM
+[01:44:16]: Could not find anim build FROMNUM
+[01:44:17]: Could not find anim build FROMNUM
+[01:44:17]: Could not find anim build FROMNUM
+[01:44:17]: Could not find anim build FROMNUM
+[01:44:17]: Could not find anim build FROMNUM
+[01:44:18]: Could not find anim build FROMNUM
+[01:44:18]: Could not find anim build FROMNUM
+[01:44:19]: Could not find anim build FROMNUM
+[01:44:19]: Could not find anim build FROMNUM
+[01:44:19]: Could not find anim build FROMNUM
+[01:44:20]: Could not find anim build FROMNUM
+[01:44:20]: Could not find anim build FROMNUM
+[01:44:20]: Could not find anim build FROMNUM
+[01:44:21]: Could not find anim build FROMNUM
+[01:44:21]: Could not find anim build FROMNUM
+[01:44:21]: Could not find anim build FROMNUM
+[01:44:21]: Could not find anim build FROMNUM
+[01:44:22]: Could not find anim build FROMNUM
+[01:44:22]: Could not find anim build FROMNUM
+[01:44:22]: Could not find anim build FROMNUM
+[01:44:23]: Could not find anim build FROMNUM
+[01:44:23]: Could not find anim build FROMNUM
+[01:44:23]: Could not find anim build FROMNUM
+[01:44:23]: Could not find anim build FROMNUM
+[01:44:24]: Could not find anim build FROMNUM
+[01:44:24]: Could not find anim build FROMNUM
+[01:44:24]: Could not find anim build FROMNUM
+[01:44:25]: Could not find anim build FROMNUM
+[01:44:25]: Could not find anim build FROMNUM
+[01:44:25]: Could not find anim build FROMNUM
+[01:44:26]: Could not find anim build FROMNUM
+[01:44:26]: Could not find anim build FROMNUM
+[01:44:26]: Could not find anim build FROMNUM
+[01:44:27]: Could not find anim build FROMNUM
+[01:44:27]: Could not find anim build FROMNUM
+[01:44:27]: Could not find anim build FROMNUM
+[01:44:27]: Could not find anim build FROMNUM
+[01:44:28]: Could not find anim build FROMNUM
+[01:44:28]: Could not find anim build FROMNUM
+[01:44:29]: Could not find anim build FROMNUM
+[01:44:30]: Could not find anim build FROMNUM
+[01:44:30]: Could not find anim build FROMNUM
+[01:44:31]: Could not find anim build FROMNUM
+[01:44:31]: Could not find anim build FROMNUM
+[01:44:32]: Could not find anim build FROMNUM
+[01:44:32]: Could not find anim build FROMNUM
+[01:44:32]: Could not find anim build FROMNUM
+[01:44:33]: Could not find anim build FROMNUM
+[01:44:34]: Could not find anim build FROMNUM
+[01:44:34]: Could not find anim build FROMNUM
+[01:44:35]: Could not find anim build FROMNUM
+[01:44:35]: Could not find anim build FROMNUM
+[01:44:36]: Could not find anim build FROMNUM
+[01:44:37]: Could not find anim build FROMNUM
+[01:44:45]: Could not find anim build FROMNUM
+[01:44:49]: Could not find anim build FROMNUM
+[01:44:57]: Could not find anim build FROMNUM
+[01:45:16]: Could not find anim build FROMNUM
+[01:45:30]: Could not find anim build FROMNUM
+[01:45:33]: Could not find anim build FROMNUM
+[01:45:45]: Could not find anim build FROMNUM
+[01:45:55]: Could not find anim build FROMNUM
+[01:46:00]: Could not find anim build FROMNUM
+[01:46:27]: Could not find anim build FROMNUM
+[01:47:04]: Could not find anim build FROMNUM
+[01:47:25]: Could not find anim build FROMNUM
+[01:47:48]: Could not find anim build FROMNUM
+[01:47:56]: Could not find anim build FROMNUM
+[01:48:05]: Could not find anim build FROMNUM
+[01:48:33]: Could not find anim build FROMNUM
+[01:48:44]: Could not find anim build FROMNUM
+[01:48:52]: Could not find anim build FROMNUM
+[01:48:59]: Could not find anim build FROMNUM
+[01:49:09]: Could not find anim build FROMNUM
+[01:49:12]: Could not find anim build FROMNUM
+[01:49:24]: Could not find anim build FROMNUM
+[01:49:32]: Could not find anim build FROMNUM
+[01:49:43]: Could not find anim build FROMNUM
+[01:49:52]: Could not find anim build FROMNUM
+[01:50:02]: Could not find anim build FROMNUM
+[01:50:18]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-138.01, 194.70)
+[01:50:26]: Could not find anim build FROMNUM
+[01:50:29]: Could not find anim build FROMNUM
+[01:50:33]: Could not find anim build FROMNUM
+[01:50:55]: Could not find anim build FROMNUM
+[01:51:11]: Could not find anim build FROMNUM
+[01:51:20]: Could not find anim build FROMNUM
+[01:51:28]: Could not find anim build FROMNUM
+[01:51:40]: Available disk space for save files: 24332 MB
+[01:51:40]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000314
+[01:51:40]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000314
+[01:51:40]: Serializing world: session/2CE9191ADB245DC6/0000000314
+[01:51:46]: Could not find anim build FROMNUM
+[01:52:16]: Could not find anim build FROMNUM
+[01:52:19]: Could not find anim build FROMNUM
+[01:52:57]: Could not find anim build FROMNUM
+[01:53:02]: Could not find anim build FROMNUM
+[01:53:28]: Could not find anim build FROMNUM
+[01:53:29]: Could not find anim build FROMNUM
+[01:53:41]: Could not find anim build FROMNUM
+[01:54:10]: Could not find anim build FROMNUM
+[01:54:12]: Could not find anim build FROMNUM
+[01:54:38]: [P2P] Session request for '76561198837185815'
+[01:54:41]: Could not find anim build FROMNUM
+[01:54:42]: [P2P] Create session: 3.130.52.177|1 '76561198837185815'
+[01:54:42]: [P2P] Received from 3.130.52.177|1 '76561198837185815'
+[01:54:42]: [P2P] Sent to 3.130.52.177|1 '76561198837185815'
+[01:54:43]: New incoming connection 3.130.52.177|1 <8602292416083056476>
+[01:54:43]: Client connected from 3.130.52.177|1 <8602292416083056476>
+[01:54:43]: ValidateGameSessionToken GUID<8602292416083056476>
+[01:54:43]: Client authenticated: (KU_8EfLG8wA) HINDAN
+[01:54:43]: [Steam] SendUserConnectAndAuthenticate for '76561198837185815'
+[01:54:44]: [Steam] Authenticated client '76561198837185815'
+[01:54:44]: Could not find anim build FROMNUM
+[01:54:44]: There is no active event to validate against.
+[01:54:44]: [Shard] Read save location file for (KU_8EfLG8wA)
+[01:54:46]: Could not find anim build FROMNUM
+[01:54:46]: Could not find anim build FROMNUM
+[01:54:49]: Could not find anim build FROMNUM
+[01:55:15]: Could not find anim build FROMNUM
+[01:55:15]: Could not find anim build FROMNUM
+[01:55:27]: Could not find anim build FROMNUM
+[01:55:27]: Could not find anim build FROMNUM
+[01:55:49]: Resuming user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000283
+[01:55:49]: Spawning player at: [Load] (-142.35, 0.00, 214.09)	
+[01:56:01]: Could not find anim build FROMNUM
+[01:56:01]: Could not find anim build FROMNUM
+[01:56:17]: Could not find anim build FROMNUM
+[01:56:17]: Could not find anim build FROMNUM
+[01:56:19]: Could not find anim build FROMNUM
+[01:56:26]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-186.16, 195.88)
+[01:56:26]: Could not find anim build FROMNUM
+[01:56:26]: Could not find anim build FROMNUM
+[01:56:58]: Could not find anim build FROMNUM
+[01:56:58]: Could not find anim build FROMNUM
+[01:57:02]: Could not find anim build FROMNUM
+[01:57:03]: Could not find anim build FROMNUM
+[01:57:05]: Could not find anim build FROMNUM
+[01:57:05]: Could not find anim build FROMNUM
+[01:57:15]: Could not find anim build FROMNUM
+[01:57:15]: Could not find anim build FROMNUM
+[01:57:16]: Could not find anim build FROMNUM
+[01:57:24]: Could not find anim build FROMNUM
+[01:57:24]: Could not find anim build FROMNUM
+[01:57:25]: Could not find anim build FROMNUM
+[01:57:43]: Could not find anim build FROMNUM
+[01:57:43]: Could not find anim build FROMNUM
+[01:57:44]: Could not find anim build FROMNUM
+[01:57:44]: Could not find anim build FROMNUM
+[01:57:54]: Could not find anim build FROMNUM
+[01:57:54]: Could not find anim build FROMNUM
+[01:57:58]: Could not find anim build FROMNUM
+[01:58:07]: Could not find anim build FROMNUM
+[01:58:07]: Could not find anim build FROMNUM
+[01:58:09]: Could not find anim build FROMNUM
+[01:58:17]: Could not find anim build FROMNUM
+[01:58:20]: Could not find anim build FROMNUM
+[01:58:24]: Could not find anim build FROMNUM
+[01:58:28]: Could not find anim build FROMNUM
+[01:58:28]: Could not find anim build FROMNUM
+[01:58:32]: Could not find anim build FROMNUM
+[01:58:49]: Could not find anim build FROMNUM
+[01:59:09]: Could not find anim build FROMNUM
+[01:59:09]: Could not find anim build FROMNUM
+[01:59:11]: Could not find anim build FROMNUM
+[01:59:19]: Could not find anim build FROMNUM
+[01:59:20]: Could not find anim build FROMNUM
+[01:59:20]: Could not find anim build FROMNUM
+[01:59:32]: Could not find anim build FROMNUM
+[01:59:32]: Could not find anim build FROMNUM
+[01:59:40]: Could not find anim build FROMNUM
+[01:59:41]: Available disk space for save files: 24327 MB
+[01:59:41]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000315
+[01:59:41]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000315
+[01:59:41]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000315
+[01:59:42]: Serializing world: session/2CE9191ADB245DC6/0000000315
+[01:59:50]: Could not find anim build FROMNUM
+[01:59:58]: Could not find anim build FROMNUM
+[01:59:58]: Could not find anim build FROMNUM
+[01:59:59]: Could not find anim build FROMNUM
+[02:00:04]: [200] Account Communication Success (6)
+[02:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[02:00:11]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute() @(-156.87, 211.97)
+[02:00:16]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[02:00:25]: Could not find anim build FROMNUM
+[02:00:25]: Could not find anim build FROMNUM
+[02:00:35]: Could not find anim build FROMNUM
+[02:00:35]: Could not find anim build FROMNUM
+[02:00:35]: Could not find anim build FROMNUM
+[02:00:36]: Could not find anim build FROMNUM
+[02:00:36]: Could not find anim build FROMNUM
+[02:00:51]: Could not find anim build FROMNUM
+[02:00:51]: Could not find anim build FROMNUM
+[02:00:54]: Could not find anim build FROMNUM
+[02:01:11]: Could not find anim build FROMNUM
+[02:01:34]: Could not find anim build FROMNUM
+[02:01:47]: Could not find anim build FROMNUM
+[02:01:47]: Could not find anim build FROMNUM
+[02:01:54]: Could not find anim build FROMNUM
+[02:01:54]: Could not find anim build FROMNUM
+[02:02:05]: Could not find anim build FROMNUM
+[02:02:32]: Could not find anim build FROMNUM
+[02:02:32]: Could not find anim build FROMNUM
+[02:02:58]: Could not find anim build FROMNUM
+[02:03:01]: Could not find anim build FROMNUM
+[02:03:04]: Could not find anim build FROMNUM
+[02:03:04]: Could not find anim build FROMNUM
+[02:03:05]: Could not find anim build FROMNUM
+[02:03:05]: Could not find anim build FROMNUM
+[02:03:06]: Could not find anim build FROMNUM
+[02:03:07]: Could not find anim build FROMNUM
+[02:03:07]: Could not find anim build FROMNUM
+[02:03:08]: Could not find anim build FROMNUM
+[02:03:08]: Could not find anim build FROMNUM
+[02:03:09]: Could not find anim build FROMNUM
+[02:03:10]: Could not find anim build FROMNUM
+[02:03:10]: Could not find anim build FROMNUM
+[02:03:11]: Could not find anim build FROMNUM
+[02:03:11]: Could not find anim build FROMNUM
+[02:03:12]: Could not find anim build FROMNUM
+[02:03:12]: Could not find anim build FROMNUM
+[02:03:12]: Could not find anim build FROMNUM
+[02:03:13]: Could not find anim build FROMNUM
+[02:03:13]: Could not find anim build FROMNUM
+[02:03:14]: Could not find anim build FROMNUM
+[02:03:14]: Could not find anim build FROMNUM
+[02:03:15]: Could not find anim build FROMNUM
+[02:03:16]: Could not find anim build FROMNUM
+[02:03:16]: Could not find anim build FROMNUM
+[02:03:17]: Could not find anim build FROMNUM
+[02:03:17]: Could not find anim build FROMNUM
+[02:03:18]: Could not find anim build FROMNUM
+[02:03:18]: Could not find anim build FROMNUM
+[02:03:19]: Could not find anim build FROMNUM
+[02:03:19]: Could not find anim build FROMNUM
+[02:03:20]: Could not find anim build FROMNUM
+[02:03:20]: Could not find anim build FROMNUM
+[02:03:20]: Could not find anim build FROMNUM
+[02:03:20]: Could not find anim build FROMNUM
+[02:03:21]: Could not find anim build FROMNUM
+[02:03:22]: Could not find anim build FROMNUM
+[02:03:22]: Could not find anim build FROMNUM
+[02:03:23]: Could not find anim build FROMNUM
+[02:03:23]: Could not find anim build FROMNUM
+[02:03:23]: Could not find anim build FROMNUM
+[02:03:24]: Could not find anim build FROMNUM
+[02:03:25]: Could not find anim build FROMNUM
+[02:03:25]: Could not find anim build FROMNUM
+[02:03:26]: Could not find anim build FROMNUM
+[02:03:26]: Could not find anim build FROMNUM
+[02:03:27]: Could not find anim build FROMNUM
+[02:03:27]: Could not find anim build FROMNUM
+[02:03:28]: Could not find anim build FROMNUM
+[02:03:28]: Could not find anim build FROMNUM
+[02:03:29]: Could not find anim build FROMNUM
+[02:03:29]: Could not find anim build FROMNUM
+[02:03:30]: Could not find anim build FROMNUM
+[02:03:31]: Could not find anim build FROMNUM
+[02:03:31]: Could not find anim build FROMNUM
+[02:03:32]: Could not find anim build FROMNUM
+[02:03:32]: Could not find anim build FROMNUM
+[02:03:33]: Could not find anim build FROMNUM
+[02:03:34]: Could not find anim build FROMNUM
+[02:03:34]: Could not find anim build FROMNUM
+[02:03:35]: Could not find anim build FROMNUM
+[02:03:35]: Could not find anim build FROMNUM
+[02:03:36]: Could not find anim build FROMNUM
+[02:03:37]: Could not find anim build FROMNUM
+[02:03:37]: Could not find anim build FROMNUM
+[02:03:38]: Could not find anim build FROMNUM
+[02:03:38]: Could not find anim build FROMNUM
+[02:03:39]: Could not find anim build FROMNUM
+[02:03:40]: Could not find anim build FROMNUM
+[02:03:40]: Could not find anim build FROMNUM
+[02:03:41]: Could not find anim build FROMNUM
+[02:03:41]: Could not find anim build FROMNUM
+[02:03:42]: Could not find anim build FROMNUM
+[02:03:43]: Could not find anim build FROMNUM
+[02:03:43]: Could not find anim build FROMNUM
+[02:03:43]: Could not find anim build FROMNUM
+[02:03:44]: Could not find anim build FROMNUM
+[02:03:44]: Could not find anim build FROMNUM
+[02:03:45]: Could not find anim build FROMNUM
+[02:03:45]: Could not find anim build FROMNUM
+[02:03:46]: Could not find anim build FROMNUM
+[02:03:46]: Could not find anim build FROMNUM
+[02:03:47]: Could not find anim build FROMNUM
+[02:03:47]: Could not find anim build FROMNUM
+[02:03:48]: Could not find anim build FROMNUM
+[02:03:49]: Could not find anim build FROMNUM
+[02:03:49]: Could not find anim build FROMNUM
+[02:03:50]: Could not find anim build FROMNUM
+[02:03:50]: Could not find anim build FROMNUM
+[02:03:50]: Could not find anim build FROMNUM
+[02:03:51]: Could not find anim build FROMNUM
+[02:03:52]: Could not find anim build FROMNUM
+[02:03:52]: Could not find anim build FROMNUM
+[02:03:53]: Could not find anim build FROMNUM
+[02:03:53]: Could not find anim build FROMNUM
+[02:03:54]: Could not find anim build FROMNUM
+[02:03:55]: Could not find anim build FROMNUM
+[02:03:57]: Could not find anim build FROMNUM
+[02:04:00]: Could not find anim build FROMNUM
+[02:04:11]: Could not find anim build FROMNUM
+[02:04:11]: Could not find anim build FROMNUM
+[02:04:11]: Could not find anim build FROMNUM
+[02:04:18]: Could not find anim build FROMNUM
+[02:04:20]: Could not find anim build FROMNUM
+[02:04:20]: Could not find anim build FROMNUM
+[02:04:22]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-161.89, 205.80)
+[02:04:50]: Could not find anim build FROMNUM
+[02:05:34]: Could not find anim build FROMNUM
+[02:05:34]: Could not find anim build FROMNUM
+[02:06:13]: Could not find anim build FROMNUM
+[02:06:13]: Could not find anim build FROMNUM
+[02:06:18]: Could not find anim build FROMNUM
+[02:06:18]: Could not find anim build FROMNUM
+[02:06:28]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-173.35, 235.59)
+[02:06:42]: Could not find anim build FROMNUM
+[02:06:42]: Could not find anim build FROMNUM
+[02:06:49]: Could not find anim [spawn] in bank [squiderp]
+[02:06:50]: Could not find anim [spawn] in bank [squiderp]
+[02:06:50]: Could not find anim [spawn] in bank [squiderp]
+[02:06:51]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-168.55, 223.89)
+[02:07:07]: Could not find anim build FROMNUM
+[02:07:07]: Could not find anim build FROMNUM
+[02:07:32]: Could not find anim build FROMNUM
+[02:07:32]: Could not find anim build FROMNUM
+[02:07:41]: Available disk space for save files: 24322 MB
+[02:07:42]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000316
+[02:07:42]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000316
+[02:07:42]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000316
+[02:07:42]: Serializing world: session/2CE9191ADB245DC6/0000000316
+[02:07:56]: Could not find anim build FROMNUM
+[02:07:56]: Could not find anim build FROMNUM
+[02:08:09]: Could not find anim build FROMNUM
+[02:08:09]: Could not find anim build FROMNUM
+[02:08:10]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-176.43, 214.83)
+[02:08:43]: Could not find anim build FROMNUM
+[02:08:43]: Could not find anim build FROMNUM
+[02:08:44]: Could not find anim [death_wanda] in bank [ghost]
+[02:08:44]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000317
+[02:08:46]: Could not find anim build FROMNUM
+[02:08:46]: Could not find anim build FROMNUM
+[02:08:49]: Could not find anim [idle_loop] in bank [ghost]
+[02:08:52]: Could not find anim [transform] in bank [wilson]
+[02:08:53]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000317
+[02:09:12]: Could not find anim build FROMNUM
+[02:09:12]: Could not find anim build FROMNUM
+[02:09:42]: Could not find anim build FROMNUM
+[02:10:03]: Could not find anim build FROMNUM
+[02:10:14]: Could not find anim build FROMNUM
+[02:10:14]: Could not find anim build FROMNUM
+[02:10:16]: Could not find anim build FROMNUM
+[02:10:29]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()d) @(-141.64, 217.50)
+[02:10:29]: attempt to call a nil value
+[02:10:31]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-146.22, 202.28)
+[02:10:41]: Could not find anim build FROMNUM
+[02:10:47]: Could not find anim build FROMNUM
+[02:10:47]: Could not find anim build FROMNUM
+[02:10:56]: Could not find anim build FROMNUM
+[02:11:07]: Could not find anim build FROMNUM
+[02:11:07]: Could not find anim build FROMNUM
+[02:11:10]: Could not find anim build FROMNUM
+[02:11:11]: Could not find anim build FROMNUM
+[02:11:11]: Could not find anim build FROMNUM
+[02:11:11]: Could not find anim build FROMNUM
+[02:11:14]: Could not find anim build FROMNUM
+[02:11:33]: Could not find anim build FROMNUM
+[02:11:42]: Could not find anim build FROMNUM
+[02:12:16]: Could not find anim build FROMNUM
+[02:12:27]: Could not find anim build FROMNUM
+[02:12:34]: Could not find anim build FROMNUM
+[02:12:38]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(moi 5 tu do an thoi, em se lam them 1 mo nua de phan loai do an luon) @(-169.88, 230.67)
+[02:12:38]: attempt to call a nil value
+[02:12:39]: Could not find anim build FROMNUM
+[02:12:41]: Could not find anim build FROMNUM
+[02:12:44]: Could not find anim build FROMNUM
+[02:12:56]: Could not find anim build FROMNUM
+[02:13:01]: Could not find anim build FROMNUM
+[02:13:08]: Could not find anim build FROMNUM
+[02:13:36]: Could not find anim build FROMNUM
+[02:13:41]: Could not find anim build FROMNUM
+[02:13:48]: Could not find anim build FROMNUM
+[02:13:52]: Could not find anim build FROMNUM
+[02:14:07]: Could not find anim build FROMNUM
+[02:14:21]: Could not find anim build FROMNUM
+[02:14:24]: Could not find anim build FROMNUM
+[02:14:30]: Could not find anim build FROMNUM
+[02:15:42]: Available disk space for save files: 24317 MB
+[02:15:43]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000317
+[02:15:43]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000317
+[02:15:43]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000317
+[02:15:43]: Serializing world: session/2CE9191ADB245DC6/0000000317
+[02:15:43]: Could not find anim build FROMNUM
+[02:15:45]: Could not find anim build FROMNUM
+[02:15:48]: Could not find anim [spawn] in bank [squiderp]
+[02:15:57]: Could not find anim build FROMNUM
+[02:16:12]: Could not find anim build FROMNUM
+[02:16:24]: Could not find anim build FROMNUM
+[02:16:28]: Could not find anim build FROMNUM
+[02:16:30]: Could not find anim build FROMNUM
+[02:16:33]: Could not find anim build FROMNUM
+[02:16:40]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-133.10, 186.73)
+[02:16:49]: Could not find anim build FROMNUM
+[02:16:56]: Could not find anim build FROMNUM
+[02:16:59]: Could not find anim build FROMNUM
+[02:17:06]: Could not find anim build FROMNUM
+[02:17:45]: Could not find anim build FROMNUM
+[02:17:47]: Could not find anim build FROMNUM
+[02:17:50]: Could not find anim build FROMNUM
+[02:17:54]: Could not find anim build FROMNUM
+[02:18:10]: Could not find anim build FROMNUM
+[02:18:25]: Could not find anim build FROMNUM
+[02:18:28]: Could not find anim build FROMNUM
+[02:18:31]: Could not find anim build FROMNUM
+[02:18:56]: Could not find anim build FROMNUM
+[02:19:27]: Could not find anim build FROMNUM
+[02:19:32]: Could not find anim build FROMNUM
+[02:19:37]: Could not find anim build FROMNUM
+[02:19:39]: Could not find anim build FROMNUM
+[02:19:40]: Could not find anim build FROMNUM
+[02:19:48]: Could not find anim build FROMNUM
+[02:19:55]: Could not find anim build FROMNUM
+[02:20:00]: Could not find anim build FROMNUM
+[02:20:03]: Could not find anim build FROMNUM
+[02:20:04]: Could not find anim build FROMNUM
+[02:20:05]: Could not find anim build FROMNUM
+[02:20:06]: Could not find anim build FROMNUM
+[02:20:09]: Could not find anim build FROMNUM
+[02:20:10]: Could not find anim build FROMNUM
+[02:20:11]: Could not find anim build FROMNUM
+[02:20:12]: Could not find anim build FROMNUM
+[02:20:13]: Could not find anim build FROMNUM
+[02:20:14]: Could not find anim build FROMNUM
+[02:20:15]: Could not find anim build FROMNUM
+[02:20:16]: Could not find anim build FROMNUM
+[02:20:16]: Could not find anim build FROMNUM
+[02:20:17]: Could not find anim build FROMNUM
+[02:20:23]: Could not find anim build FROMNUM
+[02:20:38]: Could not find anim build FROMNUM
+[02:20:39]: Could not find anim build FROMNUM
+[02:20:49]: Could not find anim build FROMNUM
+[02:20:53]: Could not find anim build FROMNUM
+[02:21:05]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[02:21:44]: Could not find anim build FROMNUM
+[02:22:03]: Could not find anim build FROMNUM
+[02:22:07]: Could not find anim build FROMNUM
+[02:22:27]: Could not find anim build FROMNUM
+[02:22:36]: Could not find anim build FROMNUM
+[02:22:48]: Could not find anim build FROMNUM
+[02:22:52]: Could not find anim build FROMNUM
+[02:23:43]: Available disk space for save files: 24312 MB
+[02:23:43]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000318
+[02:23:43]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000318
+[02:23:43]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000318
+[02:23:44]: Serializing world: session/2CE9191ADB245DC6/0000000318
+[02:24:26]: Could not find anim build FROMNUM
+[02:24:50]: Could not find anim build FROMNUM
+[02:25:15]: Could not find anim build FROMNUM
+[02:25:27]: Could not find anim build FROMNUM
+[02:25:32]: Could not find anim build FROMNUM
+[02:26:35]: Could not find anim build FROMNUM
+[02:26:44]: Could not find anim build FROMNUM
+[02:26:47]: Could not find anim build FROMNUM
+[02:26:58]: Could not find anim build FROMNUM
+[02:27:03]: Could not find anim build FROMNUM
+[02:27:04]: Could not find anim build FROMNUM
+[02:27:12]: Could not find anim build FROMNUM
+[02:27:16]: Could not find anim build FROMNUM
+[02:27:24]: Could not find anim build FROMNUM
+[02:27:24]: Could not find anim build FROMNUM
+[02:27:32]: Could not find anim build FROMNUM
+[02:27:35]: Could not find anim build FROMNUM
+[02:27:39]: Could not find anim build FROMNUM
+[02:27:50]: Could not find anim build FROMNUM
+[02:28:09]: Could not find anim build FROMNUM
+[02:28:13]: Could not find anim build FROMNUM
+[02:28:33]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-169.37, 192.27)
+[02:29:04]: Could not find anim build FROMNUM
+[02:29:05]: Could not find anim build FROMNUM
+[02:29:09]: Could not find anim build FROMNUM
+[02:29:14]: Could not find anim build FROMNUM
+[02:29:20]: Could not find anim build FROMNUM
+[02:29:30]: Could not find anim build FROMNUM
+[02:30:04]: [200] Account Communication Success (6)
+[02:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[02:30:48]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("lightbulb",20)) @(-124.38, 196.18)
+[02:30:48]: giving 	147726 - lightbulb	
+[02:30:48]: giving 	147728 - lightbulb	
+[02:30:48]: giving 	147730 - lightbulb	
+[02:30:48]: giving 	147732 - lightbulb	
+[02:30:48]: giving 	147734 - lightbulb	
+[02:30:48]: giving 	147736 - lightbulb	
+[02:30:48]: giving 	147738 - lightbulb	
+[02:30:48]: giving 	147740 - lightbulb	
+[02:30:48]: giving 	147742 - lightbulb	
+[02:30:48]: giving 	147744 - lightbulb	
+[02:30:48]: giving 	147746 - lightbulb	
+[02:30:48]: giving 	147748 - lightbulb	
+[02:30:48]: giving 	147750 - lightbulb	
+[02:30:48]: giving 	147752 - lightbulb	
+[02:30:48]: giving 	147754 - lightbulb	
+[02:30:48]: giving 	147756 - lightbulb	
+[02:30:48]: giving 	147758 - lightbulb	
+[02:30:48]: giving 	147760 - lightbulb	
+[02:30:48]: giving 	147762 - lightbulb	
+[02:30:48]: giving 	147764 - lightbulb	
+[02:31:19]: Could not find anim build FROMNUM
+[02:31:44]: Available disk space for save files: 24307 MB
+[02:31:44]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000319
+[02:31:44]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000319
+[02:31:44]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000319
+[02:31:44]: Serializing world: session/2CE9191ADB245DC6/0000000319
+[02:32:11]: Could not find anim build FROMNUM
+[02:32:15]: Could not find anim build FROMNUM
+[02:32:20]: Could not find anim build FROMNUM
+[02:32:25]: Could not find anim build FROMNUM
+[02:32:35]: Could not find anim build FROMNUM
+[02:32:48]: Could not find anim build FROMNUM
+[02:33:07]: Could not find anim build FROMNUM
+[02:33:08]: Could not find anim build FROMNUM
+[02:33:08]: Could not find anim build FROMNUM
+[02:33:09]: Could not find anim build FROMNUM
+[02:33:09]: Could not find anim build FROMNUM
+[02:33:10]: Could not find anim build FROMNUM
+[02:33:11]: Could not find anim build FROMNUM
+[02:33:11]: Could not find anim build FROMNUM
+[02:33:11]: Could not find anim build FROMNUM
+[02:33:12]: Could not find anim build FROMNUM
+[02:33:14]: Could not find anim build FROMNUM
+[02:33:15]: Could not find anim build FROMNUM
+[02:33:15]: Could not find anim build FROMNUM
+[02:33:16]: Could not find anim build FROMNUM
+[02:33:16]: Could not find anim build FROMNUM
+[02:33:17]: Could not find anim build FROMNUM
+[02:33:17]: Could not find anim build FROMNUM
+[02:33:21]: Could not find anim build FROMNUM
+[02:33:22]: Could not find anim build FROMNUM
+[02:33:23]: Could not find anim build FROMNUM
+[02:33:23]: Could not find anim build FROMNUM
+[02:33:24]: Could not find anim build FROMNUM
+[02:33:24]: Could not find anim build FROMNUM
+[02:33:25]: Could not find anim build FROMNUM
+[02:33:26]: Could not find anim build FROMNUM
+[02:33:26]: Could not find anim build FROMNUM
+[02:33:26]: Could not find anim build FROMNUM
+[02:33:27]: Could not find anim build FROMNUM
+[02:33:27]: Could not find anim build FROMNUM
+[02:33:28]: Could not find anim build FROMNUM
+[02:33:29]: Could not find anim build FROMNUM
+[02:33:29]: Could not find anim build FROMNUM
+[02:33:29]: Could not find anim build FROMNUM
+[02:33:30]: Could not find anim build FROMNUM
+[02:33:30]: Could not find anim build FROMNUM
+[02:33:31]: Could not find anim build FROMNUM
+[02:33:32]: Could not find anim build FROMNUM
+[02:33:32]: Could not find anim build FROMNUM
+[02:33:33]: Could not find anim build FROMNUM
+[02:33:33]: Could not find anim build FROMNUM
+[02:33:34]: Could not find anim build FROMNUM
+[02:33:35]: Could not find anim build FROMNUM
+[02:33:35]: Could not find anim build FROMNUM
+[02:33:42]: Could not find anim build FROMNUM
+[02:33:55]: Could not find anim build FROMNUM
+[02:34:02]: Could not find anim build FROMNUM
+[02:34:04]: Could not find anim build FROMNUM
+[02:34:06]: Could not find anim build FROMNUM
+[02:34:14]: Could not find anim build FROMNUM
+[02:34:29]: Could not find anim build FROMNUM
+[02:34:30]: Could not find anim build FROMNUM
+[02:34:31]: Could not find anim build FROMNUM
+[02:34:31]: Could not find anim build FROMNUM
+[02:34:31]: Could not find anim build FROMNUM
+[02:34:31]: Could not find anim build FROMNUM
+[02:34:31]: Could not find anim build FROMNUM
+[02:34:35]: Could not find anim build FROMNUM
+[02:34:38]: Could not find anim build FROMNUM
+[02:34:39]: Could not find anim build FROMNUM
+[02:34:41]: Could not find anim build FROMNUM
+[02:34:41]: Could not find anim build FROMNUM
+[02:34:50]: Could not find anim build FROMNUM
+[02:34:58]: Could not find anim build FROMNUM
+[02:35:08]: Could not find anim build FROMNUM
+[02:35:26]: Could not find anim build FROMNUM
+[02:35:36]: Could not find anim build FROMNUM
+[02:35:37]: Could not find anim build FROMNUM
+[02:35:49]: Could not find anim build FROMNUM
+[02:35:49]: Could not find anim build FROMNUM
+[02:35:50]: Could not find anim build FROMNUM
+[02:35:51]: Could not find anim build FROMNUM
+[02:35:53]: Could not find anim build FROMNUM
+[02:35:55]: Could not find anim build FROMNUM
+[02:35:59]: Could not find anim build FROMNUM
+[02:36:01]: Could not find anim build FROMNUM
+[02:36:02]: Could not find anim build FROMNUM
+[02:36:05]: Could not find anim build FROMNUM
+[02:36:07]: Could not find anim build FROMNUM
+[02:36:11]: Could not find anim build FROMNUM
+[02:36:21]: Could not find anim build FROMNUM
+[02:36:24]: Could not find anim build FROMNUM
+[02:36:28]: Could not find anim build FROMNUM
+[02:36:29]: Could not find anim build FROMNUM
+[02:36:30]: Could not find anim build FROMNUM
+[02:36:30]: Could not find anim build FROMNUM
+[02:36:31]: Could not find anim build FROMNUM
+[02:36:31]: Could not find anim build FROMNUM
+[02:36:32]: Could not find anim build FROMNUM
+[02:36:33]: Could not find anim build FROMNUM
+[02:36:33]: Could not find anim build FROMNUM
+[02:36:33]: Could not find anim build FROMNUM
+[02:36:34]: Could not find anim build FROMNUM
+[02:36:34]: Could not find anim build FROMNUM
+[02:36:35]: Could not find anim build FROMNUM
+[02:36:36]: Could not find anim build FROMNUM
+[02:36:36]: Could not find anim build FROMNUM
+[02:36:37]: Could not find anim build FROMNUM
+[02:36:37]: Could not find anim build FROMNUM
+[02:36:38]: Could not find anim build FROMNUM
+[02:36:39]: Could not find anim build FROMNUM
+[02:36:39]: Could not find anim build FROMNUM
+[02:36:40]: Could not find anim build FROMNUM
+[02:36:40]: Could not find anim build FROMNUM
+[02:36:41]: Could not find anim build FROMNUM
+[02:36:42]: Could not find anim build FROMNUM
+[02:36:42]: Could not find anim build FROMNUM
+[02:36:43]: Could not find anim build FROMNUM
+[02:36:43]: Could not find anim build FROMNUM
+[02:36:44]: Could not find anim build FROMNUM
+[02:36:45]: Could not find anim build FROMNUM
+[02:36:45]: Could not find anim build FROMNUM
+[02:36:46]: Could not find anim build FROMNUM
+[02:36:46]: Could not find anim build FROMNUM
+[02:36:47]: Could not find anim build FROMNUM
+[02:36:48]: Could not find anim build FROMNUM
+[02:36:48]: Could not find anim build FROMNUM
+[02:36:49]: Could not find anim build FROMNUM
+[02:36:49]: Could not find anim build FROMNUM
+[02:36:50]: Could not find anim build FROMNUM
+[02:36:51]: Could not find anim build FROMNUM
+[02:36:56]: Could not find anim build FROMNUM
+[02:36:57]: Could not find anim build FROMNUM
+[02:36:59]: Could not find anim build FROMNUM
+[02:36:59]: Could not find anim build FROMNUM
+[02:37:22]: Could not find anim build FROMNUM
+[02:37:29]: Could not find anim build FROMNUM
+[02:37:30]: Could not find anim build FROMNUM
+[02:37:32]: Could not find anim build FROMNUM
+[02:37:35]: Could not find anim build FROMNUM
+[02:37:37]: Could not find anim build FROMNUM
+[02:37:38]: Could not find anim build FROMNUM
+[02:37:39]: Could not find anim build FROMNUM
+[02:37:49]: Could not find anim build FROMNUM
+[02:37:51]: Could not find anim build FROMNUM
+[02:38:02]: Could not find anim build FROMNUM
+[02:38:06]: Could not find anim build FROMNUM
+[02:38:13]: Could not find anim build FROMNUM
+[02:38:43]: Could not find anim build FROMNUM
+[02:38:49]: Could not find anim build FROMNUM
+[02:39:11]: Could not find anim build FROMNUM
+[02:39:13]: Could not find anim build FROMNUM
+[02:39:21]: Could not find anim build FROMNUM
+[02:39:24]: Could not find anim build FROMNUM
+[02:39:25]: Could not find anim build FROMNUM
+[02:39:44]: Available disk space for save files: 24302 MB
+[02:39:45]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000320
+[02:39:45]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000320
+[02:39:45]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000320
+[02:39:45]: Serializing world: session/2CE9191ADB245DC6/0000000320
+[02:40:02]: Could not find anim build FROMNUM
+[02:40:04]: Could not find anim build FROMNUM
+[02:40:05]: Could not find anim build FROMNUM
+[02:40:17]: Could not find anim build FROMNUM
+[02:40:18]: Could not find anim build FROMNUM
+[02:40:24]: Could not find anim build FROMNUM
+[02:40:30]: Could not find anim build FROMNUM
+[02:40:42]: Could not find anim build FROMNUM
+[02:40:43]: Could not find anim build FROMNUM
+[02:40:45]: Could not find anim build FROMNUM
+[02:40:49]: Could not find anim build FROMNUM
+[02:41:09]: Could not find anim build FROMNUM
+[02:41:16]: Could not find anim build FROMNUM
+[02:41:33]: Could not find anim build FROMNUM
+[02:41:41]: Could not find anim build FROMNUM
+[02:41:43]: Could not find anim build FROMNUM
+[02:41:43]: Could not find anim build FROMNUM
+[02:41:43]: Could not find anim build FROMNUM
+[02:41:44]: Could not find anim build FROMNUM
+[02:41:44]: Could not find anim build FROMNUM
+[02:41:44]: Could not find anim build FROMNUM
+[02:41:44]: Could not find anim build FROMNUM
+[02:41:45]: Could not find anim build FROMNUM
+[02:41:46]: Could not find anim build FROMNUM
+[02:41:46]: Could not find anim build FROMNUM
+[02:41:47]: Could not find anim build FROMNUM
+[02:41:47]: Could not find anim build FROMNUM
+[02:41:48]: Could not find anim build FROMNUM
+[02:41:48]: Could not find anim build FROMNUM
+[02:41:49]: Could not find anim build FROMNUM
+[02:41:49]: Could not find anim build FROMNUM
+[02:41:50]: Could not find anim build FROMNUM
+[02:41:51]: Could not find anim build FROMNUM
+[02:41:51]: Could not find anim build FROMNUM
+[02:41:52]: Could not find anim build FROMNUM
+[02:41:52]: Could not find anim build FROMNUM
+[02:41:53]: Could not find anim build FROMNUM
+[02:41:54]: Could not find anim build FROMNUM
+[02:41:54]: Could not find anim build FROMNUM
+[02:41:55]: Could not find anim build FROMNUM
+[02:41:55]: Could not find anim build FROMNUM
+[02:41:56]: Could not find anim build FROMNUM
+[02:41:57]: Could not find anim build FROMNUM
+[02:41:57]: Could not find anim build FROMNUM
+[02:41:57]: Could not find anim build FROMNUM
+[02:41:57]: Could not find anim build FROMNUM
+[02:41:58]: Could not find anim build FROMNUM
+[02:41:58]: Could not find anim build FROMNUM
+[02:42:00]: Could not find anim build FROMNUM
+[02:42:06]: Could not find anim build FROMNUM
+[02:42:14]: Could not find anim build FROMNUM
+[02:42:15]: Could not find anim build FROMNUM
+[02:42:27]: Could not find anim build FROMNUM
+[02:42:28]: Could not find anim build FROMNUM
+[02:42:29]: Could not find anim build FROMNUM
+[02:42:29]: Could not find anim build FROMNUM
+[02:42:30]: Could not find anim build FROMNUM
+[02:42:31]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-165.32, 230.97)
+[02:42:31]: Could not find anim build FROMNUM
+[02:42:32]: Could not find anim build FROMNUM
+[02:42:32]: Could not find anim build FROMNUM
+[02:42:33]: Could not find anim build FROMNUM
+[02:42:35]: Could not find anim build FROMNUM
+[02:42:38]: Could not find anim build FROMNUM
+[02:42:41]: Could not find anim build FROMNUM
+[02:42:41]: Could not find anim build FROMNUM
+[02:42:42]: Could not find anim build FROMNUM
+[02:42:47]: Could not find anim build FROMNUM
+[02:42:50]: Could not find anim build FROMNUM
+[02:42:52]: Could not find anim build FROMNUM
+[02:42:55]: Could not find anim build FROMNUM
+[02:42:56]: Could not find anim build FROMNUM
+[02:42:56]: Could not find anim build FROMNUM
+[02:42:56]: Could not find anim build FROMNUM
+[02:42:57]: Could not find anim build FROMNUM
+[02:42:57]: Could not find anim build FROMNUM
+[02:42:57]: Could not find anim build FROMNUM
+[02:42:57]: Could not find anim build FROMNUM
+[02:42:57]: Could not find anim build FROMNUM
+[02:42:58]: Could not find anim build FROMNUM
+[02:42:58]: Could not find anim build FROMNUM
+[02:42:58]: Could not find anim build FROMNUM
+[02:42:59]: Could not find anim build FROMNUM
+[02:42:59]: Could not find anim build FROMNUM
+[02:42:59]: Could not find anim build FROMNUM
+[02:42:59]: Could not find anim build FROMNUM
+[02:43:00]: Could not find anim build FROMNUM
+[02:43:00]: Could not find anim build FROMNUM
+[02:43:00]: Could not find anim build FROMNUM
+[02:43:01]: Could not find anim build FROMNUM
+[02:43:01]: Could not find anim build FROMNUM
+[02:43:01]: Could not find anim build FROMNUM
+[02:43:01]: Could not find anim build FROMNUM
+[02:43:02]: Could not find anim build FROMNUM
+[02:43:02]: Could not find anim build FROMNUM
+[02:43:03]: Could not find anim build FROMNUM
+[02:43:03]: Could not find anim build FROMNUM
+[02:43:03]: Could not find anim build FROMNUM
+[02:43:09]: Could not find anim build FROMNUM
+[02:43:09]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-156.36, 204.59)
+[02:43:22]: Could not find anim build FROMNUM
+[02:43:31]: Could not find anim build FROMNUM
+[02:43:36]: Could not find anim build FROMNUM
+[02:43:38]: Could not find anim build FROMNUM
+[02:43:42]: Could not find anim build FROMNUM
+[02:43:43]: Could not find anim build FROMNUM
+[02:43:44]: Could not find anim build FROMNUM
+[02:43:51]: Could not find anim build FROMNUM
+[02:43:51]: Could not find anim build FROMNUM
+[02:43:52]: Could not find anim build FROMNUM
+[02:43:53]: Could not find anim build FROMNUM
+[02:43:55]: Could not find anim build FROMNUM
+[02:44:25]: Could not find anim build FROMNUM
+[02:44:29]: Could not find anim build FROMNUM
+[02:44:37]: Could not find anim build FROMNUM
+[02:44:50]: Could not find anim build FROMNUM
+[02:45:05]: Could not find anim build FROMNUM
+[02:45:05]: Could not find anim build FROMNUM
+[02:45:06]: Could not find anim build FROMNUM
+[02:45:07]: Could not find anim build FROMNUM
+[02:45:42]: Could not find anim build FROMNUM
+[02:45:45]: Could not find anim build FROMNUM
+[02:45:48]: Could not find anim build FROMNUM
+[02:45:54]: Could not find anim build FROMNUM
+[02:46:10]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-185.15, 209.69)
+[02:46:27]: Could not find anim build FROMNUM
+[02:46:33]: Could not find anim build FROMNUM
+[02:46:54]: Could not find anim build FROMNUM
+[02:46:58]: Could not find anim build FROMNUM
+[02:47:21]: Could not find anim build FROMNUM
+[02:47:26]: Could not find anim build FROMNUM
+[02:47:27]: Could not find anim build FROMNUM
+[02:47:28]: Could not find anim build FROMNUM
+[02:47:34]: Could not find anim build FROMNUM
+[02:47:45]: Available disk space for save files: 24297 MB
+[02:47:45]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000321
+[02:47:45]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000321
+[02:47:45]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000321
+[02:47:46]: Serializing world: session/2CE9191ADB245DC6/0000000321
+[02:47:48]: Could not find anim build FROMNUM
+[02:47:53]: Could not find anim build FROMNUM
+[02:47:53]: Could not find anim build FROMNUM
+[02:47:53]: Could not find anim build FROMNUM
+[02:47:56]: Could not find anim build FROMNUM
+[02:47:59]: Could not find anim build FROMNUM
+[02:48:05]: Could not find anim build FROMNUM
+[02:48:06]: Could not find anim build FROMNUM
+[02:48:09]: Could not find anim build FROMNUM
+[02:48:11]: Could not find anim build FROMNUM
+[02:48:15]: Could not find anim build FROMNUM
+[02:48:18]: Could not find anim build FROMNUM
+[02:48:22]: Could not find anim build FROMNUM
+[02:48:28]: Could not find anim build FROMNUM
+[02:48:34]: Could not find anim build FROMNUM
+[02:48:42]: Could not find anim build FROMNUM
+[02:48:56]: Could not find anim build FROMNUM
+[02:49:48]: Could not find anim build FROMNUM
+[02:49:53]: Could not find anim build FROMNUM
+[02:50:35]: Could not find anim build FROMNUM
+[02:51:05]: Could not find anim build FROMNUM
+[02:51:06]: Could not find anim build FROMNUM
+[02:51:07]: Could not find anim build FROMNUM
+[02:51:08]: Could not find anim build FROMNUM
+[02:51:09]: Could not find anim build FROMNUM
+[02:51:10]: Could not find anim build FROMNUM
+[02:51:12]: Could not find anim build FROMNUM
+[02:51:16]: Could not find anim build FROMNUM
+[02:51:29]: Could not find anim build FROMNUM
+[02:51:44]: Could not find anim build FROMNUM
+[02:51:59]: Could not find anim build FROMNUM
+[02:52:08]: Could not find anim build FROMNUM
+[02:52:08]: Could not find anim build FROMNUM
+[02:52:09]: Could not find anim build FROMNUM
+[02:52:09]: Could not find anim build FROMNUM
+[02:52:10]: Could not find anim build FROMNUM
+[02:52:13]: Could not find anim build FROMNUM
+[02:52:20]: Could not find anim build FROMNUM
+[02:52:48]: Could not find anim build FROMNUM
+[02:53:04]: Could not find anim build FROMNUM
+[02:53:58]: Could not find anim build FROMNUM
+[02:54:02]: Could not find anim [death] in bank [ghost]
+[02:54:02]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000322
+[02:54:14]: Could not find anim [idle_loop] in bank [ghost]
+[02:54:17]: Could not find anim [transform] in bank [wilson]
+[02:54:18]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000322
+[02:54:24]: Could not find anim build FROMNUM
+[02:54:24]: Could not find anim build FROMNUM
+[02:54:25]: Could not find anim build FROMNUM
+[02:54:37]: Could not find anim build FROMNUM
+[02:55:29]: Could not find anim build FROMNUM
+[02:55:46]: Available disk space for save files: 24277 MB
+[02:55:46]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000322
+[02:55:46]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000322
+[02:55:46]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000322
+[02:55:47]: Serializing world: session/2CE9191ADB245DC6/0000000322
+[02:55:57]: Could not find anim build FROMNUM
+[02:55:58]: Could not find anim build FROMNUM
+[02:56:01]: Could not find anim build FROMNUM
+[02:56:04]: Could not find anim build FROMNUM
+[02:56:05]: Could not find anim build FROMNUM
+[02:56:08]: Could not find anim build FROMNUM
+[02:56:14]: Could not find anim build FROMNUM
+[02:56:17]: Could not find anim build FROMNUM
+[02:56:23]: Could not find anim build FROMNUM
+[02:56:25]: Could not find anim build FROMNUM
+[02:56:26]: Could not find anim build FROMNUM
+[02:56:36]: Could not find anim build FROMNUM
+[02:57:00]: Could not find anim build FROMNUM
+[02:57:11]: Could not find anim build FROMNUM
+[02:57:23]: Could not find anim build FROMNUM
+[02:57:26]: Could not find anim build FROMNUM
+[02:57:28]: Could not find anim build FROMNUM
+[02:58:07]: [Steam] SendUserDisconnect for '76561198837185815'
+[02:58:07]: Connection lost to 3.130.52.177|1 <8602292416083056476>
+[02:58:07]: [Shard] (KU_8EfLG8wA) disconnected from [SHDMASTER](1)
+[02:58:07]: Serializing user: session/2CE9191ADB245DC6/A7H0T9AK13KA/0000000323
+[02:58:48]: [P2P] Connection failed for '76561198837185815'
+[02:58:54]: Could not find anim build FROMNUM
+[02:59:16]: Could not find anim build FROMNUM
+[03:00:04]: [200] Account Communication Success (6)
+[03:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:00:51]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-168.89, 196.61)
+[03:01:08]: Could not find anim build FROMNUM
+[03:01:10]: Could not find anim build FROMNUM
+[03:01:46]: Could not find anim build FROMNUM
+[03:01:59]: Could not find anim build FROMNUM
+[03:02:02]: Could not find anim build FROMNUM
+[03:02:06]: Could not find anim build FROMNUM
+[03:02:08]: Could not find anim build FROMNUM
+[03:02:18]: Could not find anim build FROMNUM
+[03:02:19]: Could not find anim build FROMNUM
+[03:02:21]: Could not find anim build FROMNUM
+[03:02:27]: Could not find anim build FROMNUM
+[03:02:37]: Could not find anim build FROMNUM
+[03:02:37]: Could not find anim build FROMNUM
+[03:02:38]: Could not find anim build FROMNUM
+[03:02:40]: Could not find anim build FROMNUM
+[03:02:48]: Could not find anim build FROMNUM
+[03:02:49]: Could not find anim build FROMNUM
+[03:03:25]: Could not find anim build FROMNUM
+[03:03:30]: Could not find anim build FROMNUM
+[03:03:35]: Could not find anim build FROMNUM
+[03:03:40]: Could not find anim build FROMNUM
+[03:03:47]: Available disk space for save files: 24272 MB
+[03:03:47]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000323
+[03:03:47]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000323
+[03:03:47]: Serializing world: session/2CE9191ADB245DC6/0000000323
+[03:03:55]: Could not find anim build FROMNUM
+[03:04:27]: Could not find anim build FROMNUM
+[03:04:56]: Could not find anim build FROMNUM
+[03:04:57]: Could not find anim build FROMNUM
+[03:05:14]: Could not find anim build FROMNUM
+[03:05:16]: Could not find anim build FROMNUM
+[03:05:19]: Could not find anim build FROMNUM
+[03:05:22]: Could not find anim build FROMNUM
+[03:05:26]: Could not find anim build FROMNUM
+[03:05:47]: Could not find anim build FROMNUM
+[03:05:51]: Could not find anim build FROMNUM
+[03:05:52]: Could not find anim build FROMNUM
+[03:05:58]: Could not find anim build FROMNUM
+[03:06:01]: Could not find anim build FROMNUM
+[03:06:04]: Could not find anim build FROMNUM
+[03:06:07]: Could not find anim build FROMNUM
+[03:06:11]: Could not find anim build FROMNUM
+[03:06:38]: Could not find anim build FROMNUM
+[03:06:56]: Could not find anim build FROMNUM
+[03:06:59]: Could not find anim build FROMNUM
+[03:07:03]: Could not find anim build FROMNUM
+[03:07:37]: Could not find anim build FROMNUM
+[03:07:46]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-165.37, 255.56)
+[03:08:07]: [P2P] Session timed out for '76561198837185815'
+[03:08:07]: [P2P] Remove session: 3.130.52.177|1 '76561198837185815'
+[03:08:23]: Could not find anim build FROMNUM
+[03:08:30]: Could not find anim build FROMNUM
+[03:09:35]: Could not find anim build FROMNUM
+[03:09:43]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("lightbulb",20)) @(-132.37, 219.84)
+[03:09:43]: giving 	155486 - lightbulb	
+[03:09:43]: giving 	155488 - lightbulb	
+[03:09:43]: giving 	155490 - lightbulb	
+[03:09:43]: giving 	155492 - lightbulb	
+[03:09:43]: giving 	155494 - lightbulb	
+[03:09:43]: giving 	155496 - lightbulb	
+[03:09:43]: giving 	155498 - lightbulb	
+[03:09:43]: giving 	155500 - lightbulb	
+[03:09:43]: giving 	155502 - lightbulb	
+[03:09:43]: giving 	155504 - lightbulb	
+[03:09:43]: giving 	155506 - lightbulb	
+[03:09:43]: giving 	155508 - lightbulb	
+[03:09:43]: giving 	155510 - lightbulb	
+[03:09:43]: giving 	155512 - lightbulb	
+[03:09:43]: giving 	155514 - lightbulb	
+[03:09:43]: giving 	155516 - lightbulb	
+[03:09:43]: giving 	155518 - lightbulb	
+[03:09:43]: giving 	155520 - lightbulb	
+[03:09:43]: giving 	155522 - lightbulb	
+[03:09:43]: giving 	155524 - lightbulb	
+[03:09:48]: Could not find anim build FROMNUM
+[03:09:51]: Could not find anim build FROMNUM
+[03:10:13]: Could not find anim build FROMNUM
+[03:10:27]: Could not find anim build FROMNUM
+[03:11:47]: Available disk space for save files: 24267 MB
+[03:11:48]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000324
+[03:11:48]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000324
+[03:11:48]: Serializing world: session/2CE9191ADB245DC6/0000000324
+[03:11:55]: Could not find anim build FROMNUM
+[03:11:55]: Could not find anim build FROMNUM
+[03:11:56]: Could not find anim build FROMNUM
+[03:11:57]: Could not find anim build FROMNUM
+[03:11:57]: Could not find anim build FROMNUM
+[03:11:58]: Could not find anim build FROMNUM
+[03:11:58]: Could not find anim build FROMNUM
+[03:11:59]: Could not find anim build FROMNUM
+[03:11:59]: Could not find anim build FROMNUM
+[03:11:59]: Could not find anim build FROMNUM
+[03:12:00]: Could not find anim build FROMNUM
+[03:12:01]: Could not find anim build FROMNUM
+[03:12:01]: Could not find anim build FROMNUM
+[03:12:02]: Could not find anim build FROMNUM
+[03:12:03]: Could not find anim build FROMNUM
+[03:12:03]: Could not find anim build FROMNUM
+[03:12:04]: Could not find anim build FROMNUM
+[03:12:04]: Could not find anim build FROMNUM
+[03:12:05]: Could not find anim build FROMNUM
+[03:12:05]: Could not find anim build FROMNUM
+[03:12:06]: Could not find anim build FROMNUM
+[03:12:07]: Could not find anim build FROMNUM
+[03:12:07]: Could not find anim build FROMNUM
+[03:12:08]: Could not find anim build FROMNUM
+[03:12:08]: Could not find anim build FROMNUM
+[03:12:09]: Could not find anim build FROMNUM
+[03:12:09]: Could not find anim build FROMNUM
+[03:12:10]: Could not find anim build FROMNUM
+[03:12:10]: Could not find anim build FROMNUM
+[03:12:11]: Could not find anim build FROMNUM
+[03:12:12]: Could not find anim build FROMNUM
+[03:12:12]: Could not find anim build FROMNUM
+[03:12:13]: Could not find anim build FROMNUM
+[03:12:13]: Could not find anim build FROMNUM
+[03:12:14]: Could not find anim build FROMNUM
+[03:12:14]: Could not find anim build FROMNUM
+[03:12:15]: Could not find anim build FROMNUM
+[03:12:16]: Could not find anim build FROMNUM
+[03:12:16]: Could not find anim build FROMNUM
+[03:12:17]: Could not find anim build FROMNUM
+[03:12:17]: Could not find anim build FROMNUM
+[03:12:18]: Could not find anim build FROMNUM
+[03:12:19]: Could not find anim build FROMNUM
+[03:12:19]: Could not find anim build FROMNUM
+[03:12:20]: Could not find anim build FROMNUM
+[03:12:20]: Could not find anim build FROMNUM
+[03:12:21]: Could not find anim build FROMNUM
+[03:12:22]: Could not find anim build FROMNUM
+[03:12:22]: Could not find anim build FROMNUM
+[03:12:23]: Could not find anim build FROMNUM
+[03:12:23]: Could not find anim build FROMNUM
+[03:12:24]: Could not find anim build FROMNUM
+[03:12:24]: Could not find anim build FROMNUM
+[03:12:25]: Could not find anim build FROMNUM
+[03:12:25]: Could not find anim build FROMNUM
+[03:12:26]: Could not find anim build FROMNUM
+[03:12:27]: Could not find anim build FROMNUM
+[03:12:27]: Could not find anim build FROMNUM
+[03:12:28]: Could not find anim build FROMNUM
+[03:12:35]: Could not find anim build FROMNUM
+[03:12:59]: Could not find anim build FROMNUM
+[03:13:02]: Could not find anim build FROMNUM
+[03:13:12]: Could not find anim build FROMNUM
+[03:13:17]: Could not find anim build FROMNUM
+[03:13:23]: Could not find anim build FROMNUM
+[03:13:26]: Could not find anim build FROMNUM
+[03:13:31]: Could not find anim build FROMNUM
+[03:13:36]: Could not find anim build FROMNUM
+[03:13:45]: Could not find anim build FROMNUM
+[03:13:47]: Could not find anim build FROMNUM
+[03:13:57]: Could not find anim build FROMNUM
+[03:14:02]: Could not find anim build FROMNUM
+[03:14:37]: Could not find anim build FROMNUM
+[03:14:50]: Could not find anim build FROMNUM
+[03:15:01]: Could not find anim build FROMNUM
+[03:15:06]: Could not find anim build FROMNUM
+[03:15:17]: Could not find anim build FROMNUM
+[03:15:18]: Could not find anim build FROMNUM
+[03:15:18]: Could not find anim build FROMNUM
+[03:15:26]: Could not find anim build FROMNUM
+[03:15:36]: Could not find anim build FROMNUM
+[03:15:38]: Could not find anim build FROMNUM
+[03:15:54]: Could not find anim build FROMNUM
+[03:16:05]: Could not find anim build FROMNUM
+[03:16:09]: Could not find anim build FROMNUM
+[03:16:15]: Could not find anim build FROMNUM
+[03:16:19]: Could not find anim build FROMNUM
+[03:16:28]: Could not find anim build FROMNUM
+[03:16:43]: Could not find anim [death_wanda] in bank [ghost]
+[03:16:43]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000325
+[03:16:43]: Could not find anim build FROMNUM
+[03:16:44]: Could not find anim build FROMNUM
+[03:16:44]: Could not find anim build FROMNUM
+[03:16:45]: Could not find anim build FROMNUM
+[03:16:45]: Could not find anim build FROMNUM
+[03:16:45]: Could not find anim build FROMNUM
+[03:16:46]: Could not find anim build FROMNUM
+[03:16:46]: Could not find anim build FROMNUM
+[03:16:46]: Could not find anim build FROMNUM
+[03:16:50]: Could not find anim [idle_loop] in bank [ghost]
+[03:16:53]: Could not find anim [transform] in bank [wilson]
+[03:16:54]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000325
+[03:17:13]: Could not find anim build FROMNUM
+[03:17:17]: Could not find anim build FROMNUM
+[03:17:17]: Could not find anim build FROMNUM
+[03:17:17]: Could not find anim build FROMNUM
+[03:17:18]: Could not find anim build FROMNUM
+[03:17:18]: Could not find anim build FROMNUM
+[03:17:18]: Could not find anim build FROMNUM
+[03:17:19]: Could not find anim build FROMNUM
+[03:17:19]: Could not find anim build FROMNUM
+[03:17:20]: Could not find anim build FROMNUM
+[03:17:20]: Could not find anim build FROMNUM
+[03:17:20]: Could not find anim build FROMNUM
+[03:17:21]: Could not find anim build FROMNUM
+[03:17:21]: Could not find anim build FROMNUM
+[03:17:21]: Could not find anim build FROMNUM
+[03:17:22]: Could not find anim build FROMNUM
+[03:17:23]: Could not find anim build FROMNUM
+[03:17:36]: Could not find anim build FROMNUM
+[03:17:41]: Could not find anim build FROMNUM
+[03:17:47]: Could not find anim build FROMNUM
+[03:18:04]: Could not find anim build FROMNUM
+[03:18:14]: Could not find anim build FROMNUM
+[03:18:29]: Could not find anim build FROMNUM
+[03:18:40]: Could not find anim build FROMNUM
+[03:18:43]: Could not find anim build FROMNUM
+[03:18:50]: Could not find anim build FROMNUM
+[03:18:53]: Could not find anim build FROMNUM
+[03:19:04]: Could not find anim build FROMNUM
+[03:19:05]: Could not find anim build FROMNUM
+[03:19:12]: Could not find anim build FROMNUM
+[03:19:14]: Could not find anim build FROMNUM
+[03:19:15]: Could not find anim build FROMNUM
+[03:19:20]: Could not find anim build FROMNUM
+[03:19:36]: Could not find anim build FROMNUM
+[03:19:41]: Could not find anim build FROMNUM
+[03:19:43]: Could not find anim build FROMNUM
+[03:19:46]: Could not find anim build FROMNUM
+[03:19:48]: Available disk space for save files: 24261 MB
+[03:19:48]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000325
+[03:19:48]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000325
+[03:19:49]: Serializing world: session/2CE9191ADB245DC6/0000000325
+[03:20:02]: Could not find anim build FROMNUM
+[03:20:08]: Could not find anim build FROMNUM
+[03:20:16]: Could not find anim build FROMNUM
+[03:20:17]: Could not find anim build FROMNUM
+[03:20:20]: Could not find anim build FROMNUM
+[03:20:22]: Could not find anim build FROMNUM
+[03:20:24]: Could not find anim build FROMNUM
+[03:20:36]: Could not find anim build FROMNUM
+[03:20:43]: Could not find anim build FROMNUM
+[03:20:45]: Could not find anim build FROMNUM
+[03:20:47]: Could not find anim build FROMNUM
+[03:20:51]: Could not find anim build FROMNUM
+[03:21:02]: Could not find anim build FROMNUM
+[03:21:30]: Could not find anim build FROMNUM
+[03:22:16]: Could not find anim build FROMNUM
+[03:22:34]: Could not find anim build FROMNUM
+[03:22:42]: Could not find anim build FROMNUM
+[03:22:44]: Could not find anim build FROMNUM
+[03:23:44]: Could not find anim build FROMNUM
+[03:24:49]: Could not find anim build FROMNUM
+[03:25:27]: Could not find anim build FROMNUM
+[03:25:35]: Could not find anim build FROMNUM
+[03:25:46]: Could not find anim build FROMNUM
+[03:26:02]: Could not find anim build FROMNUM
+[03:26:08]: Could not find anim build FROMNUM
+[03:27:26]: Could not find anim build FROMNUM
+[03:27:30]: Could not find anim [spawn] in bank [squiderp]
+[03:27:31]: Could not find anim [spawn] in bank [squiderp]
+[03:27:36]: Could not find anim build FROMNUM
+[03:27:41]: Could not find anim build FROMNUM
+[03:27:46]: Could not find anim build FROMNUM
+[03:27:49]: Available disk space for save files: 24256 MB
+[03:27:49]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000326
+[03:27:49]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000326
+[03:27:49]: Serializing world: session/2CE9191ADB245DC6/0000000326
+[03:27:53]: Could not find anim build FROMNUM
+[03:28:07]: Could not find anim build FROMNUM
+[03:28:50]: Could not find anim build FROMNUM
+[03:29:01]: Could not find anim build FROMNUM
+[03:29:04]: Could not find anim build FROMNUM
+[03:29:16]: Could not find anim build FROMNUM
+[03:29:25]: Could not find anim build FROMNUM
+[03:29:28]: Could not find anim build FROMNUM
+[03:29:34]: Could not find anim build FROMNUM
+[03:29:40]: Could not find anim build FROMNUM
+[03:30:04]: [200] Account Communication Success (6)
+[03:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:30:22]: Could not find anim build FROMNUM
+[03:30:24]: Could not find anim build FROMNUM
+[03:30:29]: Could not find anim build FROMNUM
+[03:30:54]: Could not find anim build FROMNUM
+[03:31:00]: Could not find anim build FROMNUM
+[03:32:21]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_save()) @(-154.17, 435.02)
+[03:32:22]: Available disk space for save files: 24251 MB
+[03:32:22]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000327
+[03:32:22]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000327
+[03:32:23]: Serializing world: session/2CE9191ADB245DC6/0000000327
+[03:34:05]: Could not find anim build FROMNUM
+[03:34:22]: Could not find anim build FROMNUM
+[03:34:27]: Could not find anim build FROMNUM
+[03:35:07]: Could not find anim build FROMNUM
+[03:35:19]: Could not find anim build FROMNUM
+[03:35:21]: Could not find anim build FROMNUM
+[03:35:25]: Could not find anim build FROMNUM
+[03:35:32]: Could not find anim build FROMNUM
+[03:35:38]: Could not find anim build FROMNUM
+[03:35:42]: Could not find anim build FROMNUM
+[03:35:44]: Could not find anim build FROMNUM
+[03:35:49]: Could not find anim build FROMNUM
+[03:35:49]: Could not find anim build FROMNUM
+[03:35:50]: Available disk space for save files: 24246 MB
+[03:35:50]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000328
+[03:35:50]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000328
+[03:35:51]: Serializing world: session/2CE9191ADB245DC6/0000000328
+[03:35:52]: Could not find anim build FROMNUM
+[03:36:01]: Could not find anim build FROMNUM
+[03:36:11]: Could not find anim build FROMNUM
+[03:36:21]: Could not find anim build FROMNUM
+[03:36:30]: Could not find anim build FROMNUM
+[03:36:34]: Could not find anim build FROMNUM
+[03:36:46]: Could not find anim build FROMNUM
+[03:37:06]: Could not find anim build FROMNUM
+[03:37:06]: Could not find anim build FROMNUM
+[03:37:14]: Could not find anim build FROMNUM
+[03:37:40]: Could not find anim build FROMNUM
+[03:38:36]: Could not find anim build FROMNUM
+[03:39:13]: Could not find anim build FROMNUM
+[03:39:14]: Could not find anim build FROMNUM
+[03:39:18]: Could not find anim build FROMNUM
+[03:39:23]: Could not find anim build FROMNUM
+[03:39:28]: Could not find anim build FROMNUM
+[03:39:33]: Could not find anim build FROMNUM
+[03:40:43]: Could not find anim build FROMNUM
+[03:40:57]: Could not find anim build FROMNUM
+[03:41:19]: Could not find anim build FROMNUM
+[03:41:37]: Could not find anim build FROMNUM
+[03:42:03]: Could not find anim build FROMNUM
+[03:42:08]: Could not find anim build FROMNUM
+[03:42:19]: Could not find anim build FROMNUM
+[03:42:39]: Could not find anim build FROMNUM
+[03:43:27]: Could not find anim build FROMNUM
+[03:43:41]: Could not find anim build FROMNUM
+[03:43:45]: Could not find anim build FROMNUM
+[03:43:51]: Available disk space for save files: 24241 MB
+[03:43:51]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000329
+[03:43:51]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000329
+[03:43:52]: Serializing world: session/2CE9191ADB245DC6/0000000329
+[03:44:03]: Could not find anim build FROMNUM
+[03:44:06]: Could not find anim build FROMNUM
+[03:44:16]: Could not find anim build FROMNUM
+[03:44:23]: Could not find anim build FROMNUM
+[03:44:28]: Could not find anim build FROMNUM
+[03:44:31]: Could not find anim [death] in bank [ghost]
+[03:44:31]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000330
+[03:44:34]: Could not find anim [idle_loop] in bank [ghost]
+[03:44:37]: Could not find anim [transform] in bank [wilson]
+[03:44:38]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000330
+[03:44:40]: Could not find anim [death] in bank [ghost]
+[03:44:40]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000330
+[03:44:43]: Could not find anim [idle_loop] in bank [ghost]
+[03:44:43]: Could not find anim build FROMNUM
+[03:44:44]: Could not find anim build FROMNUM
+[03:44:45]: Could not find anim build FROMNUM
+[03:44:45]: Could not find anim build FROMNUM
+[03:44:45]: Could not find anim [transform] in bank [wilson]
+[03:44:46]: Could not find anim build FROMNUM
+[03:44:47]: Could not find anim build FROMNUM
+[03:44:47]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000330
+[03:44:47]: Could not find anim build FROMNUM
+[03:44:48]: Could not find anim build FROMNUM
+[03:44:49]: Could not find anim build FROMNUM
+[03:44:50]: Could not find anim build FROMNUM
+[03:44:50]: Could not find anim build FROMNUM
+[03:44:51]: Could not find anim build FROMNUM
+[03:44:56]: Could not find anim build FROMNUM
+[03:44:57]: Could not find anim build FROMNUM
+[03:44:58]: Could not find anim build FROMNUM
+[03:44:59]: Could not find anim build FROMNUM
+[03:45:00]: Could not find anim build FROMNUM
+[03:45:00]: Could not find anim build FROMNUM
+[03:45:04]: Could not find anim build FROMNUM
+[03:45:08]: Could not find anim build FROMNUM
+[03:45:25]: Could not find anim build FROMNUM
+[03:45:28]: Could not find anim build FROMNUM
+[03:45:32]: Could not find anim build FROMNUM
+[03:45:58]: Could not find anim build FROMNUM
+[03:46:10]: Could not find anim build FROMNUM
+[03:46:10]: Could not find anim build FROMNUM
+[03:46:21]: Could not find anim build FROMNUM
+[03:46:36]: Could not find anim build FROMNUM
+[03:46:45]: Could not find anim build FROMNUM
+[03:46:49]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-132.43, 210.59)
+[03:46:58]: Could not find anim build FROMNUM
+[03:47:15]: Could not find anim build FROMNUM
+[03:47:20]: Could not find anim build FROMNUM
+[03:47:27]: Could not find anim build FROMNUM
+[03:47:30]: Could not find anim build FROMNUM
+[03:47:36]: Could not find anim build FROMNUM
+[03:47:44]: Could not find anim build FROMNUM
+[03:48:04]: Could not find anim build FROMNUM
+[03:48:15]: Could not find anim build FROMNUM
+[03:48:47]: Could not find anim build FROMNUM
+[03:49:15]: Could not find anim build FROMNUM
+[03:49:29]: Could not find anim build FROMNUM
+[03:49:34]: Could not find anim build FROMNUM
+[03:49:40]: Could not find anim build FROMNUM
+[03:49:53]: Could not find anim build FROMNUM
+[03:50:39]: Could not find anim build FROMNUM
+[03:50:43]: Could not find anim build FROMNUM
+[03:50:46]: Could not find anim build FROMNUM
+[03:50:57]: Could not find anim build FROMNUM
+[03:50:58]: Could not find anim build FROMNUM
+[03:51:37]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("goldnugget")) @(-166.59, 227.92)
+[03:51:37]: giving 	161308 - goldnugget	
+[03:51:51]: Available disk space for save files: 24236 MB
+[03:51:52]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000330
+[03:51:52]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000330
+[03:51:52]: Serializing world: session/2CE9191ADB245DC6/0000000330
+[03:52:22]: Could not find anim build FROMNUM
+[03:52:27]: Could not find anim build FROMNUM
+[03:52:31]: Could not find anim build FROMNUM
+[03:52:47]: Could not find anim build FROMNUM
+[03:53:23]: Could not find anim build FROMNUM
+[03:53:28]: Could not find anim build FROMNUM
+[03:53:59]: Could not find anim build FROMNUM
+[03:54:36]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-171.48, 211.50)
+[03:55:06]: Could not find anim build FROMNUM
+[03:55:07]: Could not find anim build FROMNUM
+[03:55:11]: Could not find anim build FROMNUM
+[03:55:18]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-131.21, 197.28)
+[03:55:36]: Could not find anim build FROMNUM
+[03:55:36]: [Steam] SendUserDisconnect for '76561199104252985'
+[03:55:36]: Connection lost to 3.130.52.176|1 <6744226006296172085>
+[03:55:36]: [Shard] (KU_GNdCoYNE) disconnected from [SHDMASTER](1)
+[03:55:37]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000000331
+[03:55:51]: [P2P] Connection failed for '76561199104252985'
+[03:55:52]: Could not find anim build FROMNUM
+[03:56:54]: Server Autopaused	
+[03:56:57]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_give("lightbulb",20)) @(-155.16, 231.89)
+[03:56:57]: giving 	161685 - lightbulb	
+[03:56:57]: giving 	161687 - lightbulb	
+[03:56:57]: giving 	161689 - lightbulb	
+[03:56:57]: giving 	161691 - lightbulb	
+[03:56:57]: giving 	161693 - lightbulb	
+[03:56:57]: giving 	161695 - lightbulb	
+[03:56:57]: giving 	161697 - lightbulb	
+[03:56:57]: giving 	161699 - lightbulb	
+[03:56:57]: giving 	161701 - lightbulb	
+[03:56:57]: giving 	161703 - lightbulb	
+[03:56:57]: giving 	161705 - lightbulb	
+[03:56:57]: giving 	161707 - lightbulb	
+[03:56:57]: giving 	161709 - lightbulb	
+[03:56:57]: giving 	161711 - lightbulb	
+[03:56:57]: giving 	161713 - lightbulb	
+[03:56:57]: giving 	161715 - lightbulb	
+[03:56:57]: giving 	161717 - lightbulb	
+[03:56:57]: giving 	161719 - lightbulb	
+[03:56:57]: giving 	161721 - lightbulb	
+[03:56:57]: giving 	161723 - lightbulb	
+[03:56:57]: Server Unpaused	
+[03:56:58]: Could not find anim build FROMNUM
+[03:57:09]: Could not find anim build FROMNUM
+[03:57:38]: Could not find anim build FROMNUM
+[03:57:49]: Could not find anim build FROMNUM
+[03:57:50]: Could not find anim build FROMNUM
+[03:57:53]: Could not find anim build FROMNUM
+[03:58:31]: Server Autopaused	
+[03:58:32]: Server Unpaused	
+[03:58:32]: Server Autopaused	
+[03:58:33]: Server Unpaused	
+[03:58:47]: Could not find anim build FROMNUM
+[03:59:27]: Server Autopaused	
+[03:59:29]: Server Unpaused	
+[03:59:30]: Server Autopaused	
+[03:59:30]: Server Unpaused	
+[03:59:31]: Server Autopaused	
+[03:59:32]: Server Unpaused	
+[03:59:48]: Server Autopaused	
+[03:59:50]: [(KU_pa5CjQ8L) tranphonglq] ReceiveRemoteExecute(c_freecrafting()) @(-170.54, 193.35)
+[03:59:50]: Server Unpaused	
+[04:00:02]: Available disk space for save files: 24231 MB
+[04:00:03]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000331
+[04:00:03]: Serializing world: session/2CE9191ADB245DC6/0000000331
+[04:00:04]: [200] Account Communication Success (6)
+[04:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:01:33]: Could not find anim build FROMNUM
+[04:02:45]: Could not find anim build FROMNUM
+[04:02:52]: Could not find anim build FROMNUM
+[04:02:57]: Could not find anim build FROMNUM
+[04:03:01]: Could not find anim build FROMNUM
+[04:03:18]: Could not find anim build FROMNUM
+[04:03:25]: Could not find anim build FROMNUM
+[04:03:32]: Could not find anim build FROMNUM
+[04:03:32]: Could not find anim build FROMNUM
+[04:03:33]: Could not find anim build FROMNUM
+[04:03:33]: Could not find anim build FROMNUM
+[04:03:33]: Could not find anim build FROMNUM
+[04:03:34]: Could not find anim build FROMNUM
+[04:03:34]: Could not find anim build FROMNUM
+[04:03:34]: Could not find anim build FROMNUM
+[04:03:38]: Could not find anim build FROMNUM
+[04:03:43]: Could not find anim build FROMNUM
+[04:03:49]: Server Autopaused	
+[04:03:50]: Server Unpaused	
+[04:04:03]: Could not find anim build FROMNUM
+[04:04:10]: Server Autopaused	
+[04:04:11]: Server Unpaused	
+[04:04:18]: Server Autopaused	
+[04:04:19]: Server Unpaused	
+[04:04:23]: Server Autopaused	
+[04:04:43]: Server Unpaused	
+[04:04:51]: Could not find anim build FROMNUM
+[04:04:58]: Server Autopaused	
+[04:05:00]: Server Unpaused	
+[04:05:26]: Server Autopaused	
+[04:05:36]: [P2P] Session timed out for '76561199104252985'
+[04:05:36]: [P2P] Remove session: 3.130.52.176|1 '76561199104252985'
+[04:06:11]: Server Unpaused	
+[04:06:19]: Server Autopaused	
+[04:06:21]: Server Unpaused	
+[04:06:30]: [Steam] SendUserDisconnect for '76561198857303760'
+[04:06:30]: Connection lost to 3.130.52.175|1 <6934475847327647686>
+[04:06:30]: [Shard] (KU_pa5CjQ8L) disconnected from [SHDMASTER](1)
+[04:06:31]: Serializing user: session/2CE9191ADB245DC6/A7ME856BB8GL/0000000332
+[04:06:31]: Sim paused
+[04:07:30]: [P2P] Connection failed for '76561198857303760'
+[04:16:30]: [P2P] Session timed out for '76561198857303760'
+[04:16:30]: [P2P] Remove session: 3.130.52.175|1 '76561198857303760'
+[04:30:04]: [200] Account Communication Success (6)
+[04:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:43:46]: [P2P] Session request for '76561198838660724'
+[04:43:50]: [P2P] Create session: 3.130.52.178|1 '76561198838660724'
+[04:43:50]: [P2P] Received from 3.130.52.178|1 '76561198838660724'
+[04:43:50]: [P2P] Sent to 3.130.52.178|1 '76561198838660724'
+[04:43:51]: New incoming connection 3.130.52.178|1 <998991776651480766>
+[04:43:51]: Client connected from 3.130.52.178|1 <998991776651480766>
+[04:43:51]: ValidateGameSessionToken GUID<998991776651480766>
+[04:43:51]: Client authenticated: (KU_LI3oE5Tc) Bitter
+[04:43:51]: [Steam] Authenticated host '76561198838660724'
+[04:43:52]: There is no active event to validate against.
+[04:43:52]: [Shard] Read save location file for (KU_LI3oE5Tc)
+[04:44:13]: Resuming user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000302
+[04:44:13]: Spawning player at: [Load] (-120.30, 0.00, 197.16)	
+[04:44:13]: Sim unpaused
+[04:44:16]: New time stamps for everyone at	1721242434	
+[04:44:16]: New time stamps for everyone at	1721242434	
+[04:44:32]: Server Autopaused	
+[04:44:40]: [(KU_LI3oE5Tc) Bitter] ReceiveRemoteExecute(c_supergodmode()) @(-123.43, 207.89)
+[04:44:40]: God mode: true	
+[04:44:40]: Server Unpaused	
+[04:44:49]: Server Autopaused	
+[04:44:52]: Server Unpaused	
+[04:44:55]: Server Autopaused	
+[04:45:07]: Server Unpaused	
+[04:45:49]: Server Autopaused	
+[04:45:57]: Server Unpaused	
+[04:46:00]: Server Autopaused	
+[04:46:06]: [(KU_LI3oE5Tc) Bitter] ReceiveRemoteExecute(c_freecrafting()) @(-205.01, 160.46)
+[04:46:06]: Server Unpaused	
+[04:46:21]: Server Autopaused	
+[04:46:24]: Server Unpaused	
+[04:47:36]: Available disk space for save files: 24226 MB
+[04:47:36]: Serializing user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000332
+[04:47:37]: Serializing world: session/2CE9191ADB245DC6/0000000332
+[04:47:48]: Could not find anim build FROMNUM
+[04:50:44]: [Steam] SendUserDisconnect for '76561198838660724'
+[04:50:44]: Connection lost to 3.130.52.178|1 <998991776651480766>
+[04:50:44]: [Shard] (KU_LI3oE5Tc) disconnected from [SHDMASTER](1)
+[04:50:45]: Serializing user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000333
+[04:50:45]: Sim paused
+[04:50:54]: [P2P] Connection failed for '76561198838660724'
+[05:00:04]: [200] Account Communication Success (6)
+[05:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:00:44]: [P2P] Session timed out for '76561198838660724'
+[05:00:44]: [P2P] Remove session: 3.130.52.178|1 '76561198838660724'
+[05:30:04]: [200] Account Communication Success (6)
+[05:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:04]: [200] Account Communication Success (6)
+[06:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:00:04]: [200] Account Communication Success (6)
+[07:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
