@@ -1404,3 +1404,47 @@ Resurrection is always available via the Florid Postern.
 [05:00:07]: Received (KU_LI3oE5Tc) from TokenPurpose
 [05:30:07]: [200] Account Communication Success (6)
 [05:30:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:07]: [200] Account Communication Success (6)
+[06:00:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:30:07]: [200] Account Communication Success (6)
+[06:30:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:00:07]: [200] Account Communication Success (6)
+[07:00:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:07]: [200] Account Communication Success (6)
+[07:30:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:07]: [200] Account Communication Success (6)
+[08:00:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:24:23]: [P2P] Session request for '76561198838660724'
+[08:24:28]: [P2P] Create session: 199.170.54.206|1 '76561198838660724'
+[08:24:28]: [P2P] Received from 199.170.54.206|1 '76561198838660724'
+[08:24:28]: [P2P] Sent to 199.170.54.206|1 '76561198838660724'
+[08:24:28]: New incoming connection 199.170.54.206|1 <7030502066289365799>
+[08:24:28]: Client connected from 199.170.54.206|1 <7030502066289365799>
+[08:24:28]: ValidateGameSessionToken GUID<7030502066289365799>
+[08:24:28]: Client authenticated: (KU_LI3oE5Tc) Bitter
+[08:24:29]: [Steam] Authenticated host '76561198838660724'
+[08:24:29]: There is no active event to validate against.
+[08:24:29]: [Shard] Read save location file for (KU_LI3oE5Tc)
+[08:24:50]: Resuming user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000429
+[08:24:51]: Spawning player at: [Load] (96.08, 0.00, 181.95)	
+[08:24:51]: Sim unpaused
+[08:25:09]: Server Autopaused	
+[08:25:11]: [(KU_LI3oE5Tc) Bitter] ReceiveRemoteExecute(c_supergodmode()) @(112.43, 176.77)
+[08:25:11]: God mode: true	
+[08:25:11]: Server Unpaused	
+[08:25:17]: Could not find anim build FROMNUM
+[08:25:25]: Could not find anim build FROMNUM
+[08:26:00]: Could not find anim build FROMNUM
+[08:26:08]: Could not find anim build FROMNUM
+[08:27:07]: Server Autopaused	
+[08:27:10]: Server Unpaused	
+[08:27:19]: [Steam] SendUserDisconnect for '76561198838660724'
+[08:27:19]: Connection lost to 199.170.54.206|1 <7030502066289365799>
+[08:27:19]: [Shard] (KU_LI3oE5Tc) disconnected from [SHDMASTER](1)
+[08:27:19]: Serializing user: session/2CE9191ADB245DC6/A7IL43P3GLR6/0000000593
+[08:27:19]: Sim paused
+[08:27:32]: [P2P] Connection failed for '76561198838660724'
+[08:30:07]: [200] Account Communication Success (6)
+[08:30:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:37:19]: [P2P] Session timed out for '76561198838660724'
+[08:37:19]: [P2P] Remove session: 199.170.54.206|1 '76561198838660724'
