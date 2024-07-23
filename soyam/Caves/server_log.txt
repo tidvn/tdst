@@ -2326,3 +2326,127 @@
 [05:52:50]: Truncating to snapshot #663...
 [05:52:50]:  - session/01EF7F7A1CFE0E43/0000000657
 [05:52:50]:    1 file(s) removed
+[06:00:05]: [200] Account Communication Success (6)
+[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:50]: Available disk space for save files: 23884 MB
+[06:00:51]: Serializing world: session/01EF7F7A1CFE0E43/0000000664
+[06:00:51]: Truncating to snapshot #664...
+[06:00:51]:  - session/01EF7F7A1CFE0E43/0000000658
+[06:00:51]:    1 file(s) removed
+[06:08:51]: Available disk space for save files: 23879 MB
+[06:08:51]: Serializing world: session/01EF7F7A1CFE0E43/0000000665
+[06:08:51]: Truncating to snapshot #665...
+[06:08:51]:  - session/01EF7F7A1CFE0E43/0000000659
+[06:08:51]:    1 file(s) removed
+[06:16:52]: Available disk space for save files: 23873 MB
+[06:16:52]: Serializing world: session/01EF7F7A1CFE0E43/0000000666
+[06:16:52]: Truncating to snapshot #666...
+[06:16:52]:  - session/01EF7F7A1CFE0E43/0000000660
+[06:16:52]:    1 file(s) removed
+[06:17:17]: Sim paused
+[06:28:09]: Sim unpaused
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:34:48]: Sim paused
+[06:35:43]: Sim unpaused
+[06:36:39]: Available disk space for save files: 23868 MB
+[06:36:39]: Serializing world: session/01EF7F7A1CFE0E43/0000000667
+[06:36:39]: Truncating to snapshot #667...
+[06:36:39]:  - session/01EF7F7A1CFE0E43/0000000661
+[06:36:39]:    1 file(s) removed
+[06:44:40]: Available disk space for save files: 23863 MB
+[06:44:40]: Serializing world: session/01EF7F7A1CFE0E43/0000000668
+[06:44:40]: Truncating to snapshot #668...
+[06:44:40]:  - session/01EF7F7A1CFE0E43/0000000662
+[06:44:40]:    1 file(s) removed
+[06:52:40]: Available disk space for save files: 23858 MB
+[06:52:41]: Serializing world: session/01EF7F7A1CFE0E43/0000000669
+[06:52:41]: Truncating to snapshot #669...
+[06:52:41]:  - session/01EF7F7A1CFE0E43/0000000663
+[06:52:41]:    1 file(s) removed
+[06:56:24]: Sim paused
+[06:57:49]: Sim unpaused
+[06:58:48]: Sim paused
+[06:59:40]: Sim unpaused
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:02:58]: Available disk space for save files: 23853 MB
+[07:02:58]: Serializing world: session/01EF7F7A1CFE0E43/0000000670
+[07:02:58]: Truncating to snapshot #670...
+[07:02:58]:  - session/01EF7F7A1CFE0E43/0000000664
+[07:02:58]:    1 file(s) removed
+[07:10:59]: Available disk space for save files: 23848 MB
+[07:10:59]: Serializing world: session/01EF7F7A1CFE0E43/0000000671
+[07:10:59]: Truncating to snapshot #671...
+[07:10:59]:  - session/01EF7F7A1CFE0E43/0000000665
+[07:10:59]:    1 file(s) removed
+[07:14:28]: [Shard] #1 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000672
+[07:14:28]: [Shard] Received migration #1 data for (KU_RR3k3C2b)
+[07:14:31]: [P2P] Session request for '76561199349123785'
+[07:14:32]: [P2P] Create session: 3.67.128.7|1 '76561199349123785'
+[07:14:32]: [P2P] Received from 3.67.128.7|1 '76561199349123785'
+[07:14:32]: [P2P] Sent to 3.67.128.7|1 '76561199349123785'
+[07:14:33]: New incoming connection 3.67.128.7|1 <1435821551325156200>
+[07:14:33]: Client connected from 3.67.128.7|1 <1435821551325156200>
+[07:14:33]: ValidateGameSessionToken GUID<1435821551325156200>
+[07:14:33]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[07:14:34]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[07:14:34]: [Steam] Authenticated client '76561199349123785'
+[07:14:34]: [Shard] Completed incoming migration #1 for (KU_RR3k3C2b)
+[07:14:42]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000672
+[07:14:42]: Player will spawn close to portal #1	
+[07:14:42]: Spawning player at: [Load] (529.51, 0.00, 272.74)	
+[07:15:06]: Activating portal[1] to 1	
+[07:15:06]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000672
+[07:15:06]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[07:15:06]: [Shard] #2 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000672
+[07:15:06]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:15:07]: [Steam] SendUserDisconnect for '76561199349123785'
+[07:19:00]: Available disk space for save files: 23843 MB
+[07:19:00]: Serializing world: session/01EF7F7A1CFE0E43/0000000672
+[07:19:00]: Truncating to snapshot #672...
+[07:19:00]:  - session/01EF7F7A1CFE0E43/0000000666
+[07:19:00]:    1 file(s) removed
+[07:22:27]: Sim paused
+[07:22:44]: Sim unpaused
+[07:25:07]: [P2P] Session timed out for '76561199349123785'
+[07:25:07]: [P2P] Remove session: 3.67.128.7|1 '76561199349123785'
+[07:27:18]: Available disk space for save files: 23838 MB
+[07:27:18]: Serializing world: session/01EF7F7A1CFE0E43/0000000673
+[07:27:18]: Truncating to snapshot #673...
+[07:27:18]:  - session/01EF7F7A1CFE0E43/0000000667
+[07:27:18]:    1 file(s) removed
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:35:19]: Available disk space for save files: 23832 MB
+[07:35:19]: Serializing world: session/01EF7F7A1CFE0E43/0000000674
+[07:35:19]: Truncating to snapshot #674...
+[07:35:19]:  - session/01EF7F7A1CFE0E43/0000000668
+[07:35:19]:    1 file(s) removed
+[07:43:19]: Available disk space for save files: 23827 MB
+[07:43:20]: Serializing world: session/01EF7F7A1CFE0E43/0000000675
+[07:43:20]: Truncating to snapshot #675...
+[07:43:20]:  - session/01EF7F7A1CFE0E43/0000000669
+[07:43:20]:    1 file(s) removed
+[07:51:20]: Available disk space for save files: 23822 MB
+[07:51:21]: Serializing world: session/01EF7F7A1CFE0E43/0000000676
+[07:51:21]: Truncating to snapshot #676...
+[07:51:21]:  - session/01EF7F7A1CFE0E43/0000000670
+[07:51:21]:    1 file(s) removed
+[07:53:30]: Sim paused
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:43:21]: Sim unpaused
+[08:49:12]: Available disk space for save files: 23817 MB
+[08:49:12]: Serializing world: session/01EF7F7A1CFE0E43/0000000677
+[08:49:12]: Truncating to snapshot #677...
+[08:49:12]:  - session/01EF7F7A1CFE0E43/0000000671
+[08:49:12]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000652
+[08:49:12]:    2 file(s) removed
+[08:57:13]: Available disk space for save files: 23812 MB
+[08:57:13]: Serializing world: session/01EF7F7A1CFE0E43/0000000678
+[08:57:13]: Truncating to snapshot #678...
+[08:57:13]:  - session/01EF7F7A1CFE0E43/0000000672
+[08:57:13]:    1 file(s) removed
