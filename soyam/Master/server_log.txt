@@ -1546,3 +1546,547 @@ Resurrection is always available via the Florid Postern.
 [05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [05:38:19]: [P2P] Session timed out for '76561199349123785'
 [05:38:19]: [P2P] Remove session: 62.244.109.40|1 '76561199349123785'
+[06:00:05]: [200] Account Communication Success (6)
+[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:37:00]: [P2P] Create session: 62.244.109.41|1 '76561199349123785'
+[07:37:00]: [P2P] Received from 62.244.109.41|1 '76561199349123785'
+[07:37:00]: [P2P] Sent to 62.244.109.41|1 '76561199349123785'
+[07:37:00]: New incoming connection 62.244.109.41|1 <4151483665653171618>
+[07:37:00]: Client connected from 62.244.109.41|1 <4151483665653171618>
+[07:37:00]: ValidateGameSessionToken GUID<4151483665653171618>
+[07:37:01]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[07:37:01]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[07:37:01]: [Steam] Authenticated client '76561199349123785'
+[07:37:02]: There is no active event to validate against.
+[07:37:02]: [Shard] Read save location file for (KU_RR3k3C2b)
+[07:37:27]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000788
+[07:37:27]: Spawning player at: [Load] (-160.87, 0.00, 237.23)	
+[07:37:27]: Sim unpaused
+[07:37:27]: New time stamps for everyone at	1721889477	
+[07:37:27]: New time stamps for everyone at	1721889477	
+[07:37:32]: Available disk space for save files: 23727 MB
+[07:37:33]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000788
+[07:37:33]: Serializing world: session/2CE9191ADB245DC6/0000000788
+[07:37:53]: Could not find anim build FROMNUM
+[07:38:03]: Could not find anim build FROMNUM
+[07:39:02]: Could not find anim build FROMNUM
+[07:39:03]: Could not find anim build FROMNUM
+[07:39:07]: Could not find anim build FROMNUM
+[07:39:10]: Could not find anim build FROMNUM
+[07:39:43]: Could not find anim build FROMNUM
+[07:40:01]: Could not find anim build FROMNUM
+[07:40:03]: Could not find anim build FROMNUM
+[07:40:13]: Could not find anim build FROMNUM
+[07:40:15]: Could not find anim build FROMNUM
+[07:40:37]: Activating portal[1] to 2248507758	
+[07:40:38]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000789
+[07:40:38]: [Shard] Migration request: (KU_RR3k3C2b) to Caves(2248507758)
+[07:40:38]: [Shard] Begin migration #1 for (KU_RR3k3C2b)
+[07:40:38]: [Shard] #1 [SHDMASTER](1) -> Caves(2248507758)
+[07:40:38]: [Shard] #1 <- session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000789
+[07:40:38]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[07:40:38]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:40:38]: [Steam] SendUserDisconnect for '76561199349123785'
+[07:40:38]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[07:40:43]: [Shard] Completed migration #1 for player (KU_RR3k3C2b)
+[07:43:22]: [Shard] Begin migration #2 for (KU_RR3k3C2b)
+[07:43:22]: [Shard] #2 Caves(2248507758) -> [SHDMASTER](1)
+[07:43:22]: [Shard] #2 -> session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000789
+[07:43:22]: [Shard] Received migration #2 data for (KU_RR3k3C2b)
+[07:43:22]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[07:43:23]: [Shard] (KU_RR3k3C2b) disconnected from Caves(2248507758)
+[07:43:29]: [P2P] Received from 62.244.109.41|1 '76561199349123785'
+[07:43:29]: [P2P] Sent to 62.244.109.41|1 '76561199349123785'
+[07:43:31]: New incoming connection 62.244.109.41|1 <2490063307373659452>
+[07:43:31]: Client connected from 62.244.109.41|1 <2490063307373659452>
+[07:43:31]: ValidateGameSessionToken GUID<2490063307373659452>
+[07:43:31]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[07:43:31]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[07:43:32]: [Steam] Authenticated client '76561199349123785'
+[07:43:32]: [Shard] Completed incoming migration #2 for (KU_RR3k3C2b)
+[07:43:32]: [Shard] Completed migration #2 for player (KU_RR3k3C2b)
+[07:43:44]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000789
+[07:43:44]: Player will spawn close to portal #1	
+[07:43:44]: Spawning player at: [Load] (-198.88, 0.00, 93.72)	
+[07:43:54]: Could not find anim build FROMNUM
+[07:43:54]: Could not find anim build FROMNUM
+[07:43:56]: Could not find anim build FROMNUM
+[07:43:57]: Could not find anim build FROMNUM
+[07:43:59]: Could not find anim build FROMNUM
+[07:44:05]: Could not find anim build FROMNUM
+[07:44:06]: Could not find anim build FROMNUM
+[07:44:06]: Could not find anim build FROMNUM
+[07:44:06]: Could not find anim build FROMNUM
+[07:44:07]: Could not find anim build FROMNUM
+[07:44:07]: Could not find anim build FROMNUM
+[07:44:07]: Could not find anim build FROMNUM
+[07:44:07]: Could not find anim build FROMNUM
+[07:44:08]: Could not find anim build FROMNUM
+[07:44:08]: Could not find anim build FROMNUM
+[07:44:08]: Could not find anim build FROMNUM
+[07:44:09]: Could not find anim build FROMNUM
+[07:44:09]: Could not find anim build FROMNUM
+[07:44:09]: Could not find anim build FROMNUM
+[07:44:10]: Could not find anim build FROMNUM
+[07:44:10]: Could not find anim build FROMNUM
+[07:44:10]: Could not find anim build FROMNUM
+[07:44:10]: Could not find anim build FROMNUM
+[07:44:11]: Could not find anim build FROMNUM
+[07:44:11]: Could not find anim build FROMNUM
+[07:44:11]: Could not find anim build FROMNUM
+[07:44:12]: Could not find anim build FROMNUM
+[07:44:12]: Could not find anim build FROMNUM
+[07:44:12]: Could not find anim build FROMNUM
+[07:44:12]: Could not find anim build FROMNUM
+[07:44:13]: Could not find anim build FROMNUM
+[07:44:13]: Could not find anim build FROMNUM
+[07:44:13]: Could not find anim build FROMNUM
+[07:44:13]: Could not find anim build FROMNUM
+[07:44:14]: Could not find anim build FROMNUM
+[07:44:14]: Could not find anim build FROMNUM
+[07:44:14]: Could not find anim build FROMNUM
+[07:45:33]: Available disk space for save files: 23721 MB
+[07:45:34]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000789
+[07:45:34]: Serializing world: session/2CE9191ADB245DC6/0000000789
+[07:45:40]: Could not find anim build FROMNUM
+[07:45:42]: Could not find anim build FROMNUM
+[07:46:06]: Could not find anim build FROMNUM
+[07:47:50]: Could not find anim build FROMNUM
+[07:48:01]: Could not find anim build FROMNUM
+[07:48:03]: Could not find anim build FROMNUM
+[07:49:15]: Could not find anim build FROMNUM
+[07:49:18]: Could not find anim build FROMNUM
+[07:49:47]: Could not find anim build FROMNUM
+[07:50:44]: Could not find anim build FROMNUM
+[07:50:45]: Could not find anim build FROMNUM
+[07:50:45]: Could not find anim build FROMNUM
+[07:50:45]: Could not find anim build FROMNUM
+[07:50:46]: Could not find anim build FROMNUM
+[07:50:46]: Could not find anim build FROMNUM
+[07:50:46]: Could not find anim build FROMNUM
+[07:50:47]: Could not find anim build FROMNUM
+[07:50:47]: Could not find anim build FROMNUM
+[07:50:47]: Could not find anim build FROMNUM
+[07:50:47]: Could not find anim build FROMNUM
+[07:50:48]: Could not find anim build FROMNUM
+[07:50:48]: Could not find anim build FROMNUM
+[07:50:48]: Could not find anim build FROMNUM
+[07:50:49]: Could not find anim build FROMNUM
+[07:50:49]: Could not find anim build FROMNUM
+[07:50:49]: Could not find anim build FROMNUM
+[07:50:50]: Could not find anim build FROMNUM
+[07:50:50]: Could not find anim build FROMNUM
+[07:50:50]: Could not find anim build FROMNUM
+[07:50:50]: Could not find anim build FROMNUM
+[07:50:51]: Could not find anim build FROMNUM
+[07:50:51]: Could not find anim build FROMNUM
+[07:50:51]: Could not find anim build FROMNUM
+[07:50:52]: Could not find anim build FROMNUM
+[07:50:52]: Could not find anim build FROMNUM
+[07:51:30]: Could not find anim build FROMNUM
+[07:51:44]: Could not find anim build FROMNUM
+[07:51:52]: Could not find anim build FROMNUM
+[07:52:25]: Could not find anim build FROMNUM
+[07:52:37]: Could not find anim build FROMNUM
+[07:52:55]: Could not find anim build FROMNUM
+[07:53:02]: Could not find anim build FROMNUM
+[07:53:07]: Could not find anim build FROMNUM
+[07:53:34]: Available disk space for save files: 23716 MB
+[07:53:34]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000790
+[07:53:35]: Serializing world: session/2CE9191ADB245DC6/0000000790
+[07:54:02]: Could not find anim build FROMNUM
+[07:54:31]: Could not find anim build FROMNUM
+[07:58:49]: Could not find anim build FROMNUM
+[08:00:01]: Could not find anim build FROMNUM
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:50]: Could not find anim build FROMNUM
+[08:01:35]: Available disk space for save files: 23711 MB
+[08:01:35]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000791
+[08:01:35]: Serializing world: session/2CE9191ADB245DC6/0000000791
+[08:02:06]: Could not find anim build FROMNUM
+[08:03:23]: Could not find anim build FROMNUM
+[08:03:30]: Could not find anim build FROMNUM
+[08:03:34]: Could not find anim build FROMNUM
+[08:03:41]: Could not find anim build FROMNUM
+[08:03:55]: Could not find anim build FROMNUM
+[08:04:00]: Could not find anim build FROMNUM
+[08:04:03]: Could not find anim build FROMNUM
+[08:04:05]: Could not find anim build FROMNUM
+[08:04:23]: Activating portal[1] to 2248507758	
+[08:04:24]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000792
+[08:04:24]: [Shard] Migration request: (KU_RR3k3C2b) to Caves(2248507758)
+[08:04:24]: [Shard] Begin migration #3 for (KU_RR3k3C2b)
+[08:04:24]: [Shard] #3 [SHDMASTER](1) -> Caves(2248507758)
+[08:04:24]: [Shard] #3 <- session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000792
+[08:04:24]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[08:04:24]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[08:04:24]: [Steam] SendUserDisconnect for '76561199349123785'
+[08:04:24]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[08:04:33]: [Shard] Completed migration #3 for player (KU_RR3k3C2b)
+[08:07:44]: [Shard] Begin migration #4 for (KU_RR3k3C2b)
+[08:07:44]: [Shard] #4 Caves(2248507758) -> [SHDMASTER](1)
+[08:07:44]: [Shard] #4 -> session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000792
+[08:07:44]: [Shard] Received migration #4 data for (KU_RR3k3C2b)
+[08:07:44]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[08:07:45]: [Shard] (KU_RR3k3C2b) disconnected from Caves(2248507758)
+[08:07:51]: [P2P] Received from 62.244.109.41|1 '76561199349123785'
+[08:07:51]: [P2P] Sent to 62.244.109.41|1 '76561199349123785'
+[08:07:53]: New incoming connection 62.244.109.41|1 <7150938186957612810>
+[08:07:53]: Client connected from 62.244.109.41|1 <7150938186957612810>
+[08:07:53]: ValidateGameSessionToken GUID<7150938186957612810>
+[08:07:53]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[08:07:54]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[08:07:54]: [Steam] Authenticated client '76561199349123785'
+[08:07:54]: [Shard] Completed incoming migration #4 for (KU_RR3k3C2b)
+[08:07:54]: [Shard] Completed migration #4 for player (KU_RR3k3C2b)
+[08:08:06]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000792
+[08:08:06]: Player will spawn close to portal #1	
+[08:08:06]: Spawning player at: [Load] (-198.97, 0.00, 94.59)	
+[08:08:49]: Could not find anim build FROMNUM
+[08:08:50]: Could not find anim build FROMNUM
+[08:08:54]: Could not find anim build FROMNUM
+[08:08:55]: Could not find anim build FROMNUM
+[08:08:55]: Could not find anim build FROMNUM
+[08:08:55]: Could not find anim build FROMNUM
+[08:08:55]: Could not find anim build FROMNUM
+[08:08:56]: Could not find anim build FROMNUM
+[08:08:56]: Could not find anim build FROMNUM
+[08:08:56]: Could not find anim build FROMNUM
+[08:08:57]: Could not find anim build FROMNUM
+[08:08:57]: Could not find anim build FROMNUM
+[08:08:57]: Could not find anim build FROMNUM
+[08:08:58]: Could not find anim build FROMNUM
+[08:08:58]: Could not find anim build FROMNUM
+[08:08:58]: Could not find anim build FROMNUM
+[08:08:58]: Could not find anim build FROMNUM
+[08:08:59]: Could not find anim build FROMNUM
+[08:08:59]: Could not find anim build FROMNUM
+[08:08:59]: Could not find anim build FROMNUM
+[08:08:59]: Could not find anim build FROMNUM
+[08:09:00]: Could not find anim build FROMNUM
+[08:09:00]: Could not find anim build FROMNUM
+[08:09:00]: Could not find anim build FROMNUM
+[08:09:01]: Could not find anim build FROMNUM
+[08:09:01]: Could not find anim build FROMNUM
+[08:09:01]: Could not find anim build FROMNUM
+[08:09:01]: Could not find anim build FROMNUM
+[08:09:02]: Could not find anim build FROMNUM
+[08:09:02]: Could not find anim build FROMNUM
+[08:09:02]: Could not find anim build FROMNUM
+[08:09:03]: Could not find anim build FROMNUM
+[08:09:03]: Could not find anim build FROMNUM
+[08:09:03]: Could not find anim build FROMNUM
+[08:09:04]: Could not find anim build FROMNUM
+[08:09:04]: Could not find anim build FROMNUM
+[08:09:04]: Could not find anim build FROMNUM
+[08:09:04]: Could not find anim build FROMNUM
+[08:09:05]: Could not find anim build FROMNUM
+[08:09:05]: Could not find anim build FROMNUM
+[08:09:05]: Could not find anim build FROMNUM
+[08:09:06]: Could not find anim build FROMNUM
+[08:09:06]: Could not find anim build FROMNUM
+[08:09:06]: Could not find anim build FROMNUM
+[08:09:07]: Could not find anim build FROMNUM
+[08:09:07]: Could not find anim build FROMNUM
+[08:09:07]: Could not find anim build FROMNUM
+[08:09:07]: Could not find anim build FROMNUM
+[08:09:08]: Could not find anim build FROMNUM
+[08:09:08]: Could not find anim build FROMNUM
+[08:09:08]: Could not find anim build FROMNUM
+[08:09:09]: Could not find anim build FROMNUM
+[08:09:30]: Could not find anim build FROMNUM
+[08:09:32]: Could not find anim build FROMNUM
+[08:09:33]: Could not find anim build FROMNUM
+[08:09:35]: Could not find anim build FROMNUM
+[08:09:36]: Available disk space for save files: 23706 MB
+[08:09:36]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000792
+[08:09:36]: Serializing world: session/2CE9191ADB245DC6/0000000792
+[08:09:41]: Could not find anim build FROMNUM
+[08:09:46]: Could not find anim build FROMNUM
+[08:09:47]: Could not find anim build FROMNUM
+[08:09:52]: Could not find anim build FROMNUM
+[08:10:05]: Could not find anim build FROMNUM
+[08:10:08]: Could not find anim build FROMNUM
+[08:10:11]: Could not find anim build FROMNUM
+[08:10:16]: Could not find anim build FROMNUM
+[08:10:18]: Could not find anim build FROMNUM
+[08:10:18]: Could not find anim build FROMNUM
+[08:10:19]: Could not find anim build FROMNUM
+[08:10:21]: Could not find anim build FROMNUM
+[08:10:25]: Could not find anim build FROMNUM
+[08:10:28]: Could not find anim build FROMNUM
+[08:10:31]: Could not find anim build FROMNUM
+[08:10:38]: Could not find anim build FROMNUM
+[08:10:50]: Could not find anim build FROMNUM
+[08:10:56]: Could not find anim build FROMNUM
+[08:12:07]: Could not find anim build FROMNUM
+[08:13:23]: Could not find anim build FROMNUM
+[08:13:26]: Could not find anim build FROMNUM
+[08:13:33]: Could not find anim build FROMNUM
+[08:13:41]: Could not find anim build FROMNUM
+[08:13:47]: Could not find anim build FROMNUM
+[08:14:54]: Could not find anim build FROMNUM
+[08:16:12]: Could not find anim build FROMNUM
+[08:16:39]: Could not find anim build FROMNUM
+[08:16:59]: Could not find anim build FROMNUM
+[08:17:36]: Available disk space for save files: 23701 MB
+[08:17:37]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000793
+[08:17:37]: Serializing world: session/2CE9191ADB245DC6/0000000793
+[08:17:46]: Could not find anim build FROMNUM
+[08:19:32]: Could not find anim build FROMNUM
+[08:19:45]: Could not find anim build FROMNUM
+[08:22:31]: Could not find anim build FROMNUM
+[08:22:33]: Could not find anim build FROMNUM
+[08:22:51]: Could not find anim build FROMNUM
+[08:23:30]: Could not find anim build FROMNUM
+[08:24:08]: Could not find anim build FROMNUM
+[08:24:25]: Could not find anim build FROMNUM
+[08:24:27]: Could not find anim build FROMNUM
+[08:24:40]: Could not find anim build FROMNUM
+[08:24:45]: Could not find anim build FROMNUM
+[08:24:52]: Could not find anim build FROMNUM
+[08:25:01]: Could not find anim build FROMNUM
+[08:25:10]: Could not find anim build FROMNUM
+[08:25:12]: Could not find anim build FROMNUM
+[08:25:17]: Could not find anim build FROMNUM
+[08:25:28]: Activating portal[1] to 2248507758	
+[08:25:29]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000794
+[08:25:29]: [Shard] Migration request: (KU_RR3k3C2b) to Caves(2248507758)
+[08:25:29]: [Shard] Begin migration #5 for (KU_RR3k3C2b)
+[08:25:29]: [Shard] #5 [SHDMASTER](1) -> Caves(2248507758)
+[08:25:29]: [Shard] #5 <- session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000794
+[08:25:29]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[08:25:29]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[08:25:29]: [Steam] SendUserDisconnect for '76561199349123785'
+[08:25:29]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[08:25:37]: Available disk space for save files: 23695 MB
+[08:25:38]: Serializing world: session/2CE9191ADB245DC6/0000000794
+[08:25:38]: Truncating to snapshot #794...
+[08:25:38]:  - session/2CE9191ADB245DC6/0000000788
+[08:25:38]:  - session/2CE9191ADB245DC6/0000000786
+[08:25:38]:  - session/2CE9191ADB245DC6/0000000787
+[08:25:38]:  - session/2CE9191ADB245DC6/0000000783
+[08:25:38]:  - session/2CE9191ADB245DC6/0000000784
+[08:25:38]:  - session/2CE9191ADB245DC6/0000000785
+[08:25:38]:  - session/2CE9191ADB245DC6/0000000782
+[08:25:38]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000000785
+[08:25:38]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000000784
+[08:25:38]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000000725
+[08:25:38]:  - session/2CE9191ADB245DC6/A7GK41JNK5MS/0000000784
+[08:25:38]:  - session/2CE9191ADB245DC6/A7GK41JNK5MS/0000000779
+[08:25:38]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000788
+[08:25:38]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000787
+[08:25:38]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000786
+[08:25:38]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000785
+[08:25:38]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000784
+[08:25:38]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000783
+[08:25:38]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000782
+[08:25:38]:    19 file(s) removed
+[08:25:38]: [Shard] Completed migration #5 for player (KU_RR3k3C2b)
+[08:26:43]: [Shard] Begin migration #6 for (KU_RR3k3C2b)
+[08:26:43]: [Shard] #6 Caves(2248507758) -> [SHDMASTER](1)
+[08:26:43]: [Shard] #6 -> session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000795
+[08:26:43]: [Shard] Received migration #6 data for (KU_RR3k3C2b)
+[08:26:43]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[08:26:43]: [Shard] (KU_RR3k3C2b) disconnected from Caves(2248507758)
+[08:26:45]: [P2P] Received from 62.244.109.41|1 '76561199349123785'
+[08:26:45]: [P2P] Sent to 62.244.109.41|1 '76561199349123785'
+[08:26:47]: New incoming connection 62.244.109.41|1 <9019433072720494350>
+[08:26:47]: Client connected from 62.244.109.41|1 <9019433072720494350>
+[08:26:47]: ValidateGameSessionToken GUID<9019433072720494350>
+[08:26:47]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[08:26:47]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[08:26:48]: [Steam] Authenticated client '76561199349123785'
+[08:26:48]: [Shard] Completed incoming migration #6 for (KU_RR3k3C2b)
+[08:26:48]: [Shard] Completed migration #6 for player (KU_RR3k3C2b)
+[08:27:00]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000795
+[08:27:00]: Player will spawn close to portal #1	
+[08:27:00]: Spawning player at: [Load] (-198.81, 0.00, 95.04)	
+[08:27:15]: Could not find anim build FROMNUM
+[08:27:17]: Could not find anim build FROMNUM
+[08:27:20]: Could not find anim build FROMNUM
+[08:27:23]: Could not find anim build FROMNUM
+[08:27:38]: Could not find anim build FROMNUM
+[08:29:24]: Could not find anim build FROMNUM
+[08:29:59]: Could not find anim build FROMNUM
+[08:30:02]: Could not find anim build FROMNUM
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:49]: Could not find anim build FROMNUM
+[08:30:50]: Could not find anim build FROMNUM
+[08:30:52]: Could not find anim build FROMNUM
+[08:31:16]: Could not find anim build FROMNUM
+[08:31:29]: Could not find anim build FROMNUM
+[08:31:38]: Could not find anim build FROMNUM
+[08:31:41]: Could not find anim build FROMNUM
+[08:32:36]: Could not find anim build FROMNUM
+[08:32:59]: Could not find anim build FROMNUM
+[08:33:38]: Available disk space for save files: 23727 MB
+[08:33:38]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000795
+[08:33:39]: Serializing world: session/2CE9191ADB245DC6/0000000795
+[08:34:01]: Could not find anim build FROMNUM
+[08:34:13]: Could not find anim build FROMNUM
+[08:35:35]: Could not find anim build FROMNUM
+[08:35:39]: Could not find anim build FROMNUM
+[08:35:47]: Could not find anim build FROMNUM
+[08:35:54]: Could not find anim build FROMNUM
+[08:35:57]: Could not find anim build FROMNUM
+[08:36:07]: Could not find anim build FROMNUM
+[08:36:11]: Could not find anim build FROMNUM
+[08:36:13]: Could not find anim build FROMNUM
+[08:36:16]: Could not find anim build FROMNUM
+[08:36:23]: Could not find anim build FROMNUM
+[08:36:41]: Activating portal[1] to 2248507758	
+[08:36:41]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000796
+[08:36:41]: [Shard] Migration request: (KU_RR3k3C2b) to Caves(2248507758)
+[08:36:41]: [Shard] Begin migration #7 for (KU_RR3k3C2b)
+[08:36:41]: [Shard] #7 [SHDMASTER](1) -> Caves(2248507758)
+[08:36:41]: [Shard] #7 <- session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000796
+[08:36:42]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[08:36:42]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[08:36:42]: [Steam] SendUserDisconnect for '76561199349123785'
+[08:36:42]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[08:36:50]: [Shard] Completed migration #7 for player (KU_RR3k3C2b)
+[08:38:02]: [Shard] Begin migration #8 for (KU_RR3k3C2b)
+[08:38:02]: [Shard] #8 Caves(2248507758) -> [SHDMASTER](1)
+[08:38:02]: [Shard] #8 -> session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000796
+[08:38:02]: [Shard] Received migration #8 data for (KU_RR3k3C2b)
+[08:38:02]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[08:38:02]: [Shard] (KU_RR3k3C2b) disconnected from Caves(2248507758)
+[08:38:05]: [P2P] Received from 62.244.109.41|1 '76561199349123785'
+[08:38:05]: [P2P] Sent to 62.244.109.41|1 '76561199349123785'
+[08:38:06]: New incoming connection 62.244.109.41|1 <1074728279790724829>
+[08:38:06]: Client connected from 62.244.109.41|1 <1074728279790724829>
+[08:38:06]: ValidateGameSessionToken GUID<1074728279790724829>
+[08:38:06]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[08:38:07]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[08:38:07]: [Steam] Authenticated client '76561199349123785'
+[08:38:07]: [Shard] Completed incoming migration #8 for (KU_RR3k3C2b)
+[08:38:07]: [Shard] Completed migration #8 for player (KU_RR3k3C2b)
+[08:38:19]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000796
+[08:38:19]: Player will spawn close to portal #1	
+[08:38:19]: Spawning player at: [Load] (-196.24, 0.00, 93.49)	
+[08:40:02]: Could not find anim build FROMNUM
+[08:40:02]: Could not find anim build FROMNUM
+[08:40:03]: Could not find anim build FROMNUM
+[08:40:04]: Could not find anim build FROMNUM
+[08:40:04]: Could not find anim build FROMNUM
+[08:40:04]: Could not find anim build FROMNUM
+[08:40:04]: Could not find anim build FROMNUM
+[08:40:05]: Could not find anim build FROMNUM
+[08:40:05]: Could not find anim build FROMNUM
+[08:40:05]: Could not find anim build FROMNUM
+[08:40:06]: Could not find anim build FROMNUM
+[08:40:06]: Could not find anim build FROMNUM
+[08:40:07]: Could not find anim build FROMNUM
+[08:40:07]: Could not find anim build FROMNUM
+[08:40:07]: Could not find anim build FROMNUM
+[08:40:07]: Could not find anim build FROMNUM
+[08:40:08]: Could not find anim build FROMNUM
+[08:40:08]: Could not find anim build FROMNUM
+[08:40:08]: Could not find anim build FROMNUM
+[08:40:09]: Could not find anim build FROMNUM
+[08:40:09]: Could not find anim build FROMNUM
+[08:40:09]: Could not find anim build FROMNUM
+[08:40:10]: Could not find anim build FROMNUM
+[08:40:10]: Could not find anim build FROMNUM
+[08:40:10]: Could not find anim build FROMNUM
+[08:40:10]: Could not find anim build FROMNUM
+[08:40:11]: Could not find anim build FROMNUM
+[08:40:11]: Could not find anim build FROMNUM
+[08:40:12]: Could not find anim build FROMNUM
+[08:40:12]: Could not find anim build FROMNUM
+[08:40:12]: Could not find anim build FROMNUM
+[08:40:13]: Could not find anim build FROMNUM
+[08:40:13]: Could not find anim build FROMNUM
+[08:40:13]: Could not find anim build FROMNUM
+[08:40:15]: Could not find anim build FROMNUM
+[08:40:52]: Could not find anim build FROMNUM
+[08:40:55]: Could not find anim build FROMNUM
+[08:41:11]: Could not find anim build FROMNUM
+[08:41:39]: Available disk space for save files: 23722 MB
+[08:41:39]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000796
+[08:41:40]: Serializing world: session/2CE9191ADB245DC6/0000000796
+[08:41:43]: Could not find anim build FROMNUM
+[08:41:54]: Could not find anim build FROMNUM
+[08:41:59]: Could not find anim build FROMNUM
+[08:42:00]: Could not find anim build FROMNUM
+[08:42:20]: Could not find anim build FROMNUM
+[08:49:09]: Could not find anim build FROMNUM
+[08:49:09]: Could not find anim build FROMNUM
+[08:49:10]: Could not find anim build FROMNUM
+[08:49:10]: Could not find anim build FROMNUM
+[08:49:10]: Could not find anim build FROMNUM
+[08:49:11]: Could not find anim build FROMNUM
+[08:49:11]: Could not find anim build FROMNUM
+[08:49:11]: Could not find anim build FROMNUM
+[08:49:12]: Could not find anim build FROMNUM
+[08:49:12]: Could not find anim build FROMNUM
+[08:49:12]: Could not find anim build FROMNUM
+[08:49:13]: Could not find anim build FROMNUM
+[08:49:13]: Could not find anim build FROMNUM
+[08:49:13]: Could not find anim build FROMNUM
+[08:49:14]: Could not find anim build FROMNUM
+[08:49:14]: Could not find anim build FROMNUM
+[08:49:14]: Could not find anim build FROMNUM
+[08:49:14]: Could not find anim build FROMNUM
+[08:49:15]: Could not find anim build FROMNUM
+[08:49:15]: Could not find anim build FROMNUM
+[08:49:15]: Could not find anim build FROMNUM
+[08:49:16]: Could not find anim build FROMNUM
+[08:49:16]: Could not find anim build FROMNUM
+[08:49:16]: Could not find anim build FROMNUM
+[08:49:16]: Could not find anim build FROMNUM
+[08:49:17]: Could not find anim build FROMNUM
+[08:49:17]: Could not find anim build FROMNUM
+[08:49:17]: Could not find anim build FROMNUM
+[08:49:18]: Could not find anim build FROMNUM
+[08:49:18]: Could not find anim build FROMNUM
+[08:49:18]: Could not find anim build FROMNUM
+[08:49:19]: Could not find anim build FROMNUM
+[08:49:35]: Could not find anim build FROMNUM
+[08:49:40]: Available disk space for save files: 23717 MB
+[08:49:40]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000797
+[08:49:40]: Serializing world: session/2CE9191ADB245DC6/0000000797
+[08:49:41]: Could not find anim build FROMNUM
+[08:49:43]: Could not find anim build FROMNUM
+[08:49:49]: Could not find anim build FROMNUM
+[08:50:44]: Could not find anim build FROMNUM
+[08:50:48]: Could not find anim build FROMNUM
+[08:50:50]: Could not find anim build FROMNUM
+[08:50:52]: Could not find anim build FROMNUM
+[08:51:52]: Could not find anim build FROMNUM
+[08:52:09]: Could not find anim build FROMNUM
+[08:52:11]: Could not find anim build FROMNUM
+[08:52:12]: Could not find anim build FROMNUM
+[08:52:18]: Could not find anim build FROMNUM
+[08:52:21]: Could not find anim build FROMNUM
+[08:52:31]: Could not find anim build FROMNUM
+[08:52:32]: Could not find anim build FROMNUM
+[08:52:34]: Could not find anim build FROMNUM
+[08:53:26]: Could not find anim build FROMNUM
+[08:53:30]: Could not find anim build FROMNUM
+[08:54:00]: Could not find anim build FROMNUM
+[08:54:04]: Could not find anim build FROMNUM
+[08:54:12]: Could not find anim build FROMNUM
+[08:54:15]: Could not find anim build FROMNUM
+[08:54:28]: Could not find anim build FROMNUM
+[08:55:04]: Could not find anim build FROMNUM
+[08:55:08]: Could not find anim build FROMNUM
+[08:55:08]: Could not find anim build FROMNUM
+[08:55:24]: Could not find anim build FROMNUM
+[08:55:41]: Could not find anim build FROMNUM
+[08:55:51]: Could not find anim build FROMNUM
+[08:57:40]: Available disk space for save files: 23712 MB
+[08:57:41]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000000798
+[08:57:41]: Serializing world: session/2CE9191ADB245DC6/0000000798
+[08:58:32]: Could not find anim build FROMNUM
+[08:58:37]: Could not find anim build FROMNUM
+[08:59:27]: Could not find anim build FROMNUM
