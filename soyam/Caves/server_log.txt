@@ -1836,3 +1836,210 @@
 [14:59:22]: [Shard] Received migration #24 data for (KU_8EfLG8wA)
 [14:59:31]: [P2P] Received from 62.243.16.59|1 '76561198837185815'
 [14:59:31]: [P2P] Sent to 62.243.16.59|1 '76561198837185815'
+[14:59:32]: New incoming connection 62.243.16.59|1 <6238705926840232410>
+[14:59:32]: Client connected from 62.243.16.59|1 <6238705926840232410>
+[14:59:32]: ValidateGameSessionToken GUID<6238705926840232410>
+[14:59:33]: Client authenticated: (KU_8EfLG8wA) HINDAN
+[14:59:33]: [Steam] SendUserConnectAndAuthenticate for '76561198837185815'
+[14:59:33]: [Steam] Authenticated client '76561198837185815'
+[14:59:33]: [Shard] Completed incoming migration #24 for (KU_8EfLG8wA)
+[14:59:58]: Resuming user: session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000840
+[14:59:58]: Player will spawn close to portal #1	
+[14:59:58]: Spawning player at: [Load] (533.95, 0.00, 270.45)	
+[15:00:05]: [200] Account Communication Success (6)
+[15:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:00:08]: Available disk space for save files: 23518 MB
+[15:00:08]: Serializing user: session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000840
+[15:00:08]: Serializing world: session/01EF7F7A1CFE0E43/0000000840
+[15:08:11]: Available disk space for save files: 23509 MB
+[15:08:11]: Serializing user: session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000841
+[15:08:11]: Serializing world: session/01EF7F7A1CFE0E43/0000000841
+[15:16:12]: Available disk space for save files: 23500 MB
+[15:16:12]: Serializing user: session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000842
+[15:16:12]: Serializing world: session/01EF7F7A1CFE0E43/0000000842
+[15:21:37]: Activating portal[1] to 1	
+[15:21:38]: Serializing user: session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000843
+[15:21:38]: [Shard] Migration request: (KU_8EfLG8wA) to [SHDMASTER](1)
+[15:21:38]: [Shard] #25 <- session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000843
+[15:21:38]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[15:21:38]: [Steam] SendUserDisconnect for '76561198837185815'
+[15:24:12]: Available disk space for save files: 23491 MB
+[15:24:13]: Serializing world: session/01EF7F7A1CFE0E43/0000000843
+[15:24:13]: Truncating to snapshot #843...
+[15:24:13]:  - session/01EF7F7A1CFE0E43/0000000834
+[15:24:13]:  - session/01EF7F7A1CFE0E43/0000000836
+[15:24:13]:  - session/01EF7F7A1CFE0E43/0000000835
+[15:24:13]:  - session/01EF7F7A1CFE0E43/0000000837
+[15:24:13]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000837
+[15:24:13]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000811
+[15:24:13]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000835
+[15:24:13]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000811
+[15:24:13]:  - session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000715
+[15:24:13]:    9 file(s) removed
+[15:30:05]: [200] Account Communication Success (6)
+[15:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:31:41]: [P2P] Session timed out for '76561198837185815'
+[15:31:41]: [P2P] Remove session: 62.243.16.59|1 '76561198837185815'
+[15:32:13]: Available disk space for save files: 23495 MB
+[15:32:14]: Serializing world: session/01EF7F7A1CFE0E43/0000000844
+[15:32:14]: Truncating to snapshot #844...
+[15:32:14]:  - session/01EF7F7A1CFE0E43/0000000838
+[15:32:14]:    1 file(s) removed
+[15:40:14]: Available disk space for save files: 23489 MB
+[15:40:14]: Serializing world: session/01EF7F7A1CFE0E43/0000000845
+[15:40:14]: Truncating to snapshot #845...
+[15:40:14]:  - session/01EF7F7A1CFE0E43/0000000839
+[15:40:14]:  - session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000838
+[15:40:14]:    2 file(s) removed
+[15:48:15]: Available disk space for save files: 23483 MB
+[15:48:15]: Serializing world: session/01EF7F7A1CFE0E43/0000000846
+[15:48:15]: Truncating to snapshot #846...
+[15:48:15]:  - session/01EF7F7A1CFE0E43/0000000840
+[15:48:15]:  - session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000840
+[15:48:15]:    2 file(s) removed
+[15:56:16]: Available disk space for save files: 23478 MB
+[15:56:16]: Serializing world: session/01EF7F7A1CFE0E43/0000000847
+[15:56:16]: Truncating to snapshot #847...
+[15:56:16]:  - session/01EF7F7A1CFE0E43/0000000841
+[15:56:16]:  - session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000841
+[15:56:16]:    2 file(s) removed
+[16:00:06]: [200] Account Communication Success (6)
+[16:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:04:16]: Available disk space for save files: 23472 MB
+[16:04:17]: Serializing world: session/01EF7F7A1CFE0E43/0000000848
+[16:04:17]: Truncating to snapshot #848...
+[16:04:17]:  - session/01EF7F7A1CFE0E43/0000000842
+[16:04:17]:  - session/01EF7F7A1CFE0E43/A7H0T9AK13KA/0000000842
+[16:04:17]:    2 file(s) removed
+[16:06:47]: Available disk space for save files: 23467 MB
+[16:06:47]: Serializing world: session/01EF7F7A1CFE0E43/0000000849
+[16:06:47]: Truncating to snapshot #849...
+[16:06:47]:  - session/01EF7F7A1CFE0E43/0000000843
+[16:06:47]:    1 file(s) removed
+[16:12:18]: Available disk space for save files: 23462 MB
+[16:12:18]: Serializing world: session/01EF7F7A1CFE0E43/0000000850
+[16:12:18]: Truncating to snapshot #850...
+[16:12:18]:  - session/01EF7F7A1CFE0E43/0000000844
+[16:12:18]:    1 file(s) removed
+[16:20:24]: Available disk space for save files: 23456 MB
+[16:20:25]: Serializing world: session/01EF7F7A1CFE0E43/0000000851
+[16:20:25]: Truncating to snapshot #851...
+[16:20:25]:  - session/01EF7F7A1CFE0E43/0000000845
+[16:20:25]:    1 file(s) removed
+[16:28:25]: Available disk space for save files: 23451 MB
+[16:28:26]: Serializing world: session/01EF7F7A1CFE0E43/0000000852
+[16:28:26]: Truncating to snapshot #852...
+[16:28:26]:  - session/01EF7F7A1CFE0E43/0000000846
+[16:28:26]:    1 file(s) removed
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:31:35]: [Shard] #26 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000853
+[16:31:35]: [Shard] Received migration #26 data for (KU_GNdCoYNE)
+[16:31:41]: [P2P] Session request for '76561199104252985'
+[16:31:46]: [P2P] Create session: 62.243.16.60|1 '76561199104252985'
+[16:31:46]: [P2P] Received from 62.243.16.60|1 '76561199104252985'
+[16:31:46]: [P2P] Sent to 62.243.16.60|1 '76561199104252985'
+[16:31:47]: New incoming connection 62.243.16.60|1 <6441643718374101431>
+[16:31:47]: Client connected from 62.243.16.60|1 <6441643718374101431>
+[16:31:47]: ValidateGameSessionToken GUID<6441643718374101431>
+[16:31:48]: Client authenticated: (KU_GNdCoYNE) Carrot
+[16:31:48]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[16:31:48]: [Steam] Authenticated client '76561199104252985'
+[16:31:48]: [Shard] Completed incoming migration #26 for (KU_GNdCoYNE)
+[16:31:57]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000853
+[16:31:57]: Player will spawn close to portal #1	
+[16:31:57]: Spawning player at: [Load] (529.27, 0.00, 272.17)	
+[16:35:39]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[16:36:09]: Could not find anim [death] in bank [ghost]
+[16:36:09]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000853
+[16:36:11]: Could not find anim [idle_loop] in bank [ghost]
+[16:36:13]: Could not find anim [transform] in bank [wilson]
+[16:36:15]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000853
+[16:36:26]: Available disk space for save files: 23445 MB
+[16:36:26]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000853
+[16:36:26]: Serializing world: session/01EF7F7A1CFE0E43/0000000853
+[16:37:23]: Activating portal[1] to 1	
+[16:37:24]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000854
+[16:37:24]: [Shard] Migration request: (KU_GNdCoYNE) to [SHDMASTER](1)
+[16:37:24]: [Shard] #27 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000854
+[16:37:24]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[16:37:24]: [Steam] SendUserDisconnect for '76561199104252985'
+[16:41:06]: [Shard] #28 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000854
+[16:41:06]: [Shard] Received migration #28 data for (KU_GNdCoYNE)
+[16:41:13]: [P2P] Received from 62.243.16.60|1 '76561199104252985'
+[16:41:13]: [P2P] Sent to 62.243.16.60|1 '76561199104252985'
+[16:41:14]: New incoming connection 62.243.16.60|1 <3901049634528914479>
+[16:41:14]: Client connected from 62.243.16.60|1 <3901049634528914479>
+[16:41:14]: ValidateGameSessionToken GUID<3901049634528914479>
+[16:41:15]: Client authenticated: (KU_GNdCoYNE) Carrot
+[16:41:15]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[16:41:15]: [Steam] Authenticated client '76561199104252985'
+[16:41:15]: [Shard] Completed incoming migration #28 for (KU_GNdCoYNE)
+[16:41:24]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000854
+[16:41:24]: Player will spawn close to portal #1	
+[16:41:24]: Spawning player at: [Load] (530.89, 0.00, 273.87)	
+[16:43:47]: Activating portal[1] to 1	
+[16:43:47]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000854
+[16:43:47]: [Shard] Migration request: (KU_GNdCoYNE) to [SHDMASTER](1)
+[16:43:47]: [Shard] #29 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000854
+[16:43:47]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[16:43:47]: [Steam] SendUserDisconnect for '76561199104252985'
+[16:44:28]: Available disk space for save files: 23437 MB
+[16:44:28]: Serializing world: session/01EF7F7A1CFE0E43/0000000854
+[16:44:28]: Truncating to snapshot #854...
+[16:44:28]:  - session/01EF7F7A1CFE0E43/0000000847
+[16:44:28]:  - session/01EF7F7A1CFE0E43/0000000848
+[16:44:28]:    2 file(s) removed
+[16:52:28]: Available disk space for save files: 23434 MB
+[16:52:29]: Serializing world: session/01EF7F7A1CFE0E43/0000000855
+[16:52:29]: Truncating to snapshot #855...
+[16:52:29]:  - session/01EF7F7A1CFE0E43/0000000849
+[16:52:29]:    1 file(s) removed
+[16:53:49]: [P2P] Session timed out for '76561199104252985'
+[16:53:49]: [P2P] Remove session: 62.243.16.60|1 '76561199104252985'
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:00:29]: Available disk space for save files: 23428 MB
+[17:00:30]: Serializing world: session/01EF7F7A1CFE0E43/0000000856
+[17:00:30]: Truncating to snapshot #856...
+[17:00:30]:  - session/01EF7F7A1CFE0E43/0000000850
+[17:00:30]:    1 file(s) removed
+[17:08:30]: Available disk space for save files: 23423 MB
+[17:08:30]: Serializing world: session/01EF7F7A1CFE0E43/0000000857
+[17:08:30]: Truncating to snapshot #857...
+[17:08:30]:  - session/01EF7F7A1CFE0E43/0000000851
+[17:08:30]:    1 file(s) removed
+[17:16:31]: Available disk space for save files: 23409 MB
+[17:16:31]: Serializing world: session/01EF7F7A1CFE0E43/0000000858
+[17:16:31]: Truncating to snapshot #858...
+[17:16:31]:  - session/01EF7F7A1CFE0E43/0000000852
+[17:16:31]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000649
+[17:16:31]:    2 file(s) removed
+[17:24:33]: Available disk space for save files: 23404 MB
+[17:24:33]: Serializing world: session/01EF7F7A1CFE0E43/0000000859
+[17:24:33]: Truncating to snapshot #859...
+[17:24:33]:  - session/01EF7F7A1CFE0E43/0000000853
+[17:24:33]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000000853
+[17:24:33]:    2 file(s) removed
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:32:33]: Available disk space for save files: 23399 MB
+[17:32:34]: Serializing world: session/01EF7F7A1CFE0E43/0000000860
+[17:32:34]: Truncating to snapshot #860...
+[17:32:34]:  - session/01EF7F7A1CFE0E43/0000000854
+[17:32:34]:    1 file(s) removed
+[17:40:37]: Available disk space for save files: 23393 MB
+[17:40:38]: Serializing world: session/01EF7F7A1CFE0E43/0000000861
+[17:40:38]: Truncating to snapshot #861...
+[17:40:38]:  - session/01EF7F7A1CFE0E43/0000000855
+[17:40:38]:    1 file(s) removed
+[17:48:38]: Available disk space for save files: 23388 MB
+[17:48:38]: Serializing world: session/01EF7F7A1CFE0E43/0000000862
+[17:48:38]: Truncating to snapshot #862...
+[17:48:38]:  - session/01EF7F7A1CFE0E43/0000000856
+[17:48:38]:    1 file(s) removed
+[17:56:39]: Available disk space for save files: 23383 MB
+[17:56:39]: Serializing world: session/01EF7F7A1CFE0E43/0000000863
+[17:56:39]: Truncating to snapshot #863...
+[17:56:39]:  - session/01EF7F7A1CFE0E43/0000000857
+[17:56:39]:    1 file(s) removed
