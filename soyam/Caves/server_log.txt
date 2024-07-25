@@ -1308,3 +1308,346 @@
 [08:57:41]: Truncating to snapshot #798...
 [08:57:41]:  - session/01EF7F7A1CFE0E43/0000000792
 [08:57:41]:    1 file(s) removed
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:05:41]: Available disk space for save files: 23693 MB
+[09:05:41]: Serializing world: session/01EF7F7A1CFE0E43/0000000799
+[09:05:41]: Truncating to snapshot #799...
+[09:05:41]:  - session/01EF7F7A1CFE0E43/0000000793
+[09:05:41]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000792
+[09:05:41]:    2 file(s) removed
+[09:13:42]: Available disk space for save files: 23688 MB
+[09:13:42]: Serializing world: session/01EF7F7A1CFE0E43/0000000800
+[09:13:42]: Truncating to snapshot #800...
+[09:13:42]:  - session/01EF7F7A1CFE0E43/0000000794
+[09:13:42]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000794
+[09:13:42]:    2 file(s) removed
+[09:21:42]: Available disk space for save files: 23683 MB
+[09:21:43]: Serializing world: session/01EF7F7A1CFE0E43/0000000801
+[09:21:43]: Truncating to snapshot #801...
+[09:21:43]:  - session/01EF7F7A1CFE0E43/0000000795
+[09:21:43]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000795
+[09:21:43]:    2 file(s) removed
+[09:29:44]: Available disk space for save files: 23677 MB
+[09:29:44]: Serializing world: session/01EF7F7A1CFE0E43/0000000802
+[09:29:44]: Truncating to snapshot #802...
+[09:29:44]:  - session/01EF7F7A1CFE0E43/0000000796
+[09:29:44]:    1 file(s) removed
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:37:45]: Available disk space for save files: 23672 MB
+[09:37:45]: Serializing world: session/01EF7F7A1CFE0E43/0000000803
+[09:37:45]: Truncating to snapshot #803...
+[09:37:45]:  - session/01EF7F7A1CFE0E43/0000000797
+[09:37:45]:    1 file(s) removed
+[09:44:18]: [Shard] #9 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000804
+[09:44:18]: [Shard] Received migration #9 data for (KU_RR3k3C2b)
+[09:44:25]: [P2P] Create session: 62.243.16.54|1 '76561199349123785'
+[09:44:25]: [P2P] Received from 62.243.16.54|1 '76561199349123785'
+[09:44:25]: [P2P] Sent to 62.243.16.54|1 '76561199349123785'
+[09:44:26]: New incoming connection 62.243.16.54|1 <8036444783612599449>
+[09:44:26]: Client connected from 62.243.16.54|1 <8036444783612599449>
+[09:44:26]: ValidateGameSessionToken GUID<8036444783612599449>
+[09:44:27]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[09:44:27]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[09:44:27]: [Steam] Authenticated client '76561199349123785'
+[09:44:27]: [Shard] Completed incoming migration #9 for (KU_RR3k3C2b)
+[09:44:36]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000804
+[09:44:36]: Player will spawn close to portal #1	
+[09:44:36]: Spawning player at: [Load] (531.20, 0.00, 273.95)	
+[09:45:46]: Available disk space for save files: 23666 MB
+[09:45:46]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000804
+[09:45:46]: Serializing world: session/01EF7F7A1CFE0E43/0000000804
+[09:46:14]: [Shard] #10 -> session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000805
+[09:46:14]: [Shard] Received migration #10 data for (KU_Zkth_xJj)
+[09:46:17]: [P2P] Session request for '76561198305551267'
+[09:46:18]: [P2P] Create session: 62.243.16.55|1 '76561198305551267'
+[09:46:18]: [P2P] Received from 62.243.16.55|1 '76561198305551267'
+[09:46:18]: [P2P] Sent to 62.243.16.55|1 '76561198305551267'
+[09:46:20]: New incoming connection 62.243.16.55|1 <4614815616788298313>
+[09:46:20]: Client connected from 62.243.16.55|1 <4614815616788298313>
+[09:46:20]: ValidateGameSessionToken GUID<4614815616788298313>
+[09:46:21]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[09:46:21]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[09:46:21]: [Steam] Authenticated client '76561198305551267'
+[09:46:21]: [Shard] Completed incoming migration #10 for (KU_Zkth_xJj)
+[09:46:33]: Resuming user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000805
+[09:46:33]: Player will spawn close to portal #1	
+[09:46:33]: Spawning player at: [Load] (529.25, 0.00, 272.11)	
+[09:48:00]: [Shard] #11 -> session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000805
+[09:48:00]: [Shard] Received migration #11 data for (KU_521dUXRS)
+[09:48:04]: [P2P] Session request for '76561198865123068'
+[09:48:08]: [P2P] Create session: 62.243.16.56|1 '76561198865123068'
+[09:48:08]: [P2P] Received from 62.243.16.56|1 '76561198865123068'
+[09:48:08]: [P2P] Sent to 62.243.16.56|1 '76561198865123068'
+[09:48:10]: New incoming connection 62.243.16.56|1 <1853042363634078585>
+[09:48:10]: Client connected from 62.243.16.56|1 <1853042363634078585>
+[09:48:10]: ValidateGameSessionToken GUID<1853042363634078585>
+[09:48:10]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[09:48:11]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[09:48:11]: [Steam] Authenticated client '76561198865123068'
+[09:48:11]: [Shard] Completed incoming migration #11 for (KU_521dUXRS)
+[09:48:31]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000805
+[09:48:31]: Player will spawn close to portal #1	
+[09:48:31]: Spawning player at: [Load] (531.35, 0.00, 269.02)	
+[09:50:33]: Failed to assign item skin ids due to ownership check failure.
+[09:50:34]: Failed to assign item skin ids due to ownership check failure.
+[09:50:35]: Failed to assign item skin ids due to ownership check failure.
+[09:51:12]: Failed to assign item skin ids due to ownership check failure.
+[09:51:13]: Failed to assign item skin ids due to ownership check failure.
+[09:51:14]: Failed to assign item skin ids due to ownership check failure.
+[09:51:48]: Could not find anim [weremoose_transform] in bank [weremoose]
+[09:53:09]: Failed to assign item skin ids due to ownership check failure.
+[09:53:09]: Failed to assign item skin ids due to ownership check failure.
+[09:53:10]: Failed to assign item skin ids due to ownership check failure.
+[09:53:47]: Available disk space for save files: 23657 MB
+[09:53:48]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000805
+[09:53:48]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000805
+[09:53:48]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000805
+[09:53:48]: Serializing world: session/01EF7F7A1CFE0E43/0000000805
+[09:54:04]: Could not find anim [weremoose_transform] in bank [weremoose]
+[09:54:56]: Could not find anim [charge_bash] in bank [wilson]
+[09:59:48]: Failed to assign item skin ids due to ownership check failure.
+[09:59:49]: Failed to assign item skin ids due to ownership check failure.
+[09:59:50]: Failed to assign item skin ids due to ownership check failure.
+[10:00:05]: [200] Account Communication Success (6)
+[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:01:48]: Available disk space for save files: 23706 MB
+[10:01:48]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000806
+[10:01:48]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000806
+[10:01:48]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000806
+[10:01:48]: Serializing world: session/01EF7F7A1CFE0E43/0000000806
+[10:02:11]: Failed to assign item skin ids due to ownership check failure.
+[10:02:12]: Failed to assign item skin ids due to ownership check failure.
+[10:02:13]: Failed to assign item skin ids due to ownership check failure.
+[10:02:14]: Failed to assign item skin ids due to ownership check failure.
+[10:02:16]: Could not find anim [weremoose_transform] in bank [weremoose]
+[10:06:19]: Could not find anim [weremoose_transform] in bank [weremoose]
+[10:07:23]: Failed to assign item skin ids due to ownership check failure.
+[10:07:24]: Failed to assign item skin ids due to ownership check failure.
+[10:07:25]: Failed to assign item skin ids due to ownership check failure.
+[10:07:26]: Failed to assign item skin ids due to ownership check failure.
+[10:09:32]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:32]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:32]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:42]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:42]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:43]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:43]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:49]: Available disk space for save files: 23702 MB
+[10:09:49]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000807
+[10:09:49]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000807
+[10:09:49]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000807
+[10:09:49]: Serializing world: session/01EF7F7A1CFE0E43/0000000807
+[10:09:55]: Failed to assign item skin ids due to ownership check failure.
+[10:09:56]: Failed to assign item skin ids due to ownership check failure.
+[10:09:57]: Failed to assign item skin ids due to ownership check failure.
+[10:09:58]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:58]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:58]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:59]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:09:59]: A timer with the name 	rammed	 already exists on 	109142 - minotaur	!	
+[10:10:18]: Failed to assign item skin ids due to ownership check failure.
+[10:10:19]: Failed to assign item skin ids due to ownership check failure.
+[10:10:20]: Failed to assign item skin ids due to ownership check failure.
+[10:10:23]: A timer with the name 	endstun	 already exists on 	109142 - minotaur	!	
+[10:10:42]: Could not find anim [death] in bank [ghost]
+[10:10:42]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000808
+[10:11:15]: Could not find anim [idle_loop] in bank [ghost]
+[10:11:18]: Could not find anim [transform] in bank [wilson]
+[10:11:19]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000808
+[10:15:11]: Failed to assign item skin ids due to ownership check failure.
+[10:17:50]: Available disk space for save files: 23699 MB
+[10:17:50]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000808
+[10:17:50]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000808
+[10:17:50]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000808
+[10:17:50]: Serializing world: session/01EF7F7A1CFE0E43/0000000808
+[10:20:59]: Failed to assign item skin ids due to ownership check failure.
+[10:21:00]: Failed to assign item skin ids due to ownership check failure.
+[10:21:01]: Failed to assign item skin ids due to ownership check failure.
+[10:22:17]: Failed to assign item skin ids due to ownership check failure.
+[10:22:18]: Failed to assign item skin ids due to ownership check failure.
+[10:22:19]: Failed to assign item skin ids due to ownership check failure.
+[10:22:20]: Failed to assign item skin ids due to ownership check failure.
+[10:22:21]: Failed to assign item skin ids due to ownership check failure.
+[10:22:25]: Could not find anim [weremoose_transform] in bank [weremoose]
+[10:24:43]: [Steam] SendUserDisconnect for '76561198305551267'
+[10:24:43]: Connection lost to 62.243.16.55|1 <4614815616788298313>
+[10:24:43]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000809
+[10:25:50]: Available disk space for save files: 23696 MB
+[10:25:50]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000809
+[10:25:50]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000809
+[10:25:51]: Serializing world: session/01EF7F7A1CFE0E43/0000000809
+[10:26:06]: Could not find anim [weremoose_transform] in bank [weremoose]
+[10:26:17]: [Shard] Received forward request #12 for (KU_Zkth_xJj)
+[10:26:20]: [P2P] Received from 62.243.16.55|1 '76561198305551267'
+[10:26:20]: [P2P] Sent to 62.243.16.55|1 '76561198305551267'
+[10:26:21]: New incoming connection 62.243.16.55|1 <4644669749676857539>
+[10:26:21]: Client connected from 62.243.16.55|1 <4644669749676857539>
+[10:26:21]: ValidateGameSessionToken GUID<4644669749676857539>
+[10:26:22]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[10:26:22]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[10:26:22]: [Steam] Authenticated client '76561198305551267'
+[10:26:23]: There is no active event to validate against.
+[10:26:23]: [Shard] Completed incoming migration #12 for (KU_Zkth_xJj)
+[10:26:45]: Resuming user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000809
+[10:26:45]: Spawning player at: [Load] (-604.09, 0.00, -46.76)	
+[10:28:38]: KU_RR3k3C2b	running text command:	squat	true	
+[10:30:05]: [200] Account Communication Success (6)
+[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:30:20]: Failed to assign item skin ids due to ownership check failure.
+[10:32:03]: KU_RR3k3C2b	running text command:	dance	true	
+[10:32:34]: Could not find anim [weremoose_transform] in bank [weremoose]
+[10:33:51]: Available disk space for save files: 23693 MB
+[10:33:51]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000810
+[10:33:51]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000810
+[10:33:51]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000810
+[10:33:51]: Serializing world: session/01EF7F7A1CFE0E43/0000000810
+[10:34:32]: Failed to assign item skin ids due to ownership check failure.
+[10:34:32]: Failed to assign item skin ids due to ownership check failure.
+[10:34:33]: Failed to assign item skin ids due to ownership check failure.
+[10:34:34]: Failed to assign item skin ids due to ownership check failure.
+[10:34:35]: Failed to assign item skin ids due to ownership check failure.
+[10:34:36]: Failed to assign item skin ids due to ownership check failure.
+[10:34:48]: KU_RR3k3C2b	running text command:	dance	true	
+[10:35:11]: Could not find anim [death] in bank [ghost]
+[10:35:11]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000811
+[10:35:22]: Could not find anim [idle_loop] in bank [ghost]
+[10:35:24]: Could not find anim [death] in bank [ghost]
+[10:35:24]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000811
+[10:35:25]: Could not find anim [transform] in bank [wilson]
+[10:35:27]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000811
+[10:35:36]: Could not find anim [idle_loop] in bank [ghost]
+[10:35:39]: Could not find anim [transform] in bank [wilson]
+[10:35:40]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000811
+[10:36:18]: Could not find anim [death] in bank [ghost]
+[10:36:18]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[10:36:19]: Could not find anim [weremoose_transform] in bank [weremoose]
+[10:37:27]: [(KU_Zkth_xJj) taiooo856] ReceiveRemoteExecute(c_godmode()) @(235.62, 180.09)
+[10:37:27]: Reviving taiooo856 from ghost.	
+[10:37:27]: Could not find anim [idle_loop] in bank [ghost]
+[10:37:30]: Could not find anim [transform] in bank [wilson]
+[10:37:31]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[10:38:43]: Activating portal[1] to 1	
+[10:38:44]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[10:38:44]: [Shard] Migration request: (KU_Zkth_xJj) to [SHDMASTER](1)
+[10:38:44]: [Shard] #13 <- session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[10:38:44]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[10:38:44]: [Steam] SendUserDisconnect for '76561198305551267'
+[10:38:44]: Activating portal[1] to 1	
+[10:38:45]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000811
+[10:38:45]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[10:38:45]: [Shard] #14 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000811
+[10:38:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[10:38:45]: [Steam] SendUserDisconnect for '76561199349123785'
+[10:38:58]: Activating portal[1] to 1	
+[10:38:58]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000811
+[10:38:58]: [Shard] Migration request: (KU_521dUXRS) to [SHDMASTER](1)
+[10:38:58]: [Shard] #15 <- session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000811
+[10:38:58]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[10:38:58]: [Steam] SendUserDisconnect for '76561198865123068'
+[10:41:27]: [Shard] #16 -> session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[10:41:27]: [Shard] Received migration #16 data for (KU_Zkth_xJj)
+[10:41:31]: [P2P] Received from 62.243.16.55|1 '76561198305551267'
+[10:41:31]: [P2P] Sent to 62.243.16.55|1 '76561198305551267'
+[10:41:33]: New incoming connection 62.243.16.55|1 <7589230614117257746>
+[10:41:33]: Client connected from 62.243.16.55|1 <7589230614117257746>
+[10:41:33]: ValidateGameSessionToken GUID<7589230614117257746>
+[10:41:34]: Client authenticated: (KU_Zkth_xJj) taiooo856
+[10:41:34]: [Steam] SendUserConnectAndAuthenticate for '76561198305551267'
+[10:41:34]: [Steam] Authenticated client '76561198305551267'
+[10:41:34]: [Shard] Completed incoming migration #16 for (KU_Zkth_xJj)
+[10:41:46]: Resuming user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[10:41:46]: Player will spawn close to portal #1	
+[10:41:46]: Spawning player at: [Load] (534.16, 0.00, 271.21)	
+[10:41:52]: Available disk space for save files: 23689 MB
+[10:41:52]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[10:41:52]: Serializing world: session/01EF7F7A1CFE0E43/0000000811
+[10:42:25]: Activating portal[1] to 1	
+[10:42:25]: Serializing user: session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000812
+[10:42:25]: [Shard] Migration request: (KU_Zkth_xJj) to [SHDMASTER](1)
+[10:42:25]: [Shard] #17 <- session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000812
+[10:42:25]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[10:42:25]: [Steam] SendUserDisconnect for '76561198305551267'
+[10:48:46]: [P2P] Session timed out for '76561199349123785'
+[10:48:46]: [P2P] Remove session: 62.243.16.54|1 '76561199349123785'
+[10:49:01]: [P2P] Session timed out for '76561198865123068'
+[10:49:01]: [P2P] Remove session: 62.243.16.56|1 '76561198865123068'
+[10:49:52]: Available disk space for save files: 23680 MB
+[10:49:53]: Serializing world: session/01EF7F7A1CFE0E43/0000000812
+[10:49:53]: Truncating to snapshot #812...
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000803
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000800
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000805
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000802
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000804
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000799
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000806
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000798
+[10:49:53]:  - session/01EF7F7A1CFE0E43/0000000801
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000806
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000805
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000754
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000806
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000805
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000804
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000796
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000806
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000805
+[10:49:53]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000715
+[10:49:53]:    19 file(s) removed
+[10:52:27]: [P2P] Session timed out for '76561198305551267'
+[10:52:27]: [P2P] Remove session: 62.243.16.55|1 '76561198305551267'
+[10:57:53]: Available disk space for save files: 23703 MB
+[10:57:54]: Serializing world: session/01EF7F7A1CFE0E43/0000000813
+[10:57:54]: Truncating to snapshot #813...
+[10:57:54]:  - session/01EF7F7A1CFE0E43/0000000807
+[10:57:54]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000807
+[10:57:54]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000807
+[10:57:54]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000807
+[10:57:54]:    4 file(s) removed
+[11:00:05]: [200] Account Communication Success (6)
+[11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:05:54]: Available disk space for save files: 23698 MB
+[11:05:54]: Serializing world: session/01EF7F7A1CFE0E43/0000000814
+[11:05:54]: Truncating to snapshot #814...
+[11:05:54]:  - session/01EF7F7A1CFE0E43/0000000808
+[11:05:54]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000808
+[11:05:54]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000808
+[11:05:54]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000808
+[11:05:54]:    4 file(s) removed
+[11:13:55]: Available disk space for save files: 23693 MB
+[11:13:55]: Serializing world: session/01EF7F7A1CFE0E43/0000000815
+[11:13:55]: Truncating to snapshot #815...
+[11:13:55]:  - session/01EF7F7A1CFE0E43/0000000809
+[11:13:55]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000809
+[11:13:55]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000809
+[11:13:55]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000809
+[11:13:55]:    4 file(s) removed
+[11:21:55]: Available disk space for save files: 23688 MB
+[11:21:56]: Serializing world: session/01EF7F7A1CFE0E43/0000000816
+[11:21:56]: Truncating to snapshot #816...
+[11:21:56]:  - session/01EF7F7A1CFE0E43/0000000810
+[11:21:56]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000810
+[11:21:56]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000810
+[11:21:56]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000810
+[11:21:56]:    4 file(s) removed
+[11:29:56]: Available disk space for save files: 23683 MB
+[11:29:56]: Serializing world: session/01EF7F7A1CFE0E43/0000000817
+[11:29:56]: Truncating to snapshot #817...
+[11:29:56]:  - session/01EF7F7A1CFE0E43/0000000811
+[11:29:56]:  - session/01EF7F7A1CFE0E43/A7KETNLVVD7D/0000000811
+[11:29:56]:    2 file(s) removed
+[11:30:05]: [200] Account Communication Success (6)
+[11:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:37:57]: Available disk space for save files: 23678 MB
+[11:37:57]: Serializing world: session/01EF7F7A1CFE0E43/0000000818
+[11:37:57]: Truncating to snapshot #818...
+[11:37:57]:  - session/01EF7F7A1CFE0E43/0000000812
+[11:37:57]:    1 file(s) removed
+[11:45:58]: Available disk space for save files: 23673 MB
+[11:45:58]: Serializing world: session/01EF7F7A1CFE0E43/0000000819
+[11:45:58]: Truncating to snapshot #819...
+[11:45:58]:  - session/01EF7F7A1CFE0E43/0000000813
+[11:45:58]:    1 file(s) removed
+[11:47:31]: Sim paused
