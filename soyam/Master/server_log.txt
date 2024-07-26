@@ -3577,3 +3577,38 @@ Resurrection is always available via the Florid Postern.
 [08:49:41]: [P2P] Connection failed for '76561199349123785'
 [08:58:28]: [P2P] Session timed out for '76561199349123785'
 [08:58:28]: [P2P] Remove session: 92.227.220.220|1 '76561199349123785'
+[09:00:06]: [200] Account Communication Success (6)
+[09:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:06]: [200] Account Communication Success (6)
+[09:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:06]: [200] Account Communication Success (6)
+[10:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:08:34]: [P2P] Create session: 92.227.220.222|1 '76561198865123068'
+[10:08:34]: [P2P] Received from 92.227.220.222|1 '76561198865123068'
+[10:08:34]: [P2P] Sent to 92.227.220.222|1 '76561198865123068'
+[10:08:35]: New incoming connection 92.227.220.222|1 <3576762175621938661>
+[10:08:35]: Client connected from 92.227.220.222|1 <3576762175621938661>
+[10:08:35]: ValidateGameSessionToken GUID<3576762175621938661>
+[10:08:36]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[10:08:36]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[10:08:36]: [Steam] Authenticated client '76561198865123068'
+[10:08:37]: There is no active event to validate against.
+[10:08:37]: [Shard] Read save location file for (KU_521dUXRS)
+[10:10:34]: Resuming user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000000883
+[10:10:34]: Spawning player at: [Load] (802.47, -0.00, -113.07)	
+[10:10:34]: Sim unpaused
+[10:10:36]: New time stamps for everyone at	1721985067	
+[10:10:36]: New time stamps for everyone at	1721985067	
+[10:12:10]: [Steam] SendUserDisconnect for '76561198865123068'
+[10:12:10]: Connection lost to 92.227.220.222|1 <3576762175621938661>
+[10:12:10]: [Shard] (KU_521dUXRS) disconnected from [SHDMASTER](1)
+[10:12:11]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000000897
+[10:12:11]: Sim paused
+[10:22:10]: [P2P] Session timed out for '76561198865123068'
+[10:22:10]: [P2P] Remove session: 92.227.220.222|1 '76561198865123068'
+[10:30:06]: [200] Account Communication Success (6)
+[10:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:06]: [200] Account Communication Success (6)
+[11:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:30:06]: [200] Account Communication Success (6)
+[11:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
