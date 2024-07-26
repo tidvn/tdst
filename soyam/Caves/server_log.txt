@@ -1578,3 +1578,48 @@
 [17:55:08]: [Shard] #6 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000927
 [17:55:08]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [17:55:08]: [Steam] SendUserDisconnect for '76561199349123785'
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:00:45]: Available disk space for save files: 23361 MB
+[18:00:46]: Serializing world: session/01EF7F7A1CFE0E43/0000000927
+[18:00:46]: Truncating to snapshot #927...
+[18:00:46]:  - session/01EF7F7A1CFE0E43/0000000921
+[18:00:46]:    1 file(s) removed
+[18:01:24]: [Shard] #7 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000928
+[18:01:24]: [Shard] Received migration #7 data for (KU_RR3k3C2b)
+[18:01:30]: [P2P] Received from 92.228.9.188|1 '76561199349123785'
+[18:01:30]: [P2P] Sent to 92.228.9.188|1 '76561199349123785'
+[18:01:32]: New incoming connection 92.228.9.188|1 <5330038734165375374>
+[18:01:32]: Client connected from 92.228.9.188|1 <5330038734165375374>
+[18:01:32]: ValidateGameSessionToken GUID<5330038734165375374>
+[18:01:32]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[18:01:32]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[18:01:33]: [Steam] Authenticated client '76561199349123785'
+[18:01:33]: [Shard] Completed incoming migration #7 for (KU_RR3k3C2b)
+[18:01:40]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000928
+[18:01:41]: Player will spawn close to portal #1	
+[18:01:41]: Spawning player at: [Load] (533.38, 0.00, 269.67)	
+[18:04:00]: Activating portal[1] to 1	
+[18:04:00]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000928
+[18:04:00]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[18:04:00]: [Shard] #8 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000928
+[18:04:00]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[18:04:00]: [Steam] SendUserDisconnect for '76561199349123785'
+[18:08:46]: Available disk space for save files: 23356 MB
+[18:08:46]: Serializing world: session/01EF7F7A1CFE0E43/0000000928
+[18:08:46]: Truncating to snapshot #928...
+[18:08:46]:  - session/01EF7F7A1CFE0E43/0000000922
+[18:08:46]:    1 file(s) removed
+[18:11:35]: Sim paused
+[18:14:01]: [P2P] Session timed out for '76561199349123785'
+[18:14:01]: [P2P] Remove session: 92.228.9.188|1 '76561199349123785'
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
