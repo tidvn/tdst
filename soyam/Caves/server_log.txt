@@ -2464,3 +2464,161 @@
 [17:56:08]: Truncating to snapshot #1019...
 [17:56:08]:  - session/01EF7F7A1CFE0E43/0000001013
 [17:56:08]:    1 file(s) removed
+[18:00:05]: [200] Account Communication Success (6)
+[18:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:04:09]: Available disk space for save files: 23235 MB
+[18:04:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001020
+[18:04:09]: Truncating to snapshot #1020...
+[18:04:09]:  - session/01EF7F7A1CFE0E43/0000001014
+[18:04:09]:    1 file(s) removed
+[18:06:25]: [Shard] #19 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001021
+[18:06:25]: [Shard] Received migration #19 data for (KU_GNdCoYNE)
+[18:06:34]: [P2P] Create session: 122.204.156.150|1 '76561199104252985'
+[18:06:34]: [P2P] Received from 122.204.156.150|1 '76561199104252985'
+[18:06:34]: [P2P] Sent to 122.204.156.150|1 '76561199104252985'
+[18:06:35]: New incoming connection 122.204.156.150|1 <780855896444923911>
+[18:06:35]: Client connected from 122.204.156.150|1 <780855896444923911>
+[18:06:35]: ValidateGameSessionToken GUID<780855896444923911>
+[18:06:36]: Client authenticated: (KU_GNdCoYNE) Carrot
+[18:06:36]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[18:06:36]: [Steam] Authenticated client '76561199104252985'
+[18:06:36]: [Shard] Completed incoming migration #19 for (KU_GNdCoYNE)
+[18:06:45]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001021
+[18:06:45]: Player will spawn close to portal #1	
+[18:06:45]: Spawning player at: [Load] (529.48, 0.00, 270.31)	
+[18:06:50]: [Shard] #20 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001021
+[18:06:50]: [Shard] Received migration #20 data for (KU_RR3k3C2b)
+[18:06:57]: [Shard] #21 -> session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001021
+[18:06:57]: [Shard] Received migration #21 data for (KU_ssbvb4fK)
+[18:06:57]: [P2P] Create session: 122.204.156.151|1 '76561199349123785'
+[18:06:57]: [P2P] Received from 122.204.156.151|1 '76561199349123785'
+[18:06:57]: [P2P] Sent to 122.204.156.151|1 '76561199349123785'
+[18:06:58]: New incoming connection 122.204.156.151|1 <606580429572791586>
+[18:06:58]: Client connected from 122.204.156.151|1 <606580429572791586>
+[18:06:58]: ValidateGameSessionToken GUID<606580429572791586>
+[18:06:59]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[18:06:59]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[18:06:59]: [Steam] Authenticated client '76561199349123785'
+[18:06:59]: [Shard] Completed incoming migration #20 for (KU_RR3k3C2b)
+[18:07:05]: [P2P] Session request for '76561199149051181'
+[18:07:07]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001021
+[18:07:07]: Player will spawn close to portal #1	
+[18:07:07]: Spawning player at: [Load] (529.18, 0.00, 271.34)	
+[18:07:10]: [P2P] Create session: 122.204.156.152|1 '76561199149051181'
+[18:07:10]: [P2P] Received from 122.204.156.152|1 '76561199149051181'
+[18:07:10]: [P2P] Sent to 122.204.156.152|1 '76561199149051181'
+[18:07:12]: New incoming connection 122.204.156.152|1 <5977152528863756596>
+[18:07:12]: Client connected from 122.204.156.152|1 <5977152528863756596>
+[18:07:12]: ValidateGameSessionToken GUID<5977152528863756596>
+[18:07:12]: Client authenticated: (KU_ssbvb4fK) Uzuui
+[18:07:12]: [Steam] SendUserConnectAndAuthenticate for '76561199149051181'
+[18:07:12]: [Steam] Authenticated client '76561199149051181'
+[18:07:12]: [Shard] Completed incoming migration #21 for (KU_ssbvb4fK)
+[18:07:23]: Resuming user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001021
+[18:07:23]: Player will spawn close to portal #1	
+[18:07:23]: Spawning player at: [Load] (529.41, 0.00, 270.45)	
+[18:09:57]: Activating portal[1] to 1	
+[18:09:58]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001021
+[18:09:58]: [Shard] Migration request: (KU_GNdCoYNE) to [SHDMASTER](1)
+[18:09:58]: [Shard] #22 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001021
+[18:09:58]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[18:09:58]: [Steam] SendUserDisconnect for '76561199104252985'
+[18:10:43]: KU_RR3k3C2b	running text command:	toast	true	
+[18:10:52]: Could not find anim [weremoose_transform] in bank [weremoose]
+[18:12:12]: Available disk space for save files: 23229 MB
+[18:12:13]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001021
+[18:12:13]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001021
+[18:12:13]: Serializing world: session/01EF7F7A1CFE0E43/0000001021
+[18:13:55]: KU_RR3k3C2b	running text command:	dance	true	
+[18:15:43]: KU_RR3k3C2b	running text command:	dance	true	
+[18:16:29]: Could not find anim [weremoose_transform] in bank [weremoose]
+[18:19:59]: [P2P] Session timed out for '76561199104252985'
+[18:19:59]: [P2P] Remove session: 122.204.156.150|1 '76561199104252985'
+[18:20:13]: Available disk space for save files: 23221 MB
+[18:20:13]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001022
+[18:20:13]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001022
+[18:20:14]: Serializing world: session/01EF7F7A1CFE0E43/0000001022
+[18:21:53]: Could not find anim [death] in bank [ghost]
+[18:21:53]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001023
+[18:22:29]: Could not find anim [death] in bank [ghost]
+[18:22:29]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001023
+[18:22:35]: Could not find anim [idle_loop] in bank [ghost]
+[18:22:38]: Could not find anim [transform] in bank [wilson]
+[18:22:39]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001023
+[18:22:41]: Could not find anim [idle_loop] in bank [ghost]
+[18:22:44]: Could not find anim [transform] in bank [wilson]
+[18:22:46]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001023
+[18:23:43]: Could not find anim [weremoose_transform] in bank [weremoose]
+[18:23:51]: [Shard] #23 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001023
+[18:23:51]: [Shard] Received migration #23 data for (KU_GNdCoYNE)
+[18:23:59]: [P2P] Create session: 122.204.156.153|1 '76561199104252985'
+[18:23:59]: [P2P] Received from 122.204.156.153|1 '76561199104252985'
+[18:23:59]: [P2P] Sent to 122.204.156.153|1 '76561199104252985'
+[18:24:00]: New incoming connection 122.204.156.153|1 <3914030737629874711>
+[18:24:00]: Client connected from 122.204.156.153|1 <3914030737629874711>
+[18:24:00]: ValidateGameSessionToken GUID<3914030737629874711>
+[18:24:00]: Client authenticated: (KU_GNdCoYNE) Carrot
+[18:24:01]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[18:24:01]: [Steam] Authenticated client '76561199104252985'
+[18:24:01]: [Shard] Completed incoming migration #23 for (KU_GNdCoYNE)
+[18:24:10]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001023
+[18:24:10]: Player will spawn close to portal #1	
+[18:24:10]: Spawning player at: [Load] (533.55, 0.00, 273.15)	
+[18:24:59]: Could not find anim [death] in bank [ghost]
+[18:24:59]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001023
+[18:25:09]: Could not find anim [idle_loop] in bank [ghost]
+[18:25:12]: Could not find anim [transform] in bank [wilson]
+[18:25:13]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001023
+[18:26:08]: Could not find anim [death] in bank [ghost]
+[18:26:08]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001023
+[18:26:17]: Could not find anim [idle_loop] in bank [ghost]
+[18:26:20]: Could not find anim [transform] in bank [weremoose]
+[18:26:21]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001023
+[18:26:57]: KU_RR3k3C2b	running text command:	dance	true	
+[18:27:03]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[18:28:14]: Available disk space for save files: 23212 MB
+[18:28:14]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001023
+[18:28:14]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001023
+[18:28:14]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001023
+[18:28:14]: Serializing world: session/01EF7F7A1CFE0E43/0000001023
+[18:28:23]: Activating portal[1] to 1	
+[18:28:24]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001024
+[18:28:24]: [Shard] Migration request: (KU_GNdCoYNE) to [SHDMASTER](1)
+[18:28:24]: [Shard] #24 <- session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001024
+[18:28:24]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[18:28:24]: [Steam] SendUserDisconnect for '76561199104252985'
+[18:28:47]: [Steam] SendUserDisconnect for '76561199349123785'
+[18:28:47]: Connection lost to 122.204.156.151|1 <606580429572791586>
+[18:28:48]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001024
+[18:29:14]: [P2P] Connection failed for '76561199349123785'
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:30:29]: Activating portal[1] to 1	
+[18:30:30]: Serializing user: session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001024
+[18:30:30]: [Shard] Migration request: (KU_ssbvb4fK) to [SHDMASTER](1)
+[18:30:30]: [Shard] #25 <- session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001024
+[18:30:30]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[18:30:30]: [Steam] SendUserDisconnect for '76561199149051181'
+[18:36:15]: Available disk space for save files: 23406 MB
+[18:36:16]: Serializing world: session/01EF7F7A1CFE0E43/0000001024
+[18:36:16]: Truncating to snapshot #1024...
+[18:36:16]:  - session/01EF7F7A1CFE0E43/0000001015
+[18:36:16]:  - session/01EF7F7A1CFE0E43/0000001016
+[18:36:16]:  - session/01EF7F7A1CFE0E43/0000001018
+[18:36:16]:  - session/01EF7F7A1CFE0E43/0000001017
+[18:36:16]:    4 file(s) removed
+[18:38:25]: [P2P] Session timed out for '76561199104252985'
+[18:38:25]: [P2P] Remove session: 122.204.156.153|1 '76561199104252985'
+[18:38:47]: [P2P] Session timed out for '76561199349123785'
+[18:38:47]: [P2P] Remove session: 122.204.156.151|1 '76561199349123785'
+[18:40:20]: Sim paused
+[18:40:31]: [P2P] Session timed out for '76561199149051181'
+[18:40:31]: [P2P] Remove session: 122.204.156.152|1 '76561199149051181'
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:05]: [200] Account Communication Success (6)
+[19:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
