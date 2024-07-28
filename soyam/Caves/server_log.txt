@@ -1657,3 +1657,175 @@
 [14:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [14:30:05]: [200] Account Communication Success (6)
 [14:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:00:06]: [200] Account Communication Success (6)
+[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:30:05]: [200] Account Communication Success (6)
+[15:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:00:05]: [200] Account Communication Success (6)
+[16:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:20:22]: Sim unpaused
+[16:24:48]: Available disk space for save files: 23086 MB
+[16:24:48]: Serializing world: session/01EF7F7A1CFE0E43/0000001081
+[16:24:48]: Truncating to snapshot #1081...
+[16:24:48]:  - session/01EF7F7A1CFE0E43/0000001075
+[16:24:48]:    1 file(s) removed
+[16:25:43]: Sim paused
+[16:26:01]: Sim unpaused
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:33:07]: Available disk space for save files: 23081 MB
+[16:33:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001082
+[16:33:07]: Truncating to snapshot #1082...
+[16:33:07]:  - session/01EF7F7A1CFE0E43/0000001076
+[16:33:07]:    1 file(s) removed
+[16:41:07]: Available disk space for save files: 23076 MB
+[16:41:08]: Serializing world: session/01EF7F7A1CFE0E43/0000001083
+[16:41:08]: Truncating to snapshot #1083...
+[16:41:08]:  - session/01EF7F7A1CFE0E43/0000001077
+[16:41:08]:    1 file(s) removed
+[16:49:08]: Available disk space for save files: 23071 MB
+[16:49:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001084
+[16:49:09]: Truncating to snapshot #1084...
+[16:49:09]:  - session/01EF7F7A1CFE0E43/0000001078
+[16:49:09]:    1 file(s) removed
+[16:57:09]: Available disk space for save files: 23065 MB
+[16:57:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001085
+[16:57:09]: Truncating to snapshot #1085...
+[16:57:09]:  - session/01EF7F7A1CFE0E43/0000001079
+[16:57:09]:    1 file(s) removed
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:05:10]: Available disk space for save files: 23060 MB
+[17:05:10]: Serializing world: session/01EF7F7A1CFE0E43/0000001086
+[17:05:10]: Truncating to snapshot #1086...
+[17:05:10]:  - session/01EF7F7A1CFE0E43/0000001080
+[17:05:10]:    1 file(s) removed
+[17:13:11]: Available disk space for save files: 23055 MB
+[17:13:11]: Serializing world: session/01EF7F7A1CFE0E43/0000001087
+[17:13:11]: Truncating to snapshot #1087...
+[17:13:11]:  - session/01EF7F7A1CFE0E43/0000001081
+[17:13:11]:    1 file(s) removed
+[17:14:40]: [Shard] #16 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001088
+[17:14:40]: [Shard] Received migration #16 data for (KU_GNdCoYNE)
+[17:14:42]: [P2P] Session request for '76561199104252985'
+[17:14:47]: [P2P] Create session: 152.161.199.211|1 '76561199104252985'
+[17:14:47]: [P2P] Received from 152.161.199.211|1 '76561199104252985'
+[17:14:47]: [P2P] Sent to 152.161.199.211|1 '76561199104252985'
+[17:14:48]: New incoming connection 152.161.199.211|1 <6417656119474286546>
+[17:14:48]: Client connected from 152.161.199.211|1 <6417656119474286546>
+[17:14:48]: ValidateGameSessionToken GUID<6417656119474286546>
+[17:14:49]: Client authenticated: (KU_GNdCoYNE) Carrot
+[17:14:49]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[17:14:49]: [Steam] Authenticated client '76561199104252985'
+[17:14:49]: [Shard] Completed incoming migration #16 for (KU_GNdCoYNE)
+[17:14:58]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001088
+[17:14:58]: Player will spawn close to portal #1	
+[17:14:58]: Spawning player at: [Load] (530.86, 0.00, 273.86)	
+[17:15:19]: [Shard] #17 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001088
+[17:15:19]: [Shard] Received migration #17 data for (KU_RR3k3C2b)
+[17:15:25]: [P2P] Create session: 152.161.199.212|1 '76561199349123785'
+[17:15:25]: [P2P] Received from 152.161.199.212|1 '76561199349123785'
+[17:15:25]: [P2P] Sent to 152.161.199.212|1 '76561199349123785'
+[17:15:26]: New incoming connection 152.161.199.212|1 <4780050275382261472>
+[17:15:26]: Client connected from 152.161.199.212|1 <4780050275382261472>
+[17:15:26]: ValidateGameSessionToken GUID<4780050275382261472>
+[17:15:27]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[17:15:27]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[17:15:27]: [Steam] Authenticated client '76561199349123785'
+[17:15:27]: [Shard] Completed incoming migration #17 for (KU_RR3k3C2b)
+[17:15:35]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001088
+[17:15:35]: Player will spawn close to portal #1	
+[17:15:35]: Spawning player at: [Load] (533.85, 0.00, 270.26)	
+[17:20:18]: KU_RR3k3C2b	running text command:	toast	true	
+[17:21:11]: Available disk space for save files: 23049 MB
+[17:21:11]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001088
+[17:21:11]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001088
+[17:21:12]: Serializing world: session/01EF7F7A1CFE0E43/0000001088
+[17:22:00]: KU_RR3k3C2b	running text command:	wave	true	
+[17:22:15]: KU_GNdCoYNE	running text command:	wave	true	
+[17:22:23]: KU_GNdCoYNE	running text command:	sit	true	
+[17:22:36]: KU_GNdCoYNE	running text command:	carol	true	
+[17:23:52]: KU_RR3k3C2b	running text command:	squat	true	
+[17:23:55]: KU_RR3k3C2b	running text command:	pose	true	
+[17:23:59]: KU_RR3k3C2b	running text command:	pose	true	
+[17:24:02]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:24:05]: KU_RR3k3C2b	running text command:	bonesaw	true	
+[17:24:08]: KU_RR3k3C2b	running text command:	happy	true	
+[17:24:10]: KU_RR3k3C2b	running text command:	angry	true	
+[17:24:12]: KU_RR3k3C2b	running text command:	sit	true	
+[17:24:23]: KU_RR3k3C2b	running text command:	angry	true	
+[17:24:28]: KU_RR3k3C2b	running text command:	angry	true	
+[17:24:37]: KU_GNdCoYNE	running text command:	carol	true	
+[17:25:31]: KU_RR3k3C2b	running text command:	happy	true	
+[17:25:32]: KU_RR3k3C2b	running text command:	joy	true	
+[17:25:39]: KU_RR3k3C2b	running text command:	joy	true	
+[17:25:45]: KU_RR3k3C2b	running text command:	dance	true	
+[17:25:47]: KU_RR3k3C2b	running text command:	toast	true	
+[17:26:23]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:23]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:24]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:26]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:27]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:27]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:28]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:30]: KU_RR3k3C2b	running text command:	rude	true	
+[17:26:30]: KU_RR3k3C2b	running text command:	no	true	
+[17:26:31]: KU_RR3k3C2b	running text command:	joy	true	
+[17:26:32]: KU_RR3k3C2b	running text command:	cry	true	
+[17:26:33]: KU_RR3k3C2b	running text command:	toast	true	
+[17:26:34]: KU_RR3k3C2b	running text command:	squat	true	
+[17:26:37]: KU_RR3k3C2b	running text command:	bonesaw	true	
+[17:27:04]: KU_RR3k3C2b	running text command:	rude	true	
+[17:27:21]: KU_GNdCoYNE	running text command:	carol	true	
+[17:28:39]: KU_GNdCoYNE	running text command:	sit	true	
+[17:29:07]: KU_RR3k3C2b	running text command:	angry	true	
+[17:29:12]: Available disk space for save files: 23325 MB
+[17:29:12]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001089
+[17:29:12]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001089
+[17:29:12]: Serializing world: session/01EF7F7A1CFE0E43/0000001089
+[17:29:24]: KU_GNdCoYNE	running text command:	dance	true	
+[17:29:41]: KU_RR3k3C2b	running text command:	angry	true	
+[17:29:56]: KU_RR3k3C2b	running text command:	angry	true	
+[17:29:59]: KU_RR3k3C2b	running text command:	angry	true	
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:30:06]: KU_RR3k3C2b	running text command:	rude	true	
+[17:30:33]: KU_RR3k3C2b	running text command:	squat	true	
+[17:30:37]: KU_RR3k3C2b	running text command:	sit	true	
+[17:31:07]: KU_RR3k3C2b	running text command:	sit	true	
+[17:32:41]: KU_RR3k3C2b	running text command:	joy	true	
+[17:33:04]: KU_RR3k3C2b	running text command:	toast	true	
+[17:34:05]: KU_RR3k3C2b	running text command:	toast	true	
+[17:35:51]: KU_GNdCoYNE	running text command:	carol	true	
+[17:36:20]: KU_RR3k3C2b	running text command:	joy	true	
+[17:37:13]: Available disk space for save files: 23321 MB
+[17:37:13]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001090
+[17:37:13]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001090
+[17:37:13]: Serializing world: session/01EF7F7A1CFE0E43/0000001090
+[17:45:14]: Available disk space for save files: 23318 MB
+[17:45:14]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001091
+[17:45:14]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001091
+[17:45:14]: Serializing world: session/01EF7F7A1CFE0E43/0000001091
+[17:47:37]: [Steam] SendUserDisconnect for '76561199104252985'
+[17:47:37]: Connection lost to 152.161.199.211|1 <6417656119474286546>
+[17:47:37]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001092
+[17:48:06]: Activating portal[1] to 1	
+[17:48:07]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001092
+[17:48:07]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[17:48:07]: [Shard] #18 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001092
+[17:48:07]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[17:48:07]: [Steam] SendUserDisconnect for '76561199349123785'
+[17:48:07]: [P2P] Connection failed for '76561199104252985'
+[17:53:15]: Available disk space for save files: 23315 MB
+[17:53:15]: Serializing world: session/01EF7F7A1CFE0E43/0000001092
+[17:53:15]: Truncating to snapshot #1092...
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001082
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001085
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001084
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001086
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001083
+[17:53:15]:    5 file(s) removed
+[17:57:37]: [P2P] Session timed out for '76561199104252985'
+[17:57:37]: [P2P] Remove session: 152.161.199.211|1 '76561199104252985'
+[17:58:08]: [P2P] Session timed out for '76561199349123785'
+[17:58:08]: [P2P] Remove session: 152.161.199.212|1 '76561199349123785'
