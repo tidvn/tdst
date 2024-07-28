@@ -1127,3 +1127,229 @@
 [02:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
 [02:30:04]: [200] Account Communication Success (6)
 [02:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:00:04]: [200] Account Communication Success (6)
+[03:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:30:04]: [200] Account Communication Success (6)
+[03:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:00:04]: [200] Account Communication Success (6)
+[04:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:19:02]: [Shard] Received forward request #1 for (KU_RR3k3C2b)
+[04:19:02]: Sim unpaused
+[04:19:04]: [P2P] Session request for '76561199349123785'
+[04:19:05]: [P2P] Create session: 152.161.199.208|1 '76561199349123785'
+[04:19:05]: [P2P] Received from 152.161.199.208|1 '76561199349123785'
+[04:19:05]: [P2P] Sent to 152.161.199.208|1 '76561199349123785'
+[04:19:06]: New incoming connection 152.161.199.208|1 <8570434324909452637>
+[04:19:06]: Client connected from 152.161.199.208|1 <8570434324909452637>
+[04:19:06]: ValidateGameSessionToken GUID<8570434324909452637>
+[04:19:06]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[04:19:06]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[04:19:06]: [Steam] Authenticated client '76561199349123785'
+[04:19:07]: There is no active event to validate against.
+[04:19:07]: [Shard] Completed incoming migration #1 for (KU_RR3k3C2b)
+[04:19:29]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001024
+[04:19:29]: Spawning player at: [Load] (343.48, 0.00, 176.46)	
+[04:27:02]: Available disk space for save files: 23400 MB
+[04:27:02]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001025
+[04:27:02]: Serializing world: session/01EF7F7A1CFE0E43/0000001025
+[04:30:05]: [200] Account Communication Success (6)
+[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:31:10]: Could not find anim [weremoose_transform] in bank [weremoose]
+[04:31:45]: KU_RR3k3C2b	running text command:	dance	true	
+[04:33:00]: Activating portal[10] to 1	
+[04:33:00]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001026
+[04:33:00]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[04:33:00]: [Shard] #2 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001026
+[04:33:00]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:33:00]: [Steam] SendUserDisconnect for '76561199349123785'
+[04:35:02]: Available disk space for save files: 23397 MB
+[04:35:03]: Serializing world: session/01EF7F7A1CFE0E43/0000001026
+[04:35:03]: Truncating to snapshot #1026...
+[04:35:03]:  - session/01EF7F7A1CFE0E43/0000001019
+[04:35:03]:  - session/01EF7F7A1CFE0E43/0000001020
+[04:35:03]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000986
+[04:35:03]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001003
+[04:35:03]:    4 file(s) removed
+[04:43:03]: [P2P] Session timed out for '76561199349123785'
+[04:43:03]: [P2P] Remove session: 152.161.199.208|1 '76561199349123785'
+[04:43:03]: Available disk space for save files: 23395 MB
+[04:43:04]: Serializing world: session/01EF7F7A1CFE0E43/0000001027
+[04:43:04]: Truncating to snapshot #1027...
+[04:43:04]:  - session/01EF7F7A1CFE0E43/0000001021
+[04:43:04]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001021
+[04:43:04]:  - session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001021
+[04:43:04]:    3 file(s) removed
+[04:51:04]: Available disk space for save files: 23390 MB
+[04:51:04]: Serializing world: session/01EF7F7A1CFE0E43/0000001028
+[04:51:04]: Truncating to snapshot #1028...
+[04:51:04]:  - session/01EF7F7A1CFE0E43/0000001022
+[04:51:04]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001022
+[04:51:04]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001021
+[04:51:04]:  - session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001022
+[04:51:04]:    4 file(s) removed
+[04:59:05]: Available disk space for save files: 23385 MB
+[04:59:05]: Serializing world: session/01EF7F7A1CFE0E43/0000001029
+[04:59:05]: Truncating to snapshot #1029...
+[04:59:05]:  - session/01EF7F7A1CFE0E43/0000001023
+[04:59:05]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001023
+[04:59:05]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001023
+[04:59:05]:  - session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001023
+[04:59:05]:    4 file(s) removed
+[04:59:22]: [Shard] #3 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[04:59:22]: [Shard] Received migration #3 data for (KU_RR3k3C2b)
+[04:59:29]: [P2P] Create session: 152.161.199.209|1 '76561199349123785'
+[04:59:29]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[04:59:29]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[04:59:30]: New incoming connection 152.161.199.209|1 <3731043285004033469>
+[04:59:30]: Client connected from 152.161.199.209|1 <3731043285004033469>
+[04:59:30]: ValidateGameSessionToken GUID<3731043285004033469>
+[04:59:30]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[04:59:31]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[04:59:31]: [Steam] Authenticated client '76561199349123785'
+[04:59:31]: [Shard] Completed incoming migration #3 for (KU_RR3k3C2b)
+[04:59:39]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[04:59:39]: Player will spawn close to portal #1	
+[04:59:39]: Spawning player at: [Load] (531.61, 0.00, 269.00)	
+[05:00:04]: [200] Account Communication Success (6)
+[05:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:00:29]: Activating portal[1] to 1	
+[05:00:29]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[05:00:29]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:00:30]: [Shard] #4 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[05:00:30]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:00:30]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:07:06]: Available disk space for save files: 23380 MB
+[05:07:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001030
+[05:07:07]: Truncating to snapshot #1030...
+[05:07:07]:  - session/01EF7F7A1CFE0E43/0000001024
+[05:07:07]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001024
+[05:07:07]:    2 file(s) removed
+[05:08:42]: [Shard] #5 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001031
+[05:08:42]: [Shard] Received migration #5 data for (KU_RR3k3C2b)
+[05:08:48]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:08:48]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:08:49]: New incoming connection 152.161.199.209|1 <8358153351546640442>
+[05:08:49]: Client connected from 152.161.199.209|1 <8358153351546640442>
+[05:08:49]: ValidateGameSessionToken GUID<8358153351546640442>
+[05:08:50]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:08:50]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:08:50]: [Steam] Authenticated client '76561199349123785'
+[05:08:50]: [Shard] Completed incoming migration #5 for (KU_RR3k3C2b)
+[05:08:58]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001031
+[05:08:58]: Player will spawn close to portal #1	
+[05:08:58]: Spawning player at: [Load] (531.10, 0.00, 273.93)	
+[05:12:31]: Could not find anim [weremoose_transform] in bank [weremoose]
+[05:13:43]: KU_RR3k3C2b	running text command:	dance	true	
+[05:15:07]: Available disk space for save files: 23375 MB
+[05:15:07]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001031
+[05:15:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001031
+[05:16:02]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:16:02]: Connection lost to 152.161.199.209|1 <8358153351546640442>
+[05:16:02]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:16:03]: Sim paused
+[05:22:58]: [Shard] Received forward request #6 for (KU_RR3k3C2b)
+[05:22:58]: Sim unpaused
+[05:23:05]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:23:05]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:23:06]: New incoming connection 152.161.199.209|1 <7008811941818982206>
+[05:23:06]: Client connected from 152.161.199.209|1 <7008811941818982206>
+[05:23:06]: ValidateGameSessionToken GUID<7008811941818982206>
+[05:23:06]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:23:06]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:23:07]: [Steam] Authenticated client '76561199349123785'
+[05:23:07]: There is no active event to validate against.
+[05:23:07]: [Shard] Completed incoming migration #6 for (KU_RR3k3C2b)
+[05:23:25]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:23:25]: Spawning player at: [Load] (-472.94, -0.00, -180.02)	
+[05:26:18]: Activating portal[1] to 1	
+[05:26:19]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:26:19]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:26:19]: [Shard] #7 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:26:19]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:26:19]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:30:04]: Available disk space for save files: 23397 MB
+[05:30:04]: Serializing world: session/01EF7F7A1CFE0E43/0000001032
+[05:30:04]: Truncating to snapshot #1032...
+[05:30:04]:  - session/01EF7F7A1CFE0E43/0000001026
+[05:30:04]:  - session/01EF7F7A1CFE0E43/0000001025
+[05:30:04]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001025
+[05:30:04]:    3 file(s) removed
+[05:30:05]: [200] Account Communication Success (6)
+[05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:34:29]: [Shard] #8 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001033
+[05:34:29]: [Shard] Received migration #8 data for (KU_RR3k3C2b)
+[05:34:35]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:34:35]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:34:37]: New incoming connection 152.161.199.209|1 <6004186180707733248>
+[05:34:37]: Client connected from 152.161.199.209|1 <6004186180707733248>
+[05:34:37]: ValidateGameSessionToken GUID<6004186180707733248>
+[05:34:37]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:34:37]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:34:38]: [Steam] Authenticated client '76561199349123785'
+[05:34:38]: [Shard] Completed incoming migration #8 for (KU_RR3k3C2b)
+[05:34:45]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001033
+[05:34:45]: Player will spawn close to portal #1	
+[05:34:45]: Spawning player at: [Load] (534.17, 0.00, 271.34)	
+[05:35:05]: Could not find anim [weremoose_transform] in bank [weremoose]
+[05:38:05]: Available disk space for save files: 23395 MB
+[05:38:05]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001033
+[05:38:05]: Serializing world: session/01EF7F7A1CFE0E43/0000001033
+[05:39:06]: Activating portal[1] to 1	
+[05:39:06]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:39:06]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:39:06]: [Shard] #9 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:39:06]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:39:06]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:41:09]: [Shard] #10 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:41:09]: [Shard] Received migration #10 data for (KU_RR3k3C2b)
+[05:41:17]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:41:17]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:41:18]: New incoming connection 152.161.199.209|1 <907783728635624679>
+[05:41:18]: Client connected from 152.161.199.209|1 <907783728635624679>
+[05:41:18]: ValidateGameSessionToken GUID<907783728635624679>
+[05:41:18]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:41:18]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:41:19]: [Steam] Authenticated client '76561199349123785'
+[05:41:19]: [Shard] Completed incoming migration #10 for (KU_RR3k3C2b)
+[05:41:26]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:41:27]: Player will spawn close to portal #1	
+[05:41:27]: Spawning player at: [Load] (533.47, 0.00, 273.24)	
+[05:45:20]: Could not find anim [weremoose_transform] in bank [weremoose]
+[05:46:04]: KU_RR3k3C2b	running text command:	dance	true	
+[05:46:06]: Available disk space for save files: 23397 MB
+[05:46:06]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:46:06]: Serializing world: session/01EF7F7A1CFE0E43/0000001034
+[05:47:19]: Activating portal[1] to 1	
+[05:47:19]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:47:19]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:47:19]: [Shard] #11 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:47:19]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:47:19]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:48:34]: [Shard] #12 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:48:34]: [Shard] Received migration #12 data for (KU_RR3k3C2b)
+[05:48:36]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:48:36]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:48:37]: New incoming connection 152.161.199.209|1 <1189526362899782150>
+[05:48:38]: Client connected from 152.161.199.209|1 <1189526362899782150>
+[05:48:38]: ValidateGameSessionToken GUID<1189526362899782150>
+[05:48:38]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:48:38]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:48:38]: [Steam] Authenticated client '76561199349123785'
+[05:48:38]: [Shard] Completed incoming migration #12 for (KU_RR3k3C2b)
+[05:48:46]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:48:46]: Player will spawn close to portal #1	
+[05:48:46]: Spawning player at: [Load] (529.51, 0.00, 270.25)	
+[05:49:54]: Activating portal[1] to 1	
+[05:49:54]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:49:54]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:49:54]: [Shard] #13 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:49:54]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:49:55]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:54:07]: Available disk space for save files: 23394 MB
+[05:54:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001035
+[05:54:07]: Truncating to snapshot #1035...
+[05:54:07]:  - session/01EF7F7A1CFE0E43/0000001029
+[05:54:07]:  - session/01EF7F7A1CFE0E43/0000001028
+[05:54:07]:  - session/01EF7F7A1CFE0E43/0000001027
+[05:54:07]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001026
+[05:54:07]:    4 file(s) removed
