@@ -1,0 +1,1856 @@
+[00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 620148
+[00:00:00]: Current time: Sun Jul 28 06:00:33 2024
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: ip-172-31-23-55
+[00:00:00]: Release(Kernel) Version: 6.5.0-1016-aws
+[00:00:00]: Kernel Build Timestamp: #16~22.04.1-Ubuntu SMP Wed Mar 13 18:54:49 UTC 2024
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 620148 LINUX
+[00:00:00]: Build Date: 2563
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 869796 -shard Caves 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (126789161571904)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:3.26
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (126789115422272)
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
+[00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: Running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: [Workshop] Item query page 0, size: 15, total size: 15
+[00:00:01]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
+[00:00:01]: [Workshop] Item query sent
+[00:00:01]: [Workshop] ItemQuery got this many results: 15, matching: 15
+[00:00:01]: [Workshop] ModQuery got 15 results
+[00:00:01]: [Workshop] ModQuery already have IDs: {3.0,1111658995} {91,1185229307} {2.16,1207269058} {1.08,1530801499} {1.1.5,1595631294} {1.5,2078243581} {1.10,2208128427} {1.1,2281925291} {1.3.6,2324689937} {1.8,356930882} {1.4.5,362175979} {1.7.5,378160973} {full 4,466732225} {1.6.8.1,569043634} {0.58,666155465}
+[00:00:01]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:01]: [Workshop] ItemQuery finished downloading everything
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: modoverrides.lua enabling workshop-1530801499	
+[00:00:01]: modoverrides.lua enabling workshop-666155465	
+[00:00:01]: modoverrides.lua enabling workshop-569043634	
+[00:00:01]: modoverrides.lua enabling workshop-2281925291	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-356930882	
+[00:00:01]: modoverrides.lua enabling workshop-466732225	
+[00:00:01]: modoverrides.lua enabling workshop-1207269058	
+[00:00:01]: modoverrides.lua enabling workshop-1111658995	
+[00:00:01]: modoverrides.lua enabling workshop-2324689937	
+[00:00:01]: modoverrides.lua enabling workshop-362175979	
+[00:00:01]: modoverrides.lua enabling workshop-2208128427	
+[00:00:01]: modoverrides.lua enabling workshop-1185229307	
+[00:00:01]: modoverrides.lua enabling workshop-1595631294	
+[00:00:01]: modoverrides.lua enabling workshop-2078243581	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-356930882_CLIENT	
+[00:00:01]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.8	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2281925291_CLIENT	
+[00:00:01]: Loading mod: workshop-2281925291 (Finder Redux) Version:1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:00:01]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:01]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:01]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2078243581_CLIENT	
+[00:00:01]: Loading mod: workshop-2078243581 (Display Attack Range) Version:1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1530801499_CLIENT	
+[00:00:01]: Loading mod: workshop-1530801499 (Fast Travel (GUI)) Version:1.08	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-569043634_CLIENT	
+[00:00:01]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:01]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1111658995_CLIENT	
+[00:00:01]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:01]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:01]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:91	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2324689937_CLIENT	
+[00:00:01]: Loading mod: workshop-2324689937 (More equip slots) Version:1.3.6	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2208128427_CLIENT	
+[00:00:01]: Loading mod: workshop-2208128427 (Loot Pump) Version:1.10	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1530801499	
+[00:00:01]: Overriding mod workshop-1530801499's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-1530801499's option SanityCost with value 1	
+[00:00:01]: Overriding mod workshop-1530801499's option HungerCost with value 2	
+[00:00:01]: Overriding mod workshop-1530801499's option ArrowsignEnable with value false	
+[00:00:01]: Overriding mod workshop-1530801499's option CountdownEnable with value false	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:01]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:01]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option skeleton with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option SpawnProtection with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:01]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:01]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2281925291	
+[00:00:01]: Overriding mod workshop-2281925291's option TINT with value 1	
+[00:00:01]: Overriding mod workshop-2281925291's option INGREDIENT with value true	
+[00:00:01]: Overriding mod workshop-2281925291's option ACTIVEITEM with value true	
+[00:00:01]: Overriding mod workshop-2281925291's option Client and server options with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses3 with value 10000000	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2324689937	
+[00:00:01]: Overriding mod workshop-2324689937's option config_render with value true	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_amulet with value true	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_heavy with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option Тype/slot mapping with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_dress with value extrabody2	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_costume with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_armor with value extrabody1	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_dress with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_backpack with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option Compatibility with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_armor with value false	
+[00:00:01]: Overriding mod workshop-2324689937's option config_mannequin with value true	
+[00:00:01]: Overriding mod workshop-2324689937's option slot_amulet with value extrabody3	
+[00:00:01]: Overriding mod workshop-2324689937's option config_auto_backpack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2208128427	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_EQUIP with value false	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_SOUND with value true	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_SPEED with value 3	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_WALLS with value false	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_TWOZN with value false	
+[00:00:01]: Overriding mod workshop-2208128427's option LOOT_PUMP_SCALE with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:01]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:01]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:01]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:01]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:01]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:01]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:01]: Overriding mod workshop-1595631294's option SaltBox with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option BundleItems with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option Digornot with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2078243581	
+[00:00:01]: Overriding mod workshop-2078243581's option Type with value hit	
+[00:00:01]: Overriding mod workshop-2078243581's option Blue with value 0	
+[00:00:01]: Overriding mod workshop-2078243581's option Green with value 0	
+[00:00:01]: Overriding mod workshop-2078243581's option Display with value target	
+[00:00:01]: Overriding mod workshop-2078243581's option Projectile with value true	
+[00:00:01]: Overriding mod workshop-2078243581's option Red with value 1	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:01]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:01]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:01]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:02]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modmain.lua	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:02]: ShowMe version:	0.58	
+[00:00:02]: show_food_units	-1	-1	-1	
+[00:00:02]: show_uses	-1	-1	-1	
+[00:00:02]: Detected language for ShowMe: 	auto		
+[00:00:02]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2208128427 (Loot Pump)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2208128427 (Loot Pump)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2208128427 (Loot Pump)	Loading modmain.lua	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	loot_pump	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2078243581 (Display Attack Range)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2078243581 (Display Attack Range)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2078243581 (Display Attack Range)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2324689937 (More equip slots)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2324689937 (More equip slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2324689937 (More equip slots)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:02]: Mod: workshop-2281925291 (Finder Redux)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2281925291 (Finder Redux)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2281925291 (Finder Redux)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-2281925291/main.lua	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering Server mod namespace "workshop-1207269058"
+[00:00:02]: Registering Server mod namespace "workshop-1111658995"
+[00:00:02]: Registering Server mod namespace "showme"
+[00:00:02]: Registering Server mod namespace "finder_redux"
+[00:00:02]: Registering Server mod namespace "fasttravel"
+[00:00:02]: Registering Server mod namespace "workshop-378160973"
+[00:00:02]: Registering Server mod namespace "showmeshint"
+[00:00:02]: Registering Client mod namespace "workshop-1111658995"
+[00:00:02]: Registering Client mod namespace "workshop-1185229307"
+[00:00:02]: Registering Client mod namespace "finder_redux"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: ConsoleScreenSettings could not load consolescreen	
+[00:00:02]: bloom_enabled	true	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:03]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
+[00:00:03]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
+[00:00:03]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (126789026297408)
+[00:00:04]: FilesExistAsyncThread started (24531 files)...
+[00:00:04]: 	Load FE: done	
+[00:00:04]: Check for write access: TRUE
+[00:00:04]: Check for read access: TRUE
+[00:00:04]: Available disk space for save files: 23404 MB
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:04]: [200] Account Communication Success (6)
+[00:00:04]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Caves/save/cached_userid
+[00:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[00:00:04]: Starting Dedicated Server Game	
+[00:00:04]: Network tick rate: U=15(2), D=0
+[00:00:04]: About to start a server with the following settings:
+[00:00:04]:   Dedicated: true
+[00:00:04]:   Online: true
+[00:00:04]:   Passworded: true
+[00:00:04]:   ServerPort: 10998
+[00:00:04]:   SteamAuthPort: 8767
+[00:00:04]:   SteamMasterServerPort: 27017
+[00:00:04]:   ClanID: false
+[00:00:04]:   ClanOnly: false
+[00:00:04]:   ClanAdmin: false
+[00:00:04]:   LanOnly: false
+[00:00:04]:   FriendsOnly: false
+[00:00:04]:   EnableAutosaver: true
+[00:00:04]:   EncodeUserPath: true
+[00:00:04]:   PVP: false
+[00:00:04]:   MaxPlayers: 10
+[00:00:04]:   GameMode: survival
+[00:00:04]:   OverridenDNS: 
+[00:00:04]:   PauseWhenEmpty: true
+[00:00:04]:   IdleTimeout: 1800s
+[00:00:04]:   VoteEnabled: true
+[00:00:04]:   InternetBroadcasting: true
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1530801499	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
+[00:00:04]: Online Server Started on port: 10998
+[00:00:04]: SUCCESS: Loaded modoverrides.lua	
+[00:00:04]: Found a level data override file with these contents:	
+[00:00:04]: 	K: 	background_node_range	 V: 	table: 0xd29eb90	
+[00:00:04]: 		K: 	1	 V: 	0	
+[00:00:04]: 		K: 	2	 V: 	1	
+[00:00:04]: 	K: 	desc	 V: 	Delve into the caves... together!	
+[00:00:04]: 	K: 	hideminimap	 V: 	false	
+[00:00:04]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:04]: 	K: 	location	 V: 	cave	
+[00:00:04]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:04]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:04]: 	K: 	name	 V: 	The Caves	
+[00:00:04]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:04]: 	K: 	override_level_string	 V: 	false	
+[00:00:04]: 	K: 	overrides	 V: 	table: 0xd29d250	
+[00:00:04]: 		K: 	acidrain_enabled	 V: 	always	
+[00:00:04]: 		K: 	atriumgate	 V: 	default	
+[00:00:04]: 		K: 	banana	 V: 	default	
+[00:00:04]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:04]: 		K: 	bats	 V: 	default	
+[00:00:04]: 		K: 	bats_setting	 V: 	default	
+[00:00:04]: 		K: 	beefaloheat	 V: 	rare	
+[00:00:04]: 		K: 	berrybush	 V: 	default	
+[00:00:04]: 		K: 	boons	 V: 	default	
+[00:00:04]: 		K: 	branching	 V: 	default	
+[00:00:04]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:04]: 		K: 	bunnymen	 V: 	default	
+[00:00:04]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:04]: 		K: 	cave_ponds	 V: 	default	
+[00:00:04]: 		K: 	cave_spiders	 V: 	default	
+[00:00:04]: 		K: 	cavelight	 V: 	default	
+[00:00:04]: 		K: 	chess	 V: 	default	
+[00:00:04]: 		K: 	crow_carnival	 V: 	default	
+[00:00:04]: 		K: 	darkness	 V: 	default	
+[00:00:04]: 		K: 	day	 V: 	default	
+[00:00:04]: 		K: 	daywalker	 V: 	often	
+[00:00:04]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:04]: 		K: 	dustmoths	 V: 	default	
+[00:00:04]: 		K: 	earthquakes	 V: 	default	
+[00:00:04]: 		K: 	extrastartingitems	 V: 	15	
+[00:00:04]: 		K: 	fern	 V: 	default	
+[00:00:04]: 		K: 	fissure	 V: 	default	
+[00:00:04]: 		K: 	flint	 V: 	default	
+[00:00:04]: 		K: 	flower_cave	 V: 	default	
+[00:00:04]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:04]: 		K: 	fruitfly	 V: 	often	
+[00:00:04]: 		K: 	ghostenabled	 V: 	always	
+[00:00:04]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:04]: 		K: 	grass	 V: 	default	
+[00:00:04]: 		K: 	grassgekkos	 V: 	default	
+[00:00:04]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:04]: 		K: 	healthpenalty	 V: 	always	
+[00:00:04]: 		K: 	hunger	 V: 	default	
+[00:00:04]: 		K: 	krampus	 V: 	often	
+[00:00:04]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:04]: 		K: 	lessdamagetaken	 V: 	none	
+[00:00:04]: 		K: 	lichen	 V: 	default	
+[00:00:04]: 		K: 	liefs	 V: 	often	
+[00:00:04]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:00:04]: 		K: 	lightfliers	 V: 	default	
+[00:00:04]: 		K: 	loop	 V: 	default	
+[00:00:04]: 		K: 	marshbush	 V: 	default	
+[00:00:04]: 		K: 	merms	 V: 	default	
+[00:00:04]: 		K: 	molebats	 V: 	default	
+[00:00:04]: 		K: 	moles_setting	 V: 	default	
+[00:00:04]: 		K: 	monkey	 V: 	default	
+[00:00:04]: 		K: 	monkey_setting	 V: 	default	
+[00:00:04]: 		K: 	mushgnome	 V: 	default	
+[00:00:04]: 		K: 	mushroom	 V: 	default	
+[00:00:04]: 		K: 	mushtree	 V: 	default	
+[00:00:04]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:00:04]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:00:04]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:04]: 		K: 	pigs_setting	 V: 	default	
+[00:00:04]: 		K: 	portalresurection	 V: 	always	
+[00:00:04]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:04]: 		K: 	reeds	 V: 	default	
+[00:00:04]: 		K: 	regrowth	 V: 	default	
+[00:00:04]: 		K: 	resettime	 V: 	none	
+[00:00:04]: 		K: 	rifts_enabled_cave	 V: 	default	
+[00:00:04]: 		K: 	rifts_frequency_cave	 V: 	default	
+[00:00:04]: 		K: 	roads	 V: 	never	
+[00:00:04]: 		K: 	rock	 V: 	default	
+[00:00:04]: 		K: 	rocky	 V: 	default	
+[00:00:04]: 		K: 	rocky_setting	 V: 	default	
+[00:00:04]: 		K: 	sapling	 V: 	default	
+[00:00:04]: 		K: 	season_start	 V: 	default	
+[00:00:04]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:04]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:04]: 		K: 	slurper	 V: 	default	
+[00:00:04]: 		K: 	slurtles	 V: 	default	
+[00:00:04]: 		K: 	slurtles_setting	 V: 	default	
+[00:00:04]: 		K: 	snurtles	 V: 	default	
+[00:00:04]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:04]: 		K: 	spawnprotection	 V: 	default	
+[00:00:04]: 		K: 	specialevent	 V: 	default	
+[00:00:04]: 		K: 	spider_dropper	 V: 	default	
+[00:00:04]: 		K: 	spider_hider	 V: 	default	
+[00:00:04]: 		K: 	spider_spitter	 V: 	default	
+[00:00:04]: 		K: 	spider_warriors	 V: 	default	
+[00:00:04]: 		K: 	spiderqueen	 V: 	often	
+[00:00:04]: 		K: 	spiders	 V: 	default	
+[00:00:04]: 		K: 	spiders_setting	 V: 	default	
+[00:00:04]: 		K: 	start_location	 V: 	caves	
+[00:00:04]: 		K: 	task_set	 V: 	cave_default	
+[00:00:04]: 		K: 	temperaturedamage	 V: 	default	
+[00:00:04]: 		K: 	tentacles	 V: 	default	
+[00:00:04]: 		K: 	toadstool	 V: 	often	
+[00:00:04]: 		K: 	touchstone	 V: 	default	
+[00:00:04]: 		K: 	trees	 V: 	default	
+[00:00:04]: 		K: 	weather	 V: 	default	
+[00:00:04]: 		K: 	winters_feast	 V: 	default	
+[00:00:04]: 		K: 	world_size	 V: 	default	
+[00:00:04]: 		K: 	wormattacks	 V: 	default	
+[00:00:04]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:04]: 		K: 	wormlights	 V: 	default	
+[00:00:04]: 		K: 	worms	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_dragonfly	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:04]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:04]: 	K: 	required_prefabs	 V: 	table: 0xd29cc00	
+[00:00:04]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:04]: 	K: 	settings_desc	 V: 	Delve into the caves... together!	
+[00:00:04]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:04]: 	K: 	settings_name	 V: 	The Caves	
+[00:00:04]: 	K: 	substitutes	 V: 	table: 0xd29c5b0	
+[00:00:04]: 	K: 	version	 V: 	4	
+[00:00:04]: 	K: 	worldgen_desc	 V: 	Delve into the caves... together!	
+[00:00:04]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:04]: 	K: 	worldgen_name	 V: 	The Caves	
+[00:00:04]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:04]: Overwriting savedata with level data file.	
+[00:00:04]: Not applying world gen overrides.	
+[00:00:04]: Collecting garbage...
+[00:00:04]: lua_gc took 0.07 seconds
+[00:00:04]: ~ShardLuaProxy()
+[00:00:04]: ~cEventLeaderboardProxy()
+[00:00:04]: ~ItemServerLuaProxy()
+[00:00:04]: ~InventoryLuaProxy()
+[00:00:04]: ~NetworkLuaProxy()
+[00:00:04]: ~SimLuaProxy()
+[00:00:04]: lua_close took 0.09 seconds
+[00:00:04]: ReleaseAll
+[00:00:04]: ReleaseAll Finished
+[00:00:04]: cGame::StartPlaying
+[00:00:04]: AppVersion::GetArchitecture() x64
+[00:00:04]: LOADING LUA
+[00:00:04]: DoLuaFile scripts/main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]:   taskgrouplist:	default	Together	
+[00:00:05]:   taskgrouplist:	classic	Classic	
+[00:00:05]:   taskgrouplist:	cave_default	Underground	
+[00:00:05]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:05]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:05]: Running main.lua
+	
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: modoverrides.lua enabling workshop-1530801499	
+[00:00:05]: modoverrides.lua enabling workshop-666155465	
+[00:00:05]: modoverrides.lua enabling workshop-569043634	
+[00:00:05]: modoverrides.lua enabling workshop-2281925291	
+[00:00:05]: modoverrides.lua enabling workshop-378160973	
+[00:00:05]: modoverrides.lua enabling workshop-356930882	
+[00:00:05]: modoverrides.lua enabling workshop-466732225	
+[00:00:05]: modoverrides.lua enabling workshop-1207269058	
+[00:00:05]: modoverrides.lua enabling workshop-1111658995	
+[00:00:05]: modoverrides.lua enabling workshop-2324689937	
+[00:00:05]: modoverrides.lua enabling workshop-362175979	
+[00:00:05]: modoverrides.lua enabling workshop-2208128427	
+[00:00:05]: modoverrides.lua enabling workshop-1185229307	
+[00:00:05]: modoverrides.lua enabling workshop-1595631294	
+[00:00:05]: modoverrides.lua enabling workshop-2078243581	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-356930882	
+[00:00:05]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.8	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
+[00:00:05]: Loading mod: workshop-2281925291 (Finder Redux) Version:1.1	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:05]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:05]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:05]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
+[00:00:05]: Loading mod: workshop-2078243581 (Display Attack Range) Version:1.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1530801499	
+[00:00:05]: Loading mod: workshop-1530801499 (Fast Travel (GUI)) Version:1.08	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:05]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:05]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:05]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:05]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:05]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:91	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:05]: Loading mod: workshop-2324689937 (More equip slots) Version:1.3.6	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
+[00:00:05]: Loading mod: workshop-2208128427 (Loot Pump) Version:1.10	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1530801499	
+[00:00:05]: Overriding mod workshop-1530801499's option Ownership with value false	
+[00:00:05]: Overriding mod workshop-1530801499's option SanityCost with value 1	
+[00:00:05]: Overriding mod workshop-1530801499's option HungerCost with value 2	
+[00:00:05]: Overriding mod workshop-1530801499's option ArrowsignEnable with value false	
+[00:00:05]: Overriding mod workshop-1530801499's option CountdownEnable with value false	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:05]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:05]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:05]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:05]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:05]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:05]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option skeleton with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option SpawnProtection with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:05]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:05]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2281925291	
+[00:00:05]: Overriding mod workshop-2281925291's option TINT with value 1	
+[00:00:05]: Overriding mod workshop-2281925291's option INGREDIENT with value true	
+[00:00:05]: Overriding mod workshop-2281925291's option ACTIVEITEM with value true	
+[00:00:05]: Overriding mod workshop-2281925291's option Client and server options with value 0	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:05]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:05]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:05]: Overriding mod workshop-356930882's option uses3 with value 10000000	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2324689937	
+[00:00:05]: Overriding mod workshop-2324689937's option config_render with value true	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_amulet with value true	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_heavy with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option Тype/slot mapping with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_dress with value extrabody2	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_costume with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_armor with value extrabody1	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_dress with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_backpack with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option Compatibility with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_armor with value false	
+[00:00:05]: Overriding mod workshop-2324689937's option config_mannequin with value true	
+[00:00:05]: Overriding mod workshop-2324689937's option slot_amulet with value extrabody3	
+[00:00:05]: Overriding mod workshop-2324689937's option config_auto_backpack with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:05]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2208128427	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_EQUIP with value false	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_SOUND with value true	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_SPEED with value 3	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_WALLS with value false	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_TWOZN with value false	
+[00:00:05]: Overriding mod workshop-2208128427's option LOOT_PUMP_SCALE with value 1	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:05]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option CAMERA with value true	
+[00:00:05]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:05]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:05]: Overriding mod workshop-1185229307's option GLOBAL with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option TAG with value EPIC	
+[00:00:05]: Overriding mod workshop-1185229307's option HEADER_SERVER with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:05]: Overriding mod workshop-1185229307's option GLOBAL_NUMBERS with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option HEADER_CLIENT with value false	
+[00:00:05]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:05]: Overriding mod workshop-1595631294's option SaltBox with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option BundleItems with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option Digornot with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option Icebox with value true	
+[00:00:05]: Overriding mod workshop-1595631294's option DragonflyChest with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2078243581	
+[00:00:05]: Overriding mod workshop-2078243581's option Type with value hit	
+[00:00:05]: Overriding mod workshop-2078243581's option Blue with value 0	
+[00:00:05]: Overriding mod workshop-2078243581's option Green with value 0	
+[00:00:05]: Overriding mod workshop-2078243581's option Display with value target	
+[00:00:05]: Overriding mod workshop-2078243581's option Projectile with value true	
+[00:00:05]: Overriding mod workshop-2078243581's option Red with value 1	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:05]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:05]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:05]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1530801499 (Fast Travel (GUI))	Loading modmain.lua	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:05]: ShowMe version:	0.58	
+[00:00:05]: show_food_units	-1	-1	-1	
+[00:00:05]: show_uses	-1	-1	-1	
+[00:00:05]: Detected language for ShowMe: 	auto		
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-2208128427 (Loot Pump)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2208128427 (Loot Pump)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2208128427 (Loot Pump)	Loading modmain.lua	
+[00:00:05]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	loot_pump	
+[00:00:05]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:05]: Mod: workshop-2078243581 (Display Attack Range)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2078243581 (Display Attack Range)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2078243581 (Display Attack Range)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-2324689937 (More equip slots)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2324689937 (More equip slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2324689937 (More equip slots)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2078243581	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1530801499	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2324689937	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:05]: Mod: workshop-2281925291 (Finder Redux)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2281925291 (Finder Redux)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2281925291 (Finder Redux)	Loading modmain.lua	
+[00:00:05]: modimport: ../mods/workshop-2281925291/main.lua	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering Server mod namespace "workshop-1207269058"
+[00:00:05]: Registering Server mod namespace "workshop-1111658995"
+[00:00:05]: Registering Server mod namespace "showme"
+[00:00:05]: Registering Server mod namespace "finder_redux"
+[00:00:05]: Registering Server mod namespace "fasttravel"
+[00:00:05]: Registering Server mod namespace "workshop-378160973"
+[00:00:05]: Registering Server mod namespace "showmeshint"
+[00:00:05]: Registering Client mod namespace "workshop-1111658995"
+[00:00:05]: Registering Client mod namespace "workshop-1185229307"
+[00:00:05]: Registering Client mod namespace "finder_redux"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: ConsoleScreenSettings could not load consolescreen	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Loading world: session/01EF7F7A1CFE0E43/0000001024	
+[00:00:05]: Save file is at version 5.151	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:05]: 	Unload FE	
+[00:00:05]: 	Unload FE done	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:06]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
+[00:00:06]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:06]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
+[00:00:06]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
+[00:00:06]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
+[00:00:06]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
+[00:00:06]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:06]: 	LOAD BE	
+[00:00:14]: 	LOAD BE: done	
+[00:00:14]: Begin Session: 01EF7F7A1CFE0E43
+[00:00:14]: saving to server_temp/server_save	
+[00:00:14]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:14]: OVERRIDE: setting	extrastartingitems	to	15	
+[00:00:14]: OVERRIDE: setting	krampus	to	often	
+[00:00:14]: OVERRIDE: setting	spiderqueen	to	often	
+[00:00:14]: OVERRIDE: setting	acidrain_enabled	to	always	
+[00:00:14]: OVERRIDE: setting	toadstool	to	often	
+[00:00:14]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:00:14]: OVERRIDE: setting	daywalker	to	often	
+[00:00:14]: OVERRIDE: setting	liefs	to	often	
+[00:00:14]: OVERRIDE: setting	beefaloheat	to	rare	
+[00:00:14]: OVERRIDE: setting	fruitfly	to	often	
+[00:00:14]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-2208128427/minimap/loot_pump.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:14]: Loading 19 new character(s)	
+[00:00:15]: Total 19 character(s) loaded	
+[00:00:18]: Loading Nav Grid	
+[00:00:18]: World generated on build 620148 with save version: 5.151, using seed: 1219835933	
+[00:00:18]: setting 	summerlength	15	
+[00:00:18]: setting 	cavemoonphase	full	
+[00:00:18]: setting 	iscavefullmoon	false	
+[00:00:18]: setting 	isnightmaredawn	true	
+[00:00:18]: setting 	elapseddaysinseason	9	
+[00:00:18]: setting 	isfullmoon	false	
+[00:00:18]: setting 	moisture	1031.8256835938	
+[00:00:18]: setting 	springlength	20	
+[00:00:18]: setting 	islunarhailing	false	
+[00:00:18]: setting 	isnightmarewild	false	
+[00:00:18]: setting 	nightmaretimeinphase	0.97272965477332	
+[00:00:18]: setting 	precipitationrate	0	
+[00:00:18]: setting 	iswet	false	
+[00:00:18]: setting 	isnewmoon	false	
+[00:00:18]: setting 	israining	false	
+[00:00:18]: setting 	iswinter	false	
+[00:00:18]: setting 	isnightmarewarn	false	
+[00:00:18]: setting 	precipitation	none	
+[00:00:18]: setting 	iscavewaxingmoon	false	
+[00:00:18]: setting 	isacidraining	false	
+[00:00:18]: setting 	moonphase	new	
+[00:00:18]: setting 	remainingdaysinseason	6	
+[00:00:18]: setting 	temperature	53.492894027464	
+[00:00:18]: setting 	wetness	0	
+[00:00:18]: setting 	cycles	974	
+[00:00:18]: setting 	moistureceil	7188.2456054688	
+[00:00:18]: setting 	isday	false	
+[00:00:18]: setting 	winterlength	15	
+[00:00:18]: setting 	season	summer	
+[00:00:18]: setting 	iswaxingmoon	true	
+[00:00:18]: setting 	isalterawake	false	
+[00:00:18]: setting 	isnightmarecalm	false	
+[00:00:18]: setting 	isnight	true	
+[00:00:18]: setting 	isdusk	false	
+[00:00:18]: setting 	isspring	false	
+[00:00:18]: setting 	isautumn	false	
+[00:00:18]: setting 	iscaveday	true	
+[00:00:18]: setting 	lunarhaillevel	0	
+[00:00:18]: setting 	pop	0.09059418649456	
+[00:00:18]: setting 	snowlevel	0	
+[00:00:18]: setting 	issnowcovered	false	
+[00:00:18]: setting 	autumnlength	20	
+[00:00:18]: setting 	phase	night	
+[00:00:18]: setting 	nightmaretime	658.3637792864	
+[00:00:18]: setting 	issnowing	false	
+[00:00:18]: setting 	iscavedusk	false	
+[00:00:18]: setting 	nightmarephase	dawn	
+[00:00:18]: setting 	timeinphase	0.0032321814334754	
+[00:00:18]: setting 	seasonprogress	0.6	
+[00:00:18]: setting 	iscavenight	false	
+[00:00:18]: setting 	iscavenewmoon	false	
+[00:00:18]: setting 	issummer	true	
+[00:00:18]: setting 	cavephase	day	
+[00:00:18]: setting 	time	0.0022221247355143	
+[00:00:18]: [Shard] Secondary shard is waiting for LUA...
+[00:00:18]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:18]: OVERRIDE: setting	resettime	to	none	
+[00:00:18]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:18]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:18]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:18]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:23]: Reconstructing topology	
+[00:00:23]: 	...Sorting points	
+[00:00:23]: 	...Sorting edges	
+[00:00:23]: 	...Connecting nodes	
+[00:00:23]: 	...Validating connections	
+[00:00:23]: 	...Housekeeping	
+[00:00:23]: 	...Done!	
+[00:00:23]: 1 uploads added to server. From server_temp
+[00:00:23]: About to start a shard with these settings:
+[00:00:23]:   ShardName: Caves
+[00:00:23]:   ShardID: 2248507758
+[00:00:23]:   ShardRole: SECONDARY
+[00:00:23]:   MasterHost: 127.0.0.1
+[00:00:23]:   MasterBind: (null)
+[00:00:23]:   MasterPort: 10888
+[00:00:23]: [Shard] Connecting to master...
+[00:00:23]: Telling Client our new session identifier: 01EF7F7A1CFE0E43
+[00:00:23]: Check for write access: TRUE
+[00:00:23]: Check for read access: TRUE
+[00:00:23]: Available disk space for save files: 23404 MB
+[00:00:23]: ModIndex: Load sequence finished successfully.	
+[00:00:23]: Reset() returning
+[00:00:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:24]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:24]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:24]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:24]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:24]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:24]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:24]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:24]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:24]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:24]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:28]: About to start a shard with these settings:
+[00:00:28]:   ShardName: Caves
+[00:00:28]:   ShardID: 2248507758
+[00:00:28]:   ShardRole: SECONDARY
+[00:00:28]:   MasterHost: 127.0.0.1
+[00:00:28]:   MasterBind: (null)
+[00:00:28]:   MasterPort: 10888
+[00:00:28]: [Shard] Connecting to master...
+[00:00:29]: [Shard] Sending secondary shard information to master...
+[00:00:31]: Received MasterInfoPacket row 2da34f1009b80a735e386846ee9614c7 region ap-southeast-1
+[00:00:31]: Obtaining secondary shard IP from ap-southeast-1 lobby
+[00:00:31]: [Shard] secondary shard is now ready!
+[00:00:31]: World 1 is now connected	
+[00:00:31]: Validating portal[7] <-> 1[7] (active)	
+[00:00:31]: Validating portal[4] <-> 1[4] (active)	
+[00:00:31]: Validating portal[3] <-> 1[3] (active)	
+[00:00:31]: Validating portal[8] <-> 1[8] (active)	
+[00:00:31]: Validating portal[2] <-> 1[2] (active)	
+[00:00:31]: Validating portal[6] <-> 1[6] (active)	
+[00:00:31]: Validating portal[9] <-> 1[9] (active)	
+[00:00:31]: Validating portal[10] <-> 1[10] (active)	
+[00:00:31]: Validating portal[1] <-> 1[1] (active)	
+[00:00:31]: Validating portal[5] <-> 1[5] (active)	
+[00:00:31]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:00:31]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:00:31]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying resettime = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying krampus = often from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying darkness = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[00:00:31]: component hauntable already exists on entity 102140 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[00:00:31]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying hunger = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
+[00:00:31]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:00:31]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:00:31]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying resettime = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying krampus = often from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying darkness = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[00:00:31]: component hauntable already exists on entity 102140 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[00:00:31]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying hunger = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
+[00:00:32]: [Shard] secondary shard LUA is now ready!
+[00:00:32]: Sim paused
+[00:30:04]: [200] Account Communication Success (6)
+[00:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[01:00:04]: [200] Account Communication Success (6)
+[01:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[01:30:04]: [200] Account Communication Success (6)
+[01:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[02:00:04]: [200] Account Communication Success (6)
+[02:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[02:30:04]: [200] Account Communication Success (6)
+[02:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:00:04]: [200] Account Communication Success (6)
+[03:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:30:04]: [200] Account Communication Success (6)
+[03:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:00:04]: [200] Account Communication Success (6)
+[04:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:19:02]: [Shard] Received forward request #1 for (KU_RR3k3C2b)
+[04:19:02]: Sim unpaused
+[04:19:04]: [P2P] Session request for '76561199349123785'
+[04:19:05]: [P2P] Create session: 152.161.199.208|1 '76561199349123785'
+[04:19:05]: [P2P] Received from 152.161.199.208|1 '76561199349123785'
+[04:19:05]: [P2P] Sent to 152.161.199.208|1 '76561199349123785'
+[04:19:06]: New incoming connection 152.161.199.208|1 <8570434324909452637>
+[04:19:06]: Client connected from 152.161.199.208|1 <8570434324909452637>
+[04:19:06]: ValidateGameSessionToken GUID<8570434324909452637>
+[04:19:06]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[04:19:06]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[04:19:06]: [Steam] Authenticated client '76561199349123785'
+[04:19:07]: There is no active event to validate against.
+[04:19:07]: [Shard] Completed incoming migration #1 for (KU_RR3k3C2b)
+[04:19:29]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001024
+[04:19:29]: Spawning player at: [Load] (343.48, 0.00, 176.46)	
+[04:27:02]: Available disk space for save files: 23400 MB
+[04:27:02]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001025
+[04:27:02]: Serializing world: session/01EF7F7A1CFE0E43/0000001025
+[04:30:05]: [200] Account Communication Success (6)
+[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:31:10]: Could not find anim [weremoose_transform] in bank [weremoose]
+[04:31:45]: KU_RR3k3C2b	running text command:	dance	true	
+[04:33:00]: Activating portal[10] to 1	
+[04:33:00]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001026
+[04:33:00]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[04:33:00]: [Shard] #2 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001026
+[04:33:00]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:33:00]: [Steam] SendUserDisconnect for '76561199349123785'
+[04:35:02]: Available disk space for save files: 23397 MB
+[04:35:03]: Serializing world: session/01EF7F7A1CFE0E43/0000001026
+[04:35:03]: Truncating to snapshot #1026...
+[04:35:03]:  - session/01EF7F7A1CFE0E43/0000001019
+[04:35:03]:  - session/01EF7F7A1CFE0E43/0000001020
+[04:35:03]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000000986
+[04:35:03]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001003
+[04:35:03]:    4 file(s) removed
+[04:43:03]: [P2P] Session timed out for '76561199349123785'
+[04:43:03]: [P2P] Remove session: 152.161.199.208|1 '76561199349123785'
+[04:43:03]: Available disk space for save files: 23395 MB
+[04:43:04]: Serializing world: session/01EF7F7A1CFE0E43/0000001027
+[04:43:04]: Truncating to snapshot #1027...
+[04:43:04]:  - session/01EF7F7A1CFE0E43/0000001021
+[04:43:04]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001021
+[04:43:04]:  - session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001021
+[04:43:04]:    3 file(s) removed
+[04:51:04]: Available disk space for save files: 23390 MB
+[04:51:04]: Serializing world: session/01EF7F7A1CFE0E43/0000001028
+[04:51:04]: Truncating to snapshot #1028...
+[04:51:04]:  - session/01EF7F7A1CFE0E43/0000001022
+[04:51:04]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001022
+[04:51:04]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001021
+[04:51:04]:  - session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001022
+[04:51:04]:    4 file(s) removed
+[04:59:05]: Available disk space for save files: 23385 MB
+[04:59:05]: Serializing world: session/01EF7F7A1CFE0E43/0000001029
+[04:59:05]: Truncating to snapshot #1029...
+[04:59:05]:  - session/01EF7F7A1CFE0E43/0000001023
+[04:59:05]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001023
+[04:59:05]:  - session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001023
+[04:59:05]:  - session/01EF7F7A1CFE0E43/A7MRD5SP8IIK/0000001023
+[04:59:05]:    4 file(s) removed
+[04:59:22]: [Shard] #3 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[04:59:22]: [Shard] Received migration #3 data for (KU_RR3k3C2b)
+[04:59:29]: [P2P] Create session: 152.161.199.209|1 '76561199349123785'
+[04:59:29]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[04:59:29]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[04:59:30]: New incoming connection 152.161.199.209|1 <3731043285004033469>
+[04:59:30]: Client connected from 152.161.199.209|1 <3731043285004033469>
+[04:59:30]: ValidateGameSessionToken GUID<3731043285004033469>
+[04:59:30]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[04:59:31]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[04:59:31]: [Steam] Authenticated client '76561199349123785'
+[04:59:31]: [Shard] Completed incoming migration #3 for (KU_RR3k3C2b)
+[04:59:39]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[04:59:39]: Player will spawn close to portal #1	
+[04:59:39]: Spawning player at: [Load] (531.61, 0.00, 269.00)	
+[05:00:04]: [200] Account Communication Success (6)
+[05:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:00:29]: Activating portal[1] to 1	
+[05:00:29]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[05:00:29]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:00:30]: [Shard] #4 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[05:00:30]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:00:30]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:07:06]: Available disk space for save files: 23380 MB
+[05:07:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001030
+[05:07:07]: Truncating to snapshot #1030...
+[05:07:07]:  - session/01EF7F7A1CFE0E43/0000001024
+[05:07:07]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001024
+[05:07:07]:    2 file(s) removed
+[05:08:42]: [Shard] #5 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001031
+[05:08:42]: [Shard] Received migration #5 data for (KU_RR3k3C2b)
+[05:08:48]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:08:48]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:08:49]: New incoming connection 152.161.199.209|1 <8358153351546640442>
+[05:08:49]: Client connected from 152.161.199.209|1 <8358153351546640442>
+[05:08:49]: ValidateGameSessionToken GUID<8358153351546640442>
+[05:08:50]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:08:50]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:08:50]: [Steam] Authenticated client '76561199349123785'
+[05:08:50]: [Shard] Completed incoming migration #5 for (KU_RR3k3C2b)
+[05:08:58]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001031
+[05:08:58]: Player will spawn close to portal #1	
+[05:08:58]: Spawning player at: [Load] (531.10, 0.00, 273.93)	
+[05:12:31]: Could not find anim [weremoose_transform] in bank [weremoose]
+[05:13:43]: KU_RR3k3C2b	running text command:	dance	true	
+[05:15:07]: Available disk space for save files: 23375 MB
+[05:15:07]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001031
+[05:15:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001031
+[05:16:02]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:16:02]: Connection lost to 152.161.199.209|1 <8358153351546640442>
+[05:16:02]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:16:03]: Sim paused
+[05:22:58]: [Shard] Received forward request #6 for (KU_RR3k3C2b)
+[05:22:58]: Sim unpaused
+[05:23:05]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:23:05]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:23:06]: New incoming connection 152.161.199.209|1 <7008811941818982206>
+[05:23:06]: Client connected from 152.161.199.209|1 <7008811941818982206>
+[05:23:06]: ValidateGameSessionToken GUID<7008811941818982206>
+[05:23:06]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:23:06]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:23:07]: [Steam] Authenticated client '76561199349123785'
+[05:23:07]: There is no active event to validate against.
+[05:23:07]: [Shard] Completed incoming migration #6 for (KU_RR3k3C2b)
+[05:23:25]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:23:25]: Spawning player at: [Load] (-472.94, -0.00, -180.02)	
+[05:26:18]: Activating portal[1] to 1	
+[05:26:19]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:26:19]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:26:19]: [Shard] #7 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[05:26:19]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:26:19]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:30:04]: Available disk space for save files: 23397 MB
+[05:30:04]: Serializing world: session/01EF7F7A1CFE0E43/0000001032
+[05:30:04]: Truncating to snapshot #1032...
+[05:30:04]:  - session/01EF7F7A1CFE0E43/0000001026
+[05:30:04]:  - session/01EF7F7A1CFE0E43/0000001025
+[05:30:04]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001025
+[05:30:04]:    3 file(s) removed
+[05:30:05]: [200] Account Communication Success (6)
+[05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:34:29]: [Shard] #8 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001033
+[05:34:29]: [Shard] Received migration #8 data for (KU_RR3k3C2b)
+[05:34:35]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:34:35]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:34:37]: New incoming connection 152.161.199.209|1 <6004186180707733248>
+[05:34:37]: Client connected from 152.161.199.209|1 <6004186180707733248>
+[05:34:37]: ValidateGameSessionToken GUID<6004186180707733248>
+[05:34:37]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:34:37]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:34:38]: [Steam] Authenticated client '76561199349123785'
+[05:34:38]: [Shard] Completed incoming migration #8 for (KU_RR3k3C2b)
+[05:34:45]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001033
+[05:34:45]: Player will spawn close to portal #1	
+[05:34:45]: Spawning player at: [Load] (534.17, 0.00, 271.34)	
+[05:35:05]: Could not find anim [weremoose_transform] in bank [weremoose]
+[05:38:05]: Available disk space for save files: 23395 MB
+[05:38:05]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001033
+[05:38:05]: Serializing world: session/01EF7F7A1CFE0E43/0000001033
+[05:39:06]: Activating portal[1] to 1	
+[05:39:06]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:39:06]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:39:06]: [Shard] #9 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:39:06]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:39:06]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:41:09]: [Shard] #10 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:41:09]: [Shard] Received migration #10 data for (KU_RR3k3C2b)
+[05:41:17]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:41:17]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:41:18]: New incoming connection 152.161.199.209|1 <907783728635624679>
+[05:41:18]: Client connected from 152.161.199.209|1 <907783728635624679>
+[05:41:18]: ValidateGameSessionToken GUID<907783728635624679>
+[05:41:18]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:41:18]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:41:19]: [Steam] Authenticated client '76561199349123785'
+[05:41:19]: [Shard] Completed incoming migration #10 for (KU_RR3k3C2b)
+[05:41:26]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:41:27]: Player will spawn close to portal #1	
+[05:41:27]: Spawning player at: [Load] (533.47, 0.00, 273.24)	
+[05:45:20]: Could not find anim [weremoose_transform] in bank [weremoose]
+[05:46:04]: KU_RR3k3C2b	running text command:	dance	true	
+[05:46:06]: Available disk space for save files: 23397 MB
+[05:46:06]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[05:46:06]: Serializing world: session/01EF7F7A1CFE0E43/0000001034
+[05:47:19]: Activating portal[1] to 1	
+[05:47:19]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:47:19]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:47:19]: [Shard] #11 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:47:19]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:47:19]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:48:34]: [Shard] #12 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:48:34]: [Shard] Received migration #12 data for (KU_RR3k3C2b)
+[05:48:36]: [P2P] Received from 152.161.199.209|1 '76561199349123785'
+[05:48:36]: [P2P] Sent to 152.161.199.209|1 '76561199349123785'
+[05:48:37]: New incoming connection 152.161.199.209|1 <1189526362899782150>
+[05:48:38]: Client connected from 152.161.199.209|1 <1189526362899782150>
+[05:48:38]: ValidateGameSessionToken GUID<1189526362899782150>
+[05:48:38]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[05:48:38]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[05:48:38]: [Steam] Authenticated client '76561199349123785'
+[05:48:38]: [Shard] Completed incoming migration #12 for (KU_RR3k3C2b)
+[05:48:46]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:48:46]: Player will spawn close to portal #1	
+[05:48:46]: Spawning player at: [Load] (529.51, 0.00, 270.25)	
+[05:49:54]: Activating portal[1] to 1	
+[05:49:54]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:49:54]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[05:49:54]: [Shard] #13 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001035
+[05:49:54]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:49:55]: [Steam] SendUserDisconnect for '76561199349123785'
+[05:54:07]: Available disk space for save files: 23394 MB
+[05:54:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001035
+[05:54:07]: Truncating to snapshot #1035...
+[05:54:07]:  - session/01EF7F7A1CFE0E43/0000001029
+[05:54:07]:  - session/01EF7F7A1CFE0E43/0000001028
+[05:54:07]:  - session/01EF7F7A1CFE0E43/0000001027
+[05:54:07]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001026
+[05:54:07]:    4 file(s) removed
+[05:59:56]: [P2P] Session timed out for '76561199349123785'
+[05:59:56]: [P2P] Remove session: 152.161.199.209|1 '76561199349123785'
+[06:00:05]: [200] Account Communication Success (6)
+[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:02:07]: Available disk space for save files: 23384 MB
+[06:02:08]: Serializing world: session/01EF7F7A1CFE0E43/0000001036
+[06:02:08]: Truncating to snapshot #1036...
+[06:02:08]:  - session/01EF7F7A1CFE0E43/0000001030
+[06:02:08]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001030
+[06:02:08]:    2 file(s) removed
+[06:10:08]: Available disk space for save files: 23379 MB
+[06:10:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001037
+[06:10:09]: Truncating to snapshot #1037...
+[06:10:09]:  - session/01EF7F7A1CFE0E43/0000001031
+[06:10:09]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001031
+[06:10:09]:    2 file(s) removed
+[06:18:09]: Available disk space for save files: 23374 MB
+[06:18:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001038
+[06:18:09]: Truncating to snapshot #1038...
+[06:18:09]:  - session/01EF7F7A1CFE0E43/0000001032
+[06:18:09]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001032
+[06:18:09]:    2 file(s) removed
+[06:26:10]: Available disk space for save files: 23369 MB
+[06:26:10]: Serializing world: session/01EF7F7A1CFE0E43/0000001039
+[06:26:10]: Truncating to snapshot #1039...
+[06:26:10]:  - session/01EF7F7A1CFE0E43/0000001033
+[06:26:10]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001033
+[06:26:10]:    2 file(s) removed
+[06:27:34]: Sim paused
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:49:36]: Sim unpaused
+[06:50:57]: Sim paused
+[06:51:32]: Sim unpaused
+[06:56:48]: Available disk space for save files: 23364 MB
+[06:56:48]: Serializing world: session/01EF7F7A1CFE0E43/0000001040
+[06:56:48]: Truncating to snapshot #1040...
+[06:56:48]:  - session/01EF7F7A1CFE0E43/0000001034
+[06:56:48]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001034
+[06:56:48]:    2 file(s) removed
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:04:49]: Available disk space for save files: 23359 MB
+[07:04:49]: Serializing world: session/01EF7F7A1CFE0E43/0000001041
+[07:04:49]: Truncating to snapshot #1041...
+[07:04:49]:  - session/01EF7F7A1CFE0E43/0000001035
+[07:04:49]:    1 file(s) removed
+[07:12:49]: Available disk space for save files: 23353 MB
+[07:12:50]: Serializing world: session/01EF7F7A1CFE0E43/0000001042
+[07:12:50]: Truncating to snapshot #1042...
+[07:12:50]:  - session/01EF7F7A1CFE0E43/0000001036
+[07:12:50]:    1 file(s) removed
+[07:20:50]: Available disk space for save files: 23348 MB
+[07:20:50]: Serializing world: session/01EF7F7A1CFE0E43/0000001043
+[07:20:50]: Truncating to snapshot #1043...
+[07:20:50]:  - session/01EF7F7A1CFE0E43/0000001037
+[07:20:50]:    1 file(s) removed
+[07:28:51]: Available disk space for save files: 23343 MB
+[07:28:51]: Serializing world: session/01EF7F7A1CFE0E43/0000001044
+[07:28:51]: Truncating to snapshot #1044...
+[07:28:51]:  - session/01EF7F7A1CFE0E43/0000001038
+[07:28:51]:    1 file(s) removed
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:36:52]: Available disk space for save files: 23338 MB
+[07:36:52]: Serializing world: session/01EF7F7A1CFE0E43/0000001045
+[07:36:52]: Truncating to snapshot #1045...
+[07:36:52]:  - session/01EF7F7A1CFE0E43/0000001039
+[07:36:52]:    1 file(s) removed
+[07:37:13]: Sim paused
+[07:38:07]: Sim unpaused
+[07:45:46]: Available disk space for save files: 23332 MB
+[07:45:47]: Serializing world: session/01EF7F7A1CFE0E43/0000001046
+[07:45:47]: Truncating to snapshot #1046...
+[07:45:47]:  - session/01EF7F7A1CFE0E43/0000001040
+[07:45:47]:    1 file(s) removed
+[07:47:58]: Sim paused
+[07:48:14]: Sim unpaused
+[07:54:03]: Available disk space for save files: 23327 MB
+[07:54:03]: Serializing world: session/01EF7F7A1CFE0E43/0000001047
+[07:54:03]: Truncating to snapshot #1047...
+[07:54:03]:  - session/01EF7F7A1CFE0E43/0000001041
+[07:54:03]:    1 file(s) removed
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:02:04]: Available disk space for save files: 23322 MB
+[08:02:04]: Serializing world: session/01EF7F7A1CFE0E43/0000001048
+[08:02:04]: Truncating to snapshot #1048...
+[08:02:04]:  - session/01EF7F7A1CFE0E43/0000001042
+[08:02:04]:    1 file(s) removed
+[08:10:04]: Available disk space for save files: 23317 MB
+[08:10:05]: Serializing world: session/01EF7F7A1CFE0E43/0000001049
+[08:10:05]: Truncating to snapshot #1049...
+[08:10:05]:  - session/01EF7F7A1CFE0E43/0000001043
+[08:10:05]:    1 file(s) removed
+[08:18:05]: Available disk space for save files: 23311 MB
+[08:18:06]: Serializing world: session/01EF7F7A1CFE0E43/0000001050
+[08:18:06]: Truncating to snapshot #1050...
+[08:18:06]:  - session/01EF7F7A1CFE0E43/0000001044
+[08:18:06]:    1 file(s) removed
+[08:26:07]: Available disk space for save files: 23306 MB
+[08:26:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001051
+[08:26:07]: Truncating to snapshot #1051...
+[08:26:07]:  - session/01EF7F7A1CFE0E43/0000001045
+[08:26:07]:    1 file(s) removed
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:34:07]: Available disk space for save files: 23301 MB
+[08:34:08]: Serializing world: session/01EF7F7A1CFE0E43/0000001052
+[08:34:08]: Truncating to snapshot #1052...
+[08:34:08]:  - session/01EF7F7A1CFE0E43/0000001046
+[08:34:08]:    1 file(s) removed
+[08:42:08]: Available disk space for save files: 23295 MB
+[08:42:08]: Serializing world: session/01EF7F7A1CFE0E43/0000001053
+[08:42:08]: Truncating to snapshot #1053...
+[08:42:08]:  - session/01EF7F7A1CFE0E43/0000001047
+[08:42:08]:    1 file(s) removed
+[08:50:09]: Available disk space for save files: 23289 MB
+[08:50:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001054
+[08:50:09]: Truncating to snapshot #1054...
+[08:50:09]:  - session/01EF7F7A1CFE0E43/0000001048
+[08:50:09]:    1 file(s) removed
+[08:58:10]: Available disk space for save files: 23284 MB
+[08:58:10]: Serializing world: session/01EF7F7A1CFE0E43/0000001055
+[08:58:10]: Truncating to snapshot #1055...
+[08:58:10]:  - session/01EF7F7A1CFE0E43/0000001049
+[08:58:10]:    1 file(s) removed
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:06:10]: Available disk space for save files: 23254 MB
+[09:06:11]: Serializing world: session/01EF7F7A1CFE0E43/0000001056
+[09:06:11]: Truncating to snapshot #1056...
+[09:06:11]:  - session/01EF7F7A1CFE0E43/0000001050
+[09:06:11]:    1 file(s) removed
+[09:14:12]: Available disk space for save files: 23248 MB
+[09:14:13]: Serializing world: session/01EF7F7A1CFE0E43/0000001057
+[09:14:13]: Truncating to snapshot #1057...
+[09:14:13]:  - session/01EF7F7A1CFE0E43/0000001051
+[09:14:13]:    1 file(s) removed
+[09:22:13]: Available disk space for save files: 23243 MB
+[09:22:13]: Serializing world: session/01EF7F7A1CFE0E43/0000001058
+[09:22:13]: Truncating to snapshot #1058...
+[09:22:13]:  - session/01EF7F7A1CFE0E43/0000001052
+[09:22:13]:    1 file(s) removed
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:18]: Available disk space for save files: 23238 MB
+[09:30:18]: Serializing world: session/01EF7F7A1CFE0E43/0000001059
+[09:30:18]: Truncating to snapshot #1059...
+[09:30:18]:  - session/01EF7F7A1CFE0E43/0000001053
+[09:30:18]:    1 file(s) removed
+[09:38:19]: Available disk space for save files: 23233 MB
+[09:38:19]: Serializing world: session/01EF7F7A1CFE0E43/0000001060
+[09:38:19]: Truncating to snapshot #1060...
+[09:38:19]:  - session/01EF7F7A1CFE0E43/0000001054
+[09:38:19]:    1 file(s) removed
+[09:46:24]: Available disk space for save files: 23228 MB
+[09:46:25]: Serializing world: session/01EF7F7A1CFE0E43/0000001061
+[09:46:25]: Truncating to snapshot #1061...
+[09:46:25]:  - session/01EF7F7A1CFE0E43/0000001055
+[09:46:25]:    1 file(s) removed
+[09:54:25]: Available disk space for save files: 23223 MB
+[09:54:25]: Serializing world: session/01EF7F7A1CFE0E43/0000001062
+[09:54:25]: Truncating to snapshot #1062...
+[09:54:25]:  - session/01EF7F7A1CFE0E43/0000001056
+[09:54:25]:    1 file(s) removed
+[10:00:05]: [200] Account Communication Success (6)
+[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:02:26]: Available disk space for save files: 23217 MB
+[10:02:26]: Serializing world: session/01EF7F7A1CFE0E43/0000001063
+[10:02:26]: Truncating to snapshot #1063...
+[10:02:26]:  - session/01EF7F7A1CFE0E43/0000001057
+[10:02:26]:    1 file(s) removed
+[10:10:27]: Available disk space for save files: 23212 MB
+[10:10:27]: Serializing world: session/01EF7F7A1CFE0E43/0000001064
+[10:10:27]: Truncating to snapshot #1064...
+[10:10:27]:  - session/01EF7F7A1CFE0E43/0000001058
+[10:10:27]:    1 file(s) removed
+[10:18:27]: Available disk space for save files: 23206 MB
+[10:18:28]: Serializing world: session/01EF7F7A1CFE0E43/0000001065
+[10:18:28]: Truncating to snapshot #1065...
+[10:18:28]:  - session/01EF7F7A1CFE0E43/0000001059
+[10:18:28]:    1 file(s) removed
+[10:26:28]: Available disk space for save files: 23201 MB
+[10:26:29]: Serializing world: session/01EF7F7A1CFE0E43/0000001066
+[10:26:29]: Truncating to snapshot #1066...
+[10:26:29]:  - session/01EF7F7A1CFE0E43/0000001060
+[10:26:29]:    1 file(s) removed
+[10:30:05]: [200] Account Communication Success (6)
+[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:34:29]: Available disk space for save files: 23195 MB
+[10:34:29]: Serializing world: session/01EF7F7A1CFE0E43/0000001067
+[10:34:29]: Truncating to snapshot #1067...
+[10:34:29]:  - session/01EF7F7A1CFE0E43/0000001061
+[10:34:29]:    1 file(s) removed
+[10:42:30]: Available disk space for save files: 23190 MB
+[10:42:30]: Serializing world: session/01EF7F7A1CFE0E43/0000001068
+[10:42:30]: Truncating to snapshot #1068...
+[10:42:30]:  - session/01EF7F7A1CFE0E43/0000001062
+[10:42:30]:    1 file(s) removed
+[10:50:31]: Available disk space for save files: 23185 MB
+[10:50:31]: Serializing world: session/01EF7F7A1CFE0E43/0000001069
+[10:50:31]: Truncating to snapshot #1069...
+[10:50:31]:  - session/01EF7F7A1CFE0E43/0000001063
+[10:50:31]:    1 file(s) removed
+[10:58:31]: Available disk space for save files: 23180 MB
+[10:58:32]: Serializing world: session/01EF7F7A1CFE0E43/0000001070
+[10:58:32]: Truncating to snapshot #1070...
+[10:58:32]:  - session/01EF7F7A1CFE0E43/0000001064
+[10:58:32]:    1 file(s) removed
+[11:00:05]: [200] Account Communication Success (6)
+[11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:06:32]: Available disk space for save files: 23174 MB
+[11:06:32]: Serializing world: session/01EF7F7A1CFE0E43/0000001071
+[11:06:32]: Truncating to snapshot #1071...
+[11:06:32]:  - session/01EF7F7A1CFE0E43/0000001065
+[11:06:32]:    1 file(s) removed
+[11:14:33]: Available disk space for save files: 23168 MB
+[11:14:33]: Serializing world: session/01EF7F7A1CFE0E43/0000001072
+[11:14:33]: Truncating to snapshot #1072...
+[11:14:33]:  - session/01EF7F7A1CFE0E43/0000001066
+[11:14:33]:    1 file(s) removed
+[11:22:34]: Available disk space for save files: 23163 MB
+[11:22:34]: Serializing world: session/01EF7F7A1CFE0E43/0000001073
+[11:22:34]: Truncating to snapshot #1073...
+[11:22:34]:  - session/01EF7F7A1CFE0E43/0000001067
+[11:22:34]:    1 file(s) removed
+[11:30:05]: [200] Account Communication Success (6)
+[11:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:30:34]: Available disk space for save files: 23158 MB
+[11:30:35]: Serializing world: session/01EF7F7A1CFE0E43/0000001074
+[11:30:35]: Truncating to snapshot #1074...
+[11:30:35]:  - session/01EF7F7A1CFE0E43/0000001068
+[11:30:35]:    1 file(s) removed
+[11:33:24]: [Shard] #14 -> session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001075
+[11:33:24]: [Shard] Received migration #14 data for (KU_521dUXRS)
+[11:33:31]: [P2P] Session request for '76561198865123068'
+[11:33:35]: [P2P] Create session: 152.161.199.210|1 '76561198865123068'
+[11:33:35]: [P2P] Received from 152.161.199.210|1 '76561198865123068'
+[11:33:35]: [P2P] Sent to 152.161.199.210|1 '76561198865123068'
+[11:33:37]: New incoming connection 152.161.199.210|1 <8115316611190607908>
+[11:33:37]: Client connected from 152.161.199.210|1 <8115316611190607908>
+[11:33:37]: ValidateGameSessionToken GUID<8115316611190607908>
+[11:33:37]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[11:33:37]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[11:33:38]: [Steam] Authenticated client '76561198865123068'
+[11:33:38]: [Shard] Completed incoming migration #14 for (KU_521dUXRS)
+[11:34:00]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001075
+[11:34:00]: Player will spawn close to portal #1	
+[11:34:00]: Spawning player at: [Load] (531.52, 0.00, 273.99)	
+[11:35:44]: Activating portal[1] to 1	
+[11:35:45]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001075
+[11:35:45]: [Shard] Migration request: (KU_521dUXRS) to [SHDMASTER](1)
+[11:35:45]: [Shard] #15 <- session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001075
+[11:35:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[11:35:45]: [Steam] SendUserDisconnect for '76561198865123068'
+[11:38:40]: Available disk space for save files: 23152 MB
+[11:38:40]: Serializing world: session/01EF7F7A1CFE0E43/0000001075
+[11:38:40]: Truncating to snapshot #1075...
+[11:38:40]:  - session/01EF7F7A1CFE0E43/0000001069
+[11:38:40]:    1 file(s) removed
+[11:45:47]: [P2P] Session timed out for '76561198865123068'
+[11:45:47]: [P2P] Remove session: 152.161.199.210|1 '76561198865123068'
+[11:46:41]: Available disk space for save files: 23147 MB
+[11:46:41]: Serializing world: session/01EF7F7A1CFE0E43/0000001076
+[11:46:41]: Truncating to snapshot #1076...
+[11:46:41]:  - session/01EF7F7A1CFE0E43/0000001070
+[11:46:41]:    1 file(s) removed
+[11:52:50]: Sim paused
+[12:00:05]: [200] Account Communication Success (6)
+[12:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:30:05]: [200] Account Communication Success (6)
+[12:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:00:06]: [200] Account Communication Success (6)
+[13:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:03:52]: Sim unpaused
+[13:05:52]: Available disk space for save files: 23114 MB
+[13:05:53]: Serializing world: session/01EF7F7A1CFE0E43/0000001077
+[13:05:53]: Truncating to snapshot #1077...
+[13:05:53]:  - session/01EF7F7A1CFE0E43/0000001071
+[13:05:53]:    1 file(s) removed
+[13:13:53]: Available disk space for save files: 23109 MB
+[13:13:53]: Serializing world: session/01EF7F7A1CFE0E43/0000001078
+[13:13:53]: Truncating to snapshot #1078...
+[13:13:53]:  - session/01EF7F7A1CFE0E43/0000001072
+[13:13:53]:    1 file(s) removed
+[13:21:54]: Available disk space for save files: 23104 MB
+[13:21:54]: Serializing world: session/01EF7F7A1CFE0E43/0000001079
+[13:21:54]: Truncating to snapshot #1079...
+[13:21:54]:  - session/01EF7F7A1CFE0E43/0000001073
+[13:21:54]:    1 file(s) removed
+[13:29:55]: Available disk space for save files: 23099 MB
+[13:29:55]: Serializing world: session/01EF7F7A1CFE0E43/0000001080
+[13:29:55]: Truncating to snapshot #1080...
+[13:29:55]:  - session/01EF7F7A1CFE0E43/0000001074
+[13:29:55]:  - session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000000838
+[13:29:55]:    2 file(s) removed
+[13:30:05]: [200] Account Communication Success (6)
+[13:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:33:30]: Sim paused
+[14:00:05]: [200] Account Communication Success (6)
+[14:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:30:05]: [200] Account Communication Success (6)
+[14:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:00:06]: [200] Account Communication Success (6)
+[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:30:05]: [200] Account Communication Success (6)
+[15:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:00:05]: [200] Account Communication Success (6)
+[16:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:20:22]: Sim unpaused
+[16:24:48]: Available disk space for save files: 23086 MB
+[16:24:48]: Serializing world: session/01EF7F7A1CFE0E43/0000001081
+[16:24:48]: Truncating to snapshot #1081...
+[16:24:48]:  - session/01EF7F7A1CFE0E43/0000001075
+[16:24:48]:    1 file(s) removed
+[16:25:43]: Sim paused
+[16:26:01]: Sim unpaused
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:33:07]: Available disk space for save files: 23081 MB
+[16:33:07]: Serializing world: session/01EF7F7A1CFE0E43/0000001082
+[16:33:07]: Truncating to snapshot #1082...
+[16:33:07]:  - session/01EF7F7A1CFE0E43/0000001076
+[16:33:07]:    1 file(s) removed
+[16:41:07]: Available disk space for save files: 23076 MB
+[16:41:08]: Serializing world: session/01EF7F7A1CFE0E43/0000001083
+[16:41:08]: Truncating to snapshot #1083...
+[16:41:08]:  - session/01EF7F7A1CFE0E43/0000001077
+[16:41:08]:    1 file(s) removed
+[16:49:08]: Available disk space for save files: 23071 MB
+[16:49:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001084
+[16:49:09]: Truncating to snapshot #1084...
+[16:49:09]:  - session/01EF7F7A1CFE0E43/0000001078
+[16:49:09]:    1 file(s) removed
+[16:57:09]: Available disk space for save files: 23065 MB
+[16:57:09]: Serializing world: session/01EF7F7A1CFE0E43/0000001085
+[16:57:09]: Truncating to snapshot #1085...
+[16:57:09]:  - session/01EF7F7A1CFE0E43/0000001079
+[16:57:09]:    1 file(s) removed
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:05:10]: Available disk space for save files: 23060 MB
+[17:05:10]: Serializing world: session/01EF7F7A1CFE0E43/0000001086
+[17:05:10]: Truncating to snapshot #1086...
+[17:05:10]:  - session/01EF7F7A1CFE0E43/0000001080
+[17:05:10]:    1 file(s) removed
+[17:13:11]: Available disk space for save files: 23055 MB
+[17:13:11]: Serializing world: session/01EF7F7A1CFE0E43/0000001087
+[17:13:11]: Truncating to snapshot #1087...
+[17:13:11]:  - session/01EF7F7A1CFE0E43/0000001081
+[17:13:11]:    1 file(s) removed
+[17:14:40]: [Shard] #16 -> session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001088
+[17:14:40]: [Shard] Received migration #16 data for (KU_GNdCoYNE)
+[17:14:42]: [P2P] Session request for '76561199104252985'
+[17:14:47]: [P2P] Create session: 152.161.199.211|1 '76561199104252985'
+[17:14:47]: [P2P] Received from 152.161.199.211|1 '76561199104252985'
+[17:14:47]: [P2P] Sent to 152.161.199.211|1 '76561199104252985'
+[17:14:48]: New incoming connection 152.161.199.211|1 <6417656119474286546>
+[17:14:48]: Client connected from 152.161.199.211|1 <6417656119474286546>
+[17:14:48]: ValidateGameSessionToken GUID<6417656119474286546>
+[17:14:49]: Client authenticated: (KU_GNdCoYNE) Carrot
+[17:14:49]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[17:14:49]: [Steam] Authenticated client '76561199104252985'
+[17:14:49]: [Shard] Completed incoming migration #16 for (KU_GNdCoYNE)
+[17:14:58]: Resuming user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001088
+[17:14:58]: Player will spawn close to portal #1	
+[17:14:58]: Spawning player at: [Load] (530.86, 0.00, 273.86)	
+[17:15:19]: [Shard] #17 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001088
+[17:15:19]: [Shard] Received migration #17 data for (KU_RR3k3C2b)
+[17:15:25]: [P2P] Create session: 152.161.199.212|1 '76561199349123785'
+[17:15:25]: [P2P] Received from 152.161.199.212|1 '76561199349123785'
+[17:15:25]: [P2P] Sent to 152.161.199.212|1 '76561199349123785'
+[17:15:26]: New incoming connection 152.161.199.212|1 <4780050275382261472>
+[17:15:26]: Client connected from 152.161.199.212|1 <4780050275382261472>
+[17:15:26]: ValidateGameSessionToken GUID<4780050275382261472>
+[17:15:27]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[17:15:27]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[17:15:27]: [Steam] Authenticated client '76561199349123785'
+[17:15:27]: [Shard] Completed incoming migration #17 for (KU_RR3k3C2b)
+[17:15:35]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001088
+[17:15:35]: Player will spawn close to portal #1	
+[17:15:35]: Spawning player at: [Load] (533.85, 0.00, 270.26)	
+[17:20:18]: KU_RR3k3C2b	running text command:	toast	true	
+[17:21:11]: Available disk space for save files: 23049 MB
+[17:21:11]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001088
+[17:21:11]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001088
+[17:21:12]: Serializing world: session/01EF7F7A1CFE0E43/0000001088
+[17:22:00]: KU_RR3k3C2b	running text command:	wave	true	
+[17:22:15]: KU_GNdCoYNE	running text command:	wave	true	
+[17:22:23]: KU_GNdCoYNE	running text command:	sit	true	
+[17:22:36]: KU_GNdCoYNE	running text command:	carol	true	
+[17:23:52]: KU_RR3k3C2b	running text command:	squat	true	
+[17:23:55]: KU_RR3k3C2b	running text command:	pose	true	
+[17:23:59]: KU_RR3k3C2b	running text command:	pose	true	
+[17:24:02]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:24:05]: KU_RR3k3C2b	running text command:	bonesaw	true	
+[17:24:08]: KU_RR3k3C2b	running text command:	happy	true	
+[17:24:10]: KU_RR3k3C2b	running text command:	angry	true	
+[17:24:12]: KU_RR3k3C2b	running text command:	sit	true	
+[17:24:23]: KU_RR3k3C2b	running text command:	angry	true	
+[17:24:28]: KU_RR3k3C2b	running text command:	angry	true	
+[17:24:37]: KU_GNdCoYNE	running text command:	carol	true	
+[17:25:31]: KU_RR3k3C2b	running text command:	happy	true	
+[17:25:32]: KU_RR3k3C2b	running text command:	joy	true	
+[17:25:39]: KU_RR3k3C2b	running text command:	joy	true	
+[17:25:45]: KU_RR3k3C2b	running text command:	dance	true	
+[17:25:47]: KU_RR3k3C2b	running text command:	toast	true	
+[17:26:23]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:23]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:24]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:26]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:27]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:27]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:28]: KU_RR3k3C2b	running text command:	kiss	true	
+[17:26:30]: KU_RR3k3C2b	running text command:	rude	true	
+[17:26:30]: KU_RR3k3C2b	running text command:	no	true	
+[17:26:31]: KU_RR3k3C2b	running text command:	joy	true	
+[17:26:32]: KU_RR3k3C2b	running text command:	cry	true	
+[17:26:33]: KU_RR3k3C2b	running text command:	toast	true	
+[17:26:34]: KU_RR3k3C2b	running text command:	squat	true	
+[17:26:37]: KU_RR3k3C2b	running text command:	bonesaw	true	
+[17:27:04]: KU_RR3k3C2b	running text command:	rude	true	
+[17:27:21]: KU_GNdCoYNE	running text command:	carol	true	
+[17:28:39]: KU_GNdCoYNE	running text command:	sit	true	
+[17:29:07]: KU_RR3k3C2b	running text command:	angry	true	
+[17:29:12]: Available disk space for save files: 23325 MB
+[17:29:12]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001089
+[17:29:12]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001089
+[17:29:12]: Serializing world: session/01EF7F7A1CFE0E43/0000001089
+[17:29:24]: KU_GNdCoYNE	running text command:	dance	true	
+[17:29:41]: KU_RR3k3C2b	running text command:	angry	true	
+[17:29:56]: KU_RR3k3C2b	running text command:	angry	true	
+[17:29:59]: KU_RR3k3C2b	running text command:	angry	true	
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:30:06]: KU_RR3k3C2b	running text command:	rude	true	
+[17:30:33]: KU_RR3k3C2b	running text command:	squat	true	
+[17:30:37]: KU_RR3k3C2b	running text command:	sit	true	
+[17:31:07]: KU_RR3k3C2b	running text command:	sit	true	
+[17:32:41]: KU_RR3k3C2b	running text command:	joy	true	
+[17:33:04]: KU_RR3k3C2b	running text command:	toast	true	
+[17:34:05]: KU_RR3k3C2b	running text command:	toast	true	
+[17:35:51]: KU_GNdCoYNE	running text command:	carol	true	
+[17:36:20]: KU_RR3k3C2b	running text command:	joy	true	
+[17:37:13]: Available disk space for save files: 23321 MB
+[17:37:13]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001090
+[17:37:13]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001090
+[17:37:13]: Serializing world: session/01EF7F7A1CFE0E43/0000001090
+[17:45:14]: Available disk space for save files: 23318 MB
+[17:45:14]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001091
+[17:45:14]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001091
+[17:45:14]: Serializing world: session/01EF7F7A1CFE0E43/0000001091
+[17:47:37]: [Steam] SendUserDisconnect for '76561199104252985'
+[17:47:37]: Connection lost to 152.161.199.211|1 <6417656119474286546>
+[17:47:37]: Serializing user: session/01EF7F7A1CFE0E43/A7I1F76CK9EE/0000001092
+[17:48:06]: Activating portal[1] to 1	
+[17:48:07]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001092
+[17:48:07]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[17:48:07]: [Shard] #18 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001092
+[17:48:07]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[17:48:07]: [Steam] SendUserDisconnect for '76561199349123785'
+[17:48:07]: [P2P] Connection failed for '76561199104252985'
+[17:53:15]: Available disk space for save files: 23315 MB
+[17:53:15]: Serializing world: session/01EF7F7A1CFE0E43/0000001092
+[17:53:15]: Truncating to snapshot #1092...
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001082
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001085
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001084
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001086
+[17:53:15]:  - session/01EF7F7A1CFE0E43/0000001083
+[17:53:15]:    5 file(s) removed
+[17:57:37]: [P2P] Session timed out for '76561199104252985'
+[17:57:37]: [P2P] Remove session: 152.161.199.211|1 '76561199104252985'
+[17:58:08]: [P2P] Session timed out for '76561199349123785'
+[17:58:08]: [P2P] Remove session: 152.161.199.212|1 '76561199349123785'
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:01:00]: Sim paused
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:00:06]: [200] Account Communication Success (6)
+[21:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:30:06]: [200] Account Communication Success (6)
+[21:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:00:06]: [200] Account Communication Success (6)
+[22:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:30:06]: [200] Account Communication Success (6)
+[22:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:00:06]: [200] Account Communication Success (6)
+[23:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:30:06]: [200] Account Communication Success (6)
+[23:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
