@@ -1989,3 +1989,279 @@ Resurrection is always available via the Florid Postern.
 [08:58:38]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001163
 [08:58:38]: Player will spawn close to portal #1	
 [08:58:38]: Spawning player at: [Load] (-198.87, 0.00, 94.92)	
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:00:12]: Available disk space for save files: 23706 MB
+[09:00:12]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001163
+[09:00:13]: Serializing world: session/2CE9191ADB245DC6/0000001163
+[09:00:24]: Could not find anim build FROMNUM
+[09:00:38]: Could not find anim build FROMNUM
+[09:00:41]: Could not find anim build FROMNUM
+[09:01:24]: Could not find anim build FROMNUM
+[09:01:30]: Could not find anim build FROMNUM
+[09:01:33]: Could not find anim build FROMNUM
+[09:01:38]: Could not find anim build FROMNUM
+[09:01:53]: Activating portal[1] to 2248507758	
+[09:01:53]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001164
+[09:01:53]: [Shard] Migration request: (KU_RR3k3C2b) to Caves(2248507758)
+[09:01:53]: [Shard] Begin migration #3 for (KU_RR3k3C2b)
+[09:01:53]: [Shard] #3 [SHDMASTER](1) -> Caves(2248507758)
+[09:01:53]: [Shard] #3 <- session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001164
+[09:01:53]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[09:01:53]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[09:01:53]: [Steam] SendUserDisconnect for '76561199349123785'
+[09:01:53]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[09:02:04]: [Shard] Completed migration #3 for player (KU_RR3k3C2b)
+[09:08:13]: Available disk space for save files: 23701 MB
+[09:08:14]: Serializing world: session/2CE9191ADB245DC6/0000001164
+[09:08:14]: Truncating to snapshot #1164...
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001141
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001155
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001156
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001150
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001145
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001148
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001151
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001140
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001142
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001149
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001143
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001144
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001158
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001153
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001157
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001146
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001147
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001154
+[09:08:14]:  - session/2CE9191ADB245DC6/0000001152
+[09:08:14]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000001144
+[09:08:14]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000001143
+[09:08:14]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000001142
+[09:08:14]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000001141
+[09:08:14]:  - session/2CE9191ADB245DC6/A7ME856BB8GL/0000001140
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001158
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001157
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001156
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001155
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001154
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001153
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001152
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001151
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001150
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001149
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001148
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001147
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001146
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001145
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001144
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001143
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001142
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001141
+[09:08:14]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001140
+[09:08:14]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001144
+[09:08:14]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001143
+[09:08:14]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001142
+[09:08:14]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001141
+[09:08:14]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001140
+[09:08:14]:    48 file(s) removed
+[09:08:14]:  > session/2CE9191ADB245DC6/A7KETNLVVD7D/savelocation
+[09:08:14]:    1 file(s) updated
+[09:11:56]: [P2P] Session timed out for '76561199349123785'
+[09:11:56]: [P2P] Remove session: 212.97.10.220|1 '76561199349123785'
+[09:12:55]: [Shard] Begin migration #4 for (KU_RR3k3C2b)
+[09:12:55]: [Shard] #4 Caves(2248507758) -> [SHDMASTER](1)
+[09:12:55]: [Shard] #4 -> session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001165
+[09:12:55]: [Shard] Received migration #4 data for (KU_RR3k3C2b)
+[09:12:55]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[09:12:55]: [Shard] (KU_RR3k3C2b) disconnected from Caves(2248507758)
+[09:13:01]: [P2P] Create session: 212.97.10.221|1 '76561199349123785'
+[09:13:01]: [P2P] Received from 212.97.10.221|1 '76561199349123785'
+[09:13:01]: [P2P] Sent to 212.97.10.221|1 '76561199349123785'
+[09:13:03]: New incoming connection 212.97.10.221|1 <8562000549143281591>
+[09:13:03]: Client connected from 212.97.10.221|1 <8562000549143281591>
+[09:13:03]: ValidateGameSessionToken GUID<8562000549143281591>
+[09:13:03]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[09:13:03]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[09:13:04]: [Steam] Authenticated client '76561199349123785'
+[09:13:04]: [Shard] Completed incoming migration #4 for (KU_RR3k3C2b)
+[09:13:04]: [Shard] Completed migration #4 for player (KU_RR3k3C2b)
+[09:13:15]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001165
+[09:13:15]: Player will spawn close to portal #1	
+[09:13:15]: Spawning player at: [Load] (-196.41, 0.00, 93.27)	
+[09:13:33]: Could not find anim build FROMNUM
+[09:13:49]: Could not find anim build FROMNUM
+[09:14:00]: Could not find anim build FROMNUM
+[09:14:19]: Could not find anim build FROMNUM
+[09:14:23]: Could not find anim build FROMNUM
+[09:14:27]: Could not find anim build FROMNUM
+[09:16:14]: Available disk space for save files: 23794 MB
+[09:16:14]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001165
+[09:16:15]: Serializing world: session/2CE9191ADB245DC6/0000001165
+[09:17:23]: Could not find anim build FROMNUM
+[09:17:28]: Could not find anim build FROMNUM
+[09:17:33]: Could not find anim build FROMNUM
+[09:17:49]: Could not find anim build FROMNUM
+[09:18:26]: Could not find anim build FROMNUM
+[09:18:29]: Could not find anim build FROMNUM
+[09:18:36]: Could not find anim build FROMNUM
+[09:19:10]: Could not find anim build FROMNUM
+[09:19:25]: Could not find anim build FROMNUM
+[09:19:37]: Could not find anim build FROMNUM
+[09:19:37]: Could not find anim build FROMNUM
+[09:19:40]: Could not find anim build FROMNUM
+[09:20:00]: Could not find anim build FROMNUM
+[09:20:04]: Could not find anim build FROMNUM
+[09:20:14]: Could not find anim build FROMNUM
+[09:20:30]: Could not find anim build FROMNUM
+[09:21:13]: Could not find anim build FROMNUM
+[09:21:24]: Could not find anim build FROMNUM
+[09:21:41]: Could not find anim build FROMNUM
+[09:21:41]: Could not find anim build FROMNUM
+[09:21:54]: Could not find anim build FROMNUM
+[09:21:56]: Could not find anim build FROMNUM
+[09:22:03]: Could not find anim build FROMNUM
+[09:22:09]: Could not find anim build FROMNUM
+[09:22:13]: Could not find anim build FROMNUM
+[09:22:17]: Could not find anim build FROMNUM
+[09:22:30]: Could not find anim build FROMNUM
+[09:23:12]: Could not find anim build FROMNUM
+[09:23:42]: Could not find anim build FROMNUM
+[09:24:06]: Could not find anim build FROMNUM
+[09:24:09]: Could not find anim build FROMNUM
+[09:24:12]: Could not find anim build FROMNUM
+[09:24:15]: Available disk space for save files: 23792 MB
+[09:24:15]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001166
+[09:24:15]: Serializing world: session/2CE9191ADB245DC6/0000001166
+[09:24:18]: Could not find anim build FROMNUM
+[09:24:22]: Could not find anim build FROMNUM
+[09:24:25]: Could not find anim build FROMNUM
+[09:24:34]: Could not find anim build FROMNUM
+[09:24:41]: Could not find anim build FROMNUM
+[09:24:41]: Could not find anim build FROMNUM
+[09:24:45]: Could not find anim build FROMNUM
+[09:24:53]: Could not find anim build FROMNUM
+[09:24:56]: Could not find anim build FROMNUM
+[09:25:28]: Could not find anim build FROMNUM
+[09:25:39]: Could not find anim build FROMNUM
+[09:25:49]: Could not find anim build FROMNUM
+[09:25:51]: Could not find anim build FROMNUM
+[09:25:53]: Could not find anim build FROMNUM
+[09:25:53]: Could not find anim build FROMNUM
+[09:25:57]: Could not find anim build FROMNUM
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:32:15]: Available disk space for save files: 23787 MB
+[09:32:16]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001167
+[09:32:16]: Serializing world: session/2CE9191ADB245DC6/0000001167
+[09:40:12]: Could not find anim build FROMNUM
+[09:40:14]: Could not find anim build FROMNUM
+[09:40:16]: Available disk space for save files: 23781 MB
+[09:40:17]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001168
+[09:40:17]: Serializing world: session/2CE9191ADB245DC6/0000001168
+[09:40:19]: Could not find anim build FROMNUM
+[09:40:23]: Could not find anim build FROMNUM
+[09:40:29]: Could not find anim build FROMNUM
+[09:40:32]: Could not find anim build FROMNUM
+[09:40:40]: Could not find anim build FROMNUM
+[09:40:42]: Could not find anim build FROMNUM
+[09:40:51]: Could not find anim build FROMNUM
+[09:41:03]: Could not find anim build FROMNUM
+[09:41:06]: Could not find anim build FROMNUM
+[09:41:08]: Could not find anim build FROMNUM
+[09:41:16]: Could not find anim build FROMNUM
+[09:41:23]: Could not find anim build FROMNUM
+[09:47:20]: Could not find anim build FROMNUM
+[09:47:28]: Could not find anim build FROMNUM
+[09:47:57]: Could not find anim build FROMNUM
+[09:48:00]: Could not find anim build FROMNUM
+[09:48:08]: Could not find anim build FROMNUM
+[09:48:17]: Available disk space for save files: 23776 MB
+[09:48:17]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001169
+[09:48:18]: Serializing world: session/2CE9191ADB245DC6/0000001169
+[09:49:19]: Could not find anim build FROMNUM
+[09:49:23]: Could not find anim build FROMNUM
+[09:49:26]: Could not find anim build FROMNUM
+[09:49:28]: Could not find anim build FROMNUM
+[09:49:35]: Could not find anim build FROMNUM
+[09:49:36]: Could not find anim build FROMNUM
+[09:51:30]: Could not find anim build FROMNUM
+[09:51:34]: Could not find anim build FROMNUM
+[09:52:04]: Could not find anim build FROMNUM
+[09:52:06]: Could not find anim build FROMNUM
+[09:52:07]: Could not find anim build FROMNUM
+[09:52:10]: Could not find anim build FROMNUM
+[09:56:18]: Available disk space for save files: 23771 MB
+[09:56:18]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001170
+[09:56:19]: Serializing world: session/2CE9191ADB245DC6/0000001170
+[09:59:00]: Could not find anim build FROMNUM
+[09:59:06]: Could not find anim build FROMNUM
+[09:59:21]: Could not find anim build FROMNUM
+[10:00:05]: [200] Account Communication Success (6)
+[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:34]: Could not find anim build FROMNUM
+[10:00:48]: Could not find anim build FROMNUM
+[10:00:50]: Could not find anim build FROMNUM
+[10:00:56]: Activating portal[1] to 2248507758	
+[10:00:56]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001171
+[10:00:56]: [Shard] Migration request: (KU_RR3k3C2b) to Caves(2248507758)
+[10:00:56]: [Shard] Begin migration #5 for (KU_RR3k3C2b)
+[10:00:56]: [Shard] #5 [SHDMASTER](1) -> Caves(2248507758)
+[10:00:56]: [Shard] #5 <- session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001171
+[10:00:56]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[10:00:56]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[10:00:56]: [Steam] SendUserDisconnect for '76561199349123785'
+[10:00:56]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[10:01:05]: [Shard] Completed migration #5 for player (KU_RR3k3C2b)
+[10:02:20]: [Shard] Begin migration #6 for (KU_RR3k3C2b)
+[10:02:20]: [Shard] #6 Caves(2248507758) -> [SHDMASTER](1)
+[10:02:20]: [Shard] #6 -> session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001171
+[10:02:20]: [Shard] Received migration #6 data for (KU_RR3k3C2b)
+[10:02:20]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[10:02:20]: [Shard] (KU_RR3k3C2b) disconnected from Caves(2248507758)
+[10:02:22]: [P2P] Received from 212.97.10.221|1 '76561199349123785'
+[10:02:22]: [P2P] Sent to 212.97.10.221|1 '76561199349123785'
+[10:02:23]: New incoming connection 212.97.10.221|1 <184132259551589759>
+[10:02:23]: Client connected from 212.97.10.221|1 <184132259551589759>
+[10:02:23]: ValidateGameSessionToken GUID<184132259551589759>
+[10:02:24]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[10:02:24]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[10:02:24]: [Steam] Authenticated client '76561199349123785'
+[10:02:24]: [Shard] Completed incoming migration #6 for (KU_RR3k3C2b)
+[10:02:24]: [Shard] Completed migration #6 for player (KU_RR3k3C2b)
+[10:02:36]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001171
+[10:02:36]: Player will spawn close to portal #1	
+[10:02:36]: Spawning player at: [Load] (-196.03, 0.00, 94.61)	
+[10:02:48]: Could not find anim build FROMNUM
+[10:02:51]: Could not find anim build FROMNUM
+[10:02:55]: Could not find anim build FROMNUM
+[10:02:59]: Could not find anim build FROMNUM
+[10:03:04]: Could not find anim build FROMNUM
+[10:03:18]: Could not find anim build FROMNUM
+[10:03:25]: Could not find anim build FROMNUM
+[10:04:20]: Available disk space for save files: 23765 MB
+[10:04:20]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001171
+[10:04:20]: Serializing world: session/2CE9191ADB245DC6/0000001171
+[10:06:37]: Could not find anim [breach_pst] in bank [lunarthrall_plant_vine_big]
+[10:07:19]: Could not find anim build FROMNUM
+[10:07:37]: Could not find anim build FROMNUM
+[10:07:43]: Could not find anim build FROMNUM
+[10:09:01]: Could not find anim build FROMNUM
+[10:09:05]: Could not find anim build FROMNUM
+[10:10:08]: Could not find anim build FROMNUM
+[10:10:40]: Could not find anim build FROMNUM
+[10:10:42]: Could not find anim build FROMNUM
+[10:10:53]: Could not find anim build FROMNUM
+[10:11:07]: [Steam] SendUserDisconnect for '76561199349123785'
+[10:11:07]: Connection lost to 212.97.10.221|1 <184132259551589759>
+[10:11:07]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[10:11:08]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001172
+[10:11:08]: Sim paused
+[10:12:03]: [P2P] Connection failed for '76561199349123785'
+[10:21:07]: [P2P] Session timed out for '76561199349123785'
+[10:21:07]: [P2P] Remove session: 212.97.10.221|1 '76561199349123785'
+[10:30:05]: [200] Account Communication Success (6)
+[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:05]: [200] Account Communication Success (6)
+[11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:30:05]: [200] Account Communication Success (6)
+[11:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose

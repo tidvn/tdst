@@ -1270,3 +1270,108 @@
 [08:58:18]: [Shard] #2 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001163
 [08:58:18]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [08:58:19]: [Steam] SendUserDisconnect for '76561199349123785'
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:00:12]: Available disk space for save files: 23706 MB
+[09:00:12]: Serializing world: session/01EF7F7A1CFE0E43/0000001163
+[09:00:12]: Truncating to snapshot #1163...
+[09:00:12]:  - session/01EF7F7A1CFE0E43/0000001157
+[09:00:12]:    1 file(s) removed
+[09:01:53]: [Shard] #3 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001164
+[09:01:53]: [Shard] Received migration #3 data for (KU_RR3k3C2b)
+[09:02:01]: [P2P] Received from 212.96.84.51|1 '76561199349123785'
+[09:02:01]: [P2P] Sent to 212.96.84.51|1 '76561199349123785'
+[09:02:03]: New incoming connection 212.96.84.51|1 <9008711325815007386>
+[09:02:03]: Client connected from 212.96.84.51|1 <9008711325815007386>
+[09:02:03]: ValidateGameSessionToken GUID<9008711325815007386>
+[09:02:03]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[09:02:03]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[09:02:04]: [Steam] Authenticated client '76561199349123785'
+[09:02:04]: [Shard] Completed incoming migration #3 for (KU_RR3k3C2b)
+[09:02:11]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001164
+[09:02:11]: Player will spawn close to portal #1	
+[09:02:11]: Spawning player at: [Load] (534.18, 0.00, 271.37)	
+[09:08:13]: Available disk space for save files: 23701 MB
+[09:08:13]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001164
+[09:08:13]: Serializing world: session/01EF7F7A1CFE0E43/0000001164
+[09:12:55]: Activating portal[1] to 1	
+[09:12:55]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001165
+[09:12:55]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[09:12:55]: [Shard] #4 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001165
+[09:12:55]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[09:12:55]: [Steam] SendUserDisconnect for '76561199349123785'
+[09:16:14]: Available disk space for save files: 23794 MB
+[09:16:14]: Serializing world: session/01EF7F7A1CFE0E43/0000001165
+[09:16:14]: Truncating to snapshot #1165...
+[09:16:14]:  - session/01EF7F7A1CFE0E43/0000001158
+[09:16:14]:  - session/01EF7F7A1CFE0E43/0000001159
+[09:16:14]:    2 file(s) removed
+[09:22:56]: [P2P] Session timed out for '76561199349123785'
+[09:22:56]: [P2P] Remove session: 212.96.84.51|1 '76561199349123785'
+[09:24:15]: Available disk space for save files: 23792 MB
+[09:24:15]: Serializing world: session/01EF7F7A1CFE0E43/0000001166
+[09:24:15]: Truncating to snapshot #1166...
+[09:24:15]:  - session/01EF7F7A1CFE0E43/0000001160
+[09:24:15]:    1 file(s) removed
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:32:15]: Available disk space for save files: 23787 MB
+[09:32:16]: Serializing world: session/01EF7F7A1CFE0E43/0000001167
+[09:32:16]: Truncating to snapshot #1167...
+[09:32:16]:  - session/01EF7F7A1CFE0E43/0000001161
+[09:32:16]:    1 file(s) removed
+[09:40:16]: Available disk space for save files: 23781 MB
+[09:40:17]: Serializing world: session/01EF7F7A1CFE0E43/0000001168
+[09:40:17]: Truncating to snapshot #1168...
+[09:40:17]:  - session/01EF7F7A1CFE0E43/0000001162
+[09:40:17]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001143
+[09:40:17]:    2 file(s) removed
+[09:48:17]: Available disk space for save files: 23776 MB
+[09:48:17]: Serializing world: session/01EF7F7A1CFE0E43/0000001169
+[09:48:17]: Truncating to snapshot #1169...
+[09:48:17]:  - session/01EF7F7A1CFE0E43/0000001163
+[09:48:17]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001163
+[09:48:17]:    2 file(s) removed
+[09:56:18]: Available disk space for save files: 23771 MB
+[09:56:18]: Serializing world: session/01EF7F7A1CFE0E43/0000001170
+[09:56:18]: Truncating to snapshot #1170...
+[09:56:18]:  - session/01EF7F7A1CFE0E43/0000001164
+[09:56:18]:  - session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001164
+[09:56:18]:    2 file(s) removed
+[10:00:05]: [200] Account Communication Success (6)
+[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:56]: [Shard] #5 -> session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001171
+[10:00:56]: [Shard] Received migration #5 data for (KU_RR3k3C2b)
+[10:01:03]: [P2P] Create session: 212.96.84.52|1 '76561199349123785'
+[10:01:03]: [P2P] Received from 212.96.84.52|1 '76561199349123785'
+[10:01:03]: [P2P] Sent to 212.96.84.52|1 '76561199349123785'
+[10:01:04]: New incoming connection 212.96.84.52|1 <8850814615848813868>
+[10:01:04]: Client connected from 212.96.84.52|1 <8850814615848813868>
+[10:01:04]: ValidateGameSessionToken GUID<8850814615848813868>
+[10:01:05]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[10:01:05]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[10:01:05]: [Steam] Authenticated client '76561199349123785'
+[10:01:05]: [Shard] Completed incoming migration #5 for (KU_RR3k3C2b)
+[10:01:13]: Resuming user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001171
+[10:01:13]: Player will spawn close to portal #1	
+[10:01:13]: Spawning player at: [Load] (529.18, 0.00, 271.38)	
+[10:02:20]: Activating portal[1] to 1	
+[10:02:20]: Serializing user: session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001171
+[10:02:20]: [Shard] Migration request: (KU_RR3k3C2b) to [SHDMASTER](1)
+[10:02:20]: [Shard] #6 <- session/01EF7F7A1CFE0E43/A7JDM3N0PG55/0000001171
+[10:02:20]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[10:02:20]: [Steam] SendUserDisconnect for '76561199349123785'
+[10:04:20]: Available disk space for save files: 23765 MB
+[10:04:20]: Serializing world: session/01EF7F7A1CFE0E43/0000001171
+[10:04:20]: Truncating to snapshot #1171...
+[10:04:20]:  - session/01EF7F7A1CFE0E43/0000001165
+[10:04:20]:    1 file(s) removed
+[10:11:08]: Sim paused
+[10:12:22]: [P2P] Session timed out for '76561199349123785'
+[10:12:22]: [P2P] Remove session: 212.96.84.52|1 '76561199349123785'
+[10:30:05]: [200] Account Communication Success (6)
+[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:05]: [200] Account Communication Success (6)
+[11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:30:05]: [200] Account Communication Success (6)
+[11:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
