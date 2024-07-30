@@ -5733,3 +5733,551 @@ Resurrection is always available via the Florid Postern.
 [17:58:20]: Stale Component Reference: GUID 343177, scripts/entityscript.lua:1255
 [17:58:36]: static:	true	
 [17:58:36]: static:	true	
+[17:59:36]: Could not find anim build FROMNUM
+[17:59:39]: Could not find anim build FROMNUM
+[17:59:40]: Could not find anim build FROMNUM
+[17:59:40]: Could not find anim build FROMNUM
+[17:59:58]: Available disk space for save files: 23565 MB
+[17:59:58]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001199
+[17:59:59]: Serializing world: session/2CE9191ADB245DC6/0000001199
+[18:00:02]: Deleting user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:00:02]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:00:05]: [200] Account Communication Success (6)
+[18:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:00:10]: Spawn request: winona from Thaus Anh
+[18:00:10]: Skin request: () (body_wathgrithr_yule) (hand_woodie_yule) (legs_wormwood_shadow) ()
+[18:00:10]: Skill Selection request: 50843576
+[18:00:10]: Spawning player at: [Fixed] (-92.00, 0.00, 196.00)	
+[18:00:10]: Enabling Spawn Protection for	344529 - winona	
+[18:00:10]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:00:51]: Could not find anim build FROMNUM
+[18:01:31]: Could not find anim build FROMNUM
+[18:01:37]: Could not find anim build FROMNUM
+[18:01:48]: Activating portal[1] to 2248507758	
+[18:01:48]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:01:48]: [Shard] Migration request: (KU_RR3k3C2b) to Caves(2248507758)
+[18:01:48]: [Shard] Begin migration #14 for (KU_RR3k3C2b)
+[18:01:48]: [Shard] #14 [SHDMASTER](1) -> Caves(2248507758)
+[18:01:48]: [Shard] #14 <- session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:01:48]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[18:01:48]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[18:01:48]: [Steam] SendUserDisconnect for '76561199349123785'
+[18:01:48]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[18:01:57]: [Shard] Completed migration #14 for player (KU_RR3k3C2b)
+[18:04:32]: [Shard] Begin migration #15 for (KU_GNdCoYNE)
+[18:04:32]: [Shard] #15 Caves(2248507758) -> [SHDMASTER](1)
+[18:04:32]: [Shard] #15 -> session/2CE9191ADB245DC6/A7I1F76CK9EE/0000001200
+[18:04:32]: [Shard] Received migration #15 data for (KU_GNdCoYNE)
+[18:04:32]: [Shard] Writing save location file for (KU_GNdCoYNE)
+[18:04:32]: [Shard] (KU_GNdCoYNE) disconnected from Caves(2248507758)
+[18:04:38]: [Shard] Begin migration #16 for (KU_RR3k3C2b)
+[18:04:38]: [Shard] #16 Caves(2248507758) -> [SHDMASTER](1)
+[18:04:38]: [Shard] #16 -> session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:04:38]: [Shard] Received migration #16 data for (KU_RR3k3C2b)
+[18:04:38]: [Shard] Writing save location file for (KU_RR3k3C2b)
+[18:04:38]: [Shard] (KU_RR3k3C2b) disconnected from Caves(2248507758)
+[18:04:39]: [P2P] Received from 212.97.10.228|1 '76561199104252985'
+[18:04:39]: [P2P] Sent to 212.97.10.228|1 '76561199104252985'
+[18:04:40]: New incoming connection 212.97.10.228|1 <8996631064933476670>
+[18:04:40]: Client connected from 212.97.10.228|1 <8996631064933476670>
+[18:04:40]: ValidateGameSessionToken GUID<8996631064933476670>
+[18:04:41]: Client authenticated: (KU_GNdCoYNE) Carrot
+[18:04:41]: [Steam] SendUserConnectAndAuthenticate for '76561199104252985'
+[18:04:41]: [P2P] Received from 212.97.10.223|1 '76561199349123785'
+[18:04:41]: [P2P] Sent to 212.97.10.223|1 '76561199349123785'
+[18:04:41]: [Steam] Authenticated client '76561199104252985'
+[18:04:41]: [Shard] Completed incoming migration #15 for (KU_GNdCoYNE)
+[18:04:41]: [Shard] Completed migration #15 for player (KU_GNdCoYNE)
+[18:04:42]: New incoming connection 212.97.10.223|1 <5129624400597441156>
+[18:04:42]: Client connected from 212.97.10.223|1 <5129624400597441156>
+[18:04:42]: ValidateGameSessionToken GUID<5129624400597441156>
+[18:04:43]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[18:04:43]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[18:04:43]: [Steam] Authenticated client '76561199349123785'
+[18:04:43]: [Shard] Completed incoming migration #16 for (KU_RR3k3C2b)
+[18:04:43]: [Shard] Completed migration #16 for player (KU_RR3k3C2b)
+[18:04:53]: Resuming user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000001200
+[18:04:53]: Player will spawn close to portal #8	
+[18:04:53]: Spawning player at: [Load] (-140.37, 0.00, -144.71)	
+[18:04:55]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:04:55]: Player will spawn close to portal #8	
+[18:04:55]: Spawning player at: [Load] (-142.50, 0.00, -146.81)	
+[18:06:10]: Could not find anim build FROMNUM
+[18:06:11]: Could not find anim build FROMNUM
+[18:06:11]: Could not find anim build FROMNUM
+[18:06:12]: Could not find anim build FROMNUM
+[18:06:13]: Could not find anim build FROMNUM
+[18:06:13]: Could not find anim build FROMNUM
+[18:06:14]: Could not find anim build FROMNUM
+[18:06:20]: Could not find anim build FROMNUM
+[18:06:21]: Could not find anim build FROMNUM
+[18:06:22]: Could not find anim build FROMNUM
+[18:06:25]: Could not find anim build FROMNUM
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:43]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:44]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:45]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:46]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:47]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:48]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:49]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:50]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:51]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:52]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:53]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:53]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:53]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:53]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:53]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:53]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:06:53]: Stale Component Reference: GUID 346009, scripts/entityscript.lua:1255
+[18:07:44]: Could not find anim build FROMNUM
+[18:07:56]: Could not find anim build FROMNUM
+[18:07:57]: Could not find anim build FROMNUM
+[18:08:00]: Available disk space for save files: 23556 MB
+[18:08:00]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000001200
+[18:08:00]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001200
+[18:08:01]: Serializing world: session/2CE9191ADB245DC6/0000001200
+[18:08:01]: Could not find anim build FROMNUM
+[18:08:06]: Could not find anim build FROMNUM
+[18:08:24]: Could not find anim build FROMNUM
+[18:08:33]: Could not find anim build FROMNUM
+[18:08:34]: Could not find anim build FROMNUM
+[18:08:39]: Could not find anim build FROMNUM
+[18:08:44]: Could not find anim build FROMNUM
+[18:08:48]: Could not find anim build FROMNUM
+[18:08:56]: Could not find anim build FROMNUM
+[18:09:08]: Could not find anim build FROMNUM
+[18:09:09]: Could not find anim build FROMNUM
+[18:09:10]: Could not find anim build FROMNUM
+[18:09:15]: Could not find anim build FROMNUM
+[18:09:16]: Could not find anim build FROMNUM
+[18:09:18]: Could not find anim build FROMNUM
+[18:09:20]: Could not find anim build FROMNUM
+[18:09:22]: Could not find anim build FROMNUM
+[18:09:25]: Could not find anim build FROMNUM
+[18:09:39]: Could not find anim build FROMNUM
+[18:09:41]: Could not find anim build FROMNUM
+[18:09:44]: Could not find anim build FROMNUM
+[18:09:44]: Could not find anim build FROMNUM
+[18:09:51]: Could not find anim build FROMNUM
+[18:09:57]: Could not find anim build FROMNUM
+[18:10:06]: Could not find anim build FROMNUM
+[18:10:25]: Could not find anim build FROMNUM
+[18:10:25]: Could not find anim build FROMNUM
+[18:10:25]: Could not find anim build FROMNUM
+[18:10:26]: Could not find anim build FROMNUM
+[18:10:30]: Could not find anim build FROMNUM
+[18:10:31]: Could not find anim build FROMNUM
+[18:11:32]: Could not find anim build FROMNUM
+[18:12:02]: Could not find anim build FROMNUM
+[18:12:40]: Could not find anim build FROMNUM
+[18:13:28]: Could not find anim build FROMNUM
+[18:13:31]: Could not find anim build FROMNUM
+[18:13:45]: Could not find anim build FROMNUM
+[18:13:50]: KU_RR3k3C2b	running text command:	dance	true	
+[18:13:53]: Could not find anim build FROMNUM
+[18:14:01]: Could not find anim build FROMNUM
+[18:14:09]: Could not find anim build FROMNUM
+[18:14:17]: Could not find anim build FROMNUM
+[18:14:23]: Could not find anim build FROMNUM
+[18:14:55]: Could not find anim build FROMNUM
+[18:14:57]: Could not find anim build FROMNUM
+[18:15:06]: Could not find anim build FROMNUM
+[18:15:17]: Could not find anim build FROMNUM
+[18:15:52]: Could not find anim build FROMNUM
+[18:16:01]: Available disk space for save files: 23554 MB
+[18:16:01]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000001201
+[18:16:01]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001201
+[18:16:02]: Serializing world: session/2CE9191ADB245DC6/0000001201
+[18:16:10]: Could not find anim build FROMNUM
+[18:16:53]: Could not find anim [breach_pst] in bank [lunarthrall_plant_vine_big]
+[18:17:06]: Could not find anim build FROMNUM
+[18:17:44]: Could not find anim build FROMNUM
+[18:18:25]: Could not find anim build FROMNUM
+[18:18:41]: Could not find anim build FROMNUM
+[18:18:43]: Could not find anim build FROMNUM
+[18:19:03]: Could not find anim build FROMNUM
+[18:19:03]: Could not find anim build FROMNUM
+[18:19:05]: Could not find anim build FROMNUM
+[18:19:48]: Could not find anim build FROMNUM
+[18:20:33]: Could not find anim build FROMNUM
+[18:20:53]: Could not find anim build FROMNUM
+[18:21:24]: KU_RR3k3C2b	running text command:	toast	true	
+[18:22:15]: Could not find anim build FROMNUM
+[18:22:19]: Could not find anim build FROMNUM
+[18:22:22]: Could not find anim build FROMNUM
+[18:22:25]: Could not find anim build FROMNUM
+[18:22:32]: Could not find anim build FROMNUM
+[18:22:50]: Could not find anim build FROMNUM
+[18:22:58]: Could not find anim build FROMNUM
+[18:23:37]: Could not find anim build FROMNUM
+[18:23:37]: Could not find anim build FROMNUM
+[18:24:02]: Available disk space for save files: 23548 MB
+[18:24:02]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000001202
+[18:24:02]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001202
+[18:24:03]: Serializing world: session/2CE9191ADB245DC6/0000001202
+[18:24:16]: Could not find anim build FROMNUM
+[18:25:04]: Could not find anim build FROMNUM
+[18:25:05]: Could not find anim build FROMNUM
+[18:25:05]: Could not find anim build FROMNUM
+[18:25:06]: Could not find anim build FROMNUM
+[18:25:33]: Could not find anim build FROMNUM
+[18:25:35]: Could not find anim build FROMNUM
+[18:25:35]: Could not find anim build FROMNUM
+[18:25:36]: Could not find anim build FROMNUM
+[18:25:42]: Could not find anim build FROMNUM
+[18:26:43]: Could not find anim build FROMNUM
+[18:28:19]: Could not find anim build FROMNUM
+[18:28:32]: Could not find anim build FROMNUM
+[18:28:45]: Could not find anim build FROMNUM
+[18:28:51]: Could not find anim build FROMNUM
+[18:28:53]: Could not find anim build FROMNUM
+[18:28:59]: Could not find anim build FROMNUM
+[18:29:01]: Could not find anim build FROMNUM
+[18:29:04]: Could not find anim build FROMNUM
+[18:29:05]: Could not find anim build FROMNUM
+[18:29:14]: Could not find anim build FROMNUM
+[18:29:19]: Could not find anim build FROMNUM
+[18:30:05]: [200] Account Communication Success (6)
+[18:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:30:30]: Could not find anim build FROMNUM
+[18:30:31]: Could not find anim build FROMNUM
+[18:30:32]: Could not find anim build FROMNUM
+[18:30:34]: Could not find anim build FROMNUM
+[18:30:36]: Could not find anim build FROMNUM
+[18:30:40]: Could not find anim build FROMNUM
+[18:30:45]: Could not find anim build FROMNUM
+[18:30:49]: Could not find anim build FROMNUM
+[18:31:05]: Could not find anim build FROMNUM
+[18:31:24]: Could not find anim build FROMNUM
+[18:31:27]: Could not find anim build FROMNUM
+[18:32:03]: Available disk space for save files: 23542 MB
+[18:32:03]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000001203
+[18:32:03]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001203
+[18:32:03]: Serializing world: session/2CE9191ADB245DC6/0000001203
+[18:32:30]: Could not find anim build FROMNUM
+[18:32:57]: Could not find anim [death] in bank [ghost]
+[18:32:57]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001204
+[18:33:14]: Could not find anim build FROMNUM
+[18:33:17]: Could not find anim build FROMNUM
+[18:33:20]: Could not find anim build FROMNUM
+[18:33:37]: Could not find anim build FROMNUM
+[18:33:40]: Could not find anim build FROMNUM
+[18:36:27]: Could not find anim build FROMNUM
+[18:36:28]: Could not find anim build FROMNUM
+[18:36:29]: Could not find anim build FROMNUM
+[18:36:30]: Could not find anim build FROMNUM
+[18:36:31]: Could not find anim build FROMNUM
+[18:36:31]: Could not find anim build FROMNUM
+[18:36:32]: Could not find anim build FROMNUM
+[18:36:45]: Could not find anim build FROMNUM
+[18:37:07]: Could not find anim [idle_loop] in bank [ghost]
+[18:37:10]: Could not find anim [transform] in bank [wilson]
+[18:37:11]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001204
+[18:38:41]: Could not find anim build FROMNUM
+[18:38:54]: [Steam] SendUserDisconnect for '76561199349123785'
+[18:38:54]: Connection lost to 212.97.10.223|1 <5129624400597441156>
+[18:38:54]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[18:38:55]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001204
+[18:39:05]: Could not find anim build FROMNUM
+[18:39:07]: [Steam] SendUserDisconnect for '76561199104252985'
+[18:39:07]: Connection lost to 212.97.10.228|1 <8996631064933476670>
+[18:39:07]: [Shard] (KU_GNdCoYNE) disconnected from [SHDMASTER](1)
+[18:39:08]: Serializing user: session/2CE9191ADB245DC6/A7I1F76CK9EE/0000001204
+[18:39:08]: Sim paused
+[18:39:23]: [P2P] Connection failed for '76561199349123785'
+[18:39:34]: [P2P] Connection failed for '76561199104252985'
+[18:48:54]: [P2P] Session timed out for '76561199349123785'
+[18:48:54]: [P2P] Remove session: 212.97.10.223|1 '76561199349123785'
+[18:49:07]: [P2P] Session timed out for '76561199104252985'
+[18:49:07]: [P2P] Remove session: 212.97.10.228|1 '76561199104252985'
+[19:00:05]: [200] Account Communication Success (6)
+[19:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:05]: [200] Account Communication Success (6)
+[19:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:05]: [200] Account Communication Success (6)
+[20:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:05]: [200] Account Communication Success (6)
+[20:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
