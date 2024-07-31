@@ -2441,3 +2441,61 @@ Resurrection is always available via the Florid Postern.
 [14:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
 [14:30:06]: [200] Account Communication Success (6)
 [14:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:00:06]: [200] Account Communication Success (6)
+[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:30:06]: [200] Account Communication Success (6)
+[15:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:00:06]: [200] Account Communication Success (6)
+[16:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:11:11]: [P2P] Create session: 242.4.224.63|1 '76561199349123785'
+[16:11:11]: [P2P] Received from 242.4.224.63|1 '76561199349123785'
+[16:11:11]: [P2P] Sent to 242.4.224.63|1 '76561199349123785'
+[16:11:16]: New incoming connection 242.4.224.63|1 <998992072719609145>
+[16:11:16]: Client connected from 242.4.224.63|1 <998992072719609145>
+[16:11:16]: ValidateGameSessionToken GUID<998992072719609145>
+[16:11:16]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[16:11:17]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[16:11:17]: [Steam] Authenticated client '76561199349123785'
+[16:11:18]: There is no active event to validate against.
+[16:11:18]: [Shard] Read save location file for (KU_RR3k3C2b)
+[16:11:41]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001210
+[16:11:41]: Spawning player at: [Load] (-135.19, 0.00, 220.36)	
+[16:11:41]: Sim unpaused
+[16:11:42]: New time stamps for everyone at	1722438732	
+[16:11:42]: New time stamps for everyone at	1722438732	
+[16:12:12]: Available disk space for save files: 23586 MB
+[16:12:12]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001224
+[16:12:13]: Serializing world: session/2CE9191ADB245DC6/0000001224
+[16:12:41]: [Steam] SendUserDisconnect for '76561199349123785'
+[16:12:41]: Connection lost to 242.4.224.63|1 <998992072719609145>
+[16:12:41]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[16:12:41]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001225
+[16:12:41]: Sim paused
+[16:12:57]: [P2P] Connection failed for '76561199349123785'
+[16:13:09]: [P2P] Received from 242.4.224.63|1 '76561199349123785'
+[16:13:09]: [P2P] Sent to 242.4.224.63|1 '76561199349123785'
+[16:13:14]: New incoming connection 242.4.224.63|1 <1016809241993476044>
+[16:13:14]: Client connected from 242.4.224.63|1 <1016809241993476044>
+[16:13:14]: ValidateGameSessionToken GUID<1016809241993476044>
+[16:13:14]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[16:13:15]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[16:13:16]: [Steam] Authenticated client '76561199349123785'
+[16:13:16]: There is no active event to validate against.
+[16:13:16]: [Shard] Read save location file for (KU_RR3k3C2b)
+[16:13:40]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001225
+[16:13:40]: Spawning player at: [Load] (-142.06, 0.00, 225.57)	
+[16:13:40]: Sim unpaused
+[16:14:51]: Could not find anim build FROMNUM
+[16:14:58]: [Steam] SendUserDisconnect for '76561199349123785'
+[16:14:58]: Connection lost to 242.4.224.63|1 <1016809241993476044>
+[16:14:58]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[16:14:59]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001225
+[16:14:59]: Sim paused
+[16:24:58]: [P2P] Session timed out for '76561199349123785'
+[16:24:58]: [P2P] Remove session: 242.4.224.63|1 '76561199349123785'
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
