@@ -2220,3 +2220,108 @@ Resurrection is always available via the Florid Postern.
 [08:56:40]: [Shard] (KU_521dUXRS) disconnected from [SHDMASTER](1)
 [08:56:40]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001220
 [08:56:40]: Sim paused
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:06:40]: [P2P] Session timed out for '76561198865123068'
+[09:06:40]: [P2P] Remove session: 242.4.224.59|1 '76561198865123068'
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:06]: [200] Account Communication Success (6)
+[10:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:27:20]: [P2P] Create session: 242.4.224.60|1 '76561198865123068'
+[10:27:20]: [P2P] Received from 242.4.224.60|1 '76561198865123068'
+[10:27:20]: [P2P] Sent to 242.4.224.60|1 '76561198865123068'
+[10:27:20]: New incoming connection 242.4.224.60|1 <7076959952392421241>
+[10:27:20]: Client connected from 242.4.224.60|1 <7076959952392421241>
+[10:27:20]: ValidateGameSessionToken GUID<7076959952392421241>
+[10:27:21]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[10:27:21]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[10:27:21]: [Steam] Authenticated client '76561198865123068'
+[10:27:22]: There is no active event to validate against.
+[10:27:22]: [Shard] Read save location file for (KU_521dUXRS)
+[10:29:07]: Resuming user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001220
+[10:29:07]: Spawning player at: [Load] (-111.95, 0.00, 77.85)	
+[10:29:07]: Sim unpaused
+[10:29:08]: New time stamps for everyone at	1722418178	
+[10:29:08]: New time stamps for everyone at	1722418178	
+[10:29:52]: Could not find anim [death] in bank [ghost]
+[10:29:52]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001220
+[10:30:06]: [200] Account Communication Success (6)
+[10:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:31:08]: Could not find anim build FROMNUM
+[10:31:13]: Available disk space for save files: 23624 MB
+[10:31:13]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001220
+[10:31:13]: Serializing world: session/2CE9191ADB245DC6/0000001220
+[10:31:15]: Could not find anim build FROMNUM
+[10:32:38]: Could not find anim build FROMNUM
+[10:32:44]: Could not find anim [idle_loop] in bank [ghost]
+[10:32:44]: Could not find anim build FROMNUM
+[10:32:47]: Could not find anim [transform] in bank [wilson]
+[10:32:48]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[10:34:18]: Could not find anim build FROMNUM
+[10:36:00]: [Steam] SendUserDisconnect for '76561198865123068'
+[10:36:00]: Connection lost to 242.4.224.60|1 <7076959952392421241>
+[10:36:00]: [Shard] (KU_521dUXRS) disconnected from [SHDMASTER](1)
+[10:36:00]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[10:36:00]: Sim paused
+[10:46:00]: [P2P] Session timed out for '76561198865123068'
+[10:46:00]: [P2P] Remove session: 242.4.224.60|1 '76561198865123068'
+[10:58:42]: [P2P] Create session: 242.4.224.61|1 '76561198865123068'
+[10:58:42]: [P2P] Received from 242.4.224.61|1 '76561198865123068'
+[10:58:42]: [P2P] Sent to 242.4.224.61|1 '76561198865123068'
+[10:58:42]: New incoming connection 242.4.224.61|1 <4387454373734766540>
+[10:58:42]: Client connected from 242.4.224.61|1 <4387454373734766540>
+[10:58:42]: ValidateGameSessionToken GUID<4387454373734766540>
+[10:58:43]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[10:58:43]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[10:58:43]: [Steam] Authenticated client '76561198865123068'
+[10:58:44]: There is no active event to validate against.
+[10:58:44]: [Shard] Read save location file for (KU_521dUXRS)
+[11:00:06]: [200] Account Communication Success (6)
+[11:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:27]: Resuming user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:00:27]: Spawning player at: [Load] (-92.21, -0.00, 195.30)	
+[11:00:27]: Sim unpaused
+[11:00:30]: New time stamps for everyone at	1722420060	
+[11:00:30]: New time stamps for everyone at	1722420060	
+[11:01:01]: Deleting user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:01:01]: Sim paused
+[11:01:01]: Resuming user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:01:24]: Spawn request: webber from パラサイトシングル
+[11:01:24]: Skin request: () () () () ()
+[11:01:24]: Skill Selection request: 0
+[11:01:24]: Spawning player at: [Fixed] (-92.00, 0.00, 196.00)	
+[11:01:24]: Enabling Spawn Protection for	188854 - webber	
+[11:01:24]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:01:24]: Sim unpaused
+[11:01:45]: Could not find anim build FROMNUM
+[11:02:59]: Deleting user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:03:00]: Sim paused
+[11:03:00]: Resuming user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:03:10]: Spawn request: wolfgang from パラサイトシングル
+[11:03:10]: Skin request: () () () () ()
+[11:03:10]: Skill Selection request: 33537088
+[11:03:10]: Spawning player at: [Fixed] (-92.00, 0.00, 196.00)	
+[11:03:10]: Enabling Spawn Protection for	189068 - wolfgang	
+[11:03:10]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:03:10]: Sim unpaused
+[11:03:41]: Could not find anim build FROMNUM
+[11:03:41]: Could not find anim build FROMNUM
+[11:03:42]: Could not find anim build FROMNUM
+[11:03:42]: Could not find anim build FROMNUM
+[11:03:43]: Could not find anim build FROMNUM
+[11:03:49]: Could not find anim build FROMNUM
+[11:03:50]: Could not find anim build FROMNUM
+[11:03:50]: Could not find anim build FROMNUM
+[11:03:51]: Could not find anim build FROMNUM
+[11:03:52]: Could not find anim build FROMNUM
+[11:03:53]: Could not find anim build FROMNUM
+[11:04:04]: [Steam] SendUserDisconnect for '76561198865123068'
+[11:04:04]: Connection lost to 242.4.224.61|1 <4387454373734766540>
+[11:04:04]: [Shard] (KU_521dUXRS) disconnected from [SHDMASTER](1)
+[11:04:05]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001221
+[11:04:05]: Sim paused
+[11:14:04]: [P2P] Session timed out for '76561198865123068'
+[11:14:04]: [P2P] Remove session: 242.4.224.61|1 '76561198865123068'
+[11:30:06]: [200] Account Communication Success (6)
+[11:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
