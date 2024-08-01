@@ -1510,3 +1510,42 @@ Resurrection is always available via the Florid Postern.
 [05:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
 [05:30:04]: [200] Account Communication Success (6)
 [05:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:04]: [200] Account Communication Success (6)
+[06:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:28:29]: [P2P] Create session: 15.224.249.230|1 '76561199349123785'
+[06:28:29]: [P2P] Received from 15.224.249.230|1 '76561199349123785'
+[06:28:29]: [P2P] Sent to 15.224.249.230|1 '76561199349123785'
+[06:28:36]: New incoming connection 15.224.249.230|1 <1721552091652833626>
+[06:28:36]: Client connected from 15.224.249.230|1 <1721552091652833626>
+[06:28:36]: ValidateGameSessionToken GUID<1721552091652833626>
+[06:28:36]: Client authenticated: (KU_RR3k3C2b) Thaus Anh
+[06:28:37]: [Steam] SendUserConnectAndAuthenticate for '76561199349123785'
+[06:28:37]: [Steam] Authenticated client '76561199349123785'
+[06:28:38]: There is no active event to validate against.
+[06:28:38]: [Shard] Read save location file for (KU_RR3k3C2b)
+[06:29:03]: Resuming user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001225
+[06:29:03]: Could not find anim [idle_loop] in bank [ghost]
+[06:29:03]: Spawning player at: [Load] (-76.87, 0.00, 167.50)	
+[06:29:03]: Sim unpaused
+[06:29:03]: New time stamps for everyone at	1722490174	
+[06:29:03]: New time stamps for everyone at	1722490174	
+[06:29:43]: Available disk space for save files: 23684 MB
+[06:29:44]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001225
+[06:29:44]: Serializing world: session/2CE9191ADB245DC6/0000001225
+[06:29:52]: [Steam] SendUserDisconnect for '76561199349123785'
+[06:29:52]: Connection lost to 15.224.249.230|1 <1721552091652833626>
+[06:29:52]: [Shard] (KU_RR3k3C2b) disconnected from [SHDMASTER](1)
+[06:29:52]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001226
+[06:29:52]: Sim paused
+[06:30:04]: [200] Account Communication Success (6)
+[06:30:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:39:52]: [P2P] Session timed out for '76561199349123785'
+[06:39:52]: [P2P] Remove session: 15.224.249.230|1 '76561199349123785'
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
