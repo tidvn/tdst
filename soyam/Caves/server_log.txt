@@ -1139,3 +1139,39 @@
 [05:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [05:30:05]: [200] Account Communication Success (6)
 [05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:05]: [200] Account Communication Success (6)
+[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:24:29]: Sim unpaused
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:19]: [Shard] #1 -> session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001226
+[08:30:19]: [Shard] Received migration #1 data for (KU_521dUXRS)
+[08:30:23]: [P2P] Session request for '76561198865123068'
+[08:30:28]: [P2P] Create session: 105.90.241.0|1 '76561198865123068'
+[08:30:28]: [P2P] Received from 105.90.241.0|1 '76561198865123068'
+[08:30:28]: [P2P] Sent to 105.90.241.0|1 '76561198865123068'
+[08:30:32]: New incoming connection 105.90.241.0|1 <7800932525233543160>
+[08:30:32]: Client connected from 105.90.241.0|1 <7800932525233543160>
+[08:30:32]: ValidateGameSessionToken GUID<7800932525233543160>
+[08:30:32]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[08:30:33]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[08:30:34]: [Steam] Authenticated client '76561198865123068'
+[08:30:34]: [Shard] Completed incoming migration #1 for (KU_521dUXRS)
+[08:31:05]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001226
+[08:31:06]: Player will spawn close to portal #1	
+[08:31:06]: Spawning player at: [Load] (529.42, 0.00, 270.42)	
+[08:31:22]: [Steam] SendUserDisconnect for '76561198865123068'
+[08:31:22]: Connection lost to 105.90.241.0|1 <7800932525233543160>
+[08:31:22]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001226
+[08:31:22]: Sim paused
+[08:32:56]: [P2P] Connection failed for '76561198865123068'
+[08:41:22]: [P2P] Session timed out for '76561198865123068'
+[08:41:22]: [P2P] Remove session: 105.90.241.0|1 '76561198865123068'
