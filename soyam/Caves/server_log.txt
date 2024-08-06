@@ -1151,3 +1151,39 @@
 [08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [08:30:05]: [200] Account Communication Success (6)
 [08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:05]: [200] Account Communication Success (6)
+[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:30:05]: [200] Account Communication Success (6)
+[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:05]: [200] Account Communication Success (6)
+[11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:05:03]: Sim unpaused
+[11:07:16]: [Shard] #1 -> session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001226
+[11:07:16]: [Shard] Received migration #1 data for (KU_521dUXRS)
+[11:07:20]: [P2P] Session request for '76561198865123068'
+[11:07:24]: [P2P] Create session: 165.62.104.23|1 '76561198865123068'
+[11:07:24]: [P2P] Received from 165.62.104.23|1 '76561198865123068'
+[11:07:24]: [P2P] Sent to 165.62.104.23|1 '76561198865123068'
+[11:07:26]: New incoming connection 165.62.104.23|1 <5188182780009372494>
+[11:07:26]: Client connected from 165.62.104.23|1 <5188182780009372494>
+[11:07:26]: ValidateGameSessionToken GUID<5188182780009372494>
+[11:07:26]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[11:07:26]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[11:07:27]: [Steam] Authenticated client '76561198865123068'
+[11:07:27]: [Shard] Completed incoming migration #1 for (KU_521dUXRS)
+[11:07:50]: Resuming user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001226
+[11:07:50]: Player will spawn close to portal #1	
+[11:07:50]: Spawning player at: [Load] (529.31, 0.00, 272.31)	
+[11:09:13]: [Steam] SendUserDisconnect for '76561198865123068'
+[11:09:13]: Connection lost to 165.62.104.23|1 <5188182780009372494>
+[11:09:13]: Serializing user: session/01EF7F7A1CFE0E43/A7GK41JNK5MS/0000001226
+[11:09:13]: Sim paused
+[11:09:52]: [P2P] Connection failed for '76561198865123068'
+[11:19:13]: [P2P] Session timed out for '76561198865123068'
+[11:19:13]: [P2P] Remove session: 165.62.104.23|1 '76561198865123068'
+[11:30:05]: [200] Account Communication Success (6)
+[11:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose

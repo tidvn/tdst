@@ -1414,3 +1414,51 @@ Resurrection is always available via the Florid Postern.
 [08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [08:30:05]: [200] Account Communication Success (6)
 [08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:05]: [200] Account Communication Success (6)
+[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:30:05]: [200] Account Communication Success (6)
+[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:06]: [200] Account Communication Success (6)
+[11:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:03:04]: [P2P] Session request for '76561198865123068'
+[11:03:08]: [P2P] Create session: 165.63.158.62|1 '76561198865123068'
+[11:03:08]: [P2P] Received from 165.63.158.62|1 '76561198865123068'
+[11:03:08]: [P2P] Sent to 165.63.158.62|1 '76561198865123068'
+[11:03:09]: New incoming connection 165.63.158.62|1 <4377580585521657098>
+[11:03:09]: Client connected from 165.63.158.62|1 <4377580585521657098>
+[11:03:09]: ValidateGameSessionToken GUID<4377580585521657098>
+[11:03:09]: Client authenticated: (KU_521dUXRS) パラサイトシングル
+[11:03:10]: [Steam] SendUserConnectAndAuthenticate for '76561198865123068'
+[11:03:10]: [Steam] Authenticated client '76561198865123068'
+[11:03:11]: There is no active event to validate against.
+[11:03:11]: [Shard] Read save location file for (KU_521dUXRS)
+[11:05:03]: Resuming user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001224
+[11:05:03]: Spawning player at: [Load] (-150.77, 0.00, 218.59)	
+[11:05:03]: Sim unpaused
+[11:05:09]: Could not find anim build FROMNUM
+[11:05:18]: Could not find anim build FROMNUM
+[11:05:20]: Could not find anim build FROMNUM
+[11:05:21]: Could not find anim build FROMNUM
+[11:05:46]: Could not find anim build FROMNUM
+[11:06:37]: Failed to assign item skin ids due to ownership check failure.
+[11:07:15]: Activating portal[1] to 2248507758	
+[11:07:16]: Serializing user: session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001226
+[11:07:16]: [Shard] Migration request: (KU_521dUXRS) to Caves(2248507758)
+[11:07:16]: [Shard] Begin migration #1 for (KU_521dUXRS)
+[11:07:16]: [Shard] #1 [SHDMASTER](1) -> Caves(2248507758)
+[11:07:16]: [Shard] #1 <- session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001226
+[11:07:16]: [Shard] Writing save location file for (KU_521dUXRS)
+[11:07:16]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[11:07:16]: [Steam] SendUserDisconnect for '76561198865123068'
+[11:07:16]: [Shard] (KU_521dUXRS) disconnected from [SHDMASTER](1)
+[11:07:27]: [Shard] Completed migration #1 for player (KU_521dUXRS)
+[11:09:13]: [Shard] (KU_521dUXRS) disconnected from Caves(2248507758)
+[11:09:13]: Sim paused
+[11:17:19]: [P2P] Session timed out for '76561198865123068'
+[11:17:19]: [P2P] Remove session: 165.63.158.62|1 '76561198865123068'
+[11:30:06]: [200] Account Communication Success (6)
+[11:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
