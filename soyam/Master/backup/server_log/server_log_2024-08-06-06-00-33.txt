@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 624447
-[00:00:00]: Current time: Tue Aug  6 06:00:33 2024
+[00:00:00]: Current time: Mon Aug  5 06:00:30 2024
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: ip-172-31-23-55
@@ -12,11 +12,11 @@
 [00:00:00]: Build Date: 2583
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1091465 -shard Master 
+[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1041343 -shard Master 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (139284046648896)
+[00:00:00]: THREAD - started 'GAClient' (133047497475648)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: ProfileIndex:3.38
 [00:00:00]: Mounting file system databundles/klump.zip successful.
@@ -32,7 +32,7 @@
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: THREAD - started 'StreamInput' (139283993171520)
+[00:00:00]: THREAD - started 'StreamInput' (133047374571072)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
 [00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
@@ -383,14 +383,14 @@
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:04]: 	Load FE	
-[00:00:04]: THREAD - started 'FilesExistAsyncThread' (139283507705408)
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (133047363024448)
 [00:00:04]: FilesExistAsyncThread started (24583 files)...
 [00:00:04]: 	Load FE: done	
-[00:00:04]: Check for write access: TRUE
-[00:00:04]: Check for read access: TRUE
-[00:00:04]: Available disk space for save files: 23589 MB
-[00:00:04]: ModIndex: Load sequence finished successfully.	
-[00:00:04]: Reset() returning
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: Available disk space for save files: 23604 MB
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
 [00:00:05]: ... FilesExistAsyncThread complete
 [00:00:05]: [200] Account Communication Success (6)
 [00:00:05]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Master/save/cached_userid
@@ -426,11 +426,11 @@
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
 [00:00:05]: Online Server Started on port: 10999
 [00:00:05]: SUCCESS: Loaded modoverrides.lua	
@@ -445,7 +445,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 	K: 	name	 V: 	Endless	
 [00:00:05]: 	K: 	numrandom_set_pieces	 V: 	4	
 [00:00:05]: 	K: 	override_level_string	 V: 	false	
-[00:00:05]: 	K: 	overrides	 V: 	table: 0xd219e00	
+[00:00:05]: 	K: 	overrides	 V: 	table: 0xcdcee50	
 [00:00:05]: 		K: 	alternatehunt	 V: 	default	
 [00:00:05]: 		K: 	angrybees	 V: 	default	
 [00:00:05]: 		K: 	antliontribute	 V: 	default	
@@ -631,7 +631,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 		K: 	year_of_the_pig	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_varg	 V: 	default	
 [00:00:05]: 	K: 	playstyle	 V: 	endless	
-[00:00:05]: 	K: 	random_set_pieces	 V: 	table: 0xd219820	
+[00:00:05]: 	K: 	random_set_pieces	 V: 	table: 0xcdce870	
 [00:00:05]: 		K: 	1	 V: 	Sculptures_2	
 [00:00:05]: 		K: 	2	 V: 	Sculptures_3	
 [00:00:05]: 		K: 	3	 V: 	Sculptures_4	
@@ -651,16 +651,16 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 		K: 	17	 V: 	Warzone_1	
 [00:00:05]: 		K: 	18	 V: 	Warzone_2	
 [00:00:05]: 		K: 	19	 V: 	Warzone_3	
-[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xd219240	
+[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xcdce2d0	
 [00:00:05]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:05]: 	K: 	required_setpieces	 V: 	table: 0xd218c60	
+[00:00:05]: 	K: 	required_setpieces	 V: 	table: 0xcdcdd30	
 [00:00:05]: 		K: 	1	 V: 	Sculptures_1	
 [00:00:05]: 		K: 	2	 V: 	Maxwell5	
 [00:00:05]: 	K: 	settings_desc	 V: 	A never-ending Don't Starve sandbox.
 Resurrection is always available via the Florid Postern.	
 [00:00:05]: 	K: 	settings_id	 V: 	ENDLESS	
 [00:00:05]: 	K: 	settings_name	 V: 	Endless	
-[00:00:05]: 	K: 	substitutes	 V: 	table: 0xd21b580	
+[00:00:05]: 	K: 	substitutes	 V: 	table: 0xcdd05d0	
 [00:00:05]: 	K: 	version	 V: 	4	
 [00:00:05]: 	K: 	worldgen_desc	 V: 	A never-ending Don't Starve sandbox.
 Resurrection is always available via the Florid Postern.	
@@ -670,14 +670,14 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: Overwriting savedata with level data file.	
 [00:00:05]: Not applying world gen overrides.	
 [00:00:05]: Collecting garbage...
-[00:00:05]: lua_gc took 0.09 seconds
+[00:00:05]: lua_gc took 0.08 seconds
 [00:00:05]: ~ShardLuaProxy()
 [00:00:05]: ~cEventLeaderboardProxy()
 [00:00:05]: ~ItemServerLuaProxy()
 [00:00:05]: ~InventoryLuaProxy()
 [00:00:05]: ~NetworkLuaProxy()
 [00:00:05]: ~SimLuaProxy()
-[00:00:05]: lua_close took 0.10 seconds
+[00:00:05]: lua_close took 0.09 seconds
 [00:00:05]: ReleaseAll
 [00:00:05]: ReleaseAll Finished
 [00:00:05]: cGame::StartPlaying
@@ -1013,7 +1013,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:07]: 	LOAD BE	
-[00:00:15]: 	LOAD BE: done	
+[00:00:14]: 	LOAD BE: done	
 [00:00:15]: Begin Session: 2CE9191ADB245DC6
 [00:00:15]: saving to server_temp/server_save	
 [00:00:15]: OVERRIDE: setting	healthpenalty	to	always	
@@ -1068,7 +1068,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
 [00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
 [00:00:15]: Loading 19 new character(s)	
-[00:00:16]: Total 19 character(s) loaded	
+[00:00:15]: Total 19 character(s) loaded	
 [00:00:16]: Loading Nav Grid	
 [00:00:16]: World generated on build 620148 with save version: 5.151, using seed: 58299910	
 [00:00:16]: setting 	summerlength	15	
@@ -1140,8 +1140,12 @@ Resurrection is always available via the Florid Postern.
 [00:00:31]: 	...Housekeeping	
 [00:00:31]: 	...Done!	
 [00:00:31]: Truncating to snapshot #1225...
+[00:00:31]:  - session/2CE9191ADB245DC6/A7GK41JNK5MS/0000001226
 [00:00:31]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001226
-[00:00:31]:    1 file(s) removed
+[00:00:31]:  - session/2CE9191ADB245DC6/A7IL43P3GLR6/0000001226
+[00:00:31]:    3 file(s) removed
+[00:00:31]:  > session/2CE9191ADB245DC6/A7GK41JNK5MS/savelocation
+[00:00:31]:    1 file(s) updated
 [00:00:31]: Restoring user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001225	
 [00:00:31]: Could not find anim [idle_loop] in bank [ghost]
 [00:00:31]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001226
@@ -1158,19 +1162,19 @@ Resurrection is always available via the Florid Postern.
 [00:00:31]: Telling Client our new session identifier: 2CE9191ADB245DC6
 [00:00:31]: Check for write access: TRUE
 [00:00:31]: Check for read access: TRUE
-[00:00:31]: Available disk space for save files: 23589 MB
+[00:00:31]: Available disk space for save files: 23604 MB
 [00:00:31]: ModIndex: Load sequence finished successfully.	
 [00:00:31]: Reset() returning
-[00:00:33]: Validating portal[4] <-> 2248507758[4] (inactive)	
-[00:00:33]: Validating portal[5] <-> 2248507758[5] (inactive)	
-[00:00:33]: Validating portal[2] <-> 2248507758[2] (inactive)	
-[00:00:33]: Validating portal[6] <-> 2248507758[6] (inactive)	
-[00:00:33]: Validating portal[7] <-> 2248507758[7] (inactive)	
-[00:00:33]: Validating portal[3] <-> 2248507758[3] (inactive)	
+[00:00:32]: Validating portal[9] <-> 2248507758[9] (inactive)	
+[00:00:32]: Validating portal[6] <-> 2248507758[6] (inactive)	
 [00:00:33]: Validating portal[1] <-> 2248507758[1] (inactive)	
 [00:00:33]: Validating portal[10] <-> 2248507758[10] (inactive)	
+[00:00:33]: Validating portal[4] <-> 2248507758[4] (inactive)	
+[00:00:33]: Validating portal[3] <-> 2248507758[3] (inactive)	
+[00:00:33]: Validating portal[5] <-> 2248507758[5] (inactive)	
 [00:00:33]: Validating portal[8] <-> 2248507758[8] (inactive)	
-[00:00:33]: Validating portal[9] <-> 2248507758[9] (inactive)	
+[00:00:33]: Validating portal[2] <-> 2248507758[2] (inactive)	
+[00:00:33]: Validating portal[7] <-> 2248507758[7] (inactive)	
 [00:00:33]: Could not find anim build FROMNUM
 [00:00:33]: Could not find anim build FROMNUM
 [00:00:33]: Could not find anim build FROMNUM
@@ -1338,48 +1342,48 @@ Resurrection is always available via the Florid Postern.
 [00:00:33]: Server registered via geo DNS in ap-southeast-1
 [00:00:33]: Sim paused
 [00:00:33]: [Shard] Secondary shard Caves(2248507758) connected: [LAN] 127.0.0.1
-[00:00:34]: [Shard] Secondary Caves(2248507758) ready!
-[00:00:34]: World 2248507758 is now connected	
-[00:00:34]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:34]: Validating portal[4] <-> 2248507758[4] (active)	
-[00:00:34]: Validating portal[5] <-> 2248507758[5] (active)	
-[00:00:34]: Validating portal[2] <-> 2248507758[2] (active)	
-[00:00:34]: Validating portal[6] <-> 2248507758[6] (active)	
-[00:00:34]: Validating portal[7] <-> 2248507758[7] (disabled)	
-[00:00:34]: Validating portal[3] <-> 2248507758[3] (active)	
-[00:00:34]: Validating portal[1] <-> 2248507758[1] (active)	
-[00:00:34]: Validating portal[10] <-> 2248507758[10] (active)	
-[00:00:34]: Validating portal[8] <-> 2248507758[8] (active)	
-[00:00:34]: Validating portal[9] <-> 2248507758[9] (disabled)	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option krampus = often to secondary shards.	
-[00:00:34]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:33]: [Shard] Secondary Caves(2248507758) ready!
+[00:00:33]: World 2248507758 is now connected	
+[00:00:33]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:33]: Validating portal[9] <-> 2248507758[9] (disabled)	
+[00:00:33]: Validating portal[6] <-> 2248507758[6] (active)	
+[00:00:33]: Validating portal[1] <-> 2248507758[1] (active)	
+[00:00:33]: Validating portal[10] <-> 2248507758[10] (active)	
+[00:00:33]: Validating portal[4] <-> 2248507758[4] (active)	
+[00:00:33]: Validating portal[3] <-> 2248507758[3] (active)	
+[00:00:33]: Validating portal[5] <-> 2248507758[5] (active)	
+[00:00:33]: Validating portal[8] <-> 2248507758[8] (active)	
+[00:00:33]: Validating portal[2] <-> 2248507758[2] (active)	
+[00:00:33]: Validating portal[7] <-> 2248507758[7] (disabled)	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option krampus = often to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
 [00:30:05]: [200] Account Communication Success (6)
 [00:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [01:00:05]: [200] Account Communication Success (6)
@@ -1390,3 +1394,87 @@ Resurrection is always available via the Florid Postern.
 [02:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [02:30:05]: [200] Account Communication Success (6)
 [02:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:00:05]: [200] Account Communication Success (6)
+[03:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:30:05]: [200] Account Communication Success (6)
+[03:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:00:05]: [200] Account Communication Success (6)
+[04:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:30:05]: [200] Account Communication Success (6)
+[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:00:05]: [200] Account Communication Success (6)
+[05:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:30:05]: [200] Account Communication Success (6)
+[05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:05]: [200] Account Communication Success (6)
+[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:06]: [200] Account Communication Success (6)
+[10:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:30:05]: [200] Account Communication Success (6)
+[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:05]: [200] Account Communication Success (6)
+[11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:30:06]: [200] Account Communication Success (6)
+[11:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:00:06]: [200] Account Communication Success (6)
+[12:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:30:06]: [200] Account Communication Success (6)
+[12:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:00:06]: [200] Account Communication Success (6)
+[13:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:30:06]: [200] Account Communication Success (6)
+[13:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:00:06]: [200] Account Communication Success (6)
+[14:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:30:06]: [200] Account Communication Success (6)
+[14:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:00:06]: [200] Account Communication Success (6)
+[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:30:06]: [200] Account Communication Success (6)
+[15:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:00:06]: [200] Account Communication Success (6)
+[16:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:00:06]: [200] Account Communication Success (6)
+[21:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:30:06]: [200] Account Communication Success (6)
+[21:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:00:06]: [200] Account Communication Success (6)
+[22:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:30:06]: [200] Account Communication Success (6)
+[22:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:00:06]: [200] Account Communication Success (6)
+[23:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:30:06]: [200] Account Communication Success (6)
+[23:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
