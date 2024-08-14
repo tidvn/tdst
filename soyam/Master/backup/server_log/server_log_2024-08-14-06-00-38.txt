@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 625420
-[00:00:00]: Current time: Wed Aug 14 06:00:38 2024
+[00:00:00]: Current time: Tue Aug 13 06:00:34 2024
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: ip-172-31-23-55
@@ -12,13 +12,13 @@
 [00:00:00]: Build Date: 2592
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1289762 -shard Master 
+[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1266786 -shard Master 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (127966177871424)
+[00:00:00]: THREAD - started 'GAClient' (136989929989696)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:3.23
+[00:00:00]: ProfileIndex:3.38
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -27,33 +27,33 @@
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
 [00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
-[00:00:00]: [Steam] SteamGameServer_Init success
-[00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: Platform: 1
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: THREAD - started 'StreamInput' (127966056003136)
-[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
-[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
-[00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
-[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
-[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
-[00:00:00]: cGame::InitializeOnMainThread
-[00:00:00]: Renderer initialize: Okay
-[00:00:00]: AnimManager initialize: Okay
-[00:00:00]: Buffers initialize: Okay
-[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:00]: GameSpecific initialize: Okay
-[00:00:00]: cGame::StartPlaying
-[00:00:00]: AppVersion::GetArchitecture() x64
-[00:00:00]: LOADING LUA
-[00:00:00]: DoLuaFile scripts/main.lua
-[00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:00]:   taskgrouplist:	default	Together	
-[00:00:00]:   taskgrouplist:	classic	Classic	
-[00:00:00]:   taskgrouplist:	cave_default	Underground	
-[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (136989876655680)
+[00:00:01]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
+[00:00:01]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
+[00:00:01]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
 [00:00:01]: Running main.lua
 	
 [00:00:01]: loaded modindex	
@@ -383,15 +383,15 @@
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:04]: 	Load FE	
-[00:00:04]: THREAD - started 'FilesExistAsyncThread' (127966043403840)
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (136989391189568)
 [00:00:04]: FilesExistAsyncThread started (24583 files)...
 [00:00:04]: 	Load FE: done	
 [00:00:04]: Check for write access: TRUE
 [00:00:04]: Check for read access: TRUE
-[00:00:04]: Available disk space for save files: 22364 MB
+[00:00:04]: Available disk space for save files: 23512 MB
 [00:00:04]: ModIndex: Load sequence finished successfully.	
 [00:00:04]: Reset() returning
-[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:05]: ... FilesExistAsyncThread complete
 [00:00:05]: [200] Account Communication Success (6)
 [00:00:05]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Master/save/cached_userid
 [00:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
@@ -426,11 +426,11 @@
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
 [00:00:05]: Online Server Started on port: 10999
 [00:00:05]: SUCCESS: Loaded modoverrides.lua	
@@ -445,7 +445,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 	K: 	name	 V: 	Endless	
 [00:00:05]: 	K: 	numrandom_set_pieces	 V: 	4	
 [00:00:05]: 	K: 	override_level_string	 V: 	false	
-[00:00:05]: 	K: 	overrides	 V: 	table: 0xc148050	
+[00:00:05]: 	K: 	overrides	 V: 	table: 0xd4d07e0	
 [00:00:05]: 		K: 	alternatehunt	 V: 	default	
 [00:00:05]: 		K: 	angrybees	 V: 	default	
 [00:00:05]: 		K: 	antliontribute	 V: 	default	
@@ -631,7 +631,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 		K: 	year_of_the_pig	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_varg	 V: 	default	
 [00:00:05]: 	K: 	playstyle	 V: 	endless	
-[00:00:05]: 	K: 	random_set_pieces	 V: 	table: 0xc147e40	
+[00:00:05]: 	K: 	random_set_pieces	 V: 	table: 0xd4d0200	
 [00:00:05]: 		K: 	1	 V: 	Sculptures_2	
 [00:00:05]: 		K: 	2	 V: 	Sculptures_3	
 [00:00:05]: 		K: 	3	 V: 	Sculptures_4	
@@ -651,16 +651,16 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 		K: 	17	 V: 	Warzone_1	
 [00:00:05]: 		K: 	18	 V: 	Warzone_2	
 [00:00:05]: 		K: 	19	 V: 	Warzone_3	
-[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xc147c30	
+[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xd4cfc20	
 [00:00:05]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:05]: 	K: 	required_setpieces	 V: 	table: 0xc147a20	
+[00:00:05]: 	K: 	required_setpieces	 V: 	table: 0xd4cf640	
 [00:00:05]: 		K: 	1	 V: 	Sculptures_1	
 [00:00:05]: 		K: 	2	 V: 	Maxwell5	
 [00:00:05]: 	K: 	settings_desc	 V: 	A never-ending Don't Starve sandbox.
 Resurrection is always available via the Florid Postern.	
 [00:00:05]: 	K: 	settings_id	 V: 	ENDLESS	
 [00:00:05]: 	K: 	settings_name	 V: 	Endless	
-[00:00:05]: 	K: 	substitutes	 V: 	table: 0xc1488d0	
+[00:00:05]: 	K: 	substitutes	 V: 	table: 0xd49c1e0	
 [00:00:05]: 	K: 	version	 V: 	4	
 [00:00:05]: 	K: 	worldgen_desc	 V: 	A never-ending Don't Starve sandbox.
 Resurrection is always available via the Florid Postern.	
@@ -670,7 +670,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: Overwriting savedata with level data file.	
 [00:00:05]: Not applying world gen overrides.	
 [00:00:05]: Collecting garbage...
-[00:00:05]: lua_gc took 0.08 seconds
+[00:00:05]: lua_gc took 0.07 seconds
 [00:00:05]: ~ShardLuaProxy()
 [00:00:05]: ~cEventLeaderboardProxy()
 [00:00:05]: ~ItemServerLuaProxy()
@@ -1013,376 +1013,376 @@ Resurrection is always available via the Florid Postern.
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:07]: 	LOAD BE	
-[00:00:13]: 	LOAD BE: done	
-[00:00:13]: Begin Session: 2CE9191ADB245DC6
-[00:00:13]: saving to server_temp/server_save	
-[00:00:14]: OVERRIDE: setting	healthpenalty	to	always	
-[00:00:14]: OVERRIDE: setting	deerclops	to	often	
-[00:00:14]: OVERRIDE: setting	extrastartingitems	to	15	
-[00:00:14]: OVERRIDE: setting	eyeofterror	to	often	
-[00:00:14]: OVERRIDE: setting	krampus	to	often	
-[00:00:14]: OVERRIDE: setting	beequeen	to	often	
-[00:00:14]: OVERRIDE: setting	spiderqueen	to	often	
-[00:00:14]: OVERRIDE: setting	goosemoose	to	often	
-[00:00:14]: OVERRIDE: setting	lessdamagetaken	to	none	
-[00:00:14]: OVERRIDE: setting	crabking	to	often	
-[00:00:14]: OVERRIDE: setting	frograin	to	often	
-[00:00:14]: OVERRIDE: setting	dragonfly	to	often	
-[00:00:14]: OVERRIDE: setting	deciduousmonster	to	often	
-[00:00:14]: OVERRIDE: setting	malbatross	to	often	
-[00:00:14]: OVERRIDE: setting	liefs	to	often	
-[00:00:14]: OVERRIDE: setting	sharkboi	to	often	
-[00:00:14]: OVERRIDE: setting	daywalker2	to	often	
-[00:00:14]: OVERRIDE: setting	klaus	to	often	
-[00:00:14]: OVERRIDE: setting	beefaloheat	to	rare	
-[00:00:14]: OVERRIDE: setting	fruitfly	to	often	
-[00:00:14]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-2208128427/minimap/loot_pump.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:00:14]: Loading 19 new character(s)	
-[00:00:14]: Total 19 character(s) loaded	
-[00:00:15]: Loading Nav Grid	
-[00:00:15]: World generated on build 620148 with save version: 5.151, using seed: 58299910	
-[00:00:15]: setting 	summerlength	15	
-[00:00:15]: setting 	cavemoonphase	full	
-[00:00:15]: setting 	iscavefullmoon	false	
-[00:00:15]: setting 	isnightmaredawn	false	
-[00:00:15]: setting 	elapseddaysinseason	1	
-[00:00:15]: setting 	isfullmoon	false	
-[00:00:15]: setting 	moisture	945.97332763672	
-[00:00:15]: setting 	springlength	20	
-[00:00:15]: setting 	islunarhailing	false	
-[00:00:15]: setting 	isnightmarewild	false	
-[00:00:15]: setting 	nightmaretimeinphase	0	
-[00:00:15]: setting 	precipitationrate	0	
-[00:00:15]: setting 	iswet	false	
-[00:00:15]: setting 	isnewmoon	false	
-[00:00:15]: setting 	israining	false	
-[00:00:15]: setting 	iswinter	false	
-[00:00:15]: setting 	isnightmarewarn	false	
-[00:00:15]: setting 	precipitation	none	
-[00:00:15]: setting 	iscavewaxingmoon	false	
-[00:00:15]: setting 	isacidraining	false	
-[00:00:15]: setting 	moonphase	full	
-[00:00:15]: setting 	remainingdaysinseason	14	
-[00:00:15]: setting 	temperature	63.372710633344	
-[00:00:15]: setting 	wetness	0	
-[00:00:15]: setting 	cycles	1176	
-[00:00:15]: setting 	moistureceil	4484.5356445312	
-[00:00:15]: setting 	isday	true	
-[00:00:15]: setting 	winterlength	15	
-[00:00:15]: setting 	season	summer	
-[00:00:15]: setting 	iswaxingmoon	false	
-[00:00:15]: setting 	isalterawake	true	
-[00:00:15]: setting 	isnightmarecalm	false	
-[00:00:15]: setting 	isnight	false	
-[00:00:15]: setting 	isdusk	false	
-[00:00:15]: setting 	isspring	false	
-[00:00:15]: setting 	isautumn	false	
-[00:00:15]: setting 	iscaveday	true	
-[00:00:15]: setting 	lunarhaillevel	11.172689437866	
-[00:00:15]: setting 	pop	0.11095025033323	
-[00:00:15]: setting 	snowlevel	0	
-[00:00:15]: setting 	issnowcovered	false	
-[00:00:15]: setting 	autumnlength	20	
-[00:00:15]: setting 	phase	day	
-[00:00:15]: setting 	nightmaretime	0	
-[00:00:15]: setting 	issnowing	false	
-[00:00:15]: setting 	iscavedusk	false	
-[00:00:15]: setting 	nightmarephase	none	
-[00:00:15]: setting 	timeinphase	0.003704042787905	
-[00:00:15]: setting 	seasonprogress	0.066666666666667	
-[00:00:15]: setting 	iscavenight	false	
-[00:00:15]: setting 	iscavenewmoon	false	
-[00:00:15]: setting 	issummer	true	
-[00:00:15]: setting 	cavephase	day	
-[00:00:15]: setting 	time	0.0020835240681966	
-[00:00:15]: OVERRIDE: setting	ghostenabled	to	always	
-[00:00:15]: OVERRIDE: setting	resettime	to	none	
-[00:00:15]: OVERRIDE: setting	basicresource_regrowth	to	always	
-[00:00:15]: OVERRIDE: setting	portalresurection	to	always	
-[00:00:15]: OVERRIDE: setting	spawnmode	to	fixed	
-[00:00:15]: OVERRIDE: setting	ghostsanitydrain	to	none	
-[00:00:22]: Could not find anim build FROMNUM
-[00:00:30]: Reconstructing topology	
-[00:00:30]: 	...Sorting points	
-[00:00:30]: 	...Sorting edges	
-[00:00:30]: 	...Connecting nodes	
-[00:00:30]: 	...Validating connections	
-[00:00:30]: 	...Housekeeping	
-[00:00:30]: 	...Done!	
-[00:00:30]: [Special Event] Setting up crow_carnival	
-[00:00:30]: Truncating to snapshot #1226...
-[00:00:30]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001227
-[00:00:30]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001227
-[00:00:30]:    2 file(s) removed
-[00:00:30]: Restoring user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001226	
-[00:00:30]: Restoring user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001226	
-[00:00:30]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001227
-[00:00:30]: Serializing user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001227
-[00:00:30]: 1 uploads added to server. From server_temp
-[00:00:30]: About to start a shard with these settings:
-[00:00:30]:   ShardName: [SHDMASTER]
-[00:00:30]:   ShardID: 1
-[00:00:30]:   ShardRole: MASTER
-[00:00:30]:   MasterHost: (null)
-[00:00:30]:   MasterBind: 127.0.0.1
-[00:00:30]:   MasterPort: 10888
-[00:00:30]: [Shard] Starting master server
-[00:00:30]: [Shard] Shard server started on port: 10888
-[00:00:30]: Telling Client our new session identifier: 2CE9191ADB245DC6
-[00:00:30]: Check for write access: TRUE
-[00:00:30]: Check for read access: TRUE
-[00:00:30]: Available disk space for save files: 22364 MB
-[00:00:30]: ModIndex: Load sequence finished successfully.	
-[00:00:30]: Reset() returning
-[00:00:32]: Validating portal[8] <-> 2248507758[8] (inactive)	
-[00:00:32]: Validating portal[9] <-> 2248507758[9] (inactive)	
-[00:00:32]: Validating portal[3] <-> 2248507758[3] (inactive)	
-[00:00:32]: Validating portal[1] <-> 2248507758[1] (inactive)	
-[00:00:32]: Validating portal[7] <-> 2248507758[7] (inactive)	
-[00:00:32]: Validating portal[5] <-> 2248507758[5] (inactive)	
-[00:00:32]: Validating portal[10] <-> 2248507758[10] (inactive)	
-[00:00:32]: Validating portal[2] <-> 2248507758[2] (inactive)	
-[00:00:32]: Validating portal[4] <-> 2248507758[4] (inactive)	
-[00:00:32]: Validating portal[6] <-> 2248507758[6] (inactive)	
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Could not find anim build FROMNUM
-[00:00:32]: Server registered via geo DNS in ap-southeast-1
-[00:00:32]: Sim paused
-[00:00:32]: [Shard] Secondary shard Caves(2248507758) connected: [LAN] 127.0.0.1
-[00:00:32]: [Shard] Secondary Caves(2248507758) ready!
-[00:00:32]: World 2248507758 is now connected	
-[00:00:32]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:32]: Validating portal[8] <-> 2248507758[8] (active)	
-[00:00:32]: Validating portal[9] <-> 2248507758[9] (disabled)	
-[00:00:32]: Validating portal[3] <-> 2248507758[3] (active)	
-[00:00:32]: Validating portal[1] <-> 2248507758[1] (active)	
-[00:00:32]: Validating portal[7] <-> 2248507758[7] (disabled)	
-[00:00:32]: Validating portal[5] <-> 2248507758[5] (active)	
-[00:00:32]: Validating portal[10] <-> 2248507758[10] (active)	
-[00:00:32]: Validating portal[2] <-> 2248507758[2] (active)	
-[00:00:32]: Validating portal[4] <-> 2248507758[4] (active)	
-[00:00:32]: Validating portal[6] <-> 2248507758[6] (active)	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option krampus = often to secondary shards.	
-[00:00:33]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:15]: 	LOAD BE: done	
+[00:00:15]: Begin Session: 2CE9191ADB245DC6
+[00:00:15]: saving to server_temp/server_save	
+[00:00:15]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:15]: OVERRIDE: setting	deerclops	to	often	
+[00:00:15]: OVERRIDE: setting	extrastartingitems	to	15	
+[00:00:15]: OVERRIDE: setting	eyeofterror	to	often	
+[00:00:15]: OVERRIDE: setting	krampus	to	often	
+[00:00:15]: OVERRIDE: setting	beequeen	to	often	
+[00:00:15]: OVERRIDE: setting	spiderqueen	to	often	
+[00:00:15]: OVERRIDE: setting	goosemoose	to	often	
+[00:00:15]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:00:15]: OVERRIDE: setting	crabking	to	often	
+[00:00:15]: OVERRIDE: setting	frograin	to	often	
+[00:00:15]: OVERRIDE: setting	dragonfly	to	often	
+[00:00:15]: OVERRIDE: setting	deciduousmonster	to	often	
+[00:00:15]: OVERRIDE: setting	malbatross	to	often	
+[00:00:15]: OVERRIDE: setting	liefs	to	often	
+[00:00:15]: OVERRIDE: setting	sharkboi	to	often	
+[00:00:15]: OVERRIDE: setting	daywalker2	to	often	
+[00:00:15]: OVERRIDE: setting	klaus	to	often	
+[00:00:15]: OVERRIDE: setting	beefaloheat	to	rare	
+[00:00:15]: OVERRIDE: setting	fruitfly	to	often	
+[00:00:15]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-2208128427/minimap/loot_pump.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:15]: Loading 19 new character(s)	
+[00:00:16]: Total 19 character(s) loaded	
+[00:00:16]: Loading Nav Grid	
+[00:00:16]: World generated on build 620148 with save version: 5.151, using seed: 58299910	
+[00:00:16]: setting 	summerlength	15	
+[00:00:16]: setting 	cavemoonphase	full	
+[00:00:16]: setting 	iscavefullmoon	false	
+[00:00:16]: setting 	isnightmaredawn	false	
+[00:00:16]: setting 	elapseddaysinseason	1	
+[00:00:16]: setting 	isfullmoon	false	
+[00:00:16]: setting 	moisture	945.97332763672	
+[00:00:16]: setting 	springlength	20	
+[00:00:16]: setting 	islunarhailing	false	
+[00:00:16]: setting 	isnightmarewild	false	
+[00:00:16]: setting 	nightmaretimeinphase	0	
+[00:00:16]: setting 	precipitationrate	0	
+[00:00:16]: setting 	iswet	false	
+[00:00:16]: setting 	isnewmoon	false	
+[00:00:16]: setting 	israining	false	
+[00:00:16]: setting 	iswinter	false	
+[00:00:16]: setting 	isnightmarewarn	false	
+[00:00:16]: setting 	precipitation	none	
+[00:00:16]: setting 	iscavewaxingmoon	false	
+[00:00:16]: setting 	isacidraining	false	
+[00:00:16]: setting 	moonphase	full	
+[00:00:16]: setting 	remainingdaysinseason	14	
+[00:00:16]: setting 	temperature	63.372710633344	
+[00:00:16]: setting 	wetness	0	
+[00:00:16]: setting 	cycles	1176	
+[00:00:16]: setting 	moistureceil	4484.5356445312	
+[00:00:16]: setting 	isday	true	
+[00:00:16]: setting 	winterlength	15	
+[00:00:16]: setting 	season	summer	
+[00:00:16]: setting 	iswaxingmoon	false	
+[00:00:16]: setting 	isalterawake	true	
+[00:00:16]: setting 	isnightmarecalm	false	
+[00:00:16]: setting 	isnight	false	
+[00:00:16]: setting 	isdusk	false	
+[00:00:16]: setting 	isspring	false	
+[00:00:16]: setting 	isautumn	false	
+[00:00:16]: setting 	iscaveday	true	
+[00:00:16]: setting 	lunarhaillevel	11.172689437866	
+[00:00:16]: setting 	pop	0.11095025033323	
+[00:00:16]: setting 	snowlevel	0	
+[00:00:16]: setting 	issnowcovered	false	
+[00:00:16]: setting 	autumnlength	20	
+[00:00:16]: setting 	phase	day	
+[00:00:16]: setting 	nightmaretime	0	
+[00:00:16]: setting 	issnowing	false	
+[00:00:16]: setting 	iscavedusk	false	
+[00:00:16]: setting 	nightmarephase	none	
+[00:00:16]: setting 	timeinphase	0.003704042787905	
+[00:00:16]: setting 	seasonprogress	0.066666666666667	
+[00:00:16]: setting 	iscavenight	false	
+[00:00:16]: setting 	iscavenewmoon	false	
+[00:00:16]: setting 	issummer	true	
+[00:00:16]: setting 	cavephase	day	
+[00:00:16]: setting 	time	0.0020835240681966	
+[00:00:16]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:16]: OVERRIDE: setting	resettime	to	none	
+[00:00:16]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:16]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:16]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:16]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:23]: Could not find anim build FROMNUM
+[00:00:31]: Reconstructing topology	
+[00:00:31]: 	...Sorting points	
+[00:00:31]: 	...Sorting edges	
+[00:00:31]: 	...Connecting nodes	
+[00:00:31]: 	...Validating connections	
+[00:00:31]: 	...Housekeeping	
+[00:00:31]: 	...Done!	
+[00:00:31]: [Special Event] Setting up crow_carnival	
+[00:00:31]: Truncating to snapshot #1226...
+[00:00:31]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001227
+[00:00:31]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001227
+[00:00:31]:    2 file(s) removed
+[00:00:31]: Restoring user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001226	
+[00:00:31]: Restoring user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001226	
+[00:00:31]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001227
+[00:00:31]: Serializing user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001227
+[00:00:31]: 1 uploads added to server. From server_temp
+[00:00:31]: About to start a shard with these settings:
+[00:00:31]:   ShardName: [SHDMASTER]
+[00:00:31]:   ShardID: 1
+[00:00:31]:   ShardRole: MASTER
+[00:00:31]:   MasterHost: (null)
+[00:00:31]:   MasterBind: 127.0.0.1
+[00:00:31]:   MasterPort: 10888
+[00:00:31]: [Shard] Starting master server
+[00:00:31]: [Shard] Shard server started on port: 10888
+[00:00:31]: Telling Client our new session identifier: 2CE9191ADB245DC6
+[00:00:31]: Check for write access: TRUE
+[00:00:31]: Check for read access: TRUE
+[00:00:31]: Available disk space for save files: 23512 MB
+[00:00:31]: ModIndex: Load sequence finished successfully.	
+[00:00:32]: Reset() returning
+[00:00:33]: Validating portal[7] <-> 2248507758[7] (inactive)	
+[00:00:33]: Validating portal[8] <-> 2248507758[8] (inactive)	
+[00:00:33]: Validating portal[3] <-> 2248507758[3] (inactive)	
+[00:00:33]: Validating portal[1] <-> 2248507758[1] (inactive)	
+[00:00:33]: Validating portal[5] <-> 2248507758[5] (inactive)	
+[00:00:33]: Validating portal[2] <-> 2248507758[2] (inactive)	
+[00:00:33]: Validating portal[9] <-> 2248507758[9] (inactive)	
+[00:00:33]: Validating portal[10] <-> 2248507758[10] (inactive)	
+[00:00:33]: Validating portal[6] <-> 2248507758[6] (inactive)	
+[00:00:33]: Validating portal[4] <-> 2248507758[4] (inactive)	
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Could not find anim build FROMNUM
+[00:00:34]: Server registered via geo DNS in ap-southeast-1
+[00:00:34]: Sim paused
+[00:00:34]: [Shard] Secondary shard Caves(2248507758) connected: [LAN] 127.0.0.1
+[00:00:34]: [Shard] Secondary Caves(2248507758) ready!
+[00:00:34]: World 2248507758 is now connected	
+[00:00:34]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:34]: Validating portal[7] <-> 2248507758[7] (disabled)	
+[00:00:34]: Validating portal[8] <-> 2248507758[8] (active)	
+[00:00:34]: Validating portal[3] <-> 2248507758[3] (active)	
+[00:00:34]: Validating portal[1] <-> 2248507758[1] (active)	
+[00:00:34]: Validating portal[5] <-> 2248507758[5] (active)	
+[00:00:34]: Validating portal[2] <-> 2248507758[2] (active)	
+[00:00:34]: Validating portal[9] <-> 2248507758[9] (disabled)	
+[00:00:34]: Validating portal[10] <-> 2248507758[10] (active)	
+[00:00:34]: Validating portal[6] <-> 2248507758[6] (active)	
+[00:00:34]: Validating portal[4] <-> 2248507758[4] (active)	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option krampus = often to secondary shards.	
+[00:00:34]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
 [00:30:05]: [200] Account Communication Success (6)
 [00:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [01:00:05]: [200] Account Communication Success (6)
@@ -1393,3 +1393,87 @@ Resurrection is always available via the Florid Postern.
 [02:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [02:30:05]: [200] Account Communication Success (6)
 [02:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:00:05]: [200] Account Communication Success (6)
+[03:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:30:05]: [200] Account Communication Success (6)
+[03:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:00:05]: [200] Account Communication Success (6)
+[04:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:30:05]: [200] Account Communication Success (6)
+[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:00:05]: [200] Account Communication Success (6)
+[05:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:30:05]: [200] Account Communication Success (6)
+[05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:06]: [200] Account Communication Success (6)
+[06:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:05]: [200] Account Communication Success (6)
+[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:05]: [200] Account Communication Success (6)
+[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:00:05]: [200] Account Communication Success (6)
+[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:05]: [200] Account Communication Success (6)
+[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:05]: [200] Account Communication Success (6)
+[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:30:06]: [200] Account Communication Success (6)
+[10:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:06]: [200] Account Communication Success (6)
+[11:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:30:06]: [200] Account Communication Success (6)
+[11:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:00:06]: [200] Account Communication Success (6)
+[12:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:30:06]: [200] Account Communication Success (6)
+[12:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:00:06]: [200] Account Communication Success (6)
+[13:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:30:06]: [200] Account Communication Success (6)
+[13:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:00:06]: [200] Account Communication Success (6)
+[14:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:30:06]: [200] Account Communication Success (6)
+[14:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:00:06]: [200] Account Communication Success (6)
+[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:30:06]: [200] Account Communication Success (6)
+[15:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:00:06]: [200] Account Communication Success (6)
+[16:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:00:06]: [200] Account Communication Success (6)
+[21:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:30:06]: [200] Account Communication Success (6)
+[21:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:00:06]: [200] Account Communication Success (6)
+[22:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:30:06]: [200] Account Communication Success (6)
+[22:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:00:06]: [200] Account Communication Success (6)
+[23:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:30:06]: [200] Account Communication Success (6)
+[23:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
