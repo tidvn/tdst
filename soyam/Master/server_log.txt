@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 625420
-[00:00:00]: Current time: Wed Aug 14 06:00:38 2024
+[00:00:00]: Current time: Thu Aug 15 06:00:34 2024
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: ip-172-31-23-55
@@ -12,13 +12,13 @@
 [00:00:00]: Build Date: 2592
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1289762 -shard Master 
+[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1340218 -shard Master 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (127966177871424)
+[00:00:00]: THREAD - started 'GAClient' (134404264642112)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:3.23
+[00:00:00]: ProfileIndex:3.24
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -32,7 +32,7 @@
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: THREAD - started 'StreamInput' (127966056003136)
+[00:00:00]: THREAD - started 'StreamInput' (134404142765632)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
 [00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
@@ -54,14 +54,14 @@
 [00:00:00]:   taskgrouplist:	cave_default	Underground	
 [00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
 [00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:01]: Running main.lua
+[00:00:00]: Running main.lua
 	
-[00:00:01]: loaded modindex	
-[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:02]: [Workshop] Item query page 0, size: 15, total size: 15
-[00:00:02]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
-[00:00:02]: [Workshop] Item query sent
+[00:00:01]: [Workshop] Item query page 0, size: 15, total size: 15
+[00:00:01]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
+[00:00:01]: [Workshop] Item query sent
 [00:00:02]: [Workshop] ItemQuery got this many results: 15, matching: 15
 [00:00:02]: [Workshop] ModQuery got 15 results
 [00:00:02]: [Workshop] ModQuery already have IDs: {3.0,1111658995} {92,1185229307} {2.16,1207269058} {1.08,1530801499} {1.1.5,1595631294} {1.5,2078243581} {1.10,2208128427} {1.1,2281925291} {1.3.6,2324689937} {1.8,356930882} {1.4.5,362175979} {1.7.5,378160973} {full 4,466732225} {1.6.8.1,569043634} {0.58,666155465}
@@ -325,114 +325,114 @@
 [00:00:03]: OnUpdatePurchaseStateComplete	
 [00:00:03]: Klump load on boot started.	
 [00:00:03]: Klump files loaded: 	0	
-[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
-[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
-[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
-[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
-[00:00:04]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
-[00:00:04]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
-[00:00:04]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
-[00:00:04]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
-[00:00:04]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[00:00:04]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
-[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
-[00:00:04]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
-[00:00:04]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
-[00:00:04]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
-[00:00:04]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
-[00:00:04]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
-[00:00:04]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
-[00:00:04]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
-[00:00:04]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
-[00:00:04]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
-[00:00:04]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
-[00:00:04]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
-[00:00:04]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
-[00:00:04]: 	Load FE	
-[00:00:04]: THREAD - started 'FilesExistAsyncThread' (127966043403840)
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
+[00:00:03]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:03]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
+[00:00:03]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:03]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
+[00:00:03]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:03]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
+[00:00:03]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
+[00:00:03]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:03]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (134404130166336)
 [00:00:04]: FilesExistAsyncThread started (24583 files)...
 [00:00:04]: 	Load FE: done	
 [00:00:04]: Check for write access: TRUE
 [00:00:04]: Check for read access: TRUE
-[00:00:04]: Available disk space for save files: 22364 MB
+[00:00:04]: Available disk space for save files: 22352 MB
 [00:00:04]: ModIndex: Load sequence finished successfully.	
 [00:00:04]: Reset() returning
 [00:00:04]: ... FilesExistAsyncThread complete
-[00:00:05]: [200] Account Communication Success (6)
-[00:00:05]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Master/save/cached_userid
-[00:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[00:00:05]: Starting Dedicated Server Game	
-[00:00:05]: Network tick rate: U=15(2), D=0
-[00:00:05]: About to start a server with the following settings:
-[00:00:05]:   Dedicated: true
-[00:00:05]:   Online: true
-[00:00:05]:   Passworded: true
-[00:00:05]:   ServerPort: 10999
-[00:00:05]:   SteamAuthPort: 8766
-[00:00:05]:   SteamMasterServerPort: 27016
-[00:00:05]:   ClanID: false
-[00:00:05]:   ClanOnly: false
-[00:00:05]:   ClanAdmin: false
-[00:00:05]:   LanOnly: false
-[00:00:05]:   FriendsOnly: false
-[00:00:05]:   EnableAutosaver: true
-[00:00:05]:   EncodeUserPath: true
-[00:00:05]:   PVP: false
-[00:00:05]:   MaxPlayers: 10
-[00:00:05]:   GameMode: survival
-[00:00:05]:   OverridenDNS: 
-[00:00:05]:   PauseWhenEmpty: true
-[00:00:05]:   IdleTimeout: 1800s
-[00:00:05]:   VoteEnabled: true
-[00:00:05]:   InternetBroadcasting: true
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1530801499	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-569043634	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
-[00:00:05]: Online Server Started on port: 10999
+[00:00:04]: [200] Account Communication Success (6)
+[00:00:04]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Master/save/cached_userid
+[00:00:04]: Received (KU_LI3oE5Tc) from TokenPurpose
+[00:00:04]: Starting Dedicated Server Game	
+[00:00:04]: Network tick rate: U=15(2), D=0
+[00:00:04]: About to start a server with the following settings:
+[00:00:04]:   Dedicated: true
+[00:00:04]:   Online: true
+[00:00:04]:   Passworded: true
+[00:00:04]:   ServerPort: 10999
+[00:00:04]:   SteamAuthPort: 8766
+[00:00:04]:   SteamMasterServerPort: 27016
+[00:00:04]:   ClanID: false
+[00:00:04]:   ClanOnly: false
+[00:00:04]:   ClanAdmin: false
+[00:00:04]:   LanOnly: false
+[00:00:04]:   FriendsOnly: false
+[00:00:04]:   EnableAutosaver: true
+[00:00:04]:   EncodeUserPath: true
+[00:00:04]:   PVP: false
+[00:00:04]:   MaxPlayers: 10
+[00:00:04]:   GameMode: survival
+[00:00:04]:   OverridenDNS: 
+[00:00:04]:   PauseWhenEmpty: true
+[00:00:04]:   IdleTimeout: 1800s
+[00:00:04]:   VoteEnabled: true
+[00:00:04]:   InternetBroadcasting: true
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1530801499	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
+[00:00:04]: Online Server Started on port: 10999
 [00:00:05]: SUCCESS: Loaded modoverrides.lua	
 [00:00:05]: Found a level data override file with these contents:	
 [00:00:05]: 	K: 	desc	 V: 	A never-ending Don't Starve sandbox.
@@ -445,7 +445,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 	K: 	name	 V: 	Endless	
 [00:00:05]: 	K: 	numrandom_set_pieces	 V: 	4	
 [00:00:05]: 	K: 	override_level_string	 V: 	false	
-[00:00:05]: 	K: 	overrides	 V: 	table: 0xc148050	
+[00:00:05]: 	K: 	overrides	 V: 	table: 0xcfa8420	
 [00:00:05]: 		K: 	alternatehunt	 V: 	default	
 [00:00:05]: 		K: 	angrybees	 V: 	default	
 [00:00:05]: 		K: 	antliontribute	 V: 	default	
@@ -631,7 +631,7 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 		K: 	year_of_the_pig	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_varg	 V: 	default	
 [00:00:05]: 	K: 	playstyle	 V: 	endless	
-[00:00:05]: 	K: 	random_set_pieces	 V: 	table: 0xc147e40	
+[00:00:05]: 	K: 	random_set_pieces	 V: 	table: 0xcfa7e40	
 [00:00:05]: 		K: 	1	 V: 	Sculptures_2	
 [00:00:05]: 		K: 	2	 V: 	Sculptures_3	
 [00:00:05]: 		K: 	3	 V: 	Sculptures_4	
@@ -651,16 +651,16 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: 		K: 	17	 V: 	Warzone_1	
 [00:00:05]: 		K: 	18	 V: 	Warzone_2	
 [00:00:05]: 		K: 	19	 V: 	Warzone_3	
-[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xc147c30	
+[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xcfa78a0	
 [00:00:05]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:05]: 	K: 	required_setpieces	 V: 	table: 0xc147a20	
+[00:00:05]: 	K: 	required_setpieces	 V: 	table: 0xcfa7300	
 [00:00:05]: 		K: 	1	 V: 	Sculptures_1	
 [00:00:05]: 		K: 	2	 V: 	Maxwell5	
 [00:00:05]: 	K: 	settings_desc	 V: 	A never-ending Don't Starve sandbox.
 Resurrection is always available via the Florid Postern.	
 [00:00:05]: 	K: 	settings_id	 V: 	ENDLESS	
 [00:00:05]: 	K: 	settings_name	 V: 	Endless	
-[00:00:05]: 	K: 	substitutes	 V: 	table: 0xc1488d0	
+[00:00:05]: 	K: 	substitutes	 V: 	table: 0xcfa9ba0	
 [00:00:05]: 	K: 	version	 V: 	4	
 [00:00:05]: 	K: 	worldgen_desc	 V: 	A never-ending Don't Starve sandbox.
 Resurrection is always available via the Florid Postern.	
@@ -930,26 +930,26 @@ Resurrection is always available via the Florid Postern.
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
 [00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
-[00:00:06]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:06]: LOADING LUA SUCCESS
-[00:00:06]: Registering Server mod namespace "workshop-1207269058"
-[00:00:06]: Registering Server mod namespace "workshop-1111658995"
-[00:00:06]: Registering Server mod namespace "showme"
-[00:00:06]: Registering Server mod namespace "finder_redux"
-[00:00:06]: Registering Server mod namespace "fasttravel"
-[00:00:06]: Registering Server mod namespace "workshop-378160973"
-[00:00:06]: Registering Server mod namespace "showmeshint"
-[00:00:06]: Registering Client mod namespace "workshop-1111658995"
-[00:00:06]: Registering Client mod namespace "workshop-1185229307"
-[00:00:06]: Registering Client mod namespace "finder_redux"
-[00:00:06]: PlayerDeaths could not load morgue	
-[00:00:06]: PlayerHistory could not load player_history	
-[00:00:06]: ServerPreferences could not load server_preferences	
-[00:00:06]: ConsoleScreenSettings could not load consolescreen	
-[00:00:06]: bloom_enabled	true	
-[00:00:06]: OnFilesLoaded()	
-[00:00:06]: OnUpdatePurchaseStateComplete	
-[00:00:06]: Loading world: session/2CE9191ADB245DC6/0000001226	
+[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering Server mod namespace "workshop-1207269058"
+[00:00:05]: Registering Server mod namespace "workshop-1111658995"
+[00:00:05]: Registering Server mod namespace "showme"
+[00:00:05]: Registering Server mod namespace "finder_redux"
+[00:00:05]: Registering Server mod namespace "fasttravel"
+[00:00:05]: Registering Server mod namespace "workshop-378160973"
+[00:00:05]: Registering Server mod namespace "showmeshint"
+[00:00:05]: Registering Client mod namespace "workshop-1111658995"
+[00:00:05]: Registering Client mod namespace "workshop-1185229307"
+[00:00:05]: Registering Client mod namespace "finder_redux"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: ConsoleScreenSettings could not load consolescreen	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Loading world: session/2CE9191ADB245DC6/0000001226	
 [00:00:06]: Save file is at version 5.151	
 [00:00:06]: Klump load on boot started.	
 [00:00:06]: Klump files loaded: 	0	
@@ -1013,9 +1013,9 @@ Resurrection is always available via the Florid Postern.
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:07]: 	LOAD BE	
-[00:00:13]: 	LOAD BE: done	
-[00:00:13]: Begin Session: 2CE9191ADB245DC6
-[00:00:13]: saving to server_temp/server_save	
+[00:00:14]: 	LOAD BE: done	
+[00:00:14]: Begin Session: 2CE9191ADB245DC6
+[00:00:14]: saving to server_temp/server_save	
 [00:00:14]: OVERRIDE: setting	healthpenalty	to	always	
 [00:00:14]: OVERRIDE: setting	deerclops	to	often	
 [00:00:14]: OVERRIDE: setting	extrastartingitems	to	15	
@@ -1161,18 +1161,18 @@ Resurrection is always available via the Florid Postern.
 [00:00:30]: Telling Client our new session identifier: 2CE9191ADB245DC6
 [00:00:30]: Check for write access: TRUE
 [00:00:30]: Check for read access: TRUE
-[00:00:30]: Available disk space for save files: 22364 MB
+[00:00:30]: Available disk space for save files: 22352 MB
 [00:00:30]: ModIndex: Load sequence finished successfully.	
-[00:00:30]: Reset() returning
-[00:00:32]: Validating portal[8] <-> 2248507758[8] (inactive)	
-[00:00:32]: Validating portal[9] <-> 2248507758[9] (inactive)	
-[00:00:32]: Validating portal[3] <-> 2248507758[3] (inactive)	
-[00:00:32]: Validating portal[1] <-> 2248507758[1] (inactive)	
+[00:00:31]: Reset() returning
 [00:00:32]: Validating portal[7] <-> 2248507758[7] (inactive)	
-[00:00:32]: Validating portal[5] <-> 2248507758[5] (inactive)	
+[00:00:32]: Validating portal[9] <-> 2248507758[9] (inactive)	
+[00:00:32]: Validating portal[8] <-> 2248507758[8] (inactive)	
+[00:00:32]: Validating portal[3] <-> 2248507758[3] (inactive)	
 [00:00:32]: Validating portal[10] <-> 2248507758[10] (inactive)	
-[00:00:32]: Validating portal[2] <-> 2248507758[2] (inactive)	
+[00:00:32]: Validating portal[5] <-> 2248507758[5] (inactive)	
 [00:00:32]: Validating portal[4] <-> 2248507758[4] (inactive)	
+[00:00:32]: Validating portal[2] <-> 2248507758[2] (inactive)	
+[00:00:32]: Validating portal[1] <-> 2248507758[1] (inactive)	
 [00:00:32]: Validating portal[6] <-> 2248507758[6] (inactive)	
 [00:00:32]: Could not find anim build FROMNUM
 [00:00:32]: Could not find anim build FROMNUM
@@ -1341,33 +1341,33 @@ Resurrection is always available via the Florid Postern.
 [00:00:32]: Server registered via geo DNS in ap-southeast-1
 [00:00:32]: Sim paused
 [00:00:32]: [Shard] Secondary shard Caves(2248507758) connected: [LAN] 127.0.0.1
-[00:00:32]: [Shard] Secondary Caves(2248507758) ready!
-[00:00:32]: World 2248507758 is now connected	
-[00:00:32]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
-[00:00:32]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
-[00:00:32]: Validating portal[8] <-> 2248507758[8] (active)	
-[00:00:32]: Validating portal[9] <-> 2248507758[9] (disabled)	
-[00:00:32]: Validating portal[3] <-> 2248507758[3] (active)	
-[00:00:32]: Validating portal[1] <-> 2248507758[1] (active)	
-[00:00:32]: Validating portal[7] <-> 2248507758[7] (disabled)	
-[00:00:32]: Validating portal[5] <-> 2248507758[5] (active)	
-[00:00:32]: Validating portal[10] <-> 2248507758[10] (active)	
-[00:00:32]: Validating portal[2] <-> 2248507758[2] (active)	
-[00:00:32]: Validating portal[4] <-> 2248507758[4] (active)	
-[00:00:32]: Validating portal[6] <-> 2248507758[6] (active)	
+[00:00:33]: [Shard] Secondary Caves(2248507758) ready!
+[00:00:33]: World 2248507758 is now connected	
+[00:00:33]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
+[00:00:33]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:33]: Validating portal[7] <-> 2248507758[7] (disabled)	
+[00:00:33]: Validating portal[9] <-> 2248507758[9] (disabled)	
+[00:00:33]: Validating portal[8] <-> 2248507758[8] (active)	
+[00:00:33]: Validating portal[3] <-> 2248507758[3] (active)	
+[00:00:33]: Validating portal[10] <-> 2248507758[10] (active)	
+[00:00:33]: Validating portal[5] <-> 2248507758[5] (active)	
+[00:00:33]: Validating portal[4] <-> 2248507758[4] (active)	
+[00:00:33]: Validating portal[2] <-> 2248507758[2] (active)	
+[00:00:33]: Validating portal[1] <-> 2248507758[1] (active)	
+[00:00:33]: Validating portal[6] <-> 2248507758[6] (active)	
 [00:00:33]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
 [00:00:33]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
 [00:00:33]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
@@ -1393,87 +1393,3 @@ Resurrection is always available via the Florid Postern.
 [02:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [02:30:05]: [200] Account Communication Success (6)
 [02:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[03:00:05]: [200] Account Communication Success (6)
-[03:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[03:30:05]: [200] Account Communication Success (6)
-[03:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[04:00:05]: [200] Account Communication Success (6)
-[04:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[04:30:05]: [200] Account Communication Success (6)
-[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[05:00:05]: [200] Account Communication Success (6)
-[05:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[05:30:05]: [200] Account Communication Success (6)
-[05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[06:00:05]: [200] Account Communication Success (6)
-[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[06:30:05]: [200] Account Communication Success (6)
-[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[07:00:05]: [200] Account Communication Success (6)
-[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[07:30:05]: [200] Account Communication Success (6)
-[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[08:00:05]: [200] Account Communication Success (6)
-[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[08:30:05]: [200] Account Communication Success (6)
-[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[09:00:05]: [200] Account Communication Success (6)
-[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[09:30:05]: [200] Account Communication Success (6)
-[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[10:00:05]: [200] Account Communication Success (6)
-[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[10:30:05]: [200] Account Communication Success (6)
-[10:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[11:00:05]: [200] Account Communication Success (6)
-[11:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[11:30:05]: [200] Account Communication Success (6)
-[11:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[12:00:05]: [200] Account Communication Success (6)
-[12:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[12:30:05]: [200] Account Communication Success (6)
-[12:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[13:00:06]: [200] Account Communication Success (6)
-[13:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[13:30:05]: [200] Account Communication Success (6)
-[13:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[14:00:06]: [200] Account Communication Success (6)
-[14:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[14:30:06]: [200] Account Communication Success (6)
-[14:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[15:00:06]: [200] Account Communication Success (6)
-[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[15:30:06]: [200] Account Communication Success (6)
-[15:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[16:00:06]: [200] Account Communication Success (6)
-[16:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[16:30:06]: [200] Account Communication Success (6)
-[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[17:00:06]: [200] Account Communication Success (6)
-[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[17:30:06]: [200] Account Communication Success (6)
-[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[18:00:06]: [200] Account Communication Success (6)
-[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[18:30:06]: [200] Account Communication Success (6)
-[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[19:00:06]: [200] Account Communication Success (6)
-[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[19:30:06]: [200] Account Communication Success (6)
-[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[20:00:06]: [200] Account Communication Success (6)
-[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[20:30:06]: [200] Account Communication Success (6)
-[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[21:00:06]: [200] Account Communication Success (6)
-[21:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[21:30:06]: [200] Account Communication Success (6)
-[21:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[22:00:06]: [200] Account Communication Success (6)
-[22:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[22:30:06]: [200] Account Communication Success (6)
-[22:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[23:00:06]: [200] Account Communication Success (6)
-[23:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[23:30:06]: [200] Account Communication Success (6)
-[23:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
