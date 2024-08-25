@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Caves/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 625420
-[00:00:00]: Current time: Sat Aug 24 06:00:35 2024
+[00:00:00]: Current time: Sun Aug 25 06:00:35 2024
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: ip-172-31-23-55
@@ -12,13 +12,13 @@
 [00:00:00]: Build Date: 2592
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1581781 -shard Caves 
+[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 1602165 -shard Caves 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (133781315585600)
+[00:00:00]: THREAD - started 'GAClient' (131207501157952)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:3.19
+[00:00:00]: ProfileIndex:3.18
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -32,8 +32,8 @@
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (131207380579904)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (133781261358656)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
 [00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
 [00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
@@ -49,19 +49,19 @@
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:00]:   taskgrouplist:	default	Together	
-[00:00:00]:   taskgrouplist:	classic	Classic	
-[00:00:00]:   taskgrouplist:	cave_default	Underground	
-[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:00]: Running main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
 	
-[00:00:00]: loaded modindex	
-[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:01]: [Workshop] Item query page 0, size: 15, total size: 15
-[00:00:01]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
-[00:00:01]: [Workshop] Item query sent
+[00:00:02]: [Workshop] Item query page 0, size: 15, total size: 15
+[00:00:02]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
+[00:00:02]: [Workshop] Item query sent
 [00:00:02]: [Workshop] ItemQuery got this many results: 15, matching: 15
 [00:00:02]: [Workshop] ModQuery got 15 results
 [00:00:02]: [Workshop] ModQuery already have IDs: {3.0,1111658995} {92,1185229307} {2.16,1207269058} {1.08,1530801499} {1.1.5,1595631294} {1.5,2078243581} {1.10,2208128427} {1.1,2281925291} {1.3.6,2324689937} {1.8,356930882} {1.4.5,362175979} {1.7.5,378160973} {full 4,466732225} {1.6.8.1,569043634} {0.58,666155465}
@@ -383,12 +383,12 @@
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:04]: 	Load FE	
-[00:00:04]: THREAD - started 'FilesExistAsyncThread' (133780773791296)
-[00:00:04]: FilesExistAsyncThread started (24583 files)...
-[00:00:04]: 	Load FE: done	
-[00:00:04]: Check for write access: TRUE
-[00:00:04]: Check for read access: TRUE
-[00:00:04]: Available disk space for save files: 22226 MB
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (131206888814144)
+[00:00:05]: FilesExistAsyncThread started (24583 files)...
+[00:00:05]: 	Load FE: done	
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: Available disk space for save files: 22226 MB
 [00:00:05]: ModIndex: Load sequence finished successfully.	
 [00:00:05]: Reset() returning
 [00:00:05]: [200] Account Communication Success (6)
@@ -425,16 +425,16 @@
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
 [00:00:05]: Online Server Started on port: 10998
 [00:00:05]: SUCCESS: Loaded modoverrides.lua	
 [00:00:05]: Found a level data override file with these contents:	
-[00:00:05]: 	K: 	background_node_range	 V: 	table: 0xda5e710	
+[00:00:05]: 	K: 	background_node_range	 V: 	table: 0xc9380e0	
 [00:00:05]: 		K: 	1	 V: 	0	
 [00:00:05]: 		K: 	2	 V: 	1	
 [00:00:05]: 	K: 	desc	 V: 	Delve into the caves... together!	
@@ -446,7 +446,7 @@
 [00:00:05]: 	K: 	name	 V: 	The Caves	
 [00:00:05]: 	K: 	numrandom_set_pieces	 V: 	0	
 [00:00:05]: 	K: 	override_level_string	 V: 	false	
-[00:00:05]: 	K: 	overrides	 V: 	table: 0xda5ded0	
+[00:00:05]: 	K: 	overrides	 V: 	table: 0xc937910	
 [00:00:05]: 		K: 	acidrain_enabled	 V: 	always	
 [00:00:05]: 		K: 	atriumgate	 V: 	default	
 [00:00:05]: 		K: 	banana	 V: 	default	
@@ -557,12 +557,12 @@
 [00:00:05]: 		K: 	year_of_the_gobbler	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_pig	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_varg	 V: 	default	
-[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xda5dcc0	
+[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xc937700	
 [00:00:05]: 		K: 	1	 V: 	multiplayer_portal	
 [00:00:05]: 	K: 	settings_desc	 V: 	Delve into the caves... together!	
 [00:00:05]: 	K: 	settings_id	 V: 	DST_CAVE	
 [00:00:05]: 	K: 	settings_name	 V: 	The Caves	
-[00:00:05]: 	K: 	substitutes	 V: 	table: 0xda5dab0	
+[00:00:05]: 	K: 	substitutes	 V: 	table: 0xc969f40	
 [00:00:05]: 	K: 	version	 V: 	4	
 [00:00:05]: 	K: 	worldgen_desc	 V: 	Delve into the caves... together!	
 [00:00:05]: 	K: 	worldgen_id	 V: 	DST_CAVE	
@@ -571,7 +571,7 @@
 [00:00:05]: Overwriting savedata with level data file.	
 [00:00:05]: Not applying world gen overrides.	
 [00:00:05]: Collecting garbage...
-[00:00:05]: lua_gc took 0.10 seconds
+[00:00:05]: lua_gc took 0.09 seconds
 [00:00:05]: ~ShardLuaProxy()
 [00:00:05]: ~cEventLeaderboardProxy()
 [00:00:05]: ~ItemServerLuaProxy()
@@ -580,22 +580,22 @@
 [00:00:05]: ~SimLuaProxy()
 [00:00:05]: FilesExistAsyncThread aborted.
 [00:00:05]: ... FilesExistAsyncThread complete
-[00:00:05]: lua_close took 0.11 seconds
+[00:00:05]: lua_close took 0.10 seconds
 [00:00:05]: ReleaseAll
 [00:00:05]: ReleaseAll Finished
 [00:00:05]: cGame::StartPlaying
-[00:00:05]: AppVersion::GetArchitecture() x64
-[00:00:05]: LOADING LUA
-[00:00:05]: DoLuaFile scripts/main.lua
-[00:00:05]: DoLuaFile loading buffer scripts/main.lua
-[00:00:05]:   taskgrouplist:	default	Together	
-[00:00:05]:   taskgrouplist:	classic	Classic	
-[00:00:05]:   taskgrouplist:	cave_default	Underground	
-[00:00:05]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:05]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:05]: Running main.lua
+[00:00:06]: AppVersion::GetArchitecture() x64
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]:   taskgrouplist:	default	Together	
+[00:00:06]:   taskgrouplist:	classic	Classic	
+[00:00:06]:   taskgrouplist:	cave_default	Underground	
+[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:06]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:06]: Running main.lua
 	
-[00:00:05]: loaded modindex	
+[00:00:06]: loaded modindex	
 [00:00:06]: ModIndex: Beginning normal load sequence for dedicated server.
 	
 [00:00:06]: SUCCESS: Loaded modoverrides.lua	
@@ -915,10 +915,10 @@
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
-[00:00:07]: 	LOAD BE	
-[00:00:14]: 	LOAD BE: done	
-[00:00:14]: Begin Session: 01EF7F7A1CFE0E43
-[00:00:14]: saving to server_temp/server_save	
+[00:00:08]: 	LOAD BE	
+[00:00:15]: 	LOAD BE: done	
+[00:00:15]: Begin Session: 01EF7F7A1CFE0E43
+[00:00:15]: saving to server_temp/server_save	
 [00:00:15]: OVERRIDE: setting	healthpenalty	to	always	
 [00:00:15]: OVERRIDE: setting	extrastartingitems	to	15	
 [00:00:15]: OVERRIDE: setting	krampus	to	often	
@@ -1049,16 +1049,16 @@
 [00:00:24]: ModIndex: Load sequence finished successfully.	
 [00:00:24]: Reset() returning
 [00:00:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:25]: Validating portal[4] <-> 1[4] (inactive)	
 [00:00:25]: Validating portal[9] <-> 1[9] (inactive)	
 [00:00:25]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:25]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:25]: Validating portal[1] <-> 1[1] (inactive)	
 [00:00:25]: Validating portal[6] <-> 1[6] (inactive)	
 [00:00:25]: Validating portal[2] <-> 1[2] (inactive)	
-[00:00:25]: Validating portal[5] <-> 1[5] (inactive)	
-[00:00:25]: Validating portal[10] <-> 1[10] (inactive)	
-[00:00:25]: Validating portal[3] <-> 1[3] (inactive)	
-[00:00:25]: Validating portal[1] <-> 1[1] (inactive)	
 [00:00:25]: Validating portal[7] <-> 1[7] (inactive)	
-[00:00:25]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:25]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:25]: Validating portal[3] <-> 1[3] (inactive)	
 [00:00:29]: About to start a shard with these settings:
 [00:00:29]:   ShardName: Caves
 [00:00:29]:   ShardID: 2248507758
@@ -1068,20 +1068,20 @@
 [00:00:29]:   MasterPort: 10888
 [00:00:29]: [Shard] Connecting to master...
 [00:00:31]: [Shard] Sending secondary shard information to master...
-[00:00:33]: Received MasterInfoPacket row e31200613ff013c0ee3f97fedbb02b09 region ap-southeast-1
+[00:00:33]: Received MasterInfoPacket row 46400ea5602c47cdedd8cb52423a7e35 region ap-southeast-1
 [00:00:33]: Obtaining secondary shard IP from ap-southeast-1 lobby
 [00:00:33]: [Shard] secondary shard is now ready!
 [00:00:33]: World 1 is now connected	
+[00:00:33]: Validating portal[4] <-> 1[4] (active)	
 [00:00:33]: Validating portal[9] <-> 1[9] (active)	
 [00:00:33]: Validating portal[8] <-> 1[8] (active)	
+[00:00:33]: Validating portal[10] <-> 1[10] (active)	
+[00:00:33]: Validating portal[1] <-> 1[1] (active)	
 [00:00:33]: Validating portal[6] <-> 1[6] (active)	
 [00:00:33]: Validating portal[2] <-> 1[2] (active)	
-[00:00:33]: Validating portal[5] <-> 1[5] (active)	
-[00:00:33]: Validating portal[10] <-> 1[10] (active)	
-[00:00:33]: Validating portal[3] <-> 1[3] (active)	
-[00:00:33]: Validating portal[1] <-> 1[1] (active)	
 [00:00:33]: Validating portal[7] <-> 1[7] (active)	
-[00:00:33]: Validating portal[4] <-> 1[4] (active)	
+[00:00:33]: Validating portal[5] <-> 1[5] (active)	
+[00:00:33]: Validating portal[3] <-> 1[3] (active)	
 [00:00:33]: [SyncWorldSettings] recieved world settings from master shard.	true	
 [00:00:33]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
 [00:00:33]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
@@ -1128,87 +1128,3 @@
 [02:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [02:30:05]: [200] Account Communication Success (6)
 [02:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[03:00:05]: [200] Account Communication Success (6)
-[03:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[03:30:05]: [200] Account Communication Success (6)
-[03:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[04:00:05]: [200] Account Communication Success (6)
-[04:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[04:30:05]: [200] Account Communication Success (6)
-[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[05:00:05]: [200] Account Communication Success (6)
-[05:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[05:30:05]: [200] Account Communication Success (6)
-[05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[06:00:05]: [200] Account Communication Success (6)
-[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[06:30:05]: [200] Account Communication Success (6)
-[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[07:00:05]: [200] Account Communication Success (6)
-[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[07:30:05]: [200] Account Communication Success (6)
-[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[08:00:05]: [200] Account Communication Success (6)
-[08:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[08:30:05]: [200] Account Communication Success (6)
-[08:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[09:00:05]: [200] Account Communication Success (6)
-[09:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[09:30:05]: [200] Account Communication Success (6)
-[09:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[10:00:05]: [200] Account Communication Success (6)
-[10:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
-[10:30:06]: [200] Account Communication Success (6)
-[10:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[11:00:06]: [200] Account Communication Success (6)
-[11:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[11:30:06]: [200] Account Communication Success (6)
-[11:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[12:00:06]: [200] Account Communication Success (6)
-[12:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[12:30:06]: [200] Account Communication Success (6)
-[12:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[13:00:06]: [200] Account Communication Success (6)
-[13:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[13:30:06]: [200] Account Communication Success (6)
-[13:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[14:00:06]: [200] Account Communication Success (6)
-[14:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[14:30:06]: [200] Account Communication Success (6)
-[14:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[15:00:06]: [200] Account Communication Success (6)
-[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[15:30:06]: [200] Account Communication Success (6)
-[15:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[16:00:06]: [200] Account Communication Success (6)
-[16:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[16:30:06]: [200] Account Communication Success (6)
-[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[17:00:06]: [200] Account Communication Success (6)
-[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[17:30:06]: [200] Account Communication Success (6)
-[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[18:00:06]: [200] Account Communication Success (6)
-[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[18:30:06]: [200] Account Communication Success (6)
-[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[19:00:06]: [200] Account Communication Success (6)
-[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[19:30:06]: [200] Account Communication Success (6)
-[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[20:00:06]: [200] Account Communication Success (6)
-[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[20:30:06]: [200] Account Communication Success (6)
-[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[21:00:06]: [200] Account Communication Success (6)
-[21:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[21:30:06]: [200] Account Communication Success (6)
-[21:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[22:00:06]: [200] Account Communication Success (6)
-[22:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[22:30:06]: [200] Account Communication Success (6)
-[22:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[23:00:06]: [200] Account Communication Success (6)
-[23:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
-[23:30:06]: [200] Account Communication Success (6)
-[23:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
