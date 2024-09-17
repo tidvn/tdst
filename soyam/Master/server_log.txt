@@ -1464,3 +1464,34 @@ Resurrection is always available via the Florid Postern.
 [20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
 [20:30:06]: [200] Account Communication Success (6)
 [20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:00:06]: [200] Account Communication Success (6)
+[21:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:30:06]: [200] Account Communication Success (6)
+[21:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:00:06]: [200] Account Communication Success (6)
+[22:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:30:06]: [200] Account Communication Success (6)
+[22:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:00:06]: [200] Account Communication Success (6)
+[23:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:13:42]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[23:13:42]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[23:13:42]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[23:13:43]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[23:13:43]: Master Server Broadcast will try to broadcast a new listing.
+[23:13:49]: Server registered via geo DNS in ap-east-1
+[23:14:51]: [Http] Curl failed[1] with HTTP_504, retrying (2 times). Response: _<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+_
+[23:21:16]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[23:21:16]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[23:21:16]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[23:21:17]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[23:21:17]: Master Server Broadcast will try to broadcast a new listing.
+[23:21:21]: Server registered via geo DNS in ap-southeast-1
+[23:30:07]: [200] Account Communication Success (6)
+[23:30:07]: Received (KU_LI3oE5Tc) from TokenPurpose
