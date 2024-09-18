@@ -1452,3 +1452,27 @@ Resurrection is always available via the Florid Postern.
 [17:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [17:30:06]: [200] Account Communication Success (6)
 [17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:20:39]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[18:20:40]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[18:20:40]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[18:20:41]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[18:20:41]: Master Server Broadcast will try to broadcast a new listing.
+[18:20:44]: Server registered via geo DNS in ap-east-1
+[18:25:49]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[18:25:49]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[18:25:50]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[18:25:50]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[18:25:50]: Master Server Broadcast will try to broadcast a new listing.
+[18:25:54]: Server registered via geo DNS in ap-southeast-1
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
