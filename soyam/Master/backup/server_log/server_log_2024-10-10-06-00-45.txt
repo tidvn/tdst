@@ -1,7 +1,7 @@
-[00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Caves/ 
+[00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/soyam/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 632551
-[00:00:00]: Current time: Thu Oct 10 06:00:45 2024
+[00:00:00]: Current time: Wed Oct  9 06:00:36 2024
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: ip-172-31-23-55
@@ -12,13 +12,13 @@
 [00:00:00]: Build Date: 2663
 [00:00:00]: Mode: 64-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 2613035 -shard Caves 
+[00:00:00]: Command Line Arguments: -console -cluster soyam -monitor_parent_process 2560232 -shard Master 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (140031319279168)
+[00:00:00]: THREAD - started 'GAClient' (131214378927680)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:3.40
+[00:00:00]: ProfileIndex:3.20
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -26,14 +26,14 @@
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
 [00:00:00]: [Steam] SteamGameServer_Init success
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (131214255289920)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (140031196112448)
 [00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/soyam/adminlist.txt (Success)
 [00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/soyam/whitelist.txt (Failure)
 [00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/soyam/cluster_token.txt
@@ -49,19 +49,19 @@
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:00]:   taskgrouplist:	default	Together	
-[00:00:00]:   taskgrouplist:	classic	Classic	
-[00:00:00]:   taskgrouplist:	cave_default	Underground	
-[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:00]: Running main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
 	
-[00:00:00]: loaded modindex	
-[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:01]: [Workshop] Item query page 0, size: 15, total size: 15
-[00:00:01]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
-[00:00:01]: [Workshop] Item query sent
+[00:00:02]: [Workshop] Item query page 0, size: 15, total size: 15
+[00:00:02]: [Workshop] Item query queued IDs: 1111658995 1185229307 1207269058 1530801499 1595631294 2078243581 2208128427 2281925291 2324689937 356930882 362175979 378160973 466732225 569043634 666155465
+[00:00:02]: [Workshop] Item query sent
 [00:00:02]: [Workshop] ItemQuery got this many results: 15, matching: 15
 [00:00:02]: [Workshop] ModQuery got 15 results
 [00:00:02]: [Workshop] ModQuery already have IDs: {3.0,1111658995} {93,1185229307} {2.16,1207269058} {1.08,1530801499} {1.1.5,1595631294} {1.5,2078243581} {1.10,2208128427} {1.1,2281925291} {1.3.6,2324689937} {1.8,356930882} {1.4.5,362175979} {1.7.5,378160973} {full 4,466732225} {1.6.8.1,569043634} {0.58,666155465}
@@ -383,16 +383,16 @@
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
 [00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:04]: 	Load FE	
-[00:00:05]: THREAD - started 'FilesExistAsyncThread' (140031182460480)
-[00:00:05]: FilesExistAsyncThread started (25089 files)...
 [00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (131214243743296)
+[00:00:05]: FilesExistAsyncThread started (25089 files)...
 [00:00:05]: Check for write access: TRUE
 [00:00:05]: Check for read access: TRUE
-[00:00:05]: Available disk space for save files: 21494 MB
+[00:00:05]: Available disk space for save files: 21522 MB
 [00:00:05]: ModIndex: Load sequence finished successfully.	
 [00:00:05]: Reset() returning
 [00:00:05]: [200] Account Communication Success (6)
-[00:00:05]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Caves/save/cached_userid
+[00:00:05]: Cached userid (null) saved to /home/steam/.klei//DoNotStarveTogether/soyam/Master/save/cached_userid
 [00:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [00:00:05]: Starting Dedicated Server Game	
 [00:00:05]: Network tick rate: U=15(2), D=0
@@ -400,9 +400,9 @@
 [00:00:05]:   Dedicated: true
 [00:00:05]:   Online: true
 [00:00:05]:   Passworded: true
-[00:00:05]:   ServerPort: 10998
-[00:00:05]:   SteamAuthPort: 8767
-[00:00:05]:   SteamMasterServerPort: 27017
+[00:00:05]:   ServerPort: 10999
+[00:00:05]:   SteamAuthPort: 8766
+[00:00:05]:   SteamMasterServerPort: 27016
 [00:00:05]:   ClanID: false
 [00:00:05]:   ClanOnly: false
 [00:00:05]:   ClanAdmin: false
@@ -425,130 +425,202 @@
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2208128427	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2281925291	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2324689937	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
 [00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2078243581	
-[00:00:05]: Online Server Started on port: 10998
+[00:00:05]: Online Server Started on port: 10999
 [00:00:05]: SUCCESS: Loaded modoverrides.lua	
 [00:00:05]: Found a level data override file with these contents:	
-[00:00:05]: 	K: 	background_node_range	 V: 	table: 0xd4143d0	
-[00:00:05]: 		K: 	1	 V: 	0	
-[00:00:05]: 		K: 	2	 V: 	1	
-[00:00:05]: 	K: 	desc	 V: 	Delve into the caves... together!	
+[00:00:05]: 	K: 	desc	 V: 	A never-ending Don't Starve sandbox.
+Resurrection is always available via the Florid Postern.	
 [00:00:05]: 	K: 	hideminimap	 V: 	false	
-[00:00:05]: 	K: 	id	 V: 	DST_CAVE	
-[00:00:05]: 	K: 	location	 V: 	cave	
+[00:00:05]: 	K: 	id	 V: 	ENDLESS	
+[00:00:05]: 	K: 	location	 V: 	forest	
 [00:00:05]: 	K: 	max_playlist_position	 V: 	999	
 [00:00:05]: 	K: 	min_playlist_position	 V: 	0	
-[00:00:05]: 	K: 	name	 V: 	The Caves	
-[00:00:05]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:05]: 	K: 	name	 V: 	Endless	
+[00:00:05]: 	K: 	numrandom_set_pieces	 V: 	4	
 [00:00:05]: 	K: 	override_level_string	 V: 	false	
-[00:00:05]: 	K: 	overrides	 V: 	table: 0xd3e15f0	
-[00:00:05]: 		K: 	acidrain_enabled	 V: 	always	
-[00:00:05]: 		K: 	atriumgate	 V: 	default	
-[00:00:05]: 		K: 	banana	 V: 	default	
+[00:00:05]: 	K: 	overrides	 V: 	table: 0xcb79710	
+[00:00:05]: 		K: 	alternatehunt	 V: 	default	
+[00:00:05]: 		K: 	angrybees	 V: 	default	
+[00:00:05]: 		K: 	antliontribute	 V: 	default	
+[00:00:05]: 		K: 	autumn	 V: 	default	
+[00:00:05]: 		K: 	bananabush_portalrate	 V: 	default	
 [00:00:05]: 		K: 	basicresource_regrowth	 V: 	always	
-[00:00:05]: 		K: 	bats	 V: 	default	
 [00:00:05]: 		K: 	bats_setting	 V: 	default	
+[00:00:05]: 		K: 	bearger	 V: 	default	
+[00:00:05]: 		K: 	beefalo	 V: 	default	
 [00:00:05]: 		K: 	beefaloheat	 V: 	rare	
-[00:00:05]: 		K: 	berrybush	 V: 	default	
+[00:00:05]: 		K: 	beequeen	 V: 	often	
+[00:00:05]: 		K: 	bees	 V: 	default	
+[00:00:05]: 		K: 	bees_setting	 V: 	default	
+[00:00:05]: 		K: 	berrybush	 V: 	uncommon	
+[00:00:05]: 		K: 	birds	 V: 	default	
 [00:00:05]: 		K: 	boons	 V: 	default	
 [00:00:05]: 		K: 	branching	 V: 	default	
 [00:00:05]: 		K: 	brightmarecreatures	 V: 	default	
-[00:00:05]: 		K: 	bunnymen	 V: 	default	
 [00:00:05]: 		K: 	bunnymen_setting	 V: 	default	
-[00:00:05]: 		K: 	cave_ponds	 V: 	default	
-[00:00:05]: 		K: 	cave_spiders	 V: 	default	
-[00:00:05]: 		K: 	cavelight	 V: 	default	
+[00:00:05]: 		K: 	butterfly	 V: 	default	
+[00:00:05]: 		K: 	buzzard	 V: 	default	
+[00:00:05]: 		K: 	cactus	 V: 	default	
+[00:00:05]: 		K: 	cactus_regrowth	 V: 	default	
+[00:00:05]: 		K: 	carrot	 V: 	default	
+[00:00:05]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:05]: 		K: 	catcoon	 V: 	default	
+[00:00:05]: 		K: 	catcoons	 V: 	default	
 [00:00:05]: 		K: 	chess	 V: 	default	
+[00:00:05]: 		K: 	cookiecutters	 V: 	default	
+[00:00:05]: 		K: 	crabking	 V: 	often	
 [00:00:05]: 		K: 	crow_carnival	 V: 	default	
 [00:00:05]: 		K: 	darkness	 V: 	default	
 [00:00:05]: 		K: 	day	 V: 	default	
-[00:00:05]: 		K: 	daywalker	 V: 	often	
+[00:00:05]: 		K: 	daywalker2	 V: 	often	
+[00:00:05]: 		K: 	deciduousmonster	 V: 	often	
+[00:00:05]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:05]: 		K: 	deerclops	 V: 	often	
+[00:00:05]: 		K: 	dragonfly	 V: 	often	
 [00:00:05]: 		K: 	dropeverythingondespawn	 V: 	default	
-[00:00:05]: 		K: 	dustmoths	 V: 	default	
-[00:00:05]: 		K: 	earthquakes	 V: 	default	
+[00:00:05]: 		K: 	evergreen_regrowth	 V: 	default	
 [00:00:05]: 		K: 	extrastartingitems	 V: 	15	
-[00:00:05]: 		K: 	fern	 V: 	default	
-[00:00:05]: 		K: 	fissure	 V: 	default	
+[00:00:05]: 		K: 	eyeofterror	 V: 	often	
+[00:00:05]: 		K: 	fishschools	 V: 	default	
 [00:00:05]: 		K: 	flint	 V: 	default	
-[00:00:05]: 		K: 	flower_cave	 V: 	default	
-[00:00:05]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:05]: 		K: 	flowers	 V: 	default	
+[00:00:05]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:05]: 		K: 	frograin	 V: 	often	
+[00:00:05]: 		K: 	frogs	 V: 	default	
 [00:00:05]: 		K: 	fruitfly	 V: 	often	
 [00:00:05]: 		K: 	ghostenabled	 V: 	always	
 [00:00:05]: 		K: 	ghostsanitydrain	 V: 	none	
-[00:00:05]: 		K: 	grass	 V: 	default	
+[00:00:05]: 		K: 	gnarwail	 V: 	default	
+[00:00:05]: 		K: 	goosemoose	 V: 	often	
+[00:00:05]: 		K: 	grass	 V: 	uncommon	
 [00:00:05]: 		K: 	grassgekkos	 V: 	default	
 [00:00:05]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:05]: 		K: 	has_ocean	 V: 	true	
 [00:00:05]: 		K: 	healthpenalty	 V: 	always	
+[00:00:05]: 		K: 	hound_mounds	 V: 	default	
+[00:00:05]: 		K: 	houndmound	 V: 	default	
+[00:00:05]: 		K: 	hounds	 V: 	default	
 [00:00:05]: 		K: 	hunger	 V: 	default	
+[00:00:05]: 		K: 	hunt	 V: 	default	
+[00:00:05]: 		K: 	junkyard	 V: 	default	
+[00:00:05]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:05]: 		K: 	klaus	 V: 	often	
 [00:00:05]: 		K: 	krampus	 V: 	often	
-[00:00:05]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:05]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
 [00:00:05]: 		K: 	lessdamagetaken	 V: 	none	
-[00:00:05]: 		K: 	lichen	 V: 	default	
 [00:00:05]: 		K: 	liefs	 V: 	often	
-[00:00:05]: 		K: 	lightflier_flower_regrowth	 V: 	default	
-[00:00:05]: 		K: 	lightfliers	 V: 	default	
+[00:00:05]: 		K: 	lightcrab_portalrate	 V: 	default	
+[00:00:05]: 		K: 	lightning	 V: 	default	
+[00:00:05]: 		K: 	lightninggoat	 V: 	default	
 [00:00:05]: 		K: 	loop	 V: 	default	
+[00:00:05]: 		K: 	lunarhail_frequency	 V: 	default	
+[00:00:05]: 		K: 	lureplants	 V: 	default	
+[00:00:05]: 		K: 	malbatross	 V: 	often	
 [00:00:05]: 		K: 	marshbush	 V: 	default	
+[00:00:05]: 		K: 	merm	 V: 	default	
 [00:00:05]: 		K: 	merms	 V: 	default	
-[00:00:05]: 		K: 	molebats	 V: 	default	
+[00:00:05]: 		K: 	meteorshowers	 V: 	default	
+[00:00:05]: 		K: 	meteorspawner	 V: 	default	
+[00:00:05]: 		K: 	moles	 V: 	default	
 [00:00:05]: 		K: 	moles_setting	 V: 	default	
-[00:00:05]: 		K: 	monkey	 V: 	default	
-[00:00:05]: 		K: 	monkey_setting	 V: 	default	
-[00:00:05]: 		K: 	mushgnome	 V: 	default	
+[00:00:05]: 		K: 	monkeytail_portalrate	 V: 	default	
+[00:00:05]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:05]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:05]: 		K: 	moon_carrot	 V: 	default	
+[00:00:05]: 		K: 	moon_fissure	 V: 	default	
+[00:00:05]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:05]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:05]: 		K: 	moon_rock	 V: 	default	
+[00:00:05]: 		K: 	moon_sapling	 V: 	default	
+[00:00:05]: 		K: 	moon_spider	 V: 	default	
+[00:00:05]: 		K: 	moon_spiders	 V: 	default	
+[00:00:05]: 		K: 	moon_starfish	 V: 	default	
+[00:00:05]: 		K: 	moon_tree	 V: 	default	
+[00:00:05]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:05]: 		K: 	mosquitos	 V: 	default	
 [00:00:05]: 		K: 	mushroom	 V: 	default	
-[00:00:05]: 		K: 	mushtree	 V: 	default	
-[00:00:05]: 		K: 	mushtree_moon_regrowth	 V: 	default	
-[00:00:05]: 		K: 	mushtree_regrowth	 V: 	default	
-[00:00:05]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:05]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:05]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:05]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:05]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:05]: 		K: 	ocean_otterdens	 V: 	default	
+[00:00:05]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:05]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:05]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:05]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:05]: 		K: 	otters_setting	 V: 	default	
+[00:00:05]: 		K: 	palmcone_seed_portalrate	 V: 	default	
+[00:00:05]: 		K: 	palmconetree	 V: 	default	
+[00:00:05]: 		K: 	palmconetree_regrowth	 V: 	default	
+[00:00:05]: 		K: 	penguins	 V: 	default	
+[00:00:05]: 		K: 	penguins_moon	 V: 	default	
+[00:00:05]: 		K: 	perd	 V: 	default	
+[00:00:05]: 		K: 	petrification	 V: 	default	
+[00:00:05]: 		K: 	pigs	 V: 	default	
 [00:00:05]: 		K: 	pigs_setting	 V: 	default	
+[00:00:05]: 		K: 	pirateraids	 V: 	default	
+[00:00:05]: 		K: 	ponds	 V: 	default	
+[00:00:05]: 		K: 	portal_spawnrate	 V: 	default	
 [00:00:05]: 		K: 	portalresurection	 V: 	always	
+[00:00:05]: 		K: 	powder_monkey_portalrate	 V: 	default	
 [00:00:05]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:05]: 		K: 	rabbits	 V: 	default	
+[00:00:05]: 		K: 	rabbits_setting	 V: 	default	
 [00:00:05]: 		K: 	reeds	 V: 	default	
+[00:00:05]: 		K: 	reeds_regrowth	 V: 	default	
 [00:00:05]: 		K: 	regrowth	 V: 	default	
 [00:00:05]: 		K: 	resettime	 V: 	none	
-[00:00:05]: 		K: 	rifts_enabled_cave	 V: 	default	
-[00:00:05]: 		K: 	rifts_frequency_cave	 V: 	default	
-[00:00:05]: 		K: 	roads	 V: 	never	
+[00:00:05]: 		K: 	rifts_enabled	 V: 	default	
+[00:00:05]: 		K: 	rifts_frequency	 V: 	default	
+[00:00:05]: 		K: 	roads	 V: 	default	
 [00:00:05]: 		K: 	rock	 V: 	default	
-[00:00:05]: 		K: 	rocky	 V: 	default	
-[00:00:05]: 		K: 	rocky_setting	 V: 	default	
-[00:00:05]: 		K: 	sapling	 V: 	default	
+[00:00:05]: 		K: 	rock_ice	 V: 	default	
+[00:00:05]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:05]: 		K: 	sapling	 V: 	uncommon	
 [00:00:05]: 		K: 	season_start	 V: 	default	
 [00:00:05]: 		K: 	seasonalstartingitems	 V: 	default	
 [00:00:05]: 		K: 	shadowcreatures	 V: 	default	
-[00:00:05]: 		K: 	slurper	 V: 	default	
-[00:00:05]: 		K: 	slurtles	 V: 	default	
-[00:00:05]: 		K: 	slurtles_setting	 V: 	default	
-[00:00:05]: 		K: 	snurtles	 V: 	default	
+[00:00:05]: 		K: 	sharkboi	 V: 	often	
+[00:00:05]: 		K: 	sharks	 V: 	default	
 [00:00:05]: 		K: 	spawnmode	 V: 	fixed	
 [00:00:05]: 		K: 	spawnprotection	 V: 	default	
 [00:00:05]: 		K: 	specialevent	 V: 	default	
-[00:00:05]: 		K: 	spider_dropper	 V: 	default	
-[00:00:05]: 		K: 	spider_hider	 V: 	default	
-[00:00:05]: 		K: 	spider_spitter	 V: 	default	
 [00:00:05]: 		K: 	spider_warriors	 V: 	default	
 [00:00:05]: 		K: 	spiderqueen	 V: 	often	
 [00:00:05]: 		K: 	spiders	 V: 	default	
 [00:00:05]: 		K: 	spiders_setting	 V: 	default	
-[00:00:05]: 		K: 	start_location	 V: 	caves	
-[00:00:05]: 		K: 	task_set	 V: 	cave_default	
+[00:00:05]: 		K: 	spring	 V: 	default	
+[00:00:05]: 		K: 	squid	 V: 	default	
+[00:00:05]: 		K: 	stageplays	 V: 	default	
+[00:00:05]: 		K: 	start_location	 V: 	default	
+[00:00:05]: 		K: 	summer	 V: 	default	
+[00:00:05]: 		K: 	summerhounds	 V: 	default	
+[00:00:05]: 		K: 	tallbirds	 V: 	default	
+[00:00:05]: 		K: 	task_set	 V: 	default	
 [00:00:05]: 		K: 	temperaturedamage	 V: 	default	
 [00:00:05]: 		K: 	tentacles	 V: 	default	
-[00:00:05]: 		K: 	toadstool	 V: 	often	
+[00:00:05]: 		K: 	terrariumchest	 V: 	default	
 [00:00:05]: 		K: 	touchstone	 V: 	default	
 [00:00:05]: 		K: 	trees	 V: 	default	
+[00:00:05]: 		K: 	tumbleweed	 V: 	default	
+[00:00:05]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:05]: 		K: 	walrus	 V: 	default	
+[00:00:05]: 		K: 	walrus_setting	 V: 	default	
+[00:00:05]: 		K: 	wasps	 V: 	default	
 [00:00:05]: 		K: 	weather	 V: 	default	
+[00:00:05]: 		K: 	wildfires	 V: 	default	
+[00:00:05]: 		K: 	winter	 V: 	default	
+[00:00:05]: 		K: 	winterhounds	 V: 	default	
 [00:00:05]: 		K: 	winters_feast	 V: 	default	
-[00:00:05]: 		K: 	world_size	 V: 	default	
-[00:00:05]: 		K: 	wormattacks	 V: 	default	
-[00:00:05]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
-[00:00:05]: 		K: 	wormlights	 V: 	default	
-[00:00:05]: 		K: 	worms	 V: 	default	
+[00:00:05]: 		K: 	wobsters	 V: 	default	
+[00:00:05]: 		K: 	world_size	 V: 	huge	
+[00:00:05]: 		K: 	wormhole_prefab	 V: 	wormhole	
 [00:00:05]: 		K: 	year_of_the_beefalo	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_bunnyman	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_carrat	 V: 	default	
@@ -557,30 +629,55 @@
 [00:00:05]: 		K: 	year_of_the_gobbler	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_pig	 V: 	default	
 [00:00:05]: 		K: 	year_of_the_varg	 V: 	default	
-[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xd3e13e0	
+[00:00:05]: 	K: 	playstyle	 V: 	endless	
+[00:00:05]: 	K: 	random_set_pieces	 V: 	table: 0xe147cc0	
+[00:00:05]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:05]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:05]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:05]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:05]: 		K: 	5	 V: 	Chessy_1	
+[00:00:05]: 		K: 	6	 V: 	Chessy_2	
+[00:00:05]: 		K: 	7	 V: 	Chessy_3	
+[00:00:05]: 		K: 	8	 V: 	Chessy_4	
+[00:00:05]: 		K: 	9	 V: 	Chessy_5	
+[00:00:05]: 		K: 	10	 V: 	Chessy_6	
+[00:00:05]: 		K: 	11	 V: 	Maxwell1	
+[00:00:05]: 		K: 	12	 V: 	Maxwell2	
+[00:00:05]: 		K: 	13	 V: 	Maxwell3	
+[00:00:05]: 		K: 	14	 V: 	Maxwell4	
+[00:00:05]: 		K: 	15	 V: 	Maxwell6	
+[00:00:05]: 		K: 	16	 V: 	Maxwell7	
+[00:00:05]: 		K: 	17	 V: 	Warzone_1	
+[00:00:05]: 		K: 	18	 V: 	Warzone_2	
+[00:00:05]: 		K: 	19	 V: 	Warzone_3	
+[00:00:05]: 	K: 	required_prefabs	 V: 	table: 0xcb7a720	
 [00:00:05]: 		K: 	1	 V: 	multiplayer_portal	
-[00:00:05]: 	K: 	settings_desc	 V: 	Delve into the caves... together!	
-[00:00:05]: 	K: 	settings_id	 V: 	DST_CAVE	
-[00:00:05]: 	K: 	settings_name	 V: 	The Caves	
-[00:00:05]: 	K: 	substitutes	 V: 	table: 0xd3256e0	
+[00:00:05]: 	K: 	required_setpieces	 V: 	table: 0xcbae410	
+[00:00:05]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:05]: 		K: 	2	 V: 	Maxwell5	
+[00:00:05]: 	K: 	settings_desc	 V: 	A never-ending Don't Starve sandbox.
+Resurrection is always available via the Florid Postern.	
+[00:00:05]: 	K: 	settings_id	 V: 	ENDLESS	
+[00:00:05]: 	K: 	settings_name	 V: 	Endless	
+[00:00:05]: 	K: 	substitutes	 V: 	table: 0xcbad920	
 [00:00:05]: 	K: 	version	 V: 	4	
-[00:00:05]: 	K: 	worldgen_desc	 V: 	Delve into the caves... together!	
-[00:00:05]: 	K: 	worldgen_id	 V: 	DST_CAVE	
-[00:00:05]: 	K: 	worldgen_name	 V: 	The Caves	
+[00:00:05]: 	K: 	worldgen_desc	 V: 	A never-ending Don't Starve sandbox.
+Resurrection is always available via the Florid Postern.	
+[00:00:05]: 	K: 	worldgen_id	 V: 	ENDLESS	
+[00:00:05]: 	K: 	worldgen_name	 V: 	Endless	
 [00:00:05]: Loaded and applied level data override from ../leveldataoverride.lua	
 [00:00:05]: Overwriting savedata with level data file.	
 [00:00:05]: Not applying world gen overrides.	
 [00:00:05]: Collecting garbage...
-[00:00:05]: lua_gc took 0.10 seconds
+[00:00:05]: ... FilesExistAsyncThread complete
+[00:00:05]: lua_gc took 0.08 seconds
 [00:00:05]: ~ShardLuaProxy()
 [00:00:05]: ~cEventLeaderboardProxy()
 [00:00:05]: ~ItemServerLuaProxy()
 [00:00:05]: ~InventoryLuaProxy()
 [00:00:05]: ~NetworkLuaProxy()
 [00:00:05]: ~SimLuaProxy()
-[00:00:05]: FilesExistAsyncThread aborted.
-[00:00:05]: ... FilesExistAsyncThread complete
-[00:00:05]: lua_close took 0.11 seconds
+[00:00:05]: lua_close took 0.10 seconds
 [00:00:05]: ReleaseAll
 [00:00:05]: ReleaseAll Finished
 [00:00:05]: cGame::StartPlaying
@@ -852,82 +949,91 @@
 [00:00:06]: bloom_enabled	true	
 [00:00:06]: OnFilesLoaded()	
 [00:00:06]: OnUpdatePurchaseStateComplete	
-[00:00:06]: Loading world: session/01EF7F7A1CFE0E43/0000001226	
+[00:00:06]: Loading world: session/2CE9191ADB245DC6/0000001226	
 [00:00:06]: Save file is at version 5.151	
 [00:00:06]: Klump load on boot started.	
 [00:00:06]: Klump files loaded: 	0	
 [00:00:06]: 	Unload FE	
 [00:00:06]: 	Unload FE done	
-[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
-[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
-[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
-[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
-[00:00:08]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
-[00:00:08]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
-[00:00:08]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
-[00:00:08]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
-[00:00:08]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[00:00:08]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
-[00:00:08]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
-[00:00:08]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
-[00:00:08]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
-[00:00:08]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
-[00:00:08]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
-[00:00:08]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
-[00:00:08]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
-[00:00:08]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
-[00:00:08]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
-[00:00:08]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
-[00:00:08]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
-[00:00:08]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
-[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
-[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
-[00:00:08]: 	LOAD BE	
+[00:00:07]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:07]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:07]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:07]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:07]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1530801499 (Fast Travel (GUI))	Registering prefabs	
+[00:00:07]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering prefab file: prefabs/travelable_classified	
+[00:00:07]: Mod: workshop-1530801499 (Fast Travel (GUI))	    travelable_classified	
+[00:00:07]: Mod: workshop-1530801499 (Fast Travel (GUI))	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:07]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-2208128427 (Loot Pump)	Registering prefabs	
+[00:00:07]: Mod: workshop-2208128427 (Loot Pump)	  Registering prefab file: prefabs/loot_pump	
+[00:00:07]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump	
+[00:00:07]: Mod: workshop-2208128427 (Loot Pump)	    loot_pump_placer	
+[00:00:07]: Mod: workshop-2208128427 (Loot Pump)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:07]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-2078243581 (Display Attack Range)	Registering prefabs	
+[00:00:07]: Mod: workshop-2078243581 (Display Attack Range)	  Registering prefab file: prefabs/display_attack_range	
+[00:00:07]: Mod: workshop-2078243581 (Display Attack Range)	    display_attack_range	
+[00:00:07]: Mod: workshop-2078243581 (Display Attack Range)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:07]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-2324689937 (More equip slots)	Registering prefabs	
+[00:00:07]: Mod: workshop-2324689937 (More equip slots)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-2281925291 (Finder Redux)	Registering prefabs	
+[00:00:07]: Mod: workshop-2281925291 (Finder Redux)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:07]: 	LOAD BE	
 [00:00:16]: 	LOAD BE: done	
-[00:00:16]: Begin Session: 01EF7F7A1CFE0E43
+[00:00:16]: Begin Session: 2CE9191ADB245DC6
 [00:00:16]: saving to server_temp/server_save	
 [00:00:16]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:16]: OVERRIDE: setting	deerclops	to	often	
 [00:00:16]: OVERRIDE: setting	extrastartingitems	to	15	
+[00:00:16]: OVERRIDE: setting	eyeofterror	to	often	
+[00:00:16]: OVERRIDE: setting	frograin	to	often	
 [00:00:16]: OVERRIDE: setting	krampus	to	often	
+[00:00:16]: OVERRIDE: setting	beequeen	to	often	
 [00:00:16]: OVERRIDE: setting	spiderqueen	to	often	
-[00:00:16]: OVERRIDE: setting	acidrain_enabled	to	always	
-[00:00:16]: OVERRIDE: setting	toadstool	to	often	
+[00:00:16]: OVERRIDE: setting	goosemoose	to	often	
 [00:00:16]: OVERRIDE: setting	lessdamagetaken	to	none	
-[00:00:16]: OVERRIDE: setting	daywalker	to	often	
+[00:00:16]: OVERRIDE: setting	crabking	to	often	
+[00:00:16]: OVERRIDE: setting	dragonfly	to	often	
+[00:00:16]: OVERRIDE: setting	deciduousmonster	to	often	
+[00:00:16]: OVERRIDE: setting	malbatross	to	often	
 [00:00:16]: OVERRIDE: setting	liefs	to	often	
+[00:00:16]: OVERRIDE: setting	sharkboi	to	often	
+[00:00:16]: OVERRIDE: setting	daywalker2	to	often	
+[00:00:16]: OVERRIDE: setting	klaus	to	often	
 [00:00:16]: OVERRIDE: setting	beefaloheat	to	rare	
 [00:00:16]: OVERRIDE: setting	fruitfly	to	often	
 [00:00:16]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
@@ -963,161 +1069,319 @@
 [00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
 [00:00:16]: Loading 19 new character(s)	
 [00:00:17]: Total 19 character(s) loaded	
-[00:00:21]: Loading Nav Grid	
-[00:00:21]: World generated on build 620148 with save version: 5.151, using seed: 1219835933	
-[00:00:21]: setting 	summerlength	15	
-[00:00:21]: setting 	cavemoonphase	full	
-[00:00:21]: setting 	iscavefullmoon	false	
-[00:00:21]: setting 	isnightmaredawn	false	
-[00:00:21]: setting 	elapseddaysinseason	1	
-[00:00:21]: setting 	isfullmoon	false	
-[00:00:21]: setting 	moisture	459.63403320312	
-[00:00:21]: setting 	springlength	20	
-[00:00:21]: setting 	islunarhailing	false	
-[00:00:21]: setting 	isnightmarewild	false	
-[00:00:21]: setting 	nightmaretimeinphase	0.52880633692992	
-[00:00:21]: setting 	precipitationrate	0.18015429205011	
-[00:00:21]: setting 	iswet	false	
-[00:00:21]: setting 	isnewmoon	false	
-[00:00:21]: setting 	israining	false	
-[00:00:21]: setting 	iswinter	false	
-[00:00:21]: setting 	isnightmarewarn	false	
-[00:00:21]: setting 	precipitation	acidrain	
-[00:00:21]: setting 	iscavewaxingmoon	false	
-[00:00:21]: setting 	isacidraining	true	
-[00:00:21]: setting 	moonphase	new	
-[00:00:21]: setting 	remainingdaysinseason	14	
-[00:00:21]: setting 	temperature	37.133445725731	
-[00:00:21]: setting 	wetness	0	
-[00:00:21]: setting 	cycles	1176	
-[00:00:21]: setting 	moistureceil	4638.509765625	
-[00:00:21]: setting 	isday	false	
-[00:00:21]: setting 	winterlength	15	
-[00:00:21]: setting 	season	summer	
-[00:00:21]: setting 	iswaxingmoon	true	
-[00:00:21]: setting 	isalterawake	false	
-[00:00:21]: setting 	isnightmarecalm	true	
-[00:00:21]: setting 	isnight	true	
-[00:00:21]: setting 	isdusk	false	
-[00:00:21]: setting 	isspring	false	
-[00:00:21]: setting 	isautumn	false	
-[00:00:21]: setting 	iscaveday	true	
-[00:00:21]: setting 	lunarhaillevel	0	
-[00:00:21]: setting 	pop	1	
-[00:00:21]: setting 	snowlevel	0	
-[00:00:21]: setting 	issnowcovered	false	
-[00:00:21]: setting 	autumnlength	20	
-[00:00:21]: setting 	phase	night	
-[00:00:21]: setting 	nightmaretime	190.37028129477	
-[00:00:21]: setting 	issnowing	false	
-[00:00:21]: setting 	iscavedusk	false	
-[00:00:21]: setting 	nightmarephase	calm	
-[00:00:21]: setting 	timeinphase	0.0039508960865162	
-[00:00:21]: setting 	seasonprogress	0.066666666666667	
-[00:00:21]: setting 	iscavenight	false	
-[00:00:21]: setting 	iscavenewmoon	false	
-[00:00:21]: setting 	issummer	true	
-[00:00:21]: setting 	cavephase	day	
-[00:00:21]: setting 	time	0.0022223790486654	
-[00:00:21]: [Shard] Secondary shard is waiting for LUA...
-[00:00:21]: OVERRIDE: setting	ghostenabled	to	always	
-[00:00:21]: OVERRIDE: setting	resettime	to	none	
-[00:00:21]: OVERRIDE: setting	basicresource_regrowth	to	always	
-[00:00:21]: OVERRIDE: setting	portalresurection	to	always	
-[00:00:21]: OVERRIDE: setting	spawnmode	to	fixed	
-[00:00:21]: OVERRIDE: setting	ghostsanitydrain	to	none	
-[00:00:25]: Reconstructing topology	
-[00:00:25]: 	...Sorting points	
-[00:00:25]: 	...Sorting edges	
-[00:00:26]: 	...Connecting nodes	
-[00:00:26]: 	...Validating connections	
-[00:00:26]: 	...Housekeeping	
-[00:00:26]: 	...Done!	
-[00:00:26]: 1 uploads added to server. From server_temp
-[00:00:26]: About to start a shard with these settings:
-[00:00:26]:   ShardName: Caves
-[00:00:26]:   ShardID: 2248507758
-[00:00:26]:   ShardRole: SECONDARY
-[00:00:26]:   MasterHost: 127.0.0.1
-[00:00:26]:   MasterBind: (null)
-[00:00:26]:   MasterPort: 10888
-[00:00:26]: [Shard] Connecting to master...
-[00:00:26]: Telling Client our new session identifier: 01EF7F7A1CFE0E43
-[00:00:26]: Check for write access: TRUE
-[00:00:26]: Check for read access: TRUE
-[00:00:26]: Available disk space for save files: 21494 MB
-[00:00:26]: ModIndex: Load sequence finished successfully.	
-[00:00:26]: Reset() returning
-[00:00:26]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:00:26]: Validating portal[5] <-> 1[5] (inactive)	
-[00:00:26]: Validating portal[3] <-> 1[3] (inactive)	
-[00:00:26]: Validating portal[4] <-> 1[4] (inactive)	
-[00:00:26]: Validating portal[8] <-> 1[8] (inactive)	
-[00:00:26]: Validating portal[10] <-> 1[10] (inactive)	
-[00:00:26]: Validating portal[6] <-> 1[6] (inactive)	
-[00:00:26]: Validating portal[1] <-> 1[1] (inactive)	
-[00:00:27]: Validating portal[7] <-> 1[7] (inactive)	
-[00:00:27]: Validating portal[9] <-> 1[9] (inactive)	
-[00:00:27]: Validating portal[2] <-> 1[2] (inactive)	
-[00:00:31]: About to start a shard with these settings:
-[00:00:31]:   ShardName: Caves
-[00:00:31]:   ShardID: 2248507758
-[00:00:31]:   ShardRole: SECONDARY
-[00:00:31]:   MasterHost: 127.0.0.1
-[00:00:31]:   MasterBind: (null)
-[00:00:31]:   MasterPort: 10888
-[00:00:31]: [Shard] Connecting to master...
-[00:00:33]: [Shard] Sending secondary shard information to master...
-[00:00:35]: Received MasterInfoPacket row 97106a603b93f8c84f7c4bfa23c14433 region ap-southeast-1
-[00:00:35]: Obtaining secondary shard IP from ap-southeast-1 lobby
-[00:00:35]: [Shard] secondary shard is now ready!
-[00:00:35]: World 1 is now connected	
-[00:00:35]: Validating portal[5] <-> 1[5] (active)	
-[00:00:35]: Validating portal[3] <-> 1[3] (active)	
-[00:00:35]: Validating portal[4] <-> 1[4] (active)	
-[00:00:35]: Validating portal[8] <-> 1[8] (active)	
-[00:00:35]: Validating portal[10] <-> 1[10] (active)	
-[00:00:35]: Validating portal[6] <-> 1[6] (active)	
-[00:00:35]: Validating portal[1] <-> 1[1] (active)	
-[00:00:35]: Validating portal[7] <-> 1[7] (active)	
-[00:00:35]: Validating portal[9] <-> 1[9] (active)	
-[00:00:35]: Validating portal[2] <-> 1[2] (active)	
-[00:00:35]: [SyncWorldSettings] recieved world settings from master shard.	true	
-[00:00:35]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
-[00:00:35]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
-[00:00:35]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
-[00:00:35]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying resettime = none from master shard.	
-[00:00:35]: [SyncWorldSettings] applying krampus = often from master shard.	
-[00:00:35]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
-[00:00:35]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
-[00:00:35]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying darkness = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying portalresurection = always from master shard.	
-[00:00:35]: component hauntable already exists on entity 101896 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
-[00:00:35]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying hunger = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
-[00:00:35]: [SyncWorldSettings] recieved world settings from master shard.	true	
-[00:00:35]: [SyncWorldSettings] applying temperaturedamage = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
-[00:00:35]: [SyncWorldSettings] applying lessdamagetaken = none from master shard.	
-[00:00:35]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
-[00:00:35]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying resettime = none from master shard.	
-[00:00:35]: [SyncWorldSettings] applying krampus = often from master shard.	
-[00:00:35]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
-[00:00:35]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
-[00:00:35]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying darkness = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying portalresurection = always from master shard.	
-[00:00:35]: component hauntable already exists on entity 101896 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
-[00:00:35]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying hunger = default from master shard.	
-[00:00:35]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
-[00:00:36]: [Shard] secondary shard LUA is now ready!
-[00:00:36]: Sim paused
+[00:00:17]: Loading Nav Grid	
+[00:00:17]: World generated on build 620148 with save version: 5.151, using seed: 58299910	
+[00:00:17]: setting 	summerlength	15	
+[00:00:17]: setting 	cavemoonphase	full	
+[00:00:17]: setting 	iscavefullmoon	false	
+[00:00:17]: setting 	isnightmaredawn	false	
+[00:00:17]: setting 	elapseddaysinseason	1	
+[00:00:17]: setting 	isfullmoon	false	
+[00:00:17]: setting 	moisture	945.97332763672	
+[00:00:17]: setting 	springlength	20	
+[00:00:17]: setting 	islunarhailing	false	
+[00:00:17]: setting 	isnightmarewild	false	
+[00:00:17]: setting 	nightmaretimeinphase	0	
+[00:00:17]: setting 	precipitationrate	0	
+[00:00:17]: setting 	iswet	false	
+[00:00:17]: setting 	isnewmoon	false	
+[00:00:17]: setting 	israining	false	
+[00:00:17]: setting 	iswinter	false	
+[00:00:17]: setting 	isnightmarewarn	false	
+[00:00:17]: setting 	precipitation	none	
+[00:00:17]: setting 	iscavewaxingmoon	false	
+[00:00:17]: setting 	isacidraining	false	
+[00:00:17]: setting 	moonphase	full	
+[00:00:17]: setting 	remainingdaysinseason	14	
+[00:00:17]: setting 	temperature	63.372710633344	
+[00:00:17]: setting 	wetness	0	
+[00:00:17]: setting 	cycles	1176	
+[00:00:17]: setting 	moistureceil	4484.5356445312	
+[00:00:17]: setting 	isday	true	
+[00:00:17]: setting 	winterlength	15	
+[00:00:17]: setting 	season	summer	
+[00:00:17]: setting 	iswaxingmoon	false	
+[00:00:17]: setting 	isalterawake	true	
+[00:00:17]: setting 	isnightmarecalm	false	
+[00:00:17]: setting 	isnight	false	
+[00:00:17]: setting 	isdusk	false	
+[00:00:17]: setting 	isspring	false	
+[00:00:17]: setting 	isautumn	false	
+[00:00:17]: setting 	iscaveday	true	
+[00:00:17]: setting 	lunarhaillevel	11.172689437866	
+[00:00:17]: setting 	pop	0.11095025033323	
+[00:00:17]: setting 	snowlevel	0	
+[00:00:17]: setting 	issnowcovered	false	
+[00:00:17]: setting 	autumnlength	20	
+[00:00:17]: setting 	phase	day	
+[00:00:17]: setting 	nightmaretime	0	
+[00:00:17]: setting 	issnowing	false	
+[00:00:17]: setting 	iscavedusk	false	
+[00:00:17]: setting 	nightmarephase	none	
+[00:00:17]: setting 	timeinphase	0.003704042787905	
+[00:00:17]: setting 	seasonprogress	0.066666666666667	
+[00:00:17]: setting 	iscavenight	false	
+[00:00:17]: setting 	iscavenewmoon	false	
+[00:00:17]: setting 	issummer	true	
+[00:00:17]: setting 	cavephase	day	
+[00:00:17]: setting 	time	0.0020835240681966	
+[00:00:17]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:17]: OVERRIDE: setting	resettime	to	none	
+[00:00:17]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:17]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:17]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:17]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:25]: Could not find anim build FROMNUM
+[00:00:33]: Reconstructing topology	
+[00:00:33]: 	...Sorting points	
+[00:00:33]: 	...Sorting edges	
+[00:00:33]: 	...Connecting nodes	
+[00:00:33]: 	...Validating connections	
+[00:00:33]: 	...Housekeeping	
+[00:00:33]: 	...Done!	
+[00:00:33]: Truncating to snapshot #1226...
+[00:00:33]:  - session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001227
+[00:00:33]:  - session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001227
+[00:00:33]:    2 file(s) removed
+[00:00:33]: Restoring user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001226	
+[00:00:33]: Restoring user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001226	
+[00:00:33]: Serializing user: session/2CE9191ADB245DC6/A7JDM3N0PG55/0000001227
+[00:00:33]: Serializing user: session/2CE9191ADB245DC6/A7KETNLVVD7D/0000001227
+[00:00:33]: 1 uploads added to server. From server_temp
+[00:00:33]: About to start a shard with these settings:
+[00:00:33]:   ShardName: [SHDMASTER]
+[00:00:33]:   ShardID: 1
+[00:00:33]:   ShardRole: MASTER
+[00:00:33]:   MasterHost: (null)
+[00:00:33]:   MasterBind: 127.0.0.1
+[00:00:33]:   MasterPort: 10888
+[00:00:33]: [Shard] Starting master server
+[00:00:33]: [Shard] Shard server started on port: 10888
+[00:00:33]: Telling Client our new session identifier: 2CE9191ADB245DC6
+[00:00:33]: Check for write access: TRUE
+[00:00:33]: Check for read access: TRUE
+[00:00:33]: Available disk space for save files: 21521 MB
+[00:00:33]: ModIndex: Load sequence finished successfully.	
+[00:00:33]: Reset() returning
+[00:00:35]: Validating portal[4] <-> 2248507758[4] (inactive)	
+[00:00:35]: Validating portal[9] <-> 2248507758[9] (inactive)	
+[00:00:35]: Validating portal[7] <-> 2248507758[7] (inactive)	
+[00:00:35]: Validating portal[3] <-> 2248507758[3] (inactive)	
+[00:00:35]: Validating portal[1] <-> 2248507758[1] (inactive)	
+[00:00:35]: Validating portal[5] <-> 2248507758[5] (inactive)	
+[00:00:35]: Validating portal[10] <-> 2248507758[10] (inactive)	
+[00:00:35]: Validating portal[8] <-> 2248507758[8] (inactive)	
+[00:00:35]: Validating portal[6] <-> 2248507758[6] (inactive)	
+[00:00:35]: Validating portal[2] <-> 2248507758[2] (inactive)	
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Could not find anim build FROMNUM
+[00:00:35]: Server registered via geo DNS in ap-southeast-1
+[00:00:35]: Sim paused
+[00:00:35]: [Shard] Secondary shard Caves(2248507758) connected: [LAN] 127.0.0.1
+[00:00:36]: [Shard] Secondary Caves(2248507758) ready!
+[00:00:36]: World 2248507758 is now connected	
+[00:00:36]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option krampus = often to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:36]: Validating portal[4] <-> 2248507758[4] (active)	
+[00:00:36]: Validating portal[9] <-> 2248507758[9] (disabled)	
+[00:00:36]: Validating portal[7] <-> 2248507758[7] (disabled)	
+[00:00:36]: Validating portal[3] <-> 2248507758[3] (active)	
+[00:00:36]: Validating portal[1] <-> 2248507758[1] (active)	
+[00:00:36]: Validating portal[5] <-> 2248507758[5] (active)	
+[00:00:36]: Validating portal[10] <-> 2248507758[10] (active)	
+[00:00:36]: Validating portal[8] <-> 2248507758[8] (active)	
+[00:00:36]: Validating portal[6] <-> 2248507758[6] (active)	
+[00:00:36]: Validating portal[2] <-> 2248507758[2] (active)	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option krampus = often to secondary shards.	
+[00:00:36]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
 [00:30:05]: [200] Account Communication Success (6)
 [00:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [01:00:05]: [200] Account Communication Success (6)
@@ -1128,3 +1392,87 @@
 [02:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
 [02:30:05]: [200] Account Communication Success (6)
 [02:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:00:05]: [200] Account Communication Success (6)
+[03:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[03:30:05]: [200] Account Communication Success (6)
+[03:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:00:05]: [200] Account Communication Success (6)
+[04:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[04:30:05]: [200] Account Communication Success (6)
+[04:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:00:05]: [200] Account Communication Success (6)
+[05:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[05:30:05]: [200] Account Communication Success (6)
+[05:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:00:05]: [200] Account Communication Success (6)
+[06:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[06:30:05]: [200] Account Communication Success (6)
+[06:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:00:05]: [200] Account Communication Success (6)
+[07:00:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[07:30:05]: [200] Account Communication Success (6)
+[07:30:05]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:00:06]: [200] Account Communication Success (6)
+[08:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[08:30:06]: [200] Account Communication Success (6)
+[08:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:00:06]: [200] Account Communication Success (6)
+[09:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[09:30:06]: [200] Account Communication Success (6)
+[09:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:00:06]: [200] Account Communication Success (6)
+[10:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[10:30:06]: [200] Account Communication Success (6)
+[10:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:00:06]: [200] Account Communication Success (6)
+[11:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[11:30:06]: [200] Account Communication Success (6)
+[11:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:00:06]: [200] Account Communication Success (6)
+[12:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[12:30:06]: [200] Account Communication Success (6)
+[12:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:00:06]: [200] Account Communication Success (6)
+[13:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[13:30:06]: [200] Account Communication Success (6)
+[13:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:00:06]: [200] Account Communication Success (6)
+[14:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[14:30:06]: [200] Account Communication Success (6)
+[14:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:00:06]: [200] Account Communication Success (6)
+[15:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[15:30:06]: [200] Account Communication Success (6)
+[15:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:00:06]: [200] Account Communication Success (6)
+[16:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[16:30:06]: [200] Account Communication Success (6)
+[16:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:00:06]: [200] Account Communication Success (6)
+[17:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[17:30:06]: [200] Account Communication Success (6)
+[17:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:00:06]: [200] Account Communication Success (6)
+[18:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[18:30:06]: [200] Account Communication Success (6)
+[18:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:00:06]: [200] Account Communication Success (6)
+[19:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[19:30:06]: [200] Account Communication Success (6)
+[19:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:00:06]: [200] Account Communication Success (6)
+[20:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[20:30:06]: [200] Account Communication Success (6)
+[20:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:00:06]: [200] Account Communication Success (6)
+[21:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[21:30:06]: [200] Account Communication Success (6)
+[21:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:00:06]: [200] Account Communication Success (6)
+[22:00:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[22:30:06]: [200] Account Communication Success (6)
+[22:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:00:07]: [200] Account Communication Success (6)
+[23:00:07]: Received (KU_LI3oE5Tc) from TokenPurpose
+[23:30:06]: [200] Account Communication Success (6)
+[23:30:06]: Received (KU_LI3oE5Tc) from TokenPurpose
